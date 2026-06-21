@@ -126,6 +126,14 @@ mark{background:rgba(88,166,255,.25);color:var(--text);padding:0 2px;border-radi
     <div class="mkt-item"><span class="n">成交额</span><span class="v loading" id="mkt-turnover">加载中</span></div>
   </div>
 
+  <!-- AI阅读提示：本页功能需JS渲染，如看到此块说明JS未执行 -->
+  <noscript>
+    <div style="background:#161b22;border:1px solid var(--border);border-radius:6px;padding:12px;margin:0 0 12px;font-size:12px;color:var(--text2);line-height:1.8">
+      ⚡ 本页有：首页6指数实时行情 + 搜索框 + 8分类标签筛选 + 120条新闻可搜可筛。AI 读此页请启用 JS。<br>
+      📂 或直接读取原始数据：<a href="data/a-stock.json" style="color:#58a6ff">A股30条</a> · <a href="data/us-stock.json" style="color:#58a6ff">美股45条（已过滤噪声）</a> · <a href="data/announce.json" style="color:#58a6ff">公告30条</a>
+    </div>
+  </noscript>
+
   <!-- 搜索 -->
   <div class="search-wrap">
     <div class="search-box">
@@ -184,7 +192,8 @@ mark{background:rgba(88,166,255,.25);color:var(--text);padding:0 2px;border-radi
 (function(){
   let allData=[],fuse=null,currentCat='all',currentQuery='';
   let prevTitles=new Set(),refreshTimer=null;
-  const REFRESH=120000; // 2分钟
+  const REFRESH=120000;
+  const NOISE_KW=['retirement','401k','social security','parenting','divorce','vacation','resort','recipe','fitness','mortgage','credit card','insurance','celebrity','college','cruise','mattress','pet ','dog ','cat ','garden','fashion']; // 2分钟
 
   const $=id=>document.getElementById(id);
   const newsList=$('newsList'),searchInput=$('searchInput');
@@ -243,6 +252,11 @@ mark{background:rgba(88,166,255,.25);color:var(--text);padding:0 2px;border-radi
           if(data.items&&Array.isArray(data.items)){
             for(const item of data.items){
               item._cat=item.category||src.cat;
+              // 前端噪声过滤（兜底）
+              if(src.cat==='us-stock'){
+                const t=(item.title||'').toLowerCase();
+                if(NOISE_KW.some(kw=>t.includes(kw)))continue;
+              }
               const key=item.title+item._cat;
               item._isNew=!prevTitles.has(key)&&prevTitles.size>0;
               prevTitles.add(key);
