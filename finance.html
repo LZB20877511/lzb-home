@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>财经聚合搜索 - LZB</title>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+  --bg: #0d1117;
+  --bg2: #161b22;
+  --bg3: #21262d;
+  --border: #30363d;
+  --text: #c9d1d9;
+  --text2: #8b949e;
+  --red: #f85149;
+  --green: #3fb950;
+  --blue: #58a6ff;
+  --orange: #d2991d;
+  --purple: #bc8cff;
+}
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",sans-serif;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+.container { max-width: 1400px; margin: 0 auto; padding: 0 20px; }
+
+/* Header */
+.header {
+  background: var(--bg2);
+  border-bottom: 1px solid var(--border);
+  padding: 16px 0;
+  position: sticky; top: 0; z-index: 100;
+}
+.header .container { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+.logo { font-size: 20px; font-weight: 700; color: var(--blue); }
+.logo span { color: var(--text2); font-weight: 400; font-size: 14px; }
+.nav a { color: var(--text2); text-decoration: none; font-size: 14px; margin-left: 16px; }
+.nav a:hover { color: var(--text); }
+.nav a.active { color: var(--blue); }
+
+/* Search */
+.search-wrap {
+  background: var(--bg2);
+  padding: 24px 0;
+  border-bottom: 1px solid var(--border);
+}
+.search-box {
+  display: flex; gap: 12px; align-items: center;
+}
+.search-box input {
+  flex: 1; background: var(--bg3); border: 1px solid var(--border); border-radius: 8px;
+  padding: 12px 18px; color: var(--text); font-size: 16px; outline: none;
+}
+.search-box input:focus { border-color: var(--blue); }
+.search-box input::placeholder { color: var(--text2); }
+.result-count { font-size: 13px; color: var(--text2); margin-top: 8px; }
+
+/* Categories */
+.cats {
+  display: flex; gap: 6px; margin: 16px 0; flex-wrap: wrap;
+}
+.cat {
+  padding: 6px 14px; border-radius: 20px; font-size: 13px; cursor: pointer;
+  border: 1px solid var(--border); color: var(--text2);
+  background: var(--bg2); transition: all 0.2s; user-select: none;
+  white-space: nowrap;
+}
+.cat:hover { border-color: var(--blue); color: var(--text); }
+.cat.active { background: var(--blue); border-color: var(--blue); color: #fff; }
+
+/* Grid Layout */
+.grid { display: grid; grid-template-columns: 1fr 340px; gap: 24px; margin: 24px 0; }
+@media (max-width: 900px) { .grid { grid-template-columns: 1fr; } }
+
+/* News List */
+.news-list { min-height: 400px; }
+.news-item {
+  padding: 14px 0; border-bottom: 1px solid var(--border);
+  transition: background 0.15s;
+}
+.news-item:hover { background: var(--bg2); margin: 0 -12px; padding: 14px 12px; border-radius: 6px; }
+.news-title { font-size: 15px; line-height: 1.5; margin-bottom: 6px; }
+.news-title a { color: var(--text); text-decoration: none; }
+.news-title a:hover { color: var(--blue); }
+.news-meta { display: flex; gap: 12px; font-size: 12px; color: var(--text2); align-items: center; flex-wrap: wrap; }
+.tag {
+  display: inline-block; padding: 1px 8px; border-radius: 10px; font-size: 11px;
+  font-weight: 500;
+}
+.tag-a { background: rgba(248,81,73,0.15); color: var(--red); }
+.tag-us { background: rgba(88,166,255,0.15); color: var(--blue); }
+.tag-policy { background: rgba(210,153,29,0.15); color: var(--orange); }
+.tag-capital { background: rgba(63,185,80,0.15); color: var(--green); }
+.tag-dragon { background: rgba(188,140,255,0.15); color: var(--purple); }
+.tag-margin { background: rgba(139,148,158,0.15); color: var(--text2); }
+.tag-macro { background: rgba(63,185,80,0.1); color: var(--green); }
+.news-summary { font-size: 13px; color: var(--text2); margin-top: 4px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+mark { background: rgba(88,166,255,0.25); color: var(--text); padding: 0 2px; border-radius: 2px; }
+
+/* Sidebar */
+.sidebar { display: flex; flex-direction: column; gap: 16px; }
+.widget {
+  background: var(--bg2); border: 1px solid var(--border); border-radius: 8px;
+  overflow: hidden;
+}
+.widget-header {
+  padding: 10px 14px; font-size: 13px; font-weight: 600; color: var(--text2);
+  border-bottom: 1px solid var(--border); display: flex; align-items: center; gap: 8px;
+}
+.widget-header .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--green); }
+.widget-body { padding: 0; }
+.widget-body iframe { border: none; }
+.tradingview-widget-container { height: 340px; }
+.tradingview-widget-container.short { height: 80px; }
+
+/* Hot topics */
+.hot-topics { padding: 10px 14px; }
+.hot-topic {
+  display: inline-block; padding: 4px 10px; margin: 3px; border-radius: 12px;
+  font-size: 12px; background: var(--bg3); border: 1px solid var(--border);
+  color: var(--text2); cursor: pointer; transition: all 0.15s;
+}
+.hot-topic:hover { border-color: var(--blue); color: var(--blue); }
+
+/* Footer */
+.footer {
+  text-align: center; padding: 24px; font-size: 12px; color: var(--text2);
+  border-top: 1px solid var(--border); margin-top: 32px;
+}
+
+/* States */
+.loading, .empty {
+  text-align: center; padding: 80px 20px; color: var(--text2);
+}
+.loading .spinner {
+  width: 32px; height: 32px; border: 3px solid var(--border); border-top-color: var(--blue);
+  border-radius: 50%; animation: spin 0.8s linear infinite; margin: 0 auto 16px;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.updated-time { font-size: 12px; color: var(--text2); text-align: right; margin-bottom: 16px; }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+@media (max-width: 640px) {
+  .search-box input { font-size: 14px; padding: 10px 14px; }
+  .cat { padding: 5px 10px; font-size: 12px; }
+  .news-title { font-size: 14px; }
+}
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<header class="header">
+  <div class="container">
+    <div class="logo">📊 财经聚合<span>Stock Intelligence</span></div>
+    <nav class="nav">
+      <a href="index.html">主页</a>
+      <a href="finance.html" class="active">财经</a>
+    </nav>
+  </div>
+</header>
+
+<!-- Search -->
+<div class="search-wrap">
+  <div class="container">
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="搜索A股/美股/政策/资金流向...（支持模糊搜索）" autocomplete="off">
+    </div>
+    <div class="result-count" id="resultCount"></div>
+    <div class="cats" id="cats">
+      <span class="cat active" data-cat="all">全部</span>
+      <span class="cat" data-cat="a-stock">🇨🇳 A股</span>
+      <span class="cat" data-cat="us-stock">🇺🇸 美股</span>
+      <span class="cat" data-cat="policy">📋 政策法规</span>
+      <span class="cat" data-cat="capital-flow">💰 资金流向</span>
+      <span class="cat" data-cat="dragon-tiger">🐉 龙虎榜</span>
+      <span class="cat" data-cat="margin">📊 融资融券</span>
+      <span class="cat" data-cat="macro">🌍 宏观经济</span>
+    </div>
+  </div>
+</div>
+
+<!-- Main Content -->
+<div class="container">
+  <div class="updated-time" id="updatedTime"></div>
+  <div class="grid">
+    <!-- News List -->
+    <div class="news-list" id="newsList">
+      <div class="loading"><div class="spinner"></div><p>正在加载数据...</p></div>
+    </div>
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+      <!-- Hot Topics -->
+      <div class="widget">
+        <div class="widget-header"><span class="dot"></span>热门话题</div>
+        <div class="hot-topics" id="hotTopics">
+          <span class="hot-topic" data-kw="人工智能">人工智能</span>
+          <span class="hot-topic" data-kw="稀土">稀土</span>
+          <span class="hot-topic" data-kw="半导体">半导体</span>
+          <span class="hot-topic" data-kw="新能源">新能源</span>
+          <span class="hot-topic" data-kw="北向资金">北向资金</span>
+          <span class="hot-topic" data-kw="美联储">美联储</span>
+          <span class="hot-topic" data-kw="降息">降息</span>
+          <span class="hot-topic" data-kw="锂矿">锂矿</span>
+          <span class="hot-topic" data-kw="芯片">芯片</span>
+          <span class="hot-topic" data-kw="机器人">机器人</span>
+          <span class="hot-topic" data-kw="医药">医药</span>
+          <span class="hot-topic" data-kw="军工">军工</span>
+        </div>
+      </div>
+
+      <!-- Market Ticker -->
+      <div class="widget">
+        <div class="widget-header"><span class="dot"></span>实时行情</div>
+        <div class="widget-body" style="height:80px;">
+          <div class="tradingview-widget-container short">
+            <div class="tradingview-widget-container__widget"></div>
+            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+            {
+            "symbols": [
+              {"proName": "SSE:000001","title": "上证指数"},
+              {"proName": "SZSE:399001","title": "深证成指"},
+              {"proName": "SSE:000688","title": "科创50"},
+              {"proName": "SZSE:399006","title": "创业板指"},
+              {"proName": "FOREXCOM:SPXUSD","title": "标普500"},
+              {"proName": "NASDAQ:NDX","title": "纳斯达克"},
+              {"proName": "FOREXCOM:DJI","title": "道琼斯"}
+            ],
+            "showSymbolLogo": false,
+            "colorTheme": "dark",
+            "isTransparent": true,
+            "displayMode": "compact",
+            "locale": "zh_CN"
+            }
+            </script>
+          </div>
+        </div>
+      </div>
+
+      <!-- A-Share Chart -->
+      <div class="widget">
+        <div class="widget-header"><span class="dot"></span>上证指数</div>
+        <div class="widget-body">
+          <div class="tradingview-widget-container">
+            <div class="tradingview-widget-container__widget"></div>
+            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-overview.js" async>
+            {
+            "symbols": [["上证指数","SSE:000001|1D"]],
+            "chartOnly": false,
+            "width": "100%",
+            "height": 340,
+            "locale": "zh_CN",
+            "colorTheme": "dark",
+            "autosize": true,
+            "showVolume": true,
+            "hideDateRanges": false,
+            "hideMarketStatus": false,
+            "hideSymbolLogo": false,
+            "scalePosition": "right",
+            "scaleMode": "Normal",
+            "fontFamily": "-apple-system, BlinkMacSystemFont, Microsoft YaHei",
+            "fontSize": "10",
+            "noTimeScale": false,
+            "valuesTracking": "1",
+            "changeMode": "price-and-percent"
+            }
+            </script>
+          </div>
+        </div>
+      </div>
+
+      <!-- US Stock Chart -->
+      <div class="widget">
+        <div class="widget-header"><span class="dot"></span>标普500</div>
+        <div class="widget-body">
+          <div class="tradingview-widget-container">
+            <div class="tradingview-widget-container__widget"></div>
+            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-overview.js" async>
+            {
+            "symbols": [["标普500","FOREXCOM:SPXUSD|1D"]],
+            "chartOnly": false,
+            "width": "100%",
+            "height": 340,
+            "locale": "zh_CN",
+            "colorTheme": "dark",
+            "autosize": true,
+            "showVolume": false,
+            "hideDateRanges": false,
+            "hideMarketStatus": false,
+            "hideSymbolLogo": false,
+            "scalePosition": "right",
+            "scaleMode": "Normal",
+            "fontFamily": "-apple-system, BlinkMacSystemFont, Microsoft YaHei"
+            }
+            </script>
+          </div>
+        </div>
+      </div>
+
+      <!-- Market Heatmap -->
+      <div class="widget">
+        <div class="widget-header"><span class="dot"></span>A股板块热力图</div>
+        <div class="widget-body">
+          <div class="tradingview-widget-container">
+            <div class="tradingview-widget-container__widget"></div>
+            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-stock-heatmap.js" async>
+            {
+            "exchanges": ["SSE","SZSE"],
+            "dataSource": "SENSEX",
+            "blockSize": "market_cap_basic",
+            "blockColor": "change",
+            "locale": "zh_CN",
+            "symbolUrl": "",
+            "colorTheme": "dark",
+            "hasTopBar": false,
+            "isDataSetEnabled": false,
+            "isZoomEnabled": true,
+            "hasSymbolTooltip": true,
+            "width": "100%",
+            "height": 340
+            }
+            </script>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer class="footer">
+  <p>数据来源：东方财富、同花顺、证券时报、Yahoo Finance、CNBC | 本站仅为信息聚合，不构成投资建议</p>
+</footer>
+
+<script>
+(function() {
+  let allData = [];
+  let fuse = null;
+  let currentCat = 'all';
+  let currentQuery = '';
+
+  const newsList = document.getElementById('newsList');
+  const searchInput = document.getElementById('searchInput');
+  const resultCount = document.getElementById('resultCount');
+  const updatedTime = document.getElementById('updatedTime');
+  const cats = document.getElementById('cats');
+
+  // Category display names
+  const catNames = {
+    'all': '全部',
+    'a-stock': 'A股',
+    'us-stock': '美股',
+    'policy': '政策法规',
+    'capital-flow': '资金流向',
+    'dragon-tiger': '龙虎榜',
+    'margin': '融资融券',
+    'macro': '宏观经济'
+  };
+
+  // Load data
+  async function loadData() {
+    let items = [];
+    let latestUpdate = '';
+
+    const sources = [
+      { file: 'data/a-stock.json', cat: 'a-stock' },
+      { file: 'data/us-stock.json', cat: 'us-stock' }
+    ];
+
+    for (const src of sources) {
+      try {
+        const resp = await fetch(src.file);
+        if (resp.ok) {
+          const data = await resp.json();
+          if (data.updated && data.updated > latestUpdate) {
+            latestUpdate = data.updated;
+          }
+          if (data.items && Array.isArray(data.items)) {
+            for (const item of data.items) {
+              item._cat = item.category || src.cat;
+              items.push(item);
+            }
+          }
+        }
+      } catch (e) {
+        console.warn('Failed to load', src.file, e.message);
+      }
+    }
+
+    // If no data loaded, use sample data
+    if (items.length === 0) {
+      items = getSampleData();
+      latestUpdate = new Date().toISOString();
+    }
+
+    allData = items;
+
+    // Init Fuse
+    fuse = new Fuse(allData, {
+      keys: ['title', 'summary', 'source'],
+      threshold: 0.4,
+      includeScore: true,
+      includeMatches: true,
+      minMatchCharLength: 1
+    });
+
+    // Update time
+    if (latestUpdate) {
+      const d = new Date(latestUpdate);
+      updatedTime.textContent = '数据更新：' + d.toLocaleString('zh-CN');
+    }
+
+    render();
+  }
+
+  // Sample data for demo
+  function getSampleData() {
+    const now = new Date().toISOString().split('T')[0];
+    return [
+      { title:"证监会发布《上市公司监管指引第12号》进一步加强信息披露要求", link:"#", date:now, summary:"证监会近日发布新指引，要求上市公司加强ESG信息披露，明确环境、社会及治理三大维度的披露标准，2026年下半年起分阶段实施。", source:"证监会", category:"policy" },
+      { title:"北向资金今日净流入超80亿元 连续5日加仓A股", link:"#", date:now, summary:"数据显示，北向资金今日净流入82.5亿元，为连续第5个交易日净流入。沪股通净流入35.2亿，深股通净流入47.3亿。", source:"东方财富", category:"capital-flow" },
+      { title:"稀土板块持续走强 北方稀土创年内新高", link:"#", date:now, summary:"受《矿产资源法实施条例》6月15日施行影响，稀土永磁板块集体走强。北方稀土触及涨停，中国稀土涨超7%。", source:"同花顺", category:"a-stock" },
+      { title:"SK海力士推进钼替代钨 钼金属需求跃入半导体赛道", link:"#", date:now, summary:"SK海力士6月11日宣布推进以钼代钨用于芯片制造工艺，钼需求从传统钢铁领域跳入半导体赛道，相关板块受益。", source:"证券时报", category:"a-stock" },
+      { title:"美联储6月维持利率不变 市场预期9月首次降息", link:"#", date:now, summary:"美联储6月FOMC会议决定维持联邦基金利率在5.25%-5.50%不变，鲍威尔表示需看到更多通胀回落证据。市场定价9月降息概率升至68%。", source:"CNBC", category:"macro" },
+      { title:"英伟达发布新一代AI芯片 算力提升5倍", link:"#", date:now, summary:"英伟达在Computex发布Blackwell Ultra芯片，AI训练性能提升5倍，预计2026年Q4量产，引发全球AI产业链重估。", source:"Yahoo Finance", category:"us-stock" },
+      { title:"财政部：研究推出新一轮减税降费措施支持科技创新", link:"#", date:now, summary:"财政部表示正在研究针对科技型中小企业的减税降费方案，预计涉及研发费用加计扣除比例提高和增值税优惠。", source:"财政部", category:"policy" },
+      { title:"龙虎榜：中信证券上海分公司净买入北方稀土2.3亿元", link:"#", date:now, summary:"今日龙虎榜数据显示，机构席位和知名游资集体买入稀土板块。中信证券上海分公司净买入北方稀土2.3亿元居首。", source:"东方财富", category:"dragon-tiger" },
+      { title:"融资余额突破1.8万亿 杠杆资金加速入场", link:"#", date:now, summary:"截至昨日，沪深两市融资余额达1.82万亿元，创年内新高。近一周融资净买入规模超500亿元，显示市场风险偏好回升。", source:"同花顺", category:"margin" },
+      { title:"特斯拉Q2交付量超预期 股价盘后涨8%", link:"#", date:now, summary:"特斯拉公布Q2交付数据为52.8万辆，超出分析师预期的49.5万辆。盘后股价涨超8%，带动新能源车板块走强。", source:"Reuters", category:"us-stock" },
+      { title:"央行开展2000亿元MLF操作 利率维持不变", link:"#", date:now, summary:"央行今日开展2000亿元1年期中期借贷便利操作，中标利率2.50%与上月持平。市场人士认为短期内降准降息概率不高。", source:"央行", category:"macro" },
+      { title:"APEC会议公报发布 亚太经济一体化进程加速", link:"#", date:now, summary:"APEC领导人非正式会议发布联合公报，承诺推进亚太自贸区建设，加强数字经济合作。分析师认为利好中国出口产业链。", source:"新华社", category:"macro" },
+      { title:"工信部：36种关键矿产纳入国家战略目录 6月15日施行", link:"#", date:now, summary:"《矿产资源法实施条例》正式施行，稀土、钨、钼等36种关键矿产纳入国家战略资源目录，相关产业迎来政策红利期。", source:"工信部", category:"policy" },
+      { title:"高盛上调中国股市评级至增持 看好下半年表现", link:"#", date:now, summary:"高盛发布最新策略报告，将中国股市评级从'中性'上调至'增持'，认为政策底已现，盈利周期触底回升。", source:"Bloomberg", category:"us-stock" },
+      { title:"半导体板块资金大幅流入 国产替代逻辑强化", link:"#", date:now, summary:"受美对华芯片出口管制升级影响，半导体设备及材料板块获资金追捧。北方华创、中微公司等龙头涨超5%。", source:"东方财富", category:"a-stock" }
+    ];
+  }
+
+  // Render news list
+  function render() {
+    let items = allData;
+
+    // Filter by category
+    if (currentCat !== 'all') {
+      items = items.filter(item => item._cat === currentCat);
+    }
+
+    // Filter by search
+    if (currentQuery.trim()) {
+      const results = fuse.search(currentQuery.trim());
+      // Re-apply category filter to search results
+      if (currentCat !== 'all') {
+        items = results.filter(r => r.item._cat === currentCat).map(r => r.item);
+      } else {
+        items = results.map(r => r.item);
+      }
+    }
+
+    // Update count
+    resultCount.textContent = items.length > 0 
+      ? `找到 ${items.length} 条${currentCat !== 'all' ? ' ' + catNames[currentCat] : ''}相关信息`
+      : `暂无${currentCat !== 'all' ? ' ' + catNames[currentCat] : ''}相关信息`;
+
+    // Render
+    if (items.length === 0) {
+      newsList.innerHTML = '<div class="empty"><p>📭 没有找到相关内容</p><p style="color:var(--text2);font-size:13px;margin-top:8px">试试换个关键词或分类</p></div>';
+      return;
+    }
+
+    let html = '';
+    for (const item of items) {
+      const tagClass = 'tag-' + (item._cat || 'a-stock');
+      const catName = catNames[item._cat] || item._cat || '其他';
+      const title = highlightText(item.title, currentQuery);
+      const summary = item.summary ? highlightText(item.summary, currentQuery) : '';
+      html += `
+        <div class="news-item">
+          <div class="news-title"><a href="${escHtml(item.link)}" target="_blank" rel="noopener">${title}</a></div>
+          ${summary ? `<div class="news-summary">${summary}</div>` : ''}
+          <div class="news-meta">
+            <span class="tag ${tagClass}">${catName}</span>
+            <span>${escHtml(item.source || '')}</span>
+            <span>${item.date || ''}</span>
+          </div>
+        </div>`;
+    }
+    newsList.innerHTML = html;
+  }
+
+  // Highlight matched text
+  function highlightText(text, query) {
+    if (!query || !query.trim()) return escHtml(text);
+    try {
+      const escaped = escHtml(text);
+      const pattern = query.trim().replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      const regex = new RegExp(`(${pattern})`, 'gi');
+      return escaped.replace(regex, '<mark>$1</mark>');
+    } catch (e) {
+      return escHtml(text);
+    }
+  }
+
+  function escHtml(str) {
+    if (!str) return '';
+    const div = document.createElement('div');
+    div.textContent = str;
+    return div.innerHTML;
+  }
+
+  // Category click
+  cats.addEventListener('click', function(e) {
+    const cat = e.target.closest('.cat');
+    if (!cat) return;
+    document.querySelectorAll('.cat').forEach(c => c.classList.remove('active'));
+    cat.classList.add('active');
+    currentCat = cat.dataset.cat;
+    render();
+  });
+
+  // Search input
+  let searchTimer;
+  searchInput.addEventListener('input', function() {
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(() => {
+      currentQuery = searchInput.value;
+      render();
+    }, 200);
+  });
+
+  // Hot topic click
+  document.getElementById('hotTopics').addEventListener('click', function(e) {
+    const topic = e.target.closest('.hot-topic');
+    if (!topic) return;
+    searchInput.value = topic.dataset.kw;
+    currentQuery = topic.dataset.kw;
+    currentCat = 'all';
+    document.querySelectorAll('.cat').forEach(c => c.classList.remove('active'));
+    document.querySelector('.cat[data-cat="all"]').classList.add('active');
+    render();
+    searchInput.focus();
+  });
+
+  // Init
+  loadData();
+})();
+</script>
+</body>
+</html>
