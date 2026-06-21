@@ -24,7 +24,19 @@ body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSy
 .nav a:hover{color:var(--text)}
 .nav a.active{color:var(--blue)}
 .status-dot{width:6px;height:6px;border-radius:50%;background:var(--green);display:inline-block;margin-right:4px}
+.status-dot.live{background:var(--green);animation:pulse-dot 2s infinite}
+.status-dot.stale{background:var(--orange)}
+.status-dot.off{background:var(--red)}
+@keyframes pulse-dot{0%,100%{opacity:1}50%{opacity:.4}}
 .status-text{font-size:11px;color:var(--text2)}
+.refresh-btn{font-size:11px;color:var(--blue);cursor:pointer;user-select:none;margin-left:8px}
+.refresh-btn:hover{text-decoration:underline}
+.refresh-btn.spinning{animation:spin .6s linear infinite;display:inline-block}
+/* 新内容高亮 */
+.news-item.new-item{background:rgba(88,166,255,.06);margin:0 -10px;padding:12px 10px;border-radius:5px}
+.news-item.new-item .news-title a{color:var(--blue)}
+.badge-new{display:inline-block;background:var(--blue);color:#fff;font-size:9px;padding:1px 5px;border-radius:6px;font-weight:700;margin-left:4px;animation:fadeInOut 8s forwards}
+@keyframes fadeInOut{0%{opacity:0}15%{opacity:1}85%{opacity:1}100%{opacity:0}}
 
 /* Market Dashboard */
 .dashboard{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:16px 0}
@@ -132,7 +144,8 @@ mark{background:rgba(88,166,255,.25);color:var(--text);padding:0 2px;border-radi
   <div class="container">
     <div class="logo">📊 财经聚合<span> · 通达信备用站</span></div>
     <nav class="nav">
-      <span class="status-dot"></span><span class="status-text">数据更新中...</span>
+      <span class="status-dot live" id="statusDot"></span><span class="status-text" id="statusText">实时监控中</span>
+      <span class="refresh-btn" id="refreshBtn" title="手动刷新">↻ 刷新</span>
       <a href="index.html">主页</a>
       <a href="finance.html" class="active">财经</a>
     </nav>
@@ -303,11 +316,15 @@ mark{background:rgba(88,166,255,.25);color:var(--text);padding:0 2px;border-radi
 <script>
 (function(){
   let allData=[],fuse=null,currentCat='all',currentQuery='';
+  let prevTitles=new Set();  // 记录上次的标题用于检测新内容
+  let refreshTimer=null;
+  const REFRESH_INTERVAL=120000; // 2分钟刷新
 
   const $=id=>document.getElementById(id);
   const newsList=$('newsList'),searchInput=$('searchInput');
   const resultCount=$('resultCount'),updatedTime=$('updatedTime');
   const cats=$('cats'),alertPanel=$('alertPanel');
+  const statusDot=$('statusDot'),statusText=$('statusText'),refreshBtn=$('refreshBtn');
 
   const catNames={
     'all':'全部','a-stock':'A股','us-stock':'美股','policy':'政策法规',
@@ -316,7 +333,11 @@ mark{background:rgba(88,166,255,.25);color:var(--text);padding:0 2px;border-radi
   };
 
   // ====== 加载数据 ======
-  async function loadData(){
+  async function loadData(isRefresh){
+    if(isRefresh){
+      statusDot.className='status-dot live';statusText.textContent='刷新中...';
+      refreshBtn.classList.add('spinning');
+    }
     let items=[],latest='';
     const sources=[
       {file:'data/a-stock.json',cat:'a-stock'},
@@ -325,13 +346,17 @@ mark{background:rgba(88,166,255,.25);color:var(--text);padding:0 2px;border-radi
     ];
     for(const src of sources){
       try{
-        const resp=await fetch(src.file);
+        const resp=await fetch(src.file,{cache:'no-cache'});
         if(resp.ok){
           const data=await resp.json();
           if(data.updated&&data.updated>latest)latest=data.updated;
           if(data.items&&Array.isArray(data.items)){
             for(const item of data.items){
               item._cat=item.category||src.cat;
+              // 标记新内容
+              const key=item.title+item._cat;
+              item._isNew=!prevTitles.has(key)&&prevTitles.size>0;
+              prevTitles.add(key);
               items.push(item);
             }
           }
@@ -342,9 +367,11 @@ mark{background:rgba(88,166,255,.25);color:var(--text);padding:0 2px;border-radi
     // 无数据时用示例
     if(items.length===0){
       items=getSample();
+      for(const i of items)i._isNew=true;
       latest=new Date().toISOString();
     }
 
+    const newCount=items.filter(i=>i._isNew).length;
     allData=items;
 
     fuse=new Fuse(allData,{
@@ -352,14 +379,29 @@ mark{background:rgba(88,166,255,.25);color:var(--text);padding:0 2px;border-radi
       threshold:0.35,includeScore:true,includeMatches:true,minMatchCharLength:1
     });
 
+    // 更新时间显示
     if(latest){
       const d=new Date(latest);
       updatedTime.textContent='数据更新：'+d.toLocaleString('zh-CN',{hour12:false});
-      $('status-text')&&($('status-text').textContent=d.toLocaleString('zh-CN',{hour:'2-digit',minute:'2-digit'}));
+      statusText.textContent=newCount>0&&isRefresh?`+${newCount}条新内容`:'实时';
     }
+    statusDot.className='status-dot live';
+    refreshBtn.classList.remove('spinning');
 
     updateAlerts();
     render();
+
+    // 新内容自动消失标记（8秒后）
+    if(newCount>0){setTimeout(()=>{
+      document.querySelectorAll('.badge-new').forEach(b=>b.remove());
+      document.querySelectorAll('.news-item.new-item').forEach(el=>el.classList.remove('new-item'));
+    },8000);}
+
+    // 启动定时刷新
+    if(!refreshTimer){
+      refreshTimer=setInterval(()=>loadData(true),REFRESH_INTERVAL);
+      console.log('实时刷新已启动，间隔'+REFRESH_INTERVAL/1000+'秒');
+    }
   }
 
   // ====== 示例数据（含公告） ======
@@ -446,8 +488,8 @@ mark{background:rgba(88,166,255,.25);color:var(--text);padding:0 2px;border-radi
       const isAlert=item.title.includes('⚠️')||item.category==='announce';
       const title=highlight(item.title,currentQuery);
       const summary=item.summary?highlight(item.summary,currentQuery):'';
-      h+=`<div class="news-item">
-        <div class="news-title"><a href="${escHtml(item.link)}" target="_blank" rel="noopener">${title}</a></div>
+      h+=`<div class="news-item${item._isNew?' new-item':''}">
+        <div class="news-title"><a href="${escHtml(item.link)}" target="_blank" rel="noopener">${title}${item._isNew?'<span class="badge-new">NEW</span>':''}</a></div>
         ${summary?`<div class="news-summary">${summary}</div>`:''}
         <div class="news-meta">
           <span class="tag ${tagClass}${isAlert?' tag-alert':''}">${catName}</span>
@@ -487,6 +529,12 @@ mark{background:rgba(88,166,255,.25);color:var(--text);padding:0 2px;border-radi
     document.querySelectorAll('.cat').forEach(c=>c.classList.remove('active'));
     document.querySelector('.cat[data-cat="all"]').classList.add('active');
     render();searchInput.focus();
+  });
+
+  // 手动刷新
+  refreshBtn.addEventListener('click',()=>{
+    if(refreshBtn.classList.contains('spinning'))return;
+    loadData(true);
   });
 
   loadData();
