@@ -1,77 +1,277 @@
 {
-  "updated": "2026-06-21T14:30:00+08:00",
-  "source": "个股公告聚合",
-  "count": 8,
+  "updated": "2026-06-21T16:00:03.047265+08:00",
+  "source": "个股公告",
+  "count": 30,
   "items": [
     {
-      "title": "⚠️ 大金重工：控股股东拟减持不超过2%股份",
-      "link": "https://www.cninfo.com.cn/",
-      "date": "2026-06-21 14:30",
-      "summary": "大金重工(002487)公告，控股股东阜新金胤因自身资金需求，计划在未来6个月内通过集中竞价方式减持不超过公司总股本2%的股份。",
-      "source": "巨潮资讯",
+      "title": "中国化学:中国化学关于经营情况简报的公告(2026年1-5月)",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708975.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
       "category": "announce",
-      "stock_code": "002487"
+      "stock_code": ""
     },
     {
-      "title": "⚠️ 国电南瑞：部分董事高管拟减持股份",
-      "link": "https://www.sse.com.cn/",
-      "date": "2026-06-20 16:15",
-      "summary": "国电南瑞(600406)公告，部分董事及高级管理人员因个人资金需求，计划减持不超过0.05%股份，减持期间为2026年7月15日至2027年1月14日。",
-      "source": "上交所",
+      "title": "中创股份:2025年年度股东会会议资料",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708938.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
       "category": "announce",
-      "stock_code": "600406"
+      "stock_code": ""
     },
     {
-      "title": "北方稀土：2026年上半年业绩预增80%-100%",
-      "link": "https://www.sse.com.cn/",
-      "date": "2026-06-21 09:30",
-      "summary": "北方稀土(600111)发布业绩预告，预计2026年上半年归母净利润同比增长80%-100%，主要受益于稀土价格上涨和销量增加。",
-      "source": "上交所",
+      "title": "广合科技:关于回购注销部分限制性股票减少注册资本暨通知债权人的公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708851.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
       "category": "announce",
-      "stock_code": "600111"
+      "stock_code": ""
     },
     {
-      "title": "建设银行：2025年度分红每股0.40元 登记日6月25日",
-      "link": "https://www.sse.com.cn/",
-      "date": "2026-06-19 15:45",
-      "summary": "建设银行(601939)公告2025年度利润分配方案，每10股派发现金红利4.00元（含税），股权登记日6月25日，除息日6月26日。",
-      "source": "上交所",
+      "title": "长虹美菱:关于向银行申请授信额度的公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708686.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
       "category": "announce",
-      "stock_code": "601939"
+      "stock_code": ""
     },
     {
-      "title": "⚠️ 下周解禁：6月22-28日解禁市值约860亿元",
-      "link": "https://data.eastmoney.com/dxf/",
-      "date": "2026-06-20 18:00",
-      "summary": "下周（6.22-6.28）共有42家公司限售股解禁，合计解禁市值约860亿元。其中半导体龙头解禁市值超200亿元，需关注对板块的冲击。",
-      "source": "东方财富",
-      "category": "announce"
-    },
-    {
-      "title": "立讯精密：收购德国汽车电子公司完成交割",
-      "link": "https://www.szse.cn/",
-      "date": "2026-06-18 10:20",
-      "summary": "立讯精密(002475)公告，已完成对德国某汽车电子零部件公司的收购交割，交易金额约3.2亿欧元，将增强汽车电子业务布局。",
-      "source": "深交所",
+      "title": "山东墨龙:关于控股股东部分股份解除质押及质押的公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708780.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
       "category": "announce",
-      "stock_code": "002475"
+      "stock_code": ""
     },
     {
-      "title": "⚠️ 半导体板块多股发布减持预披露公告",
-      "link": "https://www.cninfo.com.cn/",
-      "date": "2026-06-17 20:30",
-      "summary": "本周半导体板块多只个股集中发布股东减持预披露公告，涉及设备、材料等细分领域。市场人士提示关注高位股的减持风险。",
-      "source": "巨潮资讯",
-      "category": "announce"
-    },
-    {
-      "title": "青岛啤酒：2026年Q1净利润同比增长15%",
-      "link": "https://www.sse.com.cn/",
-      "date": "2026-06-16 08:45",
-      "summary": "青岛啤酒(600600)披露2026年一季报，实现营收98.5亿元同比增8.2%，归母净利润16.3亿元同比增15%，高端化战略成效显著。",
-      "source": "上交所",
+      "title": "本钢板材:本钢板材股份有限公司关于重大资产置换暨关联交易的进展公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708555.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
       "category": "announce",
-      "stock_code": "600600"
+      "stock_code": ""
+    },
+    {
+      "title": "山东墨龙:关于非公开发行公司债券预案的公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708679.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "广合科技:2025年年度股东会决议公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708477.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "山东墨龙:关于召开2026年第三次临时股东会的通知",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708744.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "张裕Ａ:2026年第四次临时董事会决议公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708582.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "张裕Ａ:关于为西班牙爱欧集团公司贷款提供担保的公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708544.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "长虹美菱:第十一届董事会第三十一次会议决议公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708494.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "广合科技:上海市锦天城(深圳)律师事务所关于广州广合科技股份有限公司2025年年度股东会的法律意见书",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708827.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "广合科技:北京市中伦(上海)律师事务所关于中证中小投资者服务中心有限责任公司公开征集广州广合科技股份有限公司表决权的法律意见书",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708836.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "山东墨龙:关于非公开发行可续期公司债券预案的公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708726.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "中创智领:中创智领(郑州)工业技术集团股份有限公司关于向不特定对象发行A股可转换公司债券申请获得上海证券交易所受理的公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708459.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "山东墨龙:第八届董事会第十四次临时会议决议公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708466.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "中创智领:立信会计师事务所(特殊普通合伙)关于中创智领(郑州)工业技术集团股份有限公司向不特定对象发行A股可转换公司债券的财务报告及审计报告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708462.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "智微智能:关于变更经营范围及修订《公司章程》并办理工商登记的公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708829.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "辉煌科技:关于全资子公司与专业投资机构共同投资的公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708835.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "深圳机场:2025年年度权益分派实施公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708864.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "利欧股份:关于全资子公司税务事项的公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708841.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "巨星科技:杭州巨星科技股份有限公司关于收购股权暨关联交易的公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708845.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "*ST英飞:2026年第二次临时股东会决议公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708823.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "智微智能:股票交易异常波动公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708847.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "科陆电子:独立董事候选人声明与承诺(李建林)",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708872.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "科陆电子:北京市嘉源律师事务所关于深圳市科陆电子科技股份有限公司2026年第二次临时股东会的法律意见书",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708824.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "智微智能:关于增加公司及子公司2026年度向银行等金融机构申请综合授信额度的公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708819.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "东方盛虹:国浩律师(上海)事务所关于公司2026年第三次临时股东会之法律意见书",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708863.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
+    },
+    {
+      "title": "方大集团:关于回购公司股份比例达到1%的进展公告",
+      "link": "https://finance.eastmoney.com/a/AN202606211823708853.html",
+      "date": "2026-06-21 16:00",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": ""
     }
   ]
 }

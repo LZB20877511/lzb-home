@@ -1,127 +1,487 @@
 {
-  "updated": "2026-06-21T08:00:00+08:00",
+  "updated": "2026-06-21T16:00:03.045985+08:00",
   "source": "美股聚合",
-  "count": 15,
+  "count": 60,
   "items": [
     {
-      "title": "美联储6月维持利率不变 鲍威尔暗示9月可能降息",
-      "link": "https://www.cnbc.com/",
-      "date": "2026-06-21",
-      "summary": "美联储6月FOMC会议决定维持联邦基金利率在5.25%-5.50%不变，连续第7次按兵不动。鲍威尔表示需看到更多通胀回落证据，但市场定价9月降息概率升至68%。",
+      "title": "Vance arrives in Switzerland for talks with Iranian negotiators amid rising Strait of Hormuz tensions",
+      "link": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+      "date": "2026-06-21 15:59",
+      "summary": "Iran's military said it had closed the Strait of Hormuz in response to continued Israeli military strikes in Lebanon; the U.S. said it remains open.",
       "source": "CNBC",
-      "category": "macro"
+      "category": "us-stock"
     },
     {
-      "title": "英伟达发布Blackwell Ultra芯片 算力提升5倍",
-      "link": "https://finance.yahoo.com/",
-      "date": "2026-06-20",
-      "summary": "英伟达在Computex发布新一代Blackwell Ultra AI芯片，AI训练性能较前代提升5倍，推理性能提升8倍，预计2026年Q4量产，股价盘后涨4%。",
+      "title": "AI buildout gives tech investors new reasons to watch bond market",
+      "link": "https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html",
+      "date": "2026-06-21 15:59",
+      "summary": "Tech giants are depleting cash reserves and raising debt in their ambitious data center buildouts, a dynamic that's forcing investors to watch interest rates.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "The budget airline model in the U.S. is running out of runway",
+      "link": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
+      "date": "2026-06-21 15:59",
+      "summary": "Spirit's bankruptcy as United and Delta fly high suggests there's more to success in airline industry than low fares, and failure isn't about jet fuel spikes.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "SNAP restrictions could change what shoppers buy  and food giants are watching",
+      "link": "https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html",
+      "date": "2026-06-21 15:59",
+      "summary": "SNAP food restrictions are spreading to more states, pressuring major food and beverage as consumers shift spending away from soda, candy and processed foods.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Bitcoin's future as revolutionary as the smartphone, according to CoinDesk",
+      "link": "https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html",
+      "date": "2026-06-21 15:59",
+      "summary": "CoinDesks president of indices and data has a message for investors: Dont count out bitcoin.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Five top tech stocks with major upside, Bank of America says",
+      "link": "https://www.cnbc.com/2026/06/20/five-top-tech-stocks-with-major-upside-bank-of-america-says.html",
+      "date": "2026-06-21 15:59",
+      "summary": "Bank of America reveals its top tech stocks heading into the second half.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Report says UK PM Starmer ready to quit, but source says he is still focused on the job",
+      "link": "https://www.cnbc.com/2026/06/20/uk-pm-starmer-reportedly-ready-to-quit-source-says-hes-focused-on-job.html",
+      "date": "2026-06-21 15:59",
+      "summary": "The Observer report said Starmer was discussing the matter with his wife at his Chequers country residence before making a final decision.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Musk's SpaceX stake is worth over $1 trillion. Here are the other billionaire shareholders",
+      "link": "https://www.cnbc.com/2026/06/19/musk-spacex-billionaire-shareholders.html",
+      "date": "2026-06-21 15:59",
+      "summary": "SpaceX shares were up 37% after its historic debut last week, which offered shares at a set price of $135.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Memory crisis hits such extremes that 'even Apple can't be safe'",
+      "link": "https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html",
+      "date": "2026-06-21 15:59",
+      "summary": "Apple appears poised to take the rare step of increasing prices to deal with what CEO Tim Cook called an \"unsustainable\" memory shortage.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Goldman Sachs is betting that a recent merger will drive sharp gains for this travel stock",
+      "link": "https://www.cnbc.com/2026/06/20/goldman-sachs-bets-a-recent-merger-will-drive-sharp-gains-for-this-travel-stock.html",
+      "date": "2026-06-21 15:59",
+      "summary": "The bank this week upgraded the airline to buy from neutral.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Massive fire destroys resort in Dominican Republic and forces evacuation of almost 1,700 tourists",
+      "link": "https://www.cnbc.com/2026/06/20/fire-destroys-dominican-republic-resort-1700-tourists-evacuated.html",
+      "date": "2026-06-21 15:59",
+      "summary": "The fire forced the evacuation of nearly 1,700 tourists and caused the death of an Italian national, authorities said.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Trump unveils the new Air Force One, a converted Qatari jet",
+      "link": "https://www.cnbc.com/2026/06/19/trump-unveils-the-new-air-force-one-a-converted-qatari-jet.html",
+      "date": "2026-06-21 15:59",
+      "summary": "The gift from Qatar is serving as a so-called \"bridge\" aircraft to carry the president until the new planes ordered directly from Boeing arrive.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Trump tries to blame Reflecting Pool woes on vandalism, without offering substantiation",
+      "link": "https://www.cnbc.com/2026/06/20/trump-tries-to-blame-reflecting-pool-woes-on-vandalism.html",
+      "date": "2026-06-21 15:59",
+      "summary": "The paint is peeling from Washington's Reflecting Pool after the renovation ordered by President Donald Trump.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "In photos: Star-studded crowd gathers to celebrate the Obama Presidential Center dedication",
+      "link": "https://www.cnbc.com/2026/06/18/obama-presidential-center-opening-chicago-photos-trump.html",
+      "date": "2026-06-21 15:59",
+      "summary": "Barack Obama opened his presidential center in Chicago with former presidents, celebrities and dignitaries in attendance. President Donald Trump was absent.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "'Fun dads' get 5 things right about parenting that many people forget'they're worth borrowing' this Father's Day, says expert",
+      "link": "https://www.cnbc.com/2026/06/20/fun-dads-get-5-things-right-about-parenting-that-many-people-forget-says-expert.html",
+      "date": "2026-06-21 15:59",
+      "summary": "Many parents spend their days managing schedules, chores and responsibilities. This Father's Day, a parenting expert shares five \"fun dad\" habits that can increase joy and strengthen parent-child rela",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Trump tells Axios he no longer views Anthropic as a national security threat",
+      "link": "https://www.cnbc.com/2026/06/19/trump-tells-axios-he-no-longer-views-anthropic-as-national-security-threat.html",
+      "date": "2026-06-21 15:59",
+      "summary": "Anthropic last week disabled access to its most advanced models, Fable 5 and Mythos 5, after Trump ordered it to block foreign nationals from accessing them.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "DOJ rebuffs judge's request to put in writing it won't move forward with 'anti-weaponization' fund",
+      "link": "https://www.cnbc.com/2026/06/19/doj-anti-weaponization-fund-trump.html",
+      "date": "2026-06-21 15:59",
+      "summary": "The DOJ in May announced it was creating the fund as part of a settlement of President Donald Trump's $10 billion lawsuit against the Internal Revenue Service.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Iran to lodge FIFA complaint over World Cup travel restrictions",
+      "link": "https://www.cnbc.com/2026/06/20/iran-to-lodge-fifa-complaint-over-world-cup-travel-restrictions.html",
+      "date": "2026-06-21 15:59",
+      "summary": "The Iran team are commuting from their tournament base in co-host Mexico for their group games in the U.S. due to visa uncertainties and the war.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Kennedy Center says it isn't required to reschedule shows after judge blocks 2-year closure",
+      "link": "https://www.cnbc.com/2026/06/20/kennedy-center-says-it-isnt-required-to-reschedule-shows-after-judge-blocks-2-year-closure.html",
+      "date": "2026-06-21 15:59",
+      "summary": "Kennedy Center lawyers said the institution plans to \"maintain an operational model\" after July 5, when it initially was scheduled to shutter for renovations.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Massive bonuses for South Korea's chip workers puts central bank on inflation alert",
+      "link": "https://www.cnbc.com/2026/06/20/south-korea-tech-samsung-sk-hynix-bonus-bank-of-korea.html",
+      "date": "2026-06-21 15:59",
+      "summary": "Workers from tech industries receive bonus worth millions of won, prompting the Bank of Korea to warn of the upward pressure to inflation.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Fedspeak vs. war deal: Here are the things that drove this week's stock market",
+      "link": "https://www.cnbc.com/2026/06/19/fedspeak-vs-war-deal-here-are-the-things-that-drove-this-weeks-stock-market.html",
+      "date": "2026-06-21 15:59",
+      "summary": "The S&P 500 surged on Thursday, making up for losses seen after central bankers convened.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "You can expect gas prices to remain elevated. Here's how to save",
+      "link": "https://www.cnbc.com/select/how-to-save-on-gas-despite-higher-prices/",
+      "date": "2026-06-21 15:59",
+      "summary": "Maximize savings at the pump with these retail memberships, wholesalers and rewards credit cards.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "The riskiest SpaceX stock trade of all had a big first week",
+      "link": "https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html",
+      "date": "2026-06-21 15:59",
+      "summary": "SpaceX's IPO did not just mint the biggest debut in market history and a trillionaire, but it also triggered a historic land grab in risky leveraged ETFs.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "NetJets' first fatal crash kills influential Texas VC founder",
+      "link": "https://www.cnbc.com/2026/06/19/netjets-first-fatal-crash-kills-influential-texas-vc-founder.html",
+      "date": "2026-06-21 15:59",
+      "summary": "NetJets is not speculating on what caused one of its planes to crash onto a highway in Laredo, Texas late Tuesday, killing a prominent tech entrepreneur.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Struggling to find a job? Try looking in Nevada",
+      "link": "https://www.cnbc.com/2026/06/19/nevada-workforce-job-market.html",
+      "date": "2026-06-21 15:59",
+      "summary": "The sparsely populated state known for its world-class casinos and dry climate has been a hiring hot spot.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "John Jumper to leave Google DeepMind for Anthropic",
+      "link": "https://www.cnbc.com/2026/06/19/john-jumper-to-leave-google-deepmind-for-anthropic.html",
+      "date": "2026-06-21 15:59",
+      "summary": "Tech giants including Meta and Alphabet, along with upstarts such as Anthropic and OpenAI, are locked in a talent war as they race to build next-gen AI systems.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "This nuclear stock will benefit from AI datacenter buildout and soaring energy demand, Roth Capital says",
+      "link": "https://www.cnbc.com/2026/06/19/nano-nuclear-may-benefit-from-ai-rising-energy-demand-roth-capital-says.html",
+      "date": "2026-06-21 15:59",
+      "summary": "Stock in Nano Nuclear Energy should appreciate as it nears commercialization of its reactor plans while energy demand is surging, Roth Capital said.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Meloni slams Trump's claim she 'begged' for a photo with him as Italy's top diplomat cancels U.S. trip",
+      "link": "https://www.cnbc.com/2026/06/19/meloni-slams-trumps-claim-she-begged-for-a-photo-with-him.html",
+      "date": "2026-06-21 15:59",
+      "summary": "Italian Foreign Minister Antonio Tajani abruptly canceled a planned trip to the U.S., calling Trump's claims \"serious and offensive\" toward Meloni and Italy.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Bob Iger reflects on 10 years of Shanghai Disneyland as it defies the Chinese pullback",
+      "link": "https://www.cnbc.com/2026/06/19/bob-iger-shanghai-disneyland-chinese-pullback.html",
+      "date": "2026-06-21 15:59",
+      "summary": "Shanghai Disneyland hit 100 million cumulative visitors in 2025, according to the company. It's a relatively new but important foothold in Disney's history.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Homeowners tapped $47 billion in equity in the first quarter. What to consider before you borrow",
+      "link": "https://www.cnbc.com/2026/06/19/home-equity-borrow.html",
+      "date": "2026-06-21 15:59",
+      "summary": "While high home values mean homeowners are sitting on an estimated $11 trillion in equity, it should not be viewed as free money, experts say.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "‘Money can make you happy’: My wife and I have no heirs, but we’re making the world a better place by giving it away",
+      "link": "https://www.marketwatch.com/story/money-can-make-you-happy-my-wife-and-i-have-no-heirs-but-were-making-the-world-a-better-place-by-giving-it-away-f61fad98?mod=mw_rss_topstories",
+      "date": "2026-06-21 15:59",
+      "summary": "“If you find a need in your community, there’s likely an organization that will help you get involved.”",
+      "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "Scared to spend your retirement money? Here’s one way to get over the fear of running out.",
+      "link": "https://www.marketwatch.com/story/scared-to-spend-your-retirement-money-heres-one-way-to-get-over-the-fear-of-running-out-05a13dd9?mod=mw_rss_topstories",
+      "date": "2026-06-21 15:59",
+      "summary": "This fear is probably going to cause you some regrets.",
+      "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "You’re going to pay tax on RMDs — there’s no way around it. Or is there?",
+      "link": "https://www.marketwatch.com/story/youre-going-to-pay-tax-on-rmds-theres-no-way-around-it-or-is-there-26e864cf?mod=mw_rss_topstories",
+      "date": "2026-06-21 15:59",
+      "summary": "Here’s your new playbook to protect your retirement cash.",
+      "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "Social Security is looking at a $500-a-month cut. Could a new bipartisan commission make a difference?",
+      "link": "https://www.marketwatch.com/story/social-security-is-looking-at-a-500-a-month-cut-could-a-new-bipartisan-commission-make-a-difference-5e9d358a?mod=mw_rss_topstories",
+      "date": "2026-06-21 15:59",
+      "summary": "A new legislative proposal would create a bipartisan commission to strengthen the finances of Social Security and Medicare at a time when the programs are under pressure.",
+      "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "Inside the push to weaken Washington’s toughest financial watchdog",
+      "link": "https://www.marketwatch.com/story/fewer-dollars-and-fuzzier-standards-inside-the-push-to-weaken-washingtons-toughest-financial-watchdog-2601a0ee?mod=mw_rss_topstories",
+      "date": "2026-06-21 15:59",
+      "summary": "The SEC used to intimidate corporate wrongdoers. Now its own commissioners are gutting its leverage.",
+      "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "We read the Social Security and Medicare trustees reports. If you’re not worried, you should be.",
+      "link": "https://www.marketwatch.com/story/we-read-the-social-security-and-medicare-trustees-reports-if-youre-not-worried-you-should-be-ee1293e2?mod=mw_rss_topstories",
+      "date": "2026-06-21 15:59",
+      "summary": "The truth about “DOGE” savings, no tax on Social Security, immigration — and more.",
+      "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "Want to splurge on travel in retirement? Here’s how to plan for it.",
+      "link": "https://www.marketwatch.com/story/want-to-splurge-on-travel-in-retirement-heres-how-to-plan-for-it-40bb26f2?mod=mw_rss_topstories",
+      "date": "2026-06-21 15:59",
+      "summary": "A lot of people wait until retirement to take big trips. Plan ahead, and don’t wait too long.",
+      "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "I’m 73 and living 100% off dividends from my stocks. How can I create even more income?",
+      "link": "https://www.marketwatch.com/story/im-73-and-living-100-off-dividends-from-my-stocks-how-can-i-create-even-more-income-74b372f1?mod=mw_rss_topstories",
+      "date": "2026-06-21 15:59",
+      "summary": "A “bulletproof” portfolio may be impossible, but you can try to get close if you have enough money invested",
+      "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "The one-page pledge that forces your financial adviser to put you first",
+      "link": "https://www.marketwatch.com/story/the-one-page-pledge-that-forces-your-financial-adviser-to-put-you-first-6e88ba07?mod=mw_rss_topstories",
+      "date": "2026-06-21 15:59",
+      "summary": "Most investors ignore this abstract legal rule — and it’s fueling a massive wave of fraud.",
+      "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
+      "link": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
+      "date": "2026-06-21 15:59",
+      "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
+      "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "Bitdeer Mines 921 BTC as Smaller Bitcoin Stash Raises AI Pivot Question",
+      "link": "https://www.cryptoprowl.com/releases/bitdeer-mines-921-btc-as-smaller-bitcoin-stash-raises-ai-pivot-question-5935?.tsrc=rss",
+      "date": "2026-06-21 07:27",
+      "summary": "Bitdeer Technologies Group (NASDAQ: $BTDR) produced far more Bitcoin in May, but its shrinking coin balance is putt...",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "特斯拉Q2交付超预期 股价盘后涨8%",
-      "link": "https://www.reuters.com/",
-      "date": "2026-06-19",
-      "summary": "特斯拉公布Q2全球交付数据为52.8万辆，超出分析师预期的49.5万辆。Model Y贡献38万辆，Cybertruck交付突破5万辆。盘后股价涨超8%。",
-      "source": "Reuters",
-      "category": "us-stock"
-    },
-    {
-      "title": "高盛上调中国股市评级至增持 看好下半年表现",
-      "link": "https://www.bloomberg.com/",
-      "date": "2026-06-19",
-      "summary": "高盛发布最新策略报告，将中国股市（MSCI China）评级从'中性'上调至'增持'，目标上调15%。认为政策底已现，盈利周期触底回升，估值处于历史低位。",
-      "source": "Bloomberg",
-      "category": "us-stock"
-    },
-    {
-      "title": "苹果Vision Pro 2发布 股价创历史新高",
-      "link": "https://www.cnbc.com/",
-      "date": "2026-06-18",
-      "summary": "苹果WWDC发布第二代混合现实头显Vision Pro 2，重量减轻40%，起售价降至2499美元。同时发布Apple Intelligence 2.0 AI平台，股价涨3%创历史新高。",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "美商务部对华芯片出口管制进一步升级",
-      "link": "https://www.reuters.com/",
-      "date": "2026-06-17",
-      "summary": "美国商务部BIS宣布将36家中国实体列入实体清单，进一步限制先进半导体设备对华出口。此举可能加速中国半导体设备国产替代进程。",
-      "source": "Reuters",
-      "category": "policy"
-    },
-    {
-      "title": "微软Azure云业务Q4营收增长28% AI贡献显著",
-      "link": "https://finance.yahoo.com/",
-      "date": "2026-06-16",
-      "summary": "微软FY26Q4财报显示Azure云收入同比增长28%，AI相关服务贡献超12个百分点。Copilot企业客户突破50万，股价盘后涨2.5%。",
+      "title": "3 Monster Dividend Stocks to Hold for the Next 10 Years",
+      "link": "https://www.fool.com/investing/2026/06/21/3-monster-dividend-stocks-to-hold-for-the-next-10/?.tsrc=rss",
+      "date": "2026-06-21 07:25",
+      "summary": "These three overlooked dividend stocks combine durable brands, rising payouts, and long-term growth potential for investors focused on building wealth over the next decade.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "美国5月CPI降至2.8% 核心通胀继续回落",
-      "link": "https://www.cnbc.com/",
-      "date": "2026-06-15",
-      "summary": "美国劳工部公布5月CPI同比上涨2.8%，低于预期的2.9%，为连续第4个月回落。核心CPI同比3.2%，环比仅涨0.1%，通胀放缓趋势明确。",
-      "source": "CNBC",
-      "category": "macro"
-    },
-    {
-      "title": "巴菲特伯克希尔Q2持仓：减持苹果增持西方石油",
-      "link": "https://www.bloomberg.com/",
-      "date": "2026-06-14",
-      "summary": "巴菲特旗下伯克希尔哈撒韦公布13F持仓报告，Q2减持苹果约15%至1200亿美元，增持西方石油至420亿美元。新建仓日本五大商社各1%。",
-      "source": "Bloomberg",
-      "category": "us-stock"
-    },
-    {
-      "title": "AMD发布MI400 AI芯片挑战英伟达垄断地位",
-      "link": "https://finance.yahoo.com/",
-      "date": "2026-06-13",
-      "summary": "AMD发布新一代AI加速芯片Instinct MI400，宣称性能超越英伟达H200的1.5倍，定价低30%。Meta、微软已确认将采购，股价当日涨6%。",
+      "title": "Better S&P 500 ETF: VOO vs. SPY",
+      "link": "https://www.fool.com/investing/2026/06/21/better-sp-500-etf-voo-vs-spy/?.tsrc=rss",
+      "date": "2026-06-21 07:20",
+      "summary": "The margins between these two iconic stock market funds are razor-thin, but one does make more sense for most investors.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "亚马逊AWS与Anthropic签署100亿美元AI合作协议",
-      "link": "https://www.cnbc.com/",
-      "date": "2026-06-12",
-      "summary": "亚马逊AWS宣布与AI公司Anthropic签署为期5年100亿美元合作协议，将Claude模型深度整合至AWS Bedrock平台，对抗微软-OpenAI联盟。",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "SEC批准以太坊现货ETF期权交易",
-      "link": "https://www.reuters.com/",
-      "date": "2026-06-11",
-      "summary": "美国SEC正式批准以太坊现货ETF的期权交易，包括贝莱德、富达等发行的9只产品。分析认为这将显著提升机构投资者参与度。",
-      "source": "Reuters",
-      "category": "us-stock"
-    },
-    {
-      "title": "桥水基金达利欧警告：全球债务危机风险上升",
-      "link": "https://www.bloomberg.com/",
-      "date": "2026-06-10",
-      "summary": "桥水基金创始人达利欧发表长文警告，全球政府债务总额突破120万亿美元，利率高企加剧偿债压力，可能触发新一轮债务危机。建议配置黄金和通胀保值债券。",
-      "source": "Bloomberg",
-      "category": "macro"
-    },
-    {
-      "title": "台积电亚利桑那工厂量产3nm芯片 美国制造里程碑",
-      "link": "https://www.cnbc.com/",
-      "date": "2026-06-09",
-      "summary": "台积电宣布亚利桑那州Fab 21工厂正式量产3nm芯片，月产能3万片晶圆。苹果、英伟达为首批客户，标志着美国本土先进制程芯片制造实现突破。",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "美国5月非农就业超预期 市场调整降息预期",
-      "link": "https://finance.yahoo.com/",
-      "date": "2026-06-08",
-      "summary": "美国劳工部公布5月非农就业新增28.5万人，超出预期的19.5万人。失业率维持3.9%。数据公布后市场对6月降息预期从15%回落至3%。",
+      "title": "Can SpaceX Deliver Tesla-Level Returns? The Bull and the Bear Case",
+      "link": "https://www.fool.com/investing/2026/06/21/can-spacex-deliver-tesla-level-returns-the-bull-an/?.tsrc=rss",
+      "date": "2026-06-21 06:50",
+      "summary": "The company's first week on the market was a smashing success.",
       "source": "Yahoo Finance",
-      "category": "macro"
+      "category": "us-stock"
+    },
+    {
+      "title": "Is This Defense Stock Still the Smartest Buy After Its Big Run?",
+      "link": "https://www.fool.com/investing/2026/06/21/is-this-defense-stock-still-the-smartest-buy-after/?.tsrc=rss",
+      "date": "2026-06-21 06:20",
+      "summary": "Howmet Aerospace posted a nearly sixfold gain over the past three years, but that doesn't mean upside from here is limited.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "The Next Hot Quantum Stock Is an AI Data-Center Play, Too",
+      "link": "https://finance.yahoo.com/m/a58641a6-c73d-34f2-aff7-874a89fa571f/the-next-hot-quantum-stock-is.html?.tsrc=rss",
+      "date": "2026-06-21 06:00",
+      "summary": "IQM CEO Jan Goetz details the Finnish startups plans for quantum dominance ahead of its public listing.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "The Pullback Created Bargains: Dirt Cheap Consumer Stocks Worth Buying With $5,000 Today",
+      "link": "https://www.fool.com/investing/2026/06/21/the-pullback-created-bargains-dirt-cheap-consumer/?.tsrc=rss",
+      "date": "2026-06-21 05:25",
+      "summary": "While Wall Street chases AI headlines, these three food stocks offer a compelling mix of growth, dividends, and stability.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Why This $26.5 Trillion Projection Is Critical to Understand Before Buying SpaceX Stock",
+      "link": "https://www.fool.com/investing/2026/06/21/why-this-265-trillion-projection-is-critical-to-un/?.tsrc=rss",
+      "date": "2026-06-21 04:50",
+      "summary": "SpaceX is a lot more than a space company.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "SK Hynix (KOSE:A000660) Ships HBM4E DRAM To AI Customers",
+      "link": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-kose-a000660-ships-031333713.html?.tsrc=rss",
+      "date": "2026-06-21 03:13",
+      "summary": "SK hynix has begun shipping its next generation HBM4E DRAM for AI customers, introducing a new high bandwidth memory product for intensive AI workloads. The HBM4E chips are designed to offer higher da",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Dow Jones Futures: Iran Says Hormuz Closed But New Talks To Start; Nvidia, SpaceX Are Stocks To Watch",
+      "link": "https://finance.yahoo.com/m/aa0411a1-2ba1-3057-bff9-1381bd5225f7/dow-jones-futures%3A-iran-says.html?.tsrc=rss",
+      "date": "2026-06-21 02:38",
+      "summary": "Iran said it's closed the Strait of Hormuz but new peace talks are set to start Sunday. Nvidia and SpaceX are stocks to watch.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Nvidia, Oracle, and Now SpaceX Are Borrowing Billions Amid the AI Boom. Is This a Warning Sign?",
+      "link": "https://www.fool.com/investing/2026/06/20/nvidia-oracle-and-now-spacex-are-borrowing-billion/?.tsrc=rss",
+      "date": "2026-06-21 02:33",
+      "summary": "A record rush to raise cash is bankrolling the AI build-out. But the companies tapping the market aren't all in the same financial shape.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Prediction: Solana Will Replace Ethereum as the No. 1 Altcoin",
+      "link": "https://www.fool.com/investing/2026/06/20/prediction-solana-will-replace-ethereum/?.tsrc=rss",
+      "date": "2026-06-21 02:31",
+      "summary": "If Solana's rate of growth continues, it could pass Ethereum in market cap sometime in 2030.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Where Will Micron Technology Be in 5 Years?",
+      "link": "https://www.fool.com/investing/2026/06/20/where-will-micron-technology-be-in-5-years/?.tsrc=rss",
+      "date": "2026-06-21 00:43",
+      "summary": "A closer look at the memory market's prospects over the next five years suggests that Micron Technology still has multibagger potential.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Mark Cuban Warns 6 Popular Investments Could Quietly Ruin Your Wealth",
+      "link": "https://247wallst.com/investing/2026/06/20/mark-cuban-warns-6-popular-investments-could-quietly-ruin-your-wealth/?.tsrc=rss",
+      "date": "2026-06-20 23:50",
+      "summary": "Mark Cuban built a fortune Forbes pegged at $6 billion on its 2025 Forbes 400 list by being more careful about what he refused to fund than what he chased. His framework, surfaced again this month in ",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "This Top AI Cryptocurrency Was Up 115% in May. But Is It a Buy?",
+      "link": "https://www.fool.com/investing/2026/06/20/this-top-ai-cryptocurrency-was-up-115-in-may/?.tsrc=rss",
+      "date": "2026-06-20 23:39",
+      "summary": "NEAR Protocol surged 115% in May on its AI agent infrastructure play. Is this the real deal, or just another empty hype cycle?",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Where Will Alphabet Stock Be in 5 Years?",
+      "link": "https://www.fool.com/investing/2026/06/20/where-will-alphabet-stock-be-in-5-years/?.tsrc=rss",
+      "date": "2026-06-20 23:33",
+      "summary": "This leading artificial intelligence (AI) enterprise has more than doubled shareholder capital in the past five years.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Elon Musk Nears 20% Voting Power In Tesla After Exercising Stock Options",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-nears-20-voting-233111023.html?.tsrc=rss",
+      "date": "2026-06-20 23:31",
+      "summary": "Tesla Inc. CEO Elon Musk gained more than 300 million shares of the EV giants stock as part of his 2018 CEO Compensation Award, which takes his voting rights in Tesla to approximately 19.9%. Elon Musk",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Should You Buy Hyperliquid (HYPE) After Its Recent Surge?",
+      "link": "https://www.fool.com/investing/2026/06/20/should-you-buy-hype-after-its-recent-surge/?.tsrc=rss",
+      "date": "2026-06-20 22:37",
+      "summary": "It's getting hard to believe the hype about Hyperliquid.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Millions of Apple users losing access to Microsoft Office",
+      "link": "https://www.thestreet.com/retail/millions-of-apple-mac-users-losing-access-to-microsoft-office?.tsrc=rss",
+      "date": "2026-06-20 22:34",
+      "summary": "It was a sad day when my classic Apple iPod stopped working and I had to move my music to my iPhone, which wasn't quite up to the task. Apple eventually stops providing hardware service, software upda",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Why Intel (INTC) Is Up 7.6% After Prospective Apple U.S. Chip Foundry Partnership News",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-intel-intc-7-6-220716753.html?.tsrc=rss",
+      "date": "2026-06-20 22:07",
+      "summary": "Earlier this week, President Donald Trump said Apple has agreed to work with Intel to design and manufacture chips in the United States, signaling a potential shift of some of Apples processor product",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
     }
   ]
 }

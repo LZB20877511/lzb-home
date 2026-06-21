@@ -1,126 +1,246 @@
 {
-  "updated": "2026-06-21T08:00:00+08:00",
+  "updated": "2026-06-21T16:00:03.044863+08:00",
   "source": "A股聚合",
-  "count": 15,
+  "count": 30,
   "items": [
     {
-      "title": "证监会发布《上市公司监管指引第12号》进一步加强信息披露要求",
-      "link": "https://www.csrc.gov.cn/",
-      "date": "2026-06-21",
-      "summary": "证监会近日发布新指引，要求上市公司加强ESG信息披露，明确环境、社会及治理三大维度的披露标准，2026年下半年起分阶段实施。",
-      "source": "证监会",
-      "category": "policy"
-    },
-    {
-      "title": "稀土板块持续走强 北方稀土创年内新高",
-      "link": "https://www.eastmoney.com/",
-      "date": "2026-06-21",
-      "summary": "受《矿产资源法实施条例》6月15日施行影响，稀土永磁板块集体走强。北方稀土触及涨停，中国稀土涨超7%，板块整体涨幅超5%。",
-      "source": "同花顺",
-      "category": "a-stock"
-    },
-    {
-      "title": "SK海力士推进钼替代钨 钼金属需求跃入半导体赛道",
-      "link": "https://www.stcn.com/",
-      "date": "2026-06-21",
-      "summary": "SK海力士6月11日宣布推进以钼代钨用于芯片制造工艺，钼需求从传统钢铁领域跳入半导体赛道，金钼股份、洛阳钼业等相关标的受益。",
-      "source": "证券时报",
-      "category": "a-stock"
-    },
-    {
-      "title": "北向资金今日净流入超80亿元 连续5日加仓A股",
-      "link": "https://data.eastmoney.com/hsgt/",
-      "date": "2026-06-20",
-      "summary": "数据显示，北向资金今日净流入82.5亿元，为连续第5个交易日净流入。沪股通净流入35.2亿，深股通净流入47.3亿，主要加仓新能源和消费板块。",
-      "source": "东方财富",
-      "category": "capital-flow"
-    },
-    {
-      "title": "龙虎榜：中信证券上海分公司净买入北方稀土2.3亿元",
-      "link": "https://data.eastmoney.com/stock/tradedetail.html",
-      "date": "2026-06-20",
-      "summary": "今日龙虎榜数据显示，机构席位和知名游资集体买入稀土板块。中信证券上海分公司净买入北方稀土2.3亿元居首，华泰证券深圳益田路净买入1.5亿元。",
-      "source": "东方财富",
-      "category": "dragon-tiger"
-    },
-    {
-      "title": "融资余额突破1.8万亿 杠杆资金加速入场",
-      "link": "https://data.eastmoney.com/rzrq/",
-      "date": "2026-06-19",
-      "summary": "截至昨日，沪深两市融资余额达1.82万亿元，创年内新高。近一周融资净买入规模超500亿元，主要集中在半导体、AI、军工等板块。",
-      "source": "同花顺",
-      "category": "margin"
-    },
-    {
-      "title": "工信部：36种关键矿产纳入国家战略目录 6月15日施行",
-      "link": "https://www.miit.gov.cn/",
-      "date": "2026-06-18",
-      "summary": "《矿产资源法实施条例》正式施行，稀土、钨、钼、锑等36种关键矿产纳入国家战略资源目录。分析师认为相关矿业公司将获得政策优先支持。",
-      "source": "工信部",
-      "category": "policy"
-    },
-    {
-      "title": "财政部：研究推出新一轮减税降费措施支持科技创新",
-      "link": "https://www.mof.gov.cn/",
-      "date": "2026-06-20",
-      "summary": "财政部表示正在研究针对科技型中小企业的减税降费方案，预计涉及研发费用加计扣除比例从100%提高至120%，以及增值税留抵退税扩围。",
-      "source": "财政部",
-      "category": "policy"
-    },
-    {
-      "title": "央行开展2000亿元MLF操作 利率维持不变",
-      "link": "https://www.pbc.gov.cn/",
-      "date": "2026-06-19",
-      "summary": "央行今日开展2000亿元1年期中期借贷便利（MLF）操作，中标利率2.50%与上月持平。当日有1500亿元MLF到期，实现净投放500亿元。",
-      "source": "央行",
-      "category": "macro"
-    },
-    {
-      "title": "APEC会议公报发布 亚太经济一体化进程加速",
-      "link": "https://www.xinhuanet.com/",
-      "date": "2026-06-17",
-      "summary": "APEC领导人非正式会议发布联合公报，承诺推进亚太自贸区建设，加强数字经济合作。分析师认为将利好中国出口产业链和跨境电商。",
+      "title": "美伊代表团抵达瑞士谈判会场",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-06-21/doc-inieeaqu1077071.shtml",
+      "date": "2026-06-21 15:52",
+      "summary": "新华社瑞士比尔根山6月21日电 据瑞士外交部21日消息，美国和伊朗代表团均已抵达位于瑞士比尔根山的美伊谈判会场。（完）",
       "source": "新华社",
-      "category": "macro"
-    },
-    {
-      "title": "半导体板块资金大幅流入 国产替代逻辑强化",
-      "link": "https://www.eastmoney.com/",
-      "date": "2026-06-20",
-      "summary": "受美对华芯片出口管制进一步收紧消息影响，半导体设备及材料板块获资金追捧。北方华创涨7%、中微公司涨6.5%、中芯国际涨4.2%。",
-      "source": "东方财富",
       "category": "a-stock"
     },
     {
-      "title": "AI概念股卷土重来 算力需求助推光模块板块大涨",
-      "link": "https://www.cls.cn/",
-      "date": "2026-06-19",
-      "summary": "受益于英伟达新一代AI芯片发布带来的算力需求预期，光模块、AI服务器板块全线走强，中际旭创涨停，天孚通信涨超10%。",
-      "source": "财联社",
+      "title": "美联储，重磅来袭！高盛突然宣布：下调！",
+      "link": "https://finance.sina.com.cn/wm/2026-06-21/doc-inieeaqs9752296.shtml",
+      "date": "2026-06-21 15:33",
+      "summary": "高盛突然发生重大转变。 高盛在最新发布的报告中表示，将2026年年终黄金价格预测下调500美元/盎司。高盛此前一直是黄金市场坚定的多头...",
+      "source": "券商中国",
       "category": "a-stock"
     },
     {
-      "title": "黄金ETF持仓创历史新高 避险情绪升温",
-      "link": "https://www.eastmoney.com/",
-      "date": "2026-06-18",
-      "summary": "受地缘政治紧张局势和全球降息预期推动，国内黄金ETF持仓量突破200吨创历史新高。上海金交所AU9999报收528元/克。",
-      "source": "证券时报",
+      "title": "中金：拥挤不是看空理由，拥挤可能带来风险，但也可能意味着趋势加强",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-06-21/doc-inieeaqs9747880.shtml",
+      "date": "2026-06-21 15:27",
+      "summary": "本周动态：模糊的沃什与拥挤的科技 来源：Kevin策略研究 1️⃣ 外资：主动外资流出港股3.6亿美元（vs． 上周4.2亿），流出A股1.6亿美元（vs． 上周1.5亿）。",
+      "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "新能源车6月销量数据出炉 比亚迪单月突破40万辆",
-      "link": "https://www.autohome.com.cn/",
-      "date": "2026-06-17",
-      "summary": "6月新能源车销量数据公布，比亚迪单月交付40.2万辆领跑，理想汽车交付8.5万辆位居新势力首位，行业整体渗透率突破55%。",
-      "source": "汽车之家",
+      "title": "下周影响市场重要资讯前瞻：6月LPR报价将公布，夏季达沃斯论坛将开幕，近550亿元市值限售股解禁",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-06-21/doc-inieeaqr2970587.shtml",
+      "date": "2026-06-21 15:26",
+      "summary": "6月LPR报价将公布，央行公开市场将有19358亿元逆回购到期，夏季达沃斯论坛将开幕，英伟达将举行年度股东大会，近550亿元市值限售股解禁，2只新股将发行。",
+      "source": "新浪证券",
       "category": "a-stock"
     },
     {
-      "title": "年报季后高分红板块受关注 银行煤炭股息率超6%",
-      "link": "https://www.eastmoney.com/",
-      "date": "2026-06-16",
-      "summary": "年报分红季进入尾声，高股息策略再度成为市场焦点。建设银行、中国神华等蓝筹股股息率超6%，吸引长期资金持续流入。",
-      "source": "东方财富",
+      "title": "周六福于6月18日斥资799.57万港元回购49.61万股",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqs9747101.shtml",
+      "date": "2026-06-21 15:24",
+      "summary": "周六福（06168）发布公告，于2026年6月18日斥资799.57万港元回购49.61万股。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "庄士中国附属Chinaculture.com出售1892.2万股北海股份",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqu1064564.shtml",
+      "date": "2026-06-21 15:23",
+      "summary": "庄士中国（00298）与庄士机构国际（00367）联合发布公告，Chinaculture.com（为庄士中国的直接全资附属公司）于2026年4月22日（要约公布日期后的下一日）至2026年6月18日期...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "汉思集团控股：受托人根据股份奖励计划购买合共2975.08万股",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqv7840179.shtml",
+      "date": "2026-06-21 15:22",
+      "summary": "汉思集团控股（00554）发布公告，于2026年6月18日，受托人已就新股份奖励计划于市场上购买合共2975.08万股本公司股份。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "康华医疗将于7月31日派发末期股息每股0.16元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqv7839875.shtml",
+      "date": "2026-06-21 15:21",
+      "summary": "康华医疗（03689）发布公告，该公司将于2026年7月31日派发末期股息每股0.16元。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "五矿资源完成配售合共7.06亿股新股份",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqu1063525.shtml",
+      "date": "2026-06-21 15:20",
+      "summary": "五矿资源（01208）发布公告，根据配售协议的条款及条件，配售事项已于2026年6月18日完成。 合共7.06亿股新股份（占本公司于本公告日期经发行及配发配售股份扩大后已发行股...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "均胜电子于6月18日斥资144.22万港元回购10万股",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqu1063300.shtml",
+      "date": "2026-06-21 15:20",
+      "summary": "均胜电子（00699）发布公告，于2026年6月18日斥资144.22万港元回购10万股。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "美高梅中国于6月18日斥资约199.14万港元回购19.82万股",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqu1061676.shtml",
+      "date": "2026-06-21 15:15",
+      "summary": "美高梅中国（02282）发布公告，于2026年6月18日该公司斥资约199.14万港元回购19.82万股，回购价格为每股9.94-10.22港元。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "知乎-W于6月17日斥资11.93万美元回购11.39万股",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqu1061307.shtml",
+      "date": "2026-06-21 15:14",
+      "summary": "知乎-W（02390）发布公告，于2026年6月17日斥资11.93万美元回购11.39万股。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "赤子城科技于6月18日斥资159.07万港元回购19万股",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqr2965965.shtml",
+      "date": "2026-06-21 15:13",
+      "summary": "赤子城科技（09911）发布公告，该公司于2026年6月18日斥资159.07万港元回购19万股股份，每股回购价格为8.05-8.4港元。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "中港石油完成配售合共8700万股 净筹约1735万港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqv7836787.shtml",
+      "date": "2026-06-21 15:13",
+      "summary": "中港石油（00632）发布公告，所有条件均已达成，完成已于2026年6月18日落实。合共8700万股配售股份已由配售代理根据配售协议的条款及条件按配售价每股配售股份0...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "德康农牧获董事长王德根增持1万股 每股作价42.48港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqv7835583.shtml",
+      "date": "2026-06-21 15:10",
+      "summary": "香港联交所最新数据显示，6月18日，董事长王德根增持德康农牧（02419）1万股，每股作价42.48港元，总金额为42.48万港元。增持后最新持股数目约为1344.04万股，持股比例为8...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "中国心连心化肥获执行董事闫蕴华增持10.4万股 每股作价约10.32港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqu1059157.shtml",
+      "date": "2026-06-21 15:10",
+      "summary": "香港联交所最新数据显示，6月17日，执行董事闫蕴华增持中国心连心化肥（01866）10.4万股，每股作价10.3231港元，总金额约为107.36万港元。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "恒安国际获执行董事许大座增持10万股 每股作价约24.14港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqs9740965.shtml",
+      "date": "2026-06-21 15:09",
+      "summary": "香港联交所最新数据显示，6月17日，执行董事许大座增持恒安国际（01044）10万股，每股作价24.1358港元，总金额约为241.36万港元。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "旭日企业获董事长杨振鑫增持1.2万股 每股作价1.35港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqs9740664.shtml",
+      "date": "2026-06-21 15:08",
+      "summary": "香港联交所最新数据显示，6月17日，董事长杨振鑫增持旭日企业（00393）1.2万股，每股作价1.35港元，总金额为1.62万港元。增持后最新持股数目约为9.61亿股，持股比例为64...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "金饰价格，半年跌近450元",
+      "link": "https://finance.sina.com.cn/wm/2026-06-21/doc-inieeaqv7840239.shtml",
+      "date": "2026-06-21 15:08",
+      "summary": "据央视财经6月21日报道，近期，国际金价持续走弱，国内终端金饰价格同步大幅下调，主流品牌足金饰品克价全线跌破1300元整数关口。",
+      "source": "新京报",
+      "category": "a-stock"
+    },
+    {
+      "title": "中国电信遭中国平安保险(集团)减持937.6万股 每股作价约4.78港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqu1058179.shtml",
+      "date": "2026-06-21 15:07",
+      "summary": "香港联交所最新数据显示，6月16日，中国平安保险（集团）股份有限公司减持中国电信（00728）937.6万股，每股作价4.7847港元，总金额约为4486.13万港元。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "贝克微获Asian Equity Special Opportunities Portfolio Master Fund Limited增持2.13万股",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqv7833739.shtml",
+      "date": "2026-06-21 15:06",
+      "summary": "香港联交所最新数据显示，6月16日，Asian Equity Special Opportunities Portfolio Master Fund Limited增持贝克微（02149）2.13万股，每股作价34.4512港元，总金额约为73...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "建滔集团遭执行董事郑永耀减持5万股 每股作价100.2港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqv7833446.shtml",
+      "date": "2026-06-21 15:05",
+      "summary": "香港联交所最新数据显示，6月15日，执行董事郑永耀减持建滔集团（00148）5万股，每股作价100.2港元，总金额为501万港元。减持后最新持股数目约为1415.57万股，持股比例为1...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "德永佳集团获主席潘彬泽增持170.4万股 每股作价约1.15港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqr2960831.shtml",
+      "date": "2026-06-21 15:02",
+      "summary": "香港联交所最新数据显示，6月15日，主席潘彬泽增持德永佳集团（00321）170.4万股，每股作价1.1497港元，总金额约为195.90万港元。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "领展房产基金获SAUNDERS John Russell增持2万股 每股作价36.92港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqv7831344.shtml",
+      "date": "2026-06-21 15:01",
+      "summary": "香港联交所最新数据显示，6月15日，SAUNDERS John Russell增持领展房产基金（00823）2万股，每股作价36.92港元，总金额为73.84万港元。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "中创智领遭BlackRock, Inc.减持72.12万股 每股作价约14.16港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqr2960187.shtml",
+      "date": "2026-06-21 15:01",
+      "summary": "香港联交所最新数据显示，6月12日，BlackRock， Inc．减持中创智领（00564）72.12万股，每股作价14.1588港元，总金额约为1021.13万港元。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "中信里昂：中国海洋石油目标价上调至36港元 重申“跑赢大市”评级",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-21/doc-inieeaqv7830397.shtml",
+      "date": "2026-06-21 14:59",
+      "summary": "中信里昂发布研报称，上调中国海洋石油（00883）H股目标价12.5%，从32港元升至36港元，亦上调A股目标价，重申跑赢大市评级。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "中信里昂：吉利汽车目标价30港元 高度确信的“跑赢大市”评级",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-21/doc-inieeaqr2959443.shtml",
+      "date": "2026-06-21 14:58",
+      "summary": "中信里昂发布研报称，维持吉利汽车（00175）目标价30港元以及高度确信的“跑赢大市”评级。 该行表示，吉利5月出口8.5万辆。据管理层称，若非物流瓶颈...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "高盛：零跑汽车首予“买入”评级 目标价50港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-21/doc-inieeaqu1053396.shtml",
+      "date": "2026-06-21 14:57",
+      "summary": "高盛发布研报称，零跑汽车（09863）作为领先的纯新能源车企，有望推出一系列具竞争力的新车型并顺利推进生产，带动未来三个季度在国内市场增长持续加速...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "瑞银：比亚迪股份目标价上调至135港元 维持“买入”评级",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-21/doc-inieeaqs9735833.shtml",
+      "date": "2026-06-21 14:55",
+      "summary": "瑞银发布研报称，比亚迪股份（01211）5月销量重返同比正增长，为去年9月以来首次，表现令市场意外，国内市场份额及季度盈利预期均有改善迹象...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "花旗：中国铝业重申“买入”评级 目标价为17.08港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-21/doc-inieeaqs9735389.shtml",
+      "date": "2026-06-21 14:54",
+      "summary": "花旗发布研报称，由于投资者担忧能源价格上涨背景下需求走弱，以及投资者资金配置从大宗商品板块转向AI相关科技板块，中国宏桥（01378）和中国铝业（02600）的股价表现均明...",
+      "source": "新浪港股",
       "category": "a-stock"
     }
   ]
