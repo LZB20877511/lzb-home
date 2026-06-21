@@ -1,0 +1,28 @@
+name: 财经数据自动采集
+
+on:
+  schedule:
+    - cron: "0 22,1,4,7,10,13 * * *"
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: 采集数据
+        run: python tools/rss-scraper.py
+      - name: 生成摘要
+        run: python tools/gen-summary.py
+      - name: 提交更新
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add data/ finance-summary.html
+          git diff --cached --quiet || git commit -m "自动更新: $(TZ='Asia/Shanghai' date '+%m/%d %H:%M')"
+          git push
