@@ -176,8 +176,8 @@ def parse_json(text, src):
             # 东方财富公告URL格式：data.eastmoney.com/notices/detail/{code}/{date}/{art_code}.html
             art_code = n.get("art_code") or ""
             if not link and art_code:
-                notice_date = (n.get("notice_date") or "").replace("-", "")
-                if not notice_date:
+                notice_date = (n.get("notice_date") or "").replace("-", "").split()[0]
+                if not notice_date or len(notice_date) < 8:
                     notice_date = datetime.now().strftime("%Y%m%d")
                 link = f"https://data.eastmoney.com/notices/detail/{{code}}/{notice_date}/{art_code}.html"
                 # 先占位，等拿到 stock_code 后替换
