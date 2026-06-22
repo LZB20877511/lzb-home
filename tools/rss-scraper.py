@@ -173,8 +173,14 @@ def parse_json(text, src):
         for n in news_list:
             title = (n.get("title") or n.get("name") or n.get("art_title") or "").strip()
             link = (n.get("url") or n.get("link") or n.get("art_url") or "")
-            if "http" not in str(link) and n.get("art_code"):
-                link = f"https://finance.eastmoney.com/a/{n['art_code']}.html"
+            # 东方财富公告URL格式：data.eastmoney.com/notices/detail/{code}/{date}/{art_code}.html
+            art_code = n.get("art_code") or ""
+            if not link and art_code:
+                notice_date = (n.get("notice_date") or "").replace("-", "")
+                if not notice_date:
+                    notice_date = datetime.now().strftime("%Y%m%d")
+                link = f"https://data.eastmoney.com/notices/detail/{{code}}/{notice_date}/{art_code}.html"
+                # 先占位，等拿到 stock_code 后替换
             t = (n.get("show_time") or n.get("date") or n.get("noticedate") or "")
             desc = (n.get("summary") or n.get("digest") or n.get("content") or "")
 
@@ -191,9 +197,13 @@ def parse_json(text, src):
                 stock_code = str(n.get("stock_code") or n.get("secucode") or "")
 
             if title and len(title) > 3:
+                # 补全东方财富公告URL中的股票代码占位符
+                final_link = str(link).strip()
+                if "{code}" in final_link and stock_code:
+                    final_link = final_link.replace("{code}", stock_code)
                 items.append({
                     "title": unescape(title.strip()),
-                    "link": str(link).strip(),
+                    "link": final_link,
                     "date": parse_date(t),
                     "summary": strip_html(unescape(str(desc)))[:200],
                     "source": src["name"],
