@@ -1,358 +1,262 @@
 {
-  "updated": "2026-06-22T21:40:29.321148+08:00",
+  "updated": "2026-06-23T02:13:10.670232+08:00",
   "source": "A股聚合",
-  "count": 44,
+  "count": 32,
   "items": [
     {
-      "title": "ATFX汇市前瞻:美国PCE数据 EIA原油库存及美伊谈判",
-      "link": "https://finance.sina.com.cn/money/forex/forexroll/2026-06-22/doc-iniehwmq2477389.shtml",
-      "date": "2026-06-22 21:38",
-      "summary": "▲ATFX表 本周四：美国5月核心PCE年率6月22日，本周四20：30，美国将公布5月核心PCE物价指数年率，预期值3.4%，略高于前值3.3%。比较来看，5月份核心CPI年率为2.9%...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "雪佛龙将为微软得州大型数据中心供应天然气电力",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-iniehwmq2476772.shtml",
-      "date": "2026-06-22 21:37",
-      "summary": "核心要点 该数据中心项目代号为 “基尔比项目”，预计耗电量接近 2.7 吉瓦，约等于 200 万户家庭的用电总量。 大部分电力将由雪佛龙合作方通用电气威尔诺瓦公司提供的大型燃...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "ATFX首席分析师Nick:6月22日一周前瞻",
-      "link": "https://finance.sina.com.cn/money/forex/forexroll/2026-06-22/doc-iniehwmp6973467.shtml",
-      "date": "2026-06-22 21:35",
-      "summary": "6月22日，一如既往，在本期内容中，我们将为您带来接下来几周及几天内即将发生的重要事件，以及一些虽未列入日程但势必影响市场的动态。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "美联储鹰派发言 但加息概率将大幅低于预期",
-      "link": "https://finance.sina.com.cn/jjxw/2026-06-22/doc-iniehwmn0195152.shtml",
-      "date": "2026-06-22 21:29",
-      "summary": "汇通网 汇通财经APP讯——2026年6月22日，美联储释放的政策信号成为全球金融市场焦点——新任主席凯文·沃什在6月议息会议上删除了之前偏向宽松指引的语句...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "NCE平台:炼厂提速带动去库存",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-06-22/doc-iniehwmr9249504.shtml",
-      "date": "2026-06-22 21:27",
-      "summary": "6月22日，NCE平台表示，美国原油库存继续回落，显示炼厂加工维持较高水平后，供需层面的去库逻辑仍在延续。对于经历了多轮消息扰动的油市而言...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "美国发布许可允许伊朗出售部分石油和石油产品",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-iniehwmp6969923.shtml",
-      "date": "2026-06-22 21:26",
-      "summary": "根据美伊签署的结束战争的备忘录，美国财政部发布一项许可，允许部分伊朗石油和石油产品的销售。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "巴基斯坦总理：美伊就达成最终协议路线图取得一致",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-06-22/doc-iniehwmr9249309.shtml",
-      "date": "2026-06-22 21:22",
-      "summary": "新华社伊斯兰堡6月22日电（记者唐斌辉）巴基斯坦总理夏巴兹22日在社交媒体发文表示，美国与伊朗在瑞士比尔根山举行的高级别谈判已结束，各方在积极氛围中取得突破进展...",
-      "source": "新华社",
-      "category": "a-stock"
-    },
-    {
-      "title": "M4Markets:油砂成本优势再浮现",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-06-22/doc-iniehwmq2469828.shtml",
-      "date": "2026-06-22 21:19",
-      "summary": "6月22日，该平台表示，油砂资产的成本竞争力正在被市场重新审视。过去被视为高成本代表的项目，在多年压缩成本、优化工艺和提升回收效率后，已经不再完全处于不利位置。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "一边等上市、一边忙“补血”，A股候场银行再启增资",
-      "link": "https://finance.sina.com.cn/jjxw/2026-06-22/doc-iniehwmr9248046.shtml",
-      "date": "2026-06-22 21:18",
-      "summary": "A股银行IPO已逾四年未见新面孔，目前仍有五家中小银行处于排队序列。 在上市推进节奏尚不明确的等待期中，排队银行寻求补充资本的行动并未停摆——东莞银行近期完成2026年增...",
-      "source": "中国证券报-中证网",
-      "category": "a-stock"
-    },
-    {
-      "title": "联合包裹斥资4800万美元加码温控仓储设施，抢抓医疗健康物流发展红利",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-iniehwmp6966790.shtml",
-      "date": "2026-06-22 21:18",
-      "summary": "核心要点 美国消费者新闻与商业频道独家获悉，受温控类医疗物流需求爆发式增长驱动，联合包裹（UPS）宣布对医疗物流业务新增一笔投资。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "ZFX山海证券:油市定价或再校准",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-06-22/doc-iniehwmq2468456.shtml",
-      "date": "2026-06-22 21:16",
-      "summary": "6月22日，ZFX山海证券表示，当前原油期货市场与现实供应状态之间存在明显错位，价格一度更多跟随情绪与预期波动，而没有完全反映现货流通...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "Mega安汇:电力约束重塑能源逻辑",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-06-22/doc-iniehwmq2467802.shtml",
-      "date": "2026-06-22 21:14",
-      "summary": "6月22日，Mega安汇表示，人工智能相关投资热度持续升高后，市场开始更清楚地看到一个核心约束并不在芯片概念本身，而在于电力供应是否足够稳定、足够便宜...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "欧洲央行研究：AI热潮对美国就业与薪资影响有限",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-iniehwmp6964936.shtml",
-      "date": "2026-06-22 21:13",
-      "summary": "欧洲央行周一发布的一项研究显示，人工智能应用热潮或造成部分岗位人员被替代，但截至目前，其对美国整体就业水平与薪资的冲击尚不明显。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "CPT Markets:老油田延寿稳定供给",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-06-22/doc-iniehwmr9244249.shtml",
-      "date": "2026-06-22 21:12",
-      "summary": "6月22日，CPT Markets表示，成熟大油田延长生命周期的动作，说明传统核心油源在全球供给体系中的地位依然稳固。对于原油市场而言，稳定的老油田并不只是历史资产...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "加拿大5月份通胀率升至2023年以来最高 受到汽油价格飙升影响",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-iniehwmr9244052.shtml",
-      "date": "2026-06-22 21:12",
-      "summary": "汽油价格飙升推动加拿大通胀升至两年多来最高水平，不过价格压力的广度收窄，而且核心通胀指标变化不大。 加拿大统计局周一公布，5月份消费者价格指数同比涨幅达到3.2%...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "金融股大反攻，区域行领跑，大行分化加剧",
-      "link": "https://finance.sina.com.cn/roll/2026-06-22/doc-iniehwmn0189232.shtml",
-      "date": "2026-06-22 21:12",
-      "summary": "6月22日午后，被“冷落”多时的金融老登股迎来大反攻，保险、券商等板块集体大涨，多股封住涨停。 当天银行板块低开并触及年内新低，随后也迅速上扬。",
-      "source": "一财网",
-      "category": "a-stock"
-    },
-    {
-      "title": "斯塔默宣布辞职后 英国财政大臣里夫斯称经济领域仍有诸多工作待推进",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-iniehwmq2466516.shtml",
-      "date": "2026-06-22 21:11",
-      "summary": "英国财政大臣蕾切尔・里夫斯在基尔・斯塔默宣布即将卸任首相后表示，当下“仍有许多工作亟待完成”，暗示她希望自己推出的各项经济规划能够在新任工党领袖的任期内继续落地实...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "银川市公安局交通管理局通报一起交通事故：造成2名驾乘人员受伤，6车受损",
-      "link": "https://finance.sina.com.cn/roll/2026-06-22/doc-iniehwmr9241742.shtml",
-      "date": "2026-06-22 21:07",
-      "summary": "来源：银川交警微发布6月22日，银川市公安局交通管理局发布警情通报：",
-      "source": "环球网",
-      "category": "a-stock"
-    },
-    {
-      "title": "GTC泽汇资本:高油价下资本更谨慎",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-06-22/doc-iniehwmq2464004.shtml",
-      "date": "2026-06-22 21:07",
-      "summary": "6月22日，GTC泽汇资本表示，国际油气价格虽然仍高于不少机构年初预期，但行业资本开支并没有随之同步抬升，市场正在重新理解一个变化中的现实...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "中介承诺2.8%利率，实际成本8%？揭开“低息陷阱”→",
-      "link": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-06-22/doc-iniehwmn0189331.shtml",
-      "date": "2026-06-22 21:06",
-      "summary": "来源：金融时报 在北京大兴区的一处厂区，空气中没有刺鼻的沥青味，路面干净得像是一个小花园。这里是北京路新恒通沥青混凝土有限公司——一家年产超过100万吨沥青混凝土...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "“寥寥数语就能让股市上天堂或下地狱”，百岁格林斯潘去世",
-      "link": "https://finance.sina.com.cn/wm/2026-06-22/doc-iniehwmn0185797.shtml",
-      "date": "2026-06-22 21:03",
-      "summary": "新华社消息，据美国媒体22日报道，美国联邦储备委员会前主席艾伦·格林斯潘去世，享年100岁。 “艾伦今天上午因帕金森病并发症在家中去世，享年100岁。",
-      "source": "上海证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "中天策略:6月22日市场分析",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-06-22/doc-iniehwmn0183584.shtml",
-      "date": "2026-06-22 21:02",
-      "summary": "",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "长安保险化险进入新阶段！中安财险登场，国元金控面对“左右手”难题",
-      "link": "https://finance.sina.com.cn/wm/2026-06-22/doc-iniehwmn0183374.shtml",
-      "date": "2026-06-22 20:59",
-      "summary": "来源：机构之家 近日，安徽中安财产保险股份有限公司（筹）（下称“中安财险”）成立大会暨第一次股东会在合肥召开。6月22日，公开信息正式确认...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "瑞丰银行管理层增持收官：1206万元超额完成、历时两月提前告捷",
-      "link": "https://finance.sina.com.cn/wm/2026-06-22/doc-iniehwmq2461965.shtml",
-      "date": "2026-06-22 20:59",
-      "summary": "来源：机构之家 一场涉及瑞丰银行（601528.SH）管理层大规模集中增持计划，已顺利收官。 机构之家关注到，该行6月22日披露《关于部分董事...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "股价43天暴涨388%，10倍大牛股明起停牌",
-      "link": "https://finance.sina.com.cn/wm/2026-06-22/doc-iniehwmn0187872.shtml",
-      "date": "2026-06-22 20:57",
-      "summary": "6月22日晚间，中船特气（688146）最新公告称，因公司股票自2026年5月11日至2026年6月22日期间多次触及股票交易异常波动及严重异常波动的情形，为维护投资者利益...",
-      "source": "21世纪经济报道",
-      "category": "a-stock"
-    },
-    {
-      "title": "邦达亚洲:美联储加息预期升温 黄金小幅收跌",
-      "link": "https://finance.sina.com.cn/money/forex/forexfxyc/2026-06-22/doc-iniehwmn0181396.shtml",
-      "date": "2026-06-22 20:57",
-      "summary": "6月22日，高盛集团日前将2026年年终黄金价格预测下调了500美元/盎司，因美联储今年料不会再降息。 该行分析师Lina Thomas和Daan Struyven在一份报告中表示...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "25年来首次易主 SK海力士市值超越三星登顶韩国股指",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-iniehwmq2459290.shtml",
-      "date": "2026-06-22 20:55",
-      "summary": "SK海力士市值首次超越三星电子，登顶韩国综合股价指数（KOSPI）市值榜首，终结了三星电子长达25年有余的韩国市值第一上市公司统治地位。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "绝密！券商分类评价的“高考改革”：不卷规模卷什么？",
-      "link": "https://finance.sina.com.cn/stock/quanshang/qsyj/2026-06-22/doc-iniehwmn0181355.shtml",
-      "date": "2026-06-22 20:53",
-      "summary": "来源：行家券业 券商分类评价的“高考改革”：不卷规模卷什么？ 每年6月，券商圈都会迎来一场“大考”。今年的考试，考场依旧，但题目变了。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "永辉柳州首店开业：4天销售额674万 定制及自有品牌占比首破40%",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-06-22/doc-iniehwmr9235658.shtml",
-      "date": "2026-06-22 20:53",
-      "summary": "6月22日晚间消息，永辉柳州首店于6月18日开业。官方披露数据，开业前四天该店累计销售额突破674万元，其中永辉定制及自有品牌“品质永辉”产品销售占比首次超过40%...",
+      "title": "消费维权有哪些便捷渠道？这份实用投诉指南请收好",
+      "link": "https://finance.sina.com.cn/consume/xiaofei/2026-06-23/doc-iniehscq0222886.shtml",
+      "date": "2026-06-22 17:56",
+      "summary": "在日常消费中，几乎每个人都遇到过让人头疼的问题：网上买的东西质量差、外卖吃出异物、办了会员被自动续费、装修公司收了钱不干活……遇到这些情况...",
       "source": "新浪财经",
       "category": "a-stock"
     },
     {
-      "title": "黄力晨:美联储鹰派立场 继续打压黄金价格",
-      "link": "https://finance.sina.com.cn/money/nmetal/hjfx/2026-06-22/doc-iniehwmp6954264.shtml",
-      "date": "2026-06-22 20:48",
-      "summary": "6月22日，上周五我们认为，由于美联储对外释放鹰派信号，市场对美联储加息的预期大幅升温，推动美元上涨，刷新一年新高，直接打压黄金价格，短期技术面也显示...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "特朗普“抢发”斯塔默辞职消息",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-06-22/doc-iniehwmr9233819.shtml",
-      "date": "2026-06-22 20:45",
-      "summary": "【新华社微特稿】英国首相斯塔默22日宣布将辞任英国工党党首，但将在继任者选出之前继续担任英国首相。然而，美国总统特朗普21日已抢在斯塔默发表讲话前宣布这一消息。",
-      "source": "新华社",
-      "category": "a-stock"
-    },
-    {
-      "title": "竞逐商业航天：谁是中国版SpaceX？",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-06-22/doc-iniehwmn0181306.shtml",
-      "date": "2026-06-22 20:45",
-      "summary": "来源：财经杂志 追赶与SpaceX的差距是一项系统性工作，需要培育创新土壤、出台灵活政策、完善产业生态等多重支撑。但归根结底，这是一项工程问题，而发挥工程化能力...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "被立案调查？刚刚，A股公司辟谣！",
-      "link": "https://finance.sina.com.cn/stock/s/2026-06-22/doc-iniehwmr9233914.shtml",
-      "date": "2026-06-22 20:42",
-      "summary": "来源：资本秘闻 连续两个交易日股价大跌后，赛伍技术6月22日晚间披露公告称，公司关注网络平台出现关于公司“被立案调查”的不实传闻，公司特澄清，截至目前...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "股价提前涨停！*ST东智，再度筹划易主！",
-      "link": "https://finance.sina.com.cn/stock/s/2026-06-22/doc-iniehwmn0177975.shtml",
-      "date": "2026-06-22 20:42",
-      "summary": "来源：资本秘闻 今年5月筹划的国资“入主”事项折戟之后，*ST东智仅逾一个月再度觅得新买家。6月22日晚间，*ST东智披露公告称，公司控制权可能发生变更...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "易主“一周游”再度上演！上海亚虹，控制权变更终止！",
-      "link": "https://finance.sina.com.cn/stock/s/2026-06-22/doc-iniehwmn0177815.shtml",
-      "date": "2026-06-22 20:42",
-      "summary": "来源：资本秘闻 继金盾股份易主事项“一周游”后，同样的“剧情”在上海亚虹身上再度上演。6月22日晚间，上海亚虹披露公告称，公司控股股东海南宁生旅游集团有限公司终止筹划控...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "长周末后美股料平稳开盘 SpaceX盘前跌逾5%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-iniehwmp6951719.shtml",
-      "date": "2026-06-22 20:40",
-      "summary": "长周末过后，美股料平稳开盘。尽管有迹象显示美伊外交谈判出现进展，油价走低，但股市几乎未从中获得支撑。 纽约时间7：41，标普500指数期货下跌0.1%...",
+      "title": "美国放松对伊朗石油制裁 发放60天临时许可",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieihzh0024025.shtml",
+      "date": "2026-06-22 17:37",
+      "summary": "作为结束对伊战争协议的一部分，美国已授权允许伊朗石油和燃料的销售，这标志着华府实施多年的经济制裁出现全面变化。 美国财政部发布了一项范围广泛的60天期许可...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "套现1.6亿！桃李面包91岁创始人再减持",
-      "link": "https://finance.sina.com.cn/stock/s/2026-06-22/doc-iniehwmr9232287.shtml",
-      "date": "2026-06-22 20:33",
-      "summary": "来源：国际金融报 A股“面包第一股”桃李面包再度遭遇实控人家族减持。其背后是桃李面包持续走弱的业绩基本面。 近日，桃李面包（603866）发布公告...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "8倍大牛股，突发公告！明起停牌核查",
-      "link": "https://finance.sina.com.cn/wm/2026-06-22/doc-iniehwmn0173566.shtml",
-      "date": "2026-06-22 20:33",
-      "summary": "多只牛股发布公告，提示股票交易风险！ 8倍大牛股中船特气6月22日晚间公告，公司股价近期多次触及股票交易异常波动及严重异常波动的情形，自6月23日起停牌核查。",
-      "source": "券商中国",
-      "category": "a-stock"
-    },
-    {
-      "title": "盘前：市场对芯片热情仍在延续 纳指期货涨0.29%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-iniehwmr9232047.shtml",
-      "date": "2026-06-22 20:30",
-      "summary": "截至发稿，道指期货涨0.2%，标普500指数期货涨0.03%，纳指期货涨0.29%。 在美伊外交取得进展迹象的背景下，油价下跌，这一进展缓解了市场对结束伊朗战争的脆弱进程可能破裂...",
+      "title": "特朗普称伊朗将同意接受重大武器核查",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieihzh0020432.shtml",
+      "date": "2026-06-22 17:26",
+      "summary": "特朗普在Truth Social上发帖表示，“大家都非常清楚，伊朗将同意接受重大武器核查，以确保未来长期的‘核诚信’。”",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "高盛：对冲基金五周来首次净卖出全球股票",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-iniehwmr9226158.shtml",
-      "date": "2026-06-22 20:26",
-      "summary": "高盛主经纪商业务部门的数据显示，就在上周，对冲基金五周以来首次成为全球股票的净卖方，其中北美和欧洲市场的卖出量最大。",
+      "title": "英国首相头号热门候选人迪・伯纳姆是谁？，投资者需要了解的另外四件事",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieihzi6788319.shtml",
+      "date": "2026-06-22 17:01",
+      "summary": "核心要点 英国首相基尔・斯塔默于周一宣布辞职。 策略师警示：领导层更迭并不意味着英国经济走势会随之扭转。 斯塔默的继任遴选工作已经启动，目前热门人选已然浮出水面...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "赚女性的钱、物化女性，滴露只道歉还不够",
-      "link": "https://finance.sina.com.cn/wm/2026-06-22/doc-iniehwmn0170952.shtml",
-      "date": "2026-06-22 20:21",
-      "summary": "记者丨易佳颖 滴露终于道歉了！ 用“没被别的男人污染过”给消毒液做梗，把女性情感经历类比成“污染”。很难想象这样的内容出现在知名品牌的广告里。",
+      "title": "Lucid跌5.13%，计划裁减美国18%员工，首席运营官离职",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieihzm9067882.shtml",
+      "date": "2026-06-22 16:54",
+      "summary": "核心要点 电动汽车厂商Lucid将在美国裁员 18%。 公司同时宣布，首席运营官马克・温特霍夫离职，该首席运营官岗位被撤销。 Lucid上月表示...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "SpaceX与AI初创公司Reflection达成数十亿美元协议 将向后者提供算力",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieihzh0009544.shtml",
+      "date": "2026-06-22 16:50",
+      "summary": "SpaceX已与AI初创公司Reflection AI签署一项价值数十亿美元的协议，将为后者提供计算资源。这家马斯克旗下的公司正在转型成为AI基础设施提供商。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "欧洲股市上涨 美伊谈判取得进展 爱马仕股价逆市下跌",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieihzk2289195.shtml",
+      "date": "2026-06-22 16:49",
+      "summary": "欧洲股市上涨，交易员关注美国和伊朗谈判取得更多进展的迹象。爱马仕下跌5.4%，此前分析师预计其即将公布的上半年业绩将显示盈利能力承压。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "欧洲债市：英国国债上涨 伯纳姆有望成为英国下任首相",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieihzi6784880.shtml",
+      "date": "2026-06-22 16:47",
+      "summary": "在曾被视为英国下任首相潜在候选人的韦斯·斯特里廷表态支持安迪·伯纳姆后，英国国债全线上涨。他的这一表态消除了基尔·斯塔默辞职后的一个关键不确定性。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "摩根士丹利拟打造13亿美元新办公大楼 拓展达拉斯业务",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieihzm9064414.shtml",
+      "date": "2026-06-22 16:43",
+      "summary": "摩根士丹利成为又一家押注德克萨斯州金融中心地位的华尔街巨头，该行正考虑在达拉斯打造一座耗资13亿美元的办公大楼。 根据达拉斯市政府文件...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "“失败的奖赏”：塔吉特董事长康奈尔的投资者支持率跌至历史最低",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieihzi6783379.shtml",
+      "date": "2026-06-22 16:43",
+      "summary": "核心要点 塔吉特执行董事长、前首席执行官布莱恩・康奈尔在本月公司年度股东大会上顺利连任董事，但投资者投票支持率出现明显下滑。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "在美上市新兴市场ETF资金回流",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieihzm9055295.shtml",
+      "date": "2026-06-22 16:21",
+      "summary": "上周，投资者回流美国上市、投资新兴市场股票和债券的交易所交易基金（ETF）。其中，韩国资金流入规模最大。 数据显示，截至6月18日当周，在美国上市...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "SpaceX与开源AI初创公司Reflection签署价值63亿美元算力采购协议",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieiatm6904819.shtml",
+      "date": "2026-06-22 16:15",
+      "summary": "核心要点 SpaceX 与 Reflection AI 签署大额算力合作协议，后者可使用埃隆・马斯克旗下 ** 巨人 2 号（Colossus 2）** 数据中心的英伟达 GB300 芯片算力资源。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "Meta旗下WhatsApp负责人即将卸任，印度金融科技公司创始人沙阿接任",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieiatk0126905.shtml",
+      "date": "2026-06-22 16:10",
+      "summary": "核心要点 Meta 首席执行官马克・扎克伯格宣布，任职七年有余的 WhatsApp 负责人威尔・卡斯卡特即将卸任。 Meta 任命印度金融科技初创公司 Cred 创始人库纳尔・沙阿执掌...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "斯塔默辞职后 债券交易员最关心谁来掌管英国财政大权",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatm6897067.shtml",
+      "date": "2026-06-22 15:55",
+      "summary": "英国债券投资者认为，在首相基尔·斯塔默宣布辞职后，财政大臣蕾切尔·里夫斯的政治前景已岌岌可危，并开始评估其潜在继任者可能对市场带来的影响。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美伊继续推进瑞士谈判 万斯称周末磋商进展顺利",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatp9175535.shtml",
+      "date": "2026-06-22 15:51",
+      "summary": "美国副总统JD·万斯表示，与伊朗在周末的谈判“非常、非常好”，眼下美伊两国寻求在两个月内达成和平协议并正式结束这场冲击全球经济的战争。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "SK海力士市值超越三星，登顶韩国市值最高企业",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatn2396263.shtml",
+      "date": "2026-06-22 15:44",
+      "summary": "这家韩国存储芯片企业总市值达到 1.362 万亿美元受 AI 芯片热潮带动，SK 海力士股价今年涨幅超 3 倍。 内容速览 受人工智能芯片需求爆发提振...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "Alphabet创2月以来最大跌幅 因两名AI领军人物相继离职",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatm6891090.shtml",
+      "date": "2026-06-22 15:35",
+      "summary": "Alphabet周一盘中一度下跌5.9%，创下2月上旬以来的盘中最大跌幅，拖累“科技七巨头”中的其他股票下跌。 上周末，该公司流失了第二位知名AI研究人员。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "RBC策略师称美股能够承受美联储进行两次左右的加息",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatk0112234.shtml",
+      "date": "2026-06-22 15:27",
+      "summary": "RBC Capital Markets的Lori Calvasina表示，只要美联储的紧缩周期保持适度，美国股市应该能够承受加息。 “只要未来12个月内进行两次左右幅度分别为25个基点的加息...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "SpaceX将首次发行投资级债券 银行家据悉正进行推介",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatm6887518.shtml",
+      "date": "2026-06-22 15:25",
+      "summary": "在完成创纪录的750亿美元IPO后，SpaceX启动对投资级债券的首次发行，预计这将开启一轮大规模举债浪潮，为其在AI领域的布局提供资金。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "四家A股公司退市，即将摘牌",
+      "link": "https://finance.sina.com.cn/jjxw/2026-06-22/doc-inieiatn2384570.shtml",
+      "date": "2026-06-22 15:03",
+      "summary": "6月22日晚，退市国化、退市岩石公告称，公司退市整理期已于6月22日结束，上海证券交易所将于6月29日对公司股票予以摘牌。",
+      "source": "中国证券报-中证网",
+      "category": "a-stock"
+    },
+    {
+      "title": "斯塔默让位后 安迪·伯纳姆有望成为英国十年来第七位首相",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatn2380803.shtml",
+      "date": "2026-06-22 14:59",
+      "summary": "在基尔·斯塔默公布离任时间表、而潜在竞争对手纷纷支持迅速完成权力交接后，安迪·伯纳姆似乎势将成为英国十年来的第七位首相。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "SpaceX宣布发债计划后股价一度下挫10%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatn2379390.shtml",
+      "date": "2026-06-22 14:54",
+      "summary": "SpaceX股价连续第三个交易日下跌，此前这家由埃隆·马斯克领导的公司表示将首次发行投资级债券。外界预计此次发债是该公司为资助其人工智能雄心而进行的大规模举债行动的一...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "大V投顾集体“渡劫”：为什么他们会跑输科技牛市？",
+      "link": "https://finance.sina.com.cn/roll/2026-06-22/doc-inieiatm6878487.shtml",
+      "date": "2026-06-22 14:53",
+      "summary": "每经记者|李娜每经编辑|肖芮冬 当市场的定价逻辑从确定性溢价转向技术创新驱动，一套曾经在熊市中守护无数投资者的深度价值+分散配置策略...",
+      "source": "每日经济新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "敦豪将采用新型风力货运船舶承运货物",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatp9153083.shtml",
+      "date": "2026-06-22 14:45",
+      "summary": "旗下货运代理部门计划借助特制帆船开展大西洋跨洋货运业务敦豪计划从明年起使用这款风力驱动船舶开展大西洋跨洋货运。 内容速览 敦豪全球货运将与维拉公司合作...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "多家外资巨头一致看好A股AI和半导体板块",
+      "link": "https://finance.sina.com.cn/wm/2026-06-22/doc-inieiatm6877417.shtml",
+      "date": "2026-06-22 14:45",
+      "summary": "记者丨易妍君 编辑丨张星 近期，摩根士丹利、景顺、富达国际、贝莱德等外资巨头陆续发布2026年中期投资展望。 多家外资机构一致看好中国AI与半导体产业链的中长期价值。",
       "source": "21世纪经济报道",
       "category": "a-stock"
     },
     {
-      "title": "美联储前主席格林斯潘逝世，享年100岁",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-iniehwmr9219827.shtml",
-      "date": "2026-06-22 20:11",
-      "summary": "核心要点 艾伦・格林斯潘执掌美联储 19 年，历经里根到老布什四任美国总统。 1996 年，他针对投资者发表的 “非理性繁荣” 言论一度震惊全球市场...",
+      "title": "冰箱彩电大沙发之后，理想靠什么赢下一个十年？",
+      "link": "https://finance.sina.com.cn/wm/2026-06-22/doc-inieiatk0101467.shtml",
+      "date": "2026-06-22 14:45",
+      "summary": "2022年L9发布会，理想汽车董事长兼CEO李想站上舞台，把车载冰箱、全景大屏、零重力沙发摆在所有人面前，“冰箱彩电大沙发”一夜成为理想的代名词。",
+      "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
+    {
+      "title": "券商、有色、科技齐飞！A股能否延续强势？",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-06-22/doc-inieiatp9153609.shtml",
+      "date": "2026-06-22 14:44",
+      "summary": "来源：国际金融报 6月22日，端午节后首个交易日，A股上午低迷、下午拉升，整体呈现指数强于个股格局，沪深京三市日成交额逼近4万亿元。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "卡车运费上涨，美国企业重新转向铁路运输",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatk0095286.shtml",
+      "date": "2026-06-22 14:40",
+      "summary": "燃油价格高企叠加卡车运费攀升，货主纷纷选择速度更慢、成本更低的公铁联运模式联合太平洋铁路全球二号公铁联运枢纽内，起重机正在吊装海运集装箱。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "伊朗央行行长：伊朗资产解冻有“显著进展”",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-06-22/doc-iniehwmn0164286.shtml",
-      "date": "2026-06-22 20:10",
-      "summary": "新华社德黑兰6月22日电（记者陈霄 沙达提）据伊朗塔斯尼姆通讯社22日报道，伊朗中央银行行长赫马提表示，在近期谈判中，被冻结伊朗资产解冻问题取得“显著进展”...",
-      "source": "新华社",
+      "title": "券商板块单日暴涨7.52%！估值与业绩背离，“牛市旗手”要回来了？",
+      "link": "https://finance.sina.com.cn/wm/2026-06-22/doc-inieiatp9151365.shtml",
+      "date": "2026-06-22 14:34",
+      "summary": "6月22日，沉寂已久的券商板块突然爆发，成为A股市场最亮眼的焦点。截至收盘，券商指数大涨7.52%，板块成交额突破900亿元。",
+      "source": "券商中国",
       "category": "a-stock"
     },
     {
-      "title": "600598，将补缴税款及滞纳金14.1亿元",
-      "link": "https://finance.sina.com.cn/wm/2026-06-22/doc-iniehwmn0162305.shtml",
-      "date": "2026-06-22 20:06",
-      "summary": "6月22日，北大荒（600598）公告称，公司收到税务局通知，需补缴2021年至2025年期间企业所得税及滞纳金合计约14.1亿元，该笔款项将计入公司2026年当期损益...",
-      "source": "上海证券报",
+      "title": "盈利暴增1000%？存储巨头，深夜大涨！",
+      "link": "https://finance.sina.com.cn/wm/2026-06-22/doc-inieiatp9147501.shtml",
+      "date": "2026-06-22 14:33",
+      "summary": "当地时间周一（6月22日），美股三大指数均小幅低开，纳指跌0.15%，道指跌0.02%，标普500指数跌0.01%。 存储、芯片股走高。美光科技股价高开高走，盘中涨超6%...",
+      "source": "证券时报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美银、德意志银行预计美联储将于9月加息",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatp9146621.shtml",
+      "date": "2026-06-22 14:32",
+      "summary": "美国银行全球研究部和德意志银行预计，由于经济韧性以及新任主席凯文·沃什采取更鹰派的立场，美联储将在2026年加息，这与其此前关于利率将保持稳定的预测有所不同。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "今夜，46家A股公司提示风险！",
+      "link": "https://finance.sina.com.cn/jjxw/2026-06-22/doc-inieiatm6869913.shtml",
+      "date": "2026-06-22 14:32",
+      "summary": "来源：中国基金报 【导读】46家A股公司公告提示风险，回应六氟化钨等多个热点事项 中国基金报记者 闻言 6月22日晚间，46家A股公司发布股票交易异常波动或股票交易风险提示...",
+      "source": "滚动播报",
       "category": "a-stock"
     }
   ]
