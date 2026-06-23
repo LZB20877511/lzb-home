@@ -14,6 +14,9 @@ import time
 from datetime import datetime, timezone, timedelta
 from html import unescape
 
+# 北京时间 (UTC+8)
+CST = timezone(timedelta(hours=8))
+
 # ============ 配置 ============
 OUTPUT_DIR = "data"
 MAX_PER_SOURCE = 30
@@ -137,9 +140,9 @@ def parse_sina(text, src):
             ctime_str = str(n.get("ctime", ""))
             if ctime_str:
                 ctime = int(ctime_str)
-                dt = datetime.fromtimestamp(ctime) if ctime > 1000000000 else datetime.now()
+                dt = datetime.fromtimestamp(ctime, tz=CST) if ctime > 1000000000 else datetime.now(CST)
             else:
-                dt = datetime.now()
+                dt = datetime.now(CST)
             desc = (n.get("intro") or n.get("summary") or "").strip()
             source = n.get("media_name") or src["name"]
 
@@ -178,7 +181,7 @@ def parse_json(text, src):
             if not link and art_code:
                 notice_date = (n.get("notice_date") or "").replace("-", "").split()[0]
                 if not notice_date or len(notice_date) < 8:
-                    notice_date = datetime.now().strftime("%Y%m%d")
+                    notice_date = datetime.now(CST).strftime("%Y%m%d")
                 link = f"https://data.eastmoney.com/notices/detail/{{code}}/{notice_date}/{art_code}.html"
                 # 先占位，等拿到 stock_code 后替换
             t = (n.get("show_time") or n.get("date") or n.get("noticedate") or "")
@@ -266,13 +269,13 @@ def parse_xml(text, src):
 
 
 def parse_date(s):
-    if not s: return datetime.now().strftime("%Y-%m-%d %H:%M")
+    if not s: return datetime.now(CST).strftime("%Y-%m-%d %H:%M")
     # 东方财富格式: 2026-06-21 14:30:00
     for fmt in ["%Y-%m-%d %H:%M:%S","%Y-%m-%dT%H:%M:%S%z","%Y-%m-%dT%H:%M:%SZ",
                 "%a, %d %b %Y %H:%M:%S %z","%Y-%m-%d %H:%M","%Y-%m-%d","%Y/%m/%d %H:%M"]:
         try: return datetime.strptime(str(s).strip(), fmt).strftime("%Y-%m-%d %H:%M")
         except: pass
-    return datetime.now().strftime("%Y-%m-%d %H:%M")
+    return datetime.now(CST).strftime("%Y-%m-%d %H:%M")
 
 
 def strip_html(s):
@@ -350,7 +353,7 @@ def save(items, filename, label):
         print(f"    🧹 过滤噪声 {noise_count} 条")
     items.sort(key=lambda x: x.get("date", ""), reverse=True)
     items = dedup(items)
-    data = {"updated": datetime.now(timezone(timedelta(hours=8))).isoformat(),
+    data = {"updated": datetime.now(CST).isoformat(),
             "source": label, "count": len(items), "items": items}
     path = os.path.join(OUTPUT_DIR, filename)
     with open(path, "w", encoding="utf-8") as f:
@@ -360,7 +363,7 @@ def save(items, filename, label):
 
 def main():
     print("=" * 50)
-    print(f"  财经采集器 v2  {datetime.now():%Y-%m-%d %H:%M}")
+    print(f"  财经采集器 v2  {datetime.now(CST):%Y-%m-%d %H:%M}")
     print("=" * 50)
 
     a = scrape(A_SOURCES)

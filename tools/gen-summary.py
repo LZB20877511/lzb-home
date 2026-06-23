@@ -1,7 +1,10 @@
 # 静态摘要页生成器
 # 读取 data/*.json → 生成 finance-summary.html（纯HTML无JS，AI可直接阅读）
 import json, os
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
+
+# 北京时间 (UTC+8)
+CST = timezone(timedelta(hours=8))
 
 OUTPUT = "finance-summary.html"
 DATA_FILES = [
@@ -32,7 +35,7 @@ def category_stats(items):
 
 def generate(items):
     stats = category_stats(items)
-    now = datetime.now().strftime("%Y-%m-%d %H:%M")
+    now = datetime.now(CST).strftime("%Y-%m-%d %H:%M")
 
     h = f"""<!DOCTYPE html>
 <html lang="zh-CN">
