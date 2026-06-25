@@ -1,270 +1,342 @@
 {
-  "updated": "2026-06-25T08:02:18.289996+08:00",
+  "updated": "2026-06-25T12:55:59.293071+08:00",
   "source": "A股聚合",
-  "count": 33,
+  "count": 42,
   "items": [
     {
-      "title": "凯盛新能获Barclays PLC增持328万股 每股作价约2.94港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-25/doc-inieqnay1066450.shtml",
-      "date": "2026-06-25 07:59",
-      "summary": "香港联交所最新资料显示，6月18日，Barclays PLC增持凯盛新能（01108）328万股，每股作价2.9378港元，总金额约为963.6万港元。增持后最新持股数目为1494.8万股...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "北京首都机场股份获贝莱德增持46.4万股 每股作价为1.59港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-25/doc-inieqnaz7843047.shtml",
-      "date": "2026-06-25 07:58",
-      "summary": "香港联交所最新资料显示，6月18日，贝莱德增持北京首都机场股份（00694）46.4万股，每股作价为1.59港元，总金额约为73.78万港元。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "大金重工遭瑞银集团减持83.22万股 每股作价66.1605港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-25/doc-inieqnay1065242.shtml",
-      "date": "2026-06-25 07:56",
-      "summary": "香港联交所最新数据显示，6月9日，瑞银集团减持大金重工（01081）83.22万股，每股作价66.1605港元，总金额约为5505.88万港元。减持后最新持股数目约为791.82万股...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "特朗普将会见美国主要国防承包商，讨论加快武器生产",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqnch2580201.shtml",
-      "date": "2026-06-25 07:56",
-      "summary": "美国总统唐纳德·特朗普将于当地时间周三在白宫会见军火制造商，在伊朗的军事行动和其他冲突导致美国武器库存减少后，他的政府正在推动扩大武器生产。",
+      "title": "韩国股市惯于上蹿下跳 堪比往日迷因股行情",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqwsy5762510.shtml",
+      "date": "2026-06-25 12:28",
+      "summary": "韩国股市基准指数的波动性已经变得如此极端，以至于投资者和分析师将市场日内剧烈波动比作网络迷因股票的狂热。 虽然乍听之下这种比较可能有些夸张...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "南山铝业国际获Tiger Fund VCC增持47.39万股 每股作价29.81港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-25/doc-inieqnay1064350.shtml",
-      "date": "2026-06-25 07:55",
-      "summary": "香港联交所最新资料显示，6月22日，Tiger Fund VCC增持南山铝业国际（02610）47.39万股，每股作价29.81港元，总金额约为1412.7万港元。",
-      "source": "新浪港股",
+      "title": "国产创新药三箭齐发！产业面持续高景气",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-06-25/doc-inieqwsu1037126.shtml",
+      "date": "2026-06-25 12:18",
+      "summary": "6月22日，国家药监局共批准三款新药上市，国产创新药实现“三箭齐发”。包括全球首个用于狂犬病被动免疫的双特异性抗体、全球首款获批上市的实体瘤CAR-T疗法...",
+      "source": "新浪基金",
       "category": "a-stock"
     },
     {
-      "title": "股海导航_2026年6月25日_沪深股市公告与交易提示",
-      "link": "https://finance.sina.com.cn/stock/s/2026-06-25/doc-inieqnch2581750.shtml",
-      "date": "2026-06-25 07:54",
-      "summary": "【停牌】 002253 *ST智胜 603001 奥康国际 002289 *ST宇顺 【复牌】 603721 中广天择 600228 返利科技  【品大事】 世名科技：电子级碳氢树脂产品针对M9级或以上更高等级的...",
-      "source": "股市直击",
-      "category": "a-stock"
-    },
-    {
-      "title": "广合科技获富国基金管理有限公司增持18.54万股 每股作价182.379港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-25/doc-inieqnce5802940.shtml",
-      "date": "2026-06-25 07:54",
-      "summary": "香港联交所最新数据显示，6月18日，富国基金管理有限公司增持广合科技（01989）18.54万股，每股作价182.379港元，总金额约为3381.31万港元。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "浦江中国遭Shanghai Industrial Holdings Limited减持322万股 每股作价2.1014港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-25/doc-inieqnay1063160.shtml",
-      "date": "2026-06-25 07:52",
-      "summary": "香港联交所最新数据显示，6月23日，Shanghai Industrial Holdings Limited减持浦江中国（01417）322万股，每股作价2.1014港元，总金额约为676.65万港元。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "海昌海洋公园遭Zeqiao Holdings Limited (formerly known as Haichang Group Limited)减持444.1万股",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-25/doc-inieqnch2577972.shtml",
-      "date": "2026-06-25 07:51",
-      "summary": "香港联交所最新数据显示，6月18日，Zeqiao Holdings Limited （formerly known as Haichang Group Limited）减持海昌海洋公园（02255）444.1万股，每股作价0.3598港元...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "澳洲成峰高教获ZHAO John增持约3.51亿股 每股作价0.125港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-25/doc-inieqnay1062074.shtml",
-      "date": "2026-06-25 07:50",
-      "summary": "香港联交所最新数据显示，6月23日，ZHAO John增持澳洲成峰高教（01752）3.5118亿股，每股作价0.125港元，总金额为4389.75万港元。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "英国5月汽车产量同比增长2.7%，结束连续四个月下降势头",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqnay1062058.shtml",
-      "date": "2026-06-25 07:50",
-      "summary": "英国汽车制造商和贸易商协会（SMMT）周四表示，英国5月份汽车产量同比增长 2.7%，结束了连续四个月的下降势头。 然而，该汽车贸易机构警告称，高能源成本...",
+      "title": "委内瑞拉和日本先后发生7级以上地震 加拉加斯主要机场被毁",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqwta2530848.shtml",
+      "date": "2026-06-25 12:10",
+      "summary": "委内瑞拉在遭遇强烈的连续地震后宣布进入紧急状态。首都加拉加斯多处建筑倒塌、电力线路中断，主要机场被毁。 据美国地质调查局，当地周三晚间先发生了一次7.2级地震...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "花旗集团将季度股息提高12%至每股0.67美元",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqnch2575767.shtml",
-      "date": "2026-06-25 07:46",
-      "summary": "花旗银行完成美联储年度压力测试后，计划将普通股季度股息上调12%，由每股0.60美元增至0.67美元。媒体此前预期股息为每股0.63美元。",
+      "title": "交银国际：劲方医药维持“买入”评级 目标价58港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-25/doc-inieqwsu1030066.shtml",
+      "date": "2026-06-25 12:05",
+      "summary": "交银国际发布研报称，将劲方医药（02595）的投资评级及目标价，分别维持“买入”及51港元。该行称，KRAS G12D 抑制剂海外临床及合作进展理想。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "里昂：华润饮料重申“跑赢大市”评级 目标价为10.7港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-25/doc-inieqwsu1030029.shtml",
+      "date": "2026-06-25 12:05",
+      "summary": "里昂发布研报称，华润饮料（02460）公布一项自愿性股息计划，预期在2026至2028财年各年支付每股不少于0.37元人民币的年度总股息。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "布伦特原油抹去伊朗战争以来的全部涨幅",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqwsy5751064.shtml",
+      "date": "2026-06-25 12:04",
+      "summary": "在美伊和平协议取得进展后，霍尔木兹海峡的运输量增加，布伦特原油期货价格已抹去战争期间的所有涨幅。 这一全球基准油价迈向四连跌，一度跌破冲突前的收盘价每桶72...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "四大证券报头版头条内容精华摘要_2026年6月25日_财经新闻",
-      "link": "https://finance.sina.com.cn/stock/y/2026-06-25/doc-inieqnaz7840857.shtml",
-      "date": "2026-06-25 07:46",
-      "summary": "6月25日（星期四），今日报刊头条主要内容精华如下： 中国证券报 买了自家“翻倍基” 这些公司“赢麻了” 近期，A股科技板块持续上涨...",
-      "source": "股市直击",
+      "title": "未缴监管费且失联 海云保险代理被立案调查",
+      "link": "https://finance.sina.com.cn/jryx/insurance/2026-06-25/doc-inieqwsy5749101.shtml",
+      "date": "2026-06-25 12:01",
+      "summary": "6月25日金融一线消息，据深圳金融监管局日前发布的行政处罚调查通知书公告，根据《中华人民共和国保险法》第一百五十四条规定，深圳金融监管局现对海云保险代理（深圳）有...",
+      "source": "金融一线",
       "category": "a-stock"
     },
     {
-      "title": "阿波罗首席经济学家：油价下跌或将进一步推高美国通胀，迫使美联储很快加息",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqnce5799164.shtml",
-      "date": "2026-06-25 07:45",
-      "summary": "原油价格正回落至伊朗冲突前的水平附近，但一位经济学家认为，这并不意味着美国的通胀会下降。 当地时间周三，美国原油价格下跌约4%，一度跌破每桶70美元...",
+      "title": "大摩：相信哔哩哔哩股价未来30天内绝对值上升 回购计划带来正面反应",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-25/doc-inieqwsy5748627.shtml",
+      "date": "2026-06-25 12:00",
+      "summary": "摩根士丹利发布研报称，相信哔哩哔哩-W（09626） 的股价在未来30天内绝对值将会上升，发生此情境的概率估计达80%以上（或“高度可能”）。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "特朗普：美国准备援助地震后的委内瑞拉",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqwsv7804036.shtml",
+      "date": "2026-06-25 12:00",
+      "summary": "美国总统特朗普在社交媒体平台Truth Social发帖称，在委内瑞拉发生强烈地震后，美国已准备好提供援助。特朗普称，他已指示所有美国政府机构做好迅速行动的准备特朗普称...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "美国5月PCE前瞻：通胀压力料升级，美联储何时按下加息键",
-      "link": "https://finance.sina.com.cn/roll/2026-06-25/doc-inieqnay1061677.shtml",
-      "date": "2026-06-25 07:41",
-      "summary": "服务价格或影响加息窗口。 当地时间周四（25日），美国经济统计局（BEA）将公布5月PCE通胀报告。 这是美联储最重视的通胀指标之一...",
+      "title": "哔哩哔哩-W午前涨逾3% 大摩相信公司股价在未来30天内绝对值上升",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-25/doc-inieqwsy5747330.shtml",
+      "date": "2026-06-25 11:57",
+      "summary": "哔哩哔哩-W（09626）午前涨逾3%，截至发稿，股价上涨2.70%，现报129.50港元，成交额3.42亿港元。 6月24日，哔哩哔哩-W发布公告，其董事会已授权一项新的股份回购计划...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "招商银行拟任行长王小青：以客户为中心 保持“四个定力”",
+      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-06-25/doc-inieqwsy5746339.shtml",
+      "date": "2026-06-25 11:55",
+      "summary": "上证报中国证券网讯（记者 徐潇潇）6月25日，记者在招商银行2025年度股东会上了解到，招商银行党委书记、拟任行长王小青在会上表示，要将业务做精做透...",
+      "source": "上海证券报·中国证券网",
+      "category": "a-stock"
+    },
+    {
+      "title": "和黄医药午前涨超3% 凡瑞格拉替尼关键性研究数据将于ESMO胃肠道肿瘤大会上公布",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-25/doc-inieqwsu1023583.shtml",
+      "date": "2026-06-25 11:54",
+      "summary": "和黄医药（00013）午前涨超3%，截至发稿，股价上涨3.52%，现报16.77港元，成交额3936.65万港元。 6月25日，和黄医药发布公告，凡瑞格拉替尼（HMPL-453）用于治疗肝内胆管癌...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "天数智芯午前涨超8%盘中创新高 公司商业化跑通在即",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-25/doc-inieqwsu1022258.shtml",
+      "date": "2026-06-25 11:52",
+      "summary": "天数智芯（09903）盘中涨超12%，高见887.50港元，再创上市新高。截至发稿，股价上涨8.50%，现报855港元，成交额7.91亿港元。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "哥伦比亚央行董事Ana Fernanda：开放合作与金融互联互通是全球经济发展的重要动力",
+      "link": "https://finance.sina.com.cn/hy/hyjz/2026-06-25/doc-inieqwsu1020955.shtml",
+      "date": "2026-06-25 11:50",
+      "summary": "6月25日消息，世界经济论坛第十七届新领军者年会（2026大连夏季达沃斯论坛）期间，哥伦比亚中央银行董事会成员Ana Fernanda表示，在全球经济联系不断深化的背景下...",
+      "source": "新浪科技",
+      "category": "a-stock"
+    },
+    {
+      "title": "AI时代，数字金融如何助力普通人“不掉队”？",
+      "link": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-06-25/doc-inieqwta2515903.shtml",
+      "date": "2026-06-25 11:44",
+      "summary": "来源：金融时报 原标题：AI时代， 数字金融如何助力普通人“不掉队”？访中关村互联网金融研究院院长、中关村金融科技产业发展联盟秘书长刘勇...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "商业保险支持创新药 从“有药可用”走向“用得起药”是关键",
+      "link": "https://finance.sina.com.cn/money/insurance/bxyy/2026-06-25/doc-inieqwsu1016205.shtml",
+      "date": "2026-06-25 11:43",
+      "summary": "来源：金融时报 6月22日，商务部、国家发展改革委、财政部联合印发《利用外资固稳促优行动方案》，围绕扩大市场准入、提升外商投资便利度、提高投资促进水平...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "密集入股6家法人机构 广西农合“上参下”改革稳步推进",
+      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-06-25/doc-inieqwsu1015312.shtml",
+      "date": "2026-06-25 11:42",
+      "summary": "来源：金融时报 近一个多月内，国家金融监督管理总局广西监管局密集披露多份股权投资批复，广西农商联合银行通过认购新股和存量股权受让两种方式...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "纠偏数字化转型“重建设、轻风控”乱象 多家国有大行因“信息系统风险管控”收到罚单",
+      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-06-25/doc-inieqwta2512686.shtml",
+      "date": "2026-06-25 11:41",
+      "summary": "来源：金融时报 近年来，银行业数字化转型持续提速，金融科技投入力度不断加大，但信息科技风险管控短板日益凸显。 《金融时报》记者注意到，近日...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "海辰储能吴祖钰：钠电池进入规模化有经济性的交付可能要5年时间",
+      "link": "https://finance.sina.com.cn/hy/hyjz/2026-06-25/doc-inieqwsy5732212.shtml",
+      "date": "2026-06-25 11:37",
+      "summary": "6月25日消息，世界经济论坛第十七届新领军者年会（2026大连夏季达沃斯论坛）在大连举行。海辰储能董事长吴祖钰在论坛上谈到广受关注的锂资源紧缺问题。",
+      "source": "新浪科技",
+      "category": "a-stock"
+    },
+    {
+      "title": "蓝思科技盘中涨超7% 目前正配合海内外客户测试送样",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-25/doc-inieqwta2502045.shtml",
+      "date": "2026-06-25 11:31",
+      "summary": "蓝思科技（06613）盘中涨超7%，截至发稿，股价上涨4.18%，报27.42港元，成交额6.53亿港元。 国信证券表示，Al计算需求快速增长，推动芯片封装向更大面积，更高I/O密度...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "携程一季度净利润25亿，二季度收入预期大幅放缓",
+      "link": "https://finance.sina.com.cn/roll/2026-06-25/doc-inieqwta2504303.shtml",
+      "date": "2026-06-25 11:30",
+      "summary": "携程一季度入境游业绩亮眼，但净利润同比下滑。 携程集团（9961.HK）今日公布2026年第一季度财报，期内实现净收入162亿元，同比增长17%，经调整EBITDA为48亿元（人民币...",
       "source": "一财网",
       "category": "a-stock"
     },
     {
-      "title": "贝恩达成协议收购大众汽车旗下重型柴油发动机子公司Everllence控股权",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqnay1057546.shtml",
-      "date": "2026-06-25 07:40",
-      "summary": "贝恩资本同意收购大众汽车旗下重型柴油发动机子公司的控股权，结束了欧洲竞争最激烈的私募股权竞购之一。 据大众汽车发布的公告，这家私募公司已就收购Everllence...",
-      "source": "环球市场播报",
+      "title": "海辰储能吴祖钰：本地化布局是中国优势产业出海必由之路",
+      "link": "https://finance.sina.com.cn/hy/hyjz/2026-06-25/doc-inieqwsy5724903.shtml",
+      "date": "2026-06-25 11:29",
+      "summary": "2026年6月23日至25日，2026大连夏季达沃斯论坛，即世界经济论坛第十七届新领军者年会在中国辽宁省大连市举办。厦门海辰储能科技股份有限公司董事长吴祖钰出席“解读‘十五五’...",
+      "source": "睿见Economy",
       "category": "a-stock"
     },
     {
-      "title": "美元冲击波来袭！黄金暴跌失守4000美元，高位回撤近30%套牢200吨ETF",
-      "link": "https://finance.sina.com.cn/roll/2026-06-25/doc-inieqnay1058376.shtml",
-      "date": "2026-06-25 07:39",
-      "summary": "美元指数创13个月新高。 受美联储加息预期升温、科技股遭抛售催生避险买盘双重提振，美元兑一揽子主要货币持续走强，美元指数周三创下13个月新高。",
-      "source": "一财网",
+      "title": "对话君智咨询谢伟山：AI企业最该补齐的短板，是从技术思维转向市场思维",
+      "link": "https://finance.sina.com.cn/hy/hyjz/2026-06-25/doc-inieqwta2501154.shtml",
+      "date": "2026-06-25 11:29",
+      "summary": "6月23日至25日，世界经济论坛第十七届新领军者年会（2026大连夏季达沃斯论坛）在大连举行，君智战略咨询创始人、董事长谢伟山出席并参与主题分享。",
+      "source": "新浪科技",
       "category": "a-stock"
     },
     {
-      "title": "通用汽车宣布向巴西追加投资近7亿美元",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqnay1056300.shtml",
-      "date": "2026-06-25 07:37",
-      "summary": "美国通用汽车公司周三宣布，将向巴西追加投资35亿雷亚尔（约合6.7488亿美元），使其对巴西汽车行业的投资额增加50%，并支持混合动力汽车的生产和工厂现代化改造。",
-      "source": "环球市场播报",
+      "title": "长飞光纤光缆盘中涨超10% AI超级周期下驱动光纤行业高景气",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-25/doc-inieqwsy5723632.shtml",
+      "date": "2026-06-25 11:28",
+      "summary": "长飞光纤光缆（06869）今早一度涨超10%，截至发稿，股价上涨7.20%，现报280港元，成交额35.87亿港元。 受益于AI算力网络建设带来的巨量光纤光缆需求...",
+      "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "高通预计到2029年手机以外芯片收入将达400亿美元，数据中心芯片收入将达150亿美元",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqnay1054642.shtml",
-      "date": "2026-06-25 07:34",
-      "summary": "高通公司周三表示，随着其业务重心从核心智能手机芯片转向其他领域，预计到 2029 年，其数据中心业务的销售额将达到 150 亿美元。",
-      "source": "环球市场播报",
+      "title": "安可咨询全球总裁郭逸文：很多人讨论AI是消灭工作还是创造工作，这个问题问错了",
+      "link": "https://finance.sina.com.cn/hy/hyjz/2026-06-25/doc-inieqwta2500460.shtml",
+      "date": "2026-06-25 11:27",
+      "summary": "6月23日至25日，世界经济论坛第十七届新领军者年会（夏季达沃斯论坛）在海滨城市辽宁大连举行。论坛期间，安可咨询（APCO Worldwide）全球总裁Evan...",
+      "source": "新浪科技",
       "category": "a-stock"
     },
     {
-      "title": "压力测试过关 摩根大通、高盛等大型银行提高股利并回购股份",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqnaz7830418.shtml",
-      "date": "2026-06-25 07:31",
-      "summary": "美国几家大型银行在通过了今年的美联储压力测试后提高了股息；近年来，随着监管机构研拟新的要求，压力测试已趋于宽松。",
-      "source": "环球市场播报",
+      "title": "Sebastian Buckup：中国将在全球绿色转型中发挥关键作用",
+      "link": "https://finance.sina.com.cn/hy/hyjz/2026-06-25/doc-inieqskw1129099.shtml",
+      "date": "2026-06-25 11:25",
+      "summary": "6月24日消息，世界经济论坛第十七届新领军者年会（2026大连夏季达沃斯论坛）今日在大连举行。世界经济论坛管理董事、自然与气候中心负责人Sebastian Buckup表示...",
+      "source": "新浪科技",
       "category": "a-stock"
     },
     {
-      "title": "6月25日财经早餐：加息押注增加，金价跌至逾七个月新低，油价重挫超4%",
-      "link": "https://finance.sina.com.cn/money/forex/hbfx/2026-06-25/doc-inieqnaz7831050.shtml",
-      "date": "2026-06-25 07:31",
-      "summary": "汇通财经APP讯——周四（北京时间6月25日）亚市早盘，现货黄金交投于3997美元/盎司附近，金价周三跌至逾七个月新低至3959.04美元/盎司，主因美元走强至13个月高点...",
-      "source": "滚动播报",
+      "title": "海辰储能吴祖钰：未来5年储能装备全生命周期度电成本会进入“一毛钱时代”",
+      "link": "https://finance.sina.com.cn/hy/hyjz/2026-06-25/doc-inieqsme2628808.shtml",
+      "date": "2026-06-25 11:25",
+      "summary": "6月25日消息，世界经济论坛第十七届新领军者年会（2026大连夏季达沃斯论坛）在大连举行。海辰储能董事长吴祖钰在论坛上表示，“十五五”规划...",
+      "source": "新浪科技",
       "category": "a-stock"
     },
     {
-      "title": "高通公司预计到2029财年数据中心AI组件销售额将达150亿美元",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqnay1052502.shtml",
-      "date": "2026-06-25 07:30",
-      "summary": "高通公司预测到2029财年在数据中心AI组件市场的销售额将超过150亿美元。 该公司预计到2029年，除手机业务外，其他业务的年收入将达到400亿美元...",
-      "source": "环球市场播报",
+      "title": "PCB概念股早盘延续涨势 广合科技及大族数控均涨逾9%",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-25/doc-inieqsme2628692.shtml",
+      "date": "2026-06-25 11:25",
+      "summary": "PCB概念股早盘延续涨势，截至发稿，广合科技（01989）上涨9.45%，报185.90港元；大族数控（03200）上涨8.84%，报200.60港元；建滔积层板（01888）上涨5.99%，报99.15港元。",
+      "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "突然崩了！“金银油”集体暴跌，“进入技术性熊市”！阿里巴巴：已起诉美国防部！刚刚，科技股大反攻",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-06-25/doc-inieqnaz7831326.shtml",
-      "date": "2026-06-25 07:26",
-      "summary": "来源：期货日报 一夜之间，“金银油”全崩了！ 周三晚间，现货黄金价格一度跌破4000美元/盎司整数关口，日内跌幅达2.8%，为2025年11月以来首次。",
+      "title": "加息阴影下黄金白银双双“栽了”，又一家机构砍价：别跟美联储对着干",
+      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-06-25/doc-inieqskx7905928.shtml",
+      "date": "2026-06-25 11:24",
+      "summary": "文章来源：金十数据 黄金与白银近日持续承压，价格双双跌破关键关口。现货黄金已下探至每盎司4000美元以下，创下年内新低；白银也跌破每盎司60美元。",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "贝恩资本或将收购大众旗下船用发动机子公司Everllence",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqnaz7826327.shtml",
-      "date": "2026-06-25 07:20",
-      "summary": "据知情人士透露，贝恩资本即将收购大众汽车旗下船用发动机部门Everllence的多数股权，击败了包括一家与大众汽车主要股东联手竞购的私募股权公司在内的其他竞购者。",
+      "title": "龙旗科技盘中涨超6% 机构指公司业务有望向消费电子下游延申",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-25/doc-inieqskw1125445.shtml",
+      "date": "2026-06-25 11:21",
+      "summary": "龙旗科技（09611）盘中涨超6%，截至发稿，股价上涨4.96%，现报25.40港元，成交额1995.71万港元。 近日，龙旗科技发布公告，有关收购科峻成精密及吉亚金属（即目标公司）各...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "摩根大通将韩国股市牛市情景目标位上调至15000点",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqsme2620705.shtml",
+      "date": "2026-06-25 11:14",
+      "summary": "摩根大通上调韩国Kospi指数目标位，并建议逢低加仓，继续维持对韩国股市的最高敞口。 摩根大通策略师在报告中写道：“这源于我们对人工智能的建设性看法以及相关硬件公司的...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "美股科技股承压，纳指三连阴，美光盘后大涨12%，国际油价大跌，金银暴跌",
-      "link": "https://finance.sina.com.cn/roll/2026-06-25/doc-inieqnch2566319.shtml",
-      "date": "2026-06-25 07:20",
-      "summary": "2026.06．25 作者 |第一财经樊志菁 周三美股涨跌互现，纳斯达克、标普500指数下跌，科技股因市场持续担忧板块估值过高遭到拖累，但国际原油价格大幅走低利好航空...",
-      "source": "第一财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "存储巨头，盘后暴涨！业绩炸裂",
-      "link": "https://finance.sina.com.cn/wm/2026-06-25/doc-inieqnay1049811.shtml",
-      "date": "2026-06-25 07:17",
-      "summary": "当地时间6月24日，美股三大指数涨跌不一。在科技股短暂遭遇抛售后，周三全球股市趋于稳定。美光科技美股盘后发布财报，第三财季调整后毛利润率84.9%，超分析师预期...",
-      "source": "证券时报",
-      "category": "a-stock"
-    },
-    {
-      "title": "黄金跌3.6%破4000美元，期银大跌10%，三年金银牛市戛然而止?",
-      "link": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-06-25/doc-inieqnce5787475.shtml",
-      "date": "2026-06-25 07:17",
-      "summary": "来源：华尔街见闻 黄金，这个今年以来全球最拥挤的做多交易之一，正经历剧烈反转。 6月24日，现货黄金盘中跌破4000美元/盎司关口...",
+      "title": "高瞻远“猪”：5-6月份持续磨底 7-9月猪价反弹空间有多大",
+      "link": "https://finance.sina.com.cn/money/future/2026-06-25/doc-inieqskx7896519.shtml",
+      "date": "2026-06-25 11:13",
+      "summary": "卓创资讯生猪行业高级分析师王亚男 【导语】5月份生猪市场进入僵持运行态势，而6月份这一情况并未发生改善，供需僵持运行，生猪行情持续磨底。",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "比特币跌破6万！AI吸走资金、散户缺席，华尔街接管市场后，谁来接住暴跌？",
-      "link": "https://finance.sina.com.cn/blockchain/qklhz/2026-06-25/doc-inieqnay1047253.shtml",
-      "date": "2026-06-25 07:16",
-      "summary": "来源：华尔街见闻 比特币正在为机构化转型付出代价。散户买盘萎缩、ETF资金持续外流、企业持仓者潜在抛售压力上升，加之AI基础设施投资持续虹吸风险资产资金...",
-      "source": "市场资讯",
+      "title": "多管齐下，严禁“特供酒”抬头",
+      "link": "https://finance.sina.com.cn/jjxw/2026-06-25/doc-inieqskx7893843.shtml",
+      "date": "2026-06-25 11:03",
+      "summary": "转自：经济参考报 国务院食安办近日集中通报一批“特供酒”典型违法案件，重申市场上不存在任何官方“特供酒”，各类假借党政军名义的“特供”“专供”酒品均为虚假噱头与假冒伪劣...",
+      "source": "央视",
       "category": "a-stock"
     },
     {
-      "title": "美国国家运输安全委员会对特斯拉致命车祸展开调查",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqnay1045364.shtml",
-      "date": "2026-06-25 07:14",
-      "summary": "美国国家运输安全委员会（NTSB）周三表示，将对上周发生在德克萨斯州凯蒂市的一辆特斯拉Model 3高速撞入民宅的事故展开调查，该事故导致一名76岁的居民不幸身亡。",
+      "title": "招商银行拟任行长王小青：下一步经营上还有很多作为的空间",
+      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-06-25/doc-inieqsme2612755.shtml",
+      "date": "2026-06-25 10:56",
+      "summary": "每经深圳6月25日电（记者赵景致）6月25日上午，招商银行（600036）2025年股东会在深圳召开，会议完成各项议案表决后，进入管理层现场问答环节。",
+      "source": "每日经济新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "高通进军数据中心处理器，转型计算连续体平台",
+      "link": "https://finance.sina.com.cn/tech/shenji/2026-06-25/doc-inieqskx7881402.shtml",
+      "date": "2026-06-25 10:54",
+      "summary": "文/郑峻 发自硅谷 2026年6月24日，高通CEO克里斯蒂亚诺·安蒙（Cristiano Amon）在纽约举办的高通投资者日上，向台下的分析师和机构投资者展示了他用五年时间打造的完整多元...",
+      "source": "新浪科技",
+      "category": "a-stock"
+    },
+    {
+      "title": "黄仁勋：本轮AI基础设施建设周期将以数十年计",
+      "link": "https://finance.sina.com.cn/roll/2026-06-25/doc-inieqsme2609051.shtml",
+      "date": "2026-06-25 10:53",
+      "summary": "黄仁勋股东大会最新发声：下一个主要增长阶段是物理AI 英伟达2026股东大会，黄仁勋说了啥？ 英伟达股东大会黄仁勋开启“自夸”模式 称AI投资回报率的问题“已有答案”...",
+      "source": "新浪财经2",
+      "category": "a-stock"
+    },
+    {
+      "title": "铠侠计划明年第二季度发行美国存托凭证",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqskw1102216.shtml",
+      "date": "2026-06-25 10:52",
+      "summary": "日本闪存供应商铠侠控股计划于2027年春季发行美国存托凭证（ADR），希望利用全球半导体股票人工智能上涨带来的强劲需求。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "盘后大涨16%！美光财报“炸了”，AI行情“定心丸”有了？",
-      "link": "https://finance.sina.com.cn/stock/bxjj/2026-06-25/doc-inieqnay1049235.shtml",
-      "date": "2026-06-25 07:13",
-      "summary": "来源：财联社 美东时间周三盘后，AI存储龙头美光科技公布第三财季（3-5月）财报。财报显示，美光继续受益于人工智能热潮带来的旺盛需求，第三财季营收增长高达346%...",
+      "title": "陈航卸任钉钉相关职务",
+      "link": "https://finance.sina.com.cn/wm/2026-06-25/doc-inieqsme2602808.shtml",
+      "date": "2026-06-25 10:48",
+      "summary": "天眼查App显示，6月23日，钉钉科技有限公司发生工商变更，陈航卸任法定代表人、董事、经理，由朱鸿接任。 该公司成立于2017年12月，注册资本5000万人民币...",
+      "source": "界面",
+      "category": "a-stock"
+    },
+    {
+      "title": "黄金周四交易提醒:这件大事恐引爆行情！FXStreet首席分析师金价技术前景分析",
+      "link": "https://finance.sina.com.cn/money/nmetal/hjfx/2026-06-25/doc-inieqsme2616634.shtml",
+      "date": "2026-06-25 10:47",
+      "summary": "文章来源：24K99 周四（6月25日）亚市盘中，现货黄金延续跌势，金价目前位于3977美元/盎司附近。本交易日，投资者将聚焦美国PCE物价指数，预计将引发市场大行情。",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "委内瑞拉发生7.1级地震 引发海啸预警",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqnce5780691.shtml",
-      "date": "2026-06-25 07:07",
-      "summary": "委内瑞拉当地时间周三晚间发生大地震，加拉加斯建筑倒塌，部分手机信号和电力线路中断，加勒比海地区拉响海啸警报。 美国地质调查局称，此次地震震级为7.1级...",
+      "title": "特朗普“掀桌子”的一天：取消住房法案签字、痛骂国会议员、炮轰欧洲盟友",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqskx7874511.shtml",
+      "date": "2026-06-25 10:45",
+      "summary": "当地时间周三凌晨2点38分，美国总统特朗普突然取消了签署一项两党住房法案的计划。此前，共和党领导人和白宫高级官员曾盛赞该法案具有变革意义。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "美光高管：无法确定存储供应何时能赶上增长的需求",
-      "link": "https://finance.sina.com.cn/jjxw/2026-06-25/doc-inieqnch2559469.shtml",
-      "date": "2026-06-25 07:07",
-      "summary": "当地时间6月24日，在美光科技2026财年第三季度业绩交流会上，美光高管表示，公司预计行业供应将在2028年逐步改善，但目前无法确定存储供应何时能赶上不断增长的需求。",
-      "source": "一财网",
+      "title": "特朗普拒签住房法案 与心生不满的同党参议员爆口角",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieqskx7872485.shtml",
+      "date": "2026-06-25 10:43",
+      "summary": "美国总统唐纳德·特朗普与共和党籍联邦参议员之间的紧张关系，在周三的一场午餐会上升至白热化。此前24小时内，一些参议员因伊朗战争问题公开反驳特朗普...",
+      "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "黄金交易提醒：金价惊现七个月新低！美元狂飙+美联储加息预期双重暴击，多头梦碎4000关口？",
-      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-06-25/doc-inieqnch2557889.shtml",
-      "date": "2026-06-25 07:07",
-      "summary": "汇通财经APP讯——全球黄金市场正上演一场戏剧性转折。周三（6月24日），现货黄金价格大幅下挫2.7%，最终报收于每盎司3998.95美元，不仅跌破4000美元这一关键心理关口...",
-      "source": "滚动播报",
+      "title": "放弃“百亿目标”，股价回到十年前，麦肯锡没能拯救口子窖",
+      "link": "https://finance.sina.com.cn/wm/2026-06-25/doc-inieqsma5826388.shtml",
+      "date": "2026-06-25 10:43",
+      "summary": "（来源：砺石商业评论） 从风光无两的“徽酒老二”到跌落神坛，口子窖仅仅用了五年的时间。 李平 | 作者 平凡 | 编辑 砺石商业评论 | 出品 1 500亿市值灰飞烟灭...",
+      "source": "新浪财经2",
       "category": "a-stock"
     }
   ]
