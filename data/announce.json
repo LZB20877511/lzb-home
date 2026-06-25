@@ -1,12 +1,222 @@
 {
-  "updated": "2026-06-25T21:55:33.549445+08:00",
+  "updated": "2026-06-26T00:13:06.031662+08:00",
   "source": "个股公告",
   "count": 29,
   "items": [
     {
+      "title": "城投控股:上海城投控股股份有限公司关于回购股份事项前十大股东及前十大无限售条件股东持股情况的公告",
+      "link": "https://data.eastmoney.com/notices/detail/600649/20260626/AN202606251823863786.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "600649",
+      "stock_name": "城投控股"
+    },
+    {
+      "title": "东吴证券:东吴证券股份有限公司关于发行股份及支付现金购买资产暨关联交易申请文件获得上海证券交易所受理的公告",
+      "link": "https://data.eastmoney.com/notices/detail/601555/20260626/AN202606251823863604.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "601555",
+      "stock_name": "东吴证券"
+    },
+    {
+      "title": "东吴证券:国泰海通证券股份有限公司关于东吴证券股份有限公司发行股份及支付现金购买资产暨关联交易之独立财务顾问报告",
+      "link": "https://data.eastmoney.com/notices/detail/601555/20260626/AN202606251823863601.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "601555",
+      "stock_name": "东吴证券"
+    },
+    {
+      "title": "东吴证券:东吴证券股份有限公司发行股份及支付现金购买资产暨关联交易报告书(申报稿)",
+      "link": "https://data.eastmoney.com/notices/detail/601555/20260626/AN202606251823863600.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "601555",
+      "stock_name": "东吴证券"
+    },
+    {
+      "title": "东吴证券:国浩律师(上海)事务所关于东吴证券股份有限公司发行股份及支付现金购买资产暨关联交易之法律意见书",
+      "link": "https://data.eastmoney.com/notices/detail/601555/20260626/AN202606251823863603.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "601555",
+      "stock_name": "东吴证券"
+    },
+    {
+      "title": "春立医疗:H股市场公告",
+      "link": "https://data.eastmoney.com/notices/detail/688236/20260626/AN202606251823863402.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688236",
+      "stock_name": "春立医疗"
+    },
+    {
+      "title": "长电科技:江苏长电科技股份有限公司股票交易价格异常波动公告",
+      "link": "https://data.eastmoney.com/notices/detail/600584/20260626/AN202606251823863177.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "600584",
+      "stock_name": "长电科技"
+    },
+    {
+      "title": "庄园牧场:兰州庄园牧场股份有限公司关于股东权益变动触及1%刻度的提示性公告",
+      "link": "https://data.eastmoney.com/notices/detail/002910/20260626/AN202606251823863019.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002910",
+      "stock_name": "庄园牧场"
+    },
+    {
+      "title": "*ST中基:第十届董事会第二十四次临时会议决议公告",
+      "link": "https://data.eastmoney.com/notices/detail/000972/20260626/AN202606251823862823.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "000972",
+      "stock_name": "*ST中基"
+    },
+    {
+      "title": "*ST中基:关于深圳证券交易所2025年年报问询函的回复公告",
+      "link": "https://data.eastmoney.com/notices/detail/000972/20260626/AN202606251823862818.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "000972",
+      "stock_name": "*ST中基"
+    },
+    {
+      "title": "*ST中基:中基健康产业股份有限公司2025年半年度报告(更正后)",
+      "link": "https://data.eastmoney.com/notices/detail/000972/20260626/AN202606251823862824.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "000972",
+      "stock_name": "*ST中基"
+    },
+    {
+      "title": "*ST中基:关于前期会计差错更正的公告",
+      "link": "https://data.eastmoney.com/notices/detail/000972/20260626/AN202606251823862820.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "000972",
+      "stock_name": "*ST中基"
+    },
+    {
+      "title": "*ST中基:中基健康产业股份有限公司2025年第三季度报告(更正后)",
+      "link": "https://data.eastmoney.com/notices/detail/000972/20260626/AN202606251823862817.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "000972",
+      "stock_name": "*ST中基"
+    },
+    {
+      "title": "*ST中基:中基健康2025年年报会计师问询函回复-中兴华报字(2026)第630005号",
+      "link": "https://data.eastmoney.com/notices/detail/000972/20260626/AN202606251823862822.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "000972",
+      "stock_name": "*ST中基"
+    },
+    {
+      "title": "*ST中基:关于公司股票交易撤销退市风险警示暨股票停复牌的公告",
+      "link": "https://data.eastmoney.com/notices/detail/000972/20260626/AN202606251823862819.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "000972",
+      "stock_name": "*ST中基"
+    },
+    {
+      "title": "*ST中基:关于前期会计差错更正后的财务报表",
+      "link": "https://data.eastmoney.com/notices/detail/000972/20260626/AN202606251823862821.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "000972",
+      "stock_name": "*ST中基"
+    },
+    {
+      "title": "*ST中基:中基健康产业股份有限公司2025年年度报告(更正后)",
+      "link": "https://data.eastmoney.com/notices/detail/000972/20260626/AN202606251823862806.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "000972",
+      "stock_name": "*ST中基"
+    },
+    {
+      "title": "春立医疗:关于选举第六届董事会职工代表董事的公告",
+      "link": "https://data.eastmoney.com/notices/detail/688236/20260626/AN202606251823862687.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688236",
+      "stock_name": "春立医疗"
+    },
+    {
+      "title": "春立医疗:北京市万商天勤律师事务所关于北京市春立正达医疗器械股份有限公司2026年第一次临时股东会的法律意见书",
+      "link": "https://data.eastmoney.com/notices/detail/688236/20260626/AN202606251823862688.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688236",
+      "stock_name": "春立医疗"
+    },
+    {
+      "title": "春立医疗:关于董事会完成换届选举的公告",
+      "link": "https://data.eastmoney.com/notices/detail/688236/20260626/AN202606251823862686.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688236",
+      "stock_name": "春立医疗"
+    },
+    {
+      "title": "春立医疗:2026年第一次临时股东会决议公告",
+      "link": "https://data.eastmoney.com/notices/detail/688236/20260626/AN202606251823862689.html",
+      "date": "2026-06-26 00:13",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688236",
+      "stock_name": "春立医疗"
+    },
+    {
       "title": "中青旅:中青旅2026年第一次临时股东会会议文件",
       "link": "https://data.eastmoney.com/notices/detail/600138/20260626/AN202606251823862075.html",
-      "date": "2026-06-25 21:55",
+      "date": "2026-06-26 00:13",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -16,7 +226,7 @@
     {
       "title": "中青旅:中青旅关于召开2026年第一次临时股东会的提示性公告",
       "link": "https://data.eastmoney.com/notices/detail/600138/20260626/AN202606251823862069.html",
-      "date": "2026-06-25 21:55",
+      "date": "2026-06-26 00:13",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -26,7 +236,7 @@
     {
       "title": "北大荒:关于《黑龙江北大荒农业股份有限公司股票交易异常波动有关事项的询证函》的回函",
       "link": "https://data.eastmoney.com/notices/detail/600598/20260626/AN202606251823861412.html",
-      "date": "2026-06-25 21:55",
+      "date": "2026-06-26 00:13",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -36,7 +246,7 @@
     {
       "title": "北大荒:黑龙江北大荒农业股份有限公司关于股价异常波动的公告",
       "link": "https://data.eastmoney.com/notices/detail/600598/20260626/AN202606251823861403.html",
-      "date": "2026-06-25 21:55",
+      "date": "2026-06-26 00:13",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -46,7 +256,7 @@
     {
       "title": "博众精工:2025年年度股东会决议公告",
       "link": "https://data.eastmoney.com/notices/detail/688097/20260626/AN202606251823860805.html",
-      "date": "2026-06-25 21:55",
+      "date": "2026-06-26 00:13",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -56,7 +266,7 @@
     {
       "title": "博众精工:关于公司2026年限制性股票激励计划内幕信息知情人及激励对象买卖公司股票情况的自查报告",
       "link": "https://data.eastmoney.com/notices/detail/688097/20260626/AN202606251823860803.html",
-      "date": "2026-06-25 21:55",
+      "date": "2026-06-26 00:13",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -66,7 +276,7 @@
     {
       "title": "博众精工:上海澄明则正律师事务所关于博众精工科技股份有限公司2025年年度股东会的法律意见书",
       "link": "https://data.eastmoney.com/notices/detail/688097/20260626/AN202606251823860804.html",
-      "date": "2026-06-25 21:55",
+      "date": "2026-06-26 00:13",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -76,222 +286,12 @@
     {
       "title": "ST葫芦娃:海南葫芦娃药业集团股份有限公司关于归还临时补充流动资金的募集资金的公告",
       "link": "https://data.eastmoney.com/notices/detail/605199/20260626/AN202606251823860776.html",
-      "date": "2026-06-25 21:55",
+      "date": "2026-06-26 00:13",
       "summary": "",
       "source": "公告API",
       "category": "announce",
       "stock_code": "605199",
       "stock_name": "ST葫芦娃"
-    },
-    {
-      "title": "亚厦股份:2025年年度权益分派实施公告",
-      "link": "https://data.eastmoney.com/notices/detail/002375/20260626/AN202606251823860773.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002375",
-      "stock_name": "亚厦股份"
-    },
-    {
-      "title": "紫燕食品:紫燕食品关于调整2025年度利润分配总额的公告",
-      "link": "https://data.eastmoney.com/notices/detail/603057/20260626/AN202606251823860743.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "603057",
-      "stock_name": "紫燕食品"
-    },
-    {
-      "title": "紫燕食品:紫燕食品关于实际控制人及其一致行动人权益被动变动触及1%刻度的提示性公告",
-      "link": "https://data.eastmoney.com/notices/detail/603057/20260626/AN202606251823860744.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "603057",
-      "stock_name": "紫燕食品"
-    },
-    {
-      "title": "紫燕食品:紫燕食品2026年限制性股票激励计划首次授予结果公告",
-      "link": "https://data.eastmoney.com/notices/detail/603057/20260626/AN202606251823860745.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "603057",
-      "stock_name": "紫燕食品"
-    },
-    {
-      "title": "江铃汽车:江铃汽车十二届一次董事会决议公告",
-      "link": "https://data.eastmoney.com/notices/detail/000550/20260626/AN202606251823860074.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "000550",
-      "stock_name": "江铃汽车"
-    },
-    {
-      "title": "国投丰乐:关于通过国投财务有限公司提供委托贷款暨关联交易的公告",
-      "link": "https://data.eastmoney.com/notices/detail/000713/20260626/AN202606251823860080.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "000713",
-      "stock_name": "国投丰乐"
-    },
-    {
-      "title": "国投丰乐:中信建投证券股份有限公司、国投证券股份有限公司关于国投丰乐种业股份有限公司通过国投财务有限公司提供委托贷款暨关联交易的核查意见",
-      "link": "https://data.eastmoney.com/notices/detail/000713/20260626/AN202606251823860069.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "000713",
-      "stock_name": "国投丰乐"
-    },
-    {
-      "title": "大族激光:关于控股子公司投资建设光纤及预制棒项目的公告",
-      "link": "https://data.eastmoney.com/notices/detail/002008/20260626/AN202606251823860076.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002008",
-      "stock_name": "大族激光"
-    },
-    {
-      "title": "大族激光:第八届董事会第十七次会议决议公告",
-      "link": "https://data.eastmoney.com/notices/detail/002008/20260626/AN202606251823860068.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002008",
-      "stock_name": "大族激光"
-    },
-    {
-      "title": "江铃Ｂ:江铃汽车十二届一次董事会决议公告(英文版)",
-      "link": "https://data.eastmoney.com/notices/detail/000550/20260626/AN202606251823860078.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "000550",
-      "stock_name": "江铃汽车"
-    },
-    {
-      "title": "大族激光:关于召开2026年第二次临时股东会的通知",
-      "link": "https://data.eastmoney.com/notices/detail/002008/20260626/AN202606251823860073.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002008",
-      "stock_name": "大族激光"
-    },
-    {
-      "title": "大族激光:大族激光科技产业集团股份有限公司章程(2026年6月)",
-      "link": "https://data.eastmoney.com/notices/detail/002008/20260626/AN202606251823860082.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002008",
-      "stock_name": "大族激光"
-    },
-    {
-      "title": "大族激光:关于调整高级管理人员范围并修订《公司章程》的公告",
-      "link": "https://data.eastmoney.com/notices/detail/002008/20260626/AN202606251823860079.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002008",
-      "stock_name": "大族激光"
-    },
-    {
-      "title": "国投丰乐:关于召开2026年第三次临时股东会的通知",
-      "link": "https://data.eastmoney.com/notices/detail/000713/20260626/AN202606251823860075.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "000713",
-      "stock_name": "国投丰乐"
-    },
-    {
-      "title": "国投丰乐:上海锦天城(合肥)律师事务所关于国投丰乐种业股份有限公司受让国投种业科技有限公司持有的国投(张掖)金种科技有限公司60%股权事宜之法律意见书",
-      "link": "https://data.eastmoney.com/notices/detail/000713/20260626/AN202606251823860070.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "000713",
-      "stock_name": "国投丰乐"
-    },
-    {
-      "title": "国投丰乐:第七届董事会第二十次会议决议公告",
-      "link": "https://data.eastmoney.com/notices/detail/000713/20260626/AN202606251823860071.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "000713",
-      "stock_name": "国投丰乐"
-    },
-    {
-      "title": "国投丰乐:关于收购国投(张掖)金种科技有限公司60%股权暨关联交易的公告",
-      "link": "https://data.eastmoney.com/notices/detail/000713/20260626/AN202606251823860067.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "000713",
-      "stock_name": "国投丰乐"
-    },
-    {
-      "title": "国投丰乐:国投(张掖)金种科技有限公司2025年度及2026年1月财务报表之审计报告(中证天通(2026)证审字21100001号)",
-      "link": "https://data.eastmoney.com/notices/detail/000713/20260626/AN202606251823860077.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "000713",
-      "stock_name": "国投丰乐"
-    },
-    {
-      "title": "国投丰乐:国投种业科技有限公司拟向国投丰乐种业股份有限公司转让股权项目涉及的国投(张掖)金种科技有限公司股东全部权益价值资产评估报告(中企华评报字(2026)第8083号)",
-      "link": "https://data.eastmoney.com/notices/detail/000713/20260626/AN202606251823860072.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "000713",
-      "stock_name": "国投丰乐"
-    },
-    {
-      "title": "航天电器:贵州航天电器股份有限公司股票交易异常波动公告",
-      "link": "https://data.eastmoney.com/notices/detail/002025/20260626/AN202606251823860057.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002025",
-      "stock_name": "航天电器"
-    },
-    {
-      "title": "爱旭股份:北京市中伦(深圳)律师事务所关于上海爱旭新能源股份有限公司2023年限制性股票与股票期权激励计划回购注销部分限制性股票实施情况的法律意见书",
-      "link": "https://data.eastmoney.com/notices/detail/600732/20260626/AN202606251823859848.html",
-      "date": "2026-06-25 21:55",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "600732",
-      "stock_name": "爱旭股份"
     }
   ]
 }
