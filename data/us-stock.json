@@ -1,92 +1,124 @@
 {
-  "updated": "2026-06-27T19:17:23.703822+08:00",
+  "updated": "2026-06-27T21:01:43.544610+08:00",
   "source": "美股聚合",
-  "count": 57,
+  "count": 59,
   "items": [
     {
-      "title": "SpaceX will join Nasdaq-100",
-      "link": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html",
-      "date": "2026-06-27 19:17",
-      "summary": "Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.",
+      "title": "The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players",
+      "link": "https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html",
+      "date": "2026-06-27 21:01",
+      "summary": "While Apple and Microsoft raise prices on key devices to help cover the soaring costs of memory, smaller consumer electronics companies are in dire straits.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
       "link": "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html",
-      "date": "2026-06-27 19:17",
+      "date": "2026-06-27 21:01",
       "summary": "The attack comes as the United States and Iran are supposed to be engaging in a 60-period of no hostilities as they hold talks to end their war.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies",
-      "link": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
-      "date": "2026-06-27 19:17",
-      "summary": "Anthropic disabled access to its Fable 5 and Mythos 5 models to comply with a government export control directive citing \"national security authorities.\"",
+      "title": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
+      "link": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html",
+      "date": "2026-06-27 21:01",
+      "summary": "Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Venezuela quake toll tops 900, search intensifies for hundreds trapped",
       "link": "https://www.cnbc.com/2026/06/27/venezuela-quake-toll-tops-900-search-intensifies-for-hundreds-trapped.html",
-      "date": "2026-06-27 19:17",
+      "date": "2026-06-27 21:01",
       "summary": "Frustration has mounted over the uneven pace of relief in some of the hardest-hit areas.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Berkshire CEO Greg Abel sworn in as U.S. citizen at baseball game",
+      "link": "https://www.cnbc.com/2026/06/27/berkshire-ceo-greg-abel-sworn-in-as-us-citizen-at-baseball-game.html",
+      "date": "2026-06-27 21:01",
+      "summary": "Abel, a longtime Iowa resident who was born in the Canadian city of Edmonton in 1962, was among the roughly two dozen people from 16 countries who participated in an annual naturalization ceremony hos",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Bank of America says these five stocks are best positioned for upside amid market uncertainty",
+      "link": "https://www.cnbc.com/2026/06/27/bank-of-america-names-5-stocks-with-the-most-upside-potential.html",
+      "date": "2026-06-27 21:01",
+      "summary": "Analysts at Bank of America said these stocks have plenty of room to run.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies",
+      "link": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
+      "date": "2026-06-27 21:01",
+      "summary": "Anthropic disabled access to its Fable 5 and Mythos 5 models to comply with a government export control directive citing \"national security authorities.\"",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "How GE Vernova builds the massive gas turbines powering the AI data center boom",
+      "link": "https://www.cnbc.com/2026/06/27/ge-vernova-gas-turbines-ai-data-centers.html",
+      "date": "2026-06-27 21:01",
+      "summary": "GE Vernova turbines are powering Elon Musk's xAI Colossus 1 data center and Microsoft just bought seven to power its data center in Texas.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "How Kohl's lost its way  and is trying to become relevant again",
+      "link": "https://www.cnbc.com/2026/06/27/how-kohls-lost-its-way-and-is-trying-to-become-relevant-again.html",
+      "date": "2026-06-27 21:01",
+      "summary": "Kohl's went from a household name to a plunging stock as it lost relevancy and its core customer. Now, the company is trying to turn itself around.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Pinterest has taken a beating in recent years. This analyst thinks it's time to buy",
+      "link": "https://www.cnbc.com/2026/06/27/pinterest-has-taken-a-beating-in-recent-years-this-analyst-thinks-its-time-to-buy.html",
+      "date": "2026-06-27 21:01",
+      "summary": "Pinterest has been fallen 24% this year, but analysts are split whether to buy or sell this stock",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Straight women cant get enough of gay romance stories like Heated Rivalry and Red, White & Royal Blue",
+      "link": "https://www.cnbc.com/2026/06/27/heated-rivalry-red-white-royal-blue-rachel-reid-gay-romance-yaoi-mlm.html",
+      "date": "2026-06-27 21:01",
+      "summary": "Women aren't the protagonists or love interests in a subgrenre of romance focused on gay men. Still, they're consuming these stories in droves.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "From concerts to train rides, bots are winning the ticket wars  but they're only part of the problem",
       "link": "https://www.cnbc.com/2026/06/27/ticket-bots-concert-scalpers-ticketmaster-china-korea.html",
-      "date": "2026-06-27 19:17",
+      "date": "2026-06-27 21:01",
       "summary": "From concerts to train reservations, automated bots have become the latest target in the fight against ticket scalping.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Saudi Aramco resumes oil loading at Ras Tanura in boost to supply",
-      "link": "https://www.cnbc.com/2026/06/27/saudi-aramco-resumes-oil-loading-at-ras-tanura-in-boost-to-supply.html",
-      "date": "2026-06-27 19:17",
-      "summary": "The Saudi oil loadings come even though a ship belonging to Taiwan's Evergreen Marine was hit by an unknown object in the Strait of Hormuz on Thursday.",
+      "title": "Trading in these two ETFs suggests inflation fears are overblown",
+      "link": "https://www.cnbc.com/2026/06/27/trading-in-these-two-etfs-suggests-inflation-fears-are-overblown.html",
+      "date": "2026-06-27 21:01",
+      "summary": "It could have been a big week for bond bears, if it weren't for crude oil.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "U.S. crude oil falls below $70, resuming losses after attack on cargo ship near Oman",
-      "link": "https://www.cnbc.com/2026/06/26/oil-prices-middle-east-iran-strait-of-hormuz-opec-iraq-wti-brent-crude.html",
-      "date": "2026-06-27 19:17",
-      "summary": "Oil extended declines on Friday, with markets focused any further breakthroughs in the Middle East conflict, while absorbing a flurry of Persian Gulf news.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Wall Street is set to close the books on a memorable first half next week. Here's what's ahead",
-      "link": "https://www.cnbc.com/2026/06/26/stock-market-next-week-outlook-for-june-29-july-3-2026.html",
-      "date": "2026-06-27 19:17",
-      "summary": "The view is more rosy than investors could have expected, as they wrap up the month, quarter, and first half of 2026 next week.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Red-alert heatwaves are becoming Europe's new normal. Investors are paying attention",
-      "link": "https://www.cnbc.com/2026/06/27/europe-heatwave-uk-temperature-el-nino-invest.html",
-      "date": "2026-06-27 19:17",
-      "summary": "Temperature records were smashed across Europe this week, prompting several countries across the continent to issued high-level warnings about danger to life.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "China industrial profits stay resilient as economy leans on factories, exports",
-      "link": "https://www.cnbc.com/2026/06/27/china-industrial-profits-stay-resilient-as-economy-leans-on-factories.html",
-      "date": "2026-06-27 19:17",
-      "summary": "China's economic growth remains fragile, hobbled by a prolonged property downturn and deep structural imbalances.",
+      "title": "These stocks are the most oversold after a turbulent week for the market",
+      "link": "https://www.cnbc.com/2026/06/27/these-stocks-are-the-most-oversold-after-a-turbulent-week-for-the-market.html",
+      "date": "2026-06-27 21:01",
+      "summary": "Intercontinental Exchange and CME were among the most oversold stocks this week amid ongoing concerns over a regulatory spat concerning perpetual futures.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "OpenAI hasn't held pre-IPO investor meetings or set timeline yet, sources say",
       "link": "https://www.cnbc.com/2026/06/26/open-ai-ipo-timeline-investors.html",
-      "date": "2026-06-27 19:17",
+      "date": "2026-06-27 21:01",
       "summary": "OpenAI said it confidentially filed its prospectus with the SEC earlier this month, but noted it \"may be a while\" before it goes public.",
       "source": "CNBC",
       "category": "us-stock"
@@ -94,15 +126,71 @@
     {
       "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
       "link": "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html",
-      "date": "2026-06-27 19:17",
+      "date": "2026-06-27 21:01",
       "summary": "OpenAI said it previewed the new models' capabilities with the government ahead of the launch.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Saudi Aramco resumes oil loading at Ras Tanura in boost to supply",
+      "link": "https://www.cnbc.com/2026/06/27/saudi-aramco-resumes-oil-loading-at-ras-tanura-in-boost-to-supply.html",
+      "date": "2026-06-27 21:01",
+      "summary": "The Saudi oil loadings come even though a ship belonging to Taiwan's Evergreen Marine was hit by an unknown object in the Strait of Hormuz on Thursday.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "U.S. crude oil falls below $70, resuming losses after attack on cargo ship near Oman",
+      "link": "https://www.cnbc.com/2026/06/26/oil-prices-middle-east-iran-strait-of-hormuz-opec-iraq-wti-brent-crude.html",
+      "date": "2026-06-27 21:01",
+      "summary": "Oil extended declines on Friday, with markets focused any further breakthroughs in the Middle East conflict, while absorbing a flurry of Persian Gulf news.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Boost portfolio income in the second half of 2026 with these cheap dividend payers",
+      "link": "https://www.cnbc.com/2026/06/26/boost-income-in-the-second-half-of-2026-with-these-cheap-dividend-payers.html",
+      "date": "2026-06-27 21:01",
+      "summary": "In an expensive stock market, these stocks pay investors to wait for potential upside. They are also well-liked by Wall Street.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Red-alert heatwaves are becoming Europe's new normal. Investors are paying attention",
+      "link": "https://www.cnbc.com/2026/06/27/europe-heatwave-uk-temperature-el-nino-invest.html",
+      "date": "2026-06-27 21:01",
+      "summary": "Temperature records were smashed across Europe this week, prompting several countries across the continent to issued high-level warnings about danger to life.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Healthcare stocks have caught fire, sending all 3 of our names to record highs",
+      "link": "https://www.cnbc.com/2026/06/26/healthcare-stocks-have-caught-fire-sending-all-3-of-our-names-to-record-highs.html",
+      "date": "2026-06-27 21:01",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Alliant Credit Union's new checking account pays up to 2% APY  see how it stacks up",
+      "link": "https://www.cnbc.com/select/alliant-credit-union-launches-new-jumbo-high-rate-checking-account/",
+      "date": "2026-06-27 21:01",
+      "summary": "Alliant Credit Union's new jumbo high-rate checking account pays up to 2% APY with no cap on earnings. Here's what to know.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "China industrial profits stay resilient as economy leans on factories, exports",
+      "link": "https://www.cnbc.com/2026/06/27/china-industrial-profits-stay-resilient-as-economy-leans-on-factories.html",
+      "date": "2026-06-27 21:01",
+      "summary": "China's economic growth remains fragile, hobbled by a prolonged property downturn and deep structural imbalances.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4%",
       "link": "https://www.cnbc.com/2026/06/26/trump-warsh-fed-rate-cuts-inflation.html",
-      "date": "2026-06-27 19:17",
+      "date": "2026-06-27 21:01",
       "summary": "President Donald Trump's economic advisors are giving Warsh space, as the new Fed chairman, on interest rates as the president repeats calls to cut.",
       "source": "CNBC",
       "category": "us-stock"
@@ -110,23 +198,15 @@
     {
       "title": "Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate",
       "link": "https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html",
-      "date": "2026-06-27 19:17",
+      "date": "2026-06-27 21:01",
       "summary": "Oracle's surging spending, negative free cash flow and $130 billion debt pile are weighing on the stock.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "A breakout could be in the cards for this biopharmaceutical play, says Carter Worth",
-      "link": "https://www.cnbc.com/2026/06/26/a-breakout-could-be-in-the-cards-for-this-biopharmaceutical-play-says-carter-worth.html",
-      "date": "2026-06-27 19:17",
-      "summary": "Shares of Incyte are now moving out of a seven-month range.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Jeremy Grantham says this is the most expensive market in 'American history'",
+      "title": "Jeremy Grantham says, 'This is the most expensive market in American history'",
       "link": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
-      "date": "2026-06-27 19:17",
+      "date": "2026-06-27 21:01",
       "summary": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.",
       "source": "CNBC",
       "category": "us-stock"
@@ -134,7 +214,7 @@
     {
       "title": "China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back",
       "link": "https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html",
-      "date": "2026-06-27 19:17",
+      "date": "2026-06-27 21:01",
       "summary": "Zhipu's GLM 5.2 shows the AI fight is shifting to who delivers the most intelligence per dollar, making open source suddenly a real contender.",
       "source": "CNBC",
       "category": "us-stock"
@@ -142,95 +222,55 @@
     {
       "title": "Rubio says Israel, Lebanon reach framework agreement aimed at 'lasting peace and security'",
       "link": "https://www.cnbc.com/2026/06/26/israel-lebanon-hezbollah-ceasefire-rubio.html",
-      "date": "2026-06-27 19:17",
+      "date": "2026-06-27 21:01",
       "summary": "Israel and Lebanon agreed to implement a ceasefire. But that is contingent on the paramilitary group Hezbollah agreeing to halt hostilities.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Boost portfolio income in the second half of 2026 with these cheap dividend payers",
-      "link": "https://www.cnbc.com/2026/06/26/boost-income-in-the-second-half-of-2026-with-these-cheap-dividend-payers.html",
-      "date": "2026-06-27 19:17",
-      "summary": "In an expensive stock market, these stocks pay investors to wait for potential upside. They are also well-liked by Wall Street.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Walmart heir Lukas Walton buys minority stake in the Chicago Bulls and United Center",
       "link": "https://www.cnbc.com/2026/06/26/walmart-heir-lukas-walton-chicago-bulls.html",
-      "date": "2026-06-27 19:17",
+      "date": "2026-06-27 21:01",
       "summary": "Lukas Walton is the 39-year-old grandson of Walmart founder Sam Walton. He and his wife, Samantha, are residents of Chicago.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Healthcare stocks have caught fire, sending all 3 of our names to record highs",
-      "link": "https://www.cnbc.com/2026/06/26/healthcare-stocks-have-caught-fire-sending-all-3-of-our-names-to-record-highs.html",
-      "date": "2026-06-27 19:17",
-      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Gavin Newsom calls for national billionaires tax: 'It's time for an economic reset'",
       "link": "https://www.cnbc.com/2026/06/26/gavin-newsom-national-billionaires-tax-california.html",
-      "date": "2026-06-27 19:17",
+      "date": "2026-06-27 21:01",
       "summary": "California Gov. Gavin Newsom said he supports imposing \"a true minimum tax on billionaires\" and closing \"tax-free lifestyle loan\" loopholes for the rich.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Trump threatens 100% tariffs on countries putting 'Digital Services Tax on American Companies'",
-      "link": "https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html",
-      "date": "2026-06-27 19:17",
-      "summary": "\"This TARIFF will supersede Trade Deals made with the Country, whether implemented, signed, or not,\" President Donald Trump wrote in a Truth Social post.",
-      "source": "CNBC",
+      "title": "Big Tech is obsessed with smart glasses. Now it has to convince people to wear them.",
+      "link": "https://www.marketwatch.com/story/big-tech-is-obsessed-with-smart-glasses-now-it-has-to-convince-people-to-wear-them-0d5ebd43?mod=mw_rss_topstories",
+      "date": "2026-06-27 21:01",
+      "summary": "Smart glasses could become the definitive hardware design of the AI era — if consumers buy in to the idea.",
+      "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
-      "link": "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html",
-      "date": "2026-06-27 19:17",
-      "summary": "Kashkari said he sees a hike likely this year as the economy continues to feel the hit from spiking inflation.",
-      "source": "CNBC",
+      "title": "SpaceX’s new $11 billion ‘saving grace’ comes with a big catch",
+      "link": "https://www.marketwatch.com/story/spacexs-new-11-billion-saving-grace-comes-with-a-big-catch-9270c6ae?mod=mw_rss_topstories",
+      "date": "2026-06-27 21:01",
+      "summary": "The company’s pivot toward offering hardware access to rivals could hamstring its own AI goals.",
+      "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "Billionaire investor Jeremy Grantham says bitcoin will 'dwindle away with a whimper'",
-      "link": "https://www.cnbc.com/2026/06/26/billionaire-investor-jeremy-grantham-says-bitcoin-will-dwindle-away-with-a-whimper.html",
-      "date": "2026-06-27 19:17",
-      "summary": "Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it will gradually fade into irrelevance over decades.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Stocks making the biggest moves midday: Moderna, ON Semiconductor, Rocket Lab, Eli Lilly, Sandisk & more",
-      "link": "https://www.cnbc.com/2026/06/26/stocks-making-the-biggest-moves-midday-mrna-on-rklb-lly-sndk.html",
-      "date": "2026-06-27 19:17",
-      "summary": "Here are the companies making headlines in midday trading.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Leon Black refuses to answer questions on NDAs at Jeffrey Epstein hearing, Rep. Comer says",
-      "link": "https://www.cnbc.com/2026/06/26/leon-black-jeffrey-epstein-house-oversight-committee.html",
-      "date": "2026-06-27 19:17",
-      "summary": "\"I knew Jekyll. I didn't know Hyde,\" Leon Black says about Jeffrey Epstein in his prepared statement to the House Oversight and Government Reform Committee.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Ex-Trump advisor John Bolton pleads guilty to retaining national defense information",
-      "link": "https://www.cnbc.com/2026/06/26/john-bolton-guilty-defense-trump.html",
-      "date": "2026-06-27 19:17",
-      "summary": "John Bolton is one of several foes of President Donald Trump who has been indicted since Trump regained the White House.",
-      "source": "CNBC",
+      "title": "It’s a tale of two S&P 500s as rotation out of top tech stocks shifts into overdrive",
+      "link": "https://www.marketwatch.com/story/its-a-tale-of-two-s-p-500s-as-rotation-out-of-top-tech-stocks-shifts-into-overdrive-5254207f?mod=mw_rss_topstories",
+      "date": "2026-06-27 21:01",
+      "summary": "The equal-weighted version of the S&P 500 outperformed its traditional capitalization-weighted sibling this week by the widest margin in six years.",
+      "source": "MarketWatch",
       "category": "us-stock"
     },
     {
       "title": "Tesla and Waymo duel in the robotaxi race — but the company spending the most builds no cars at all",
       "link": "https://www.marketwatch.com/story/tesla-and-waymo-are-chasing-the-robotaxi-dream-but-the-company-spending-the-most-to-win-builds-no-cars-at-all-0d8682b9?mod=mw_rss_topstories",
-      "date": "2026-06-27 19:17",
+      "date": "2026-06-27 21:01",
       "summary": "Uber is quietly writing $500 million checks to lock in robotaxis as Waymo threatens to leave it behind.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -238,7 +278,7 @@
     {
       "title": "SpaceX stock is a terrible buy — what that actually means for the bull market",
       "link": "https://www.marketwatch.com/story/spacex-is-a-bad-buy-why-openai-and-anthropic-will-be-too-2448ea73?mod=mw_rss_topstories",
-      "date": "2026-06-27 19:17",
+      "date": "2026-06-27 21:01",
       "summary": "Overhyped IPOs rarely make you money in the short term. That doesn’t mean it’s time to sell your stocks..",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -246,7 +286,7 @@
     {
       "title": "ServiceNow, Salesforce and other software stocks surge as the OpenAI threat weakens",
       "link": "https://www.marketwatch.com/story/servicenow-salesforce-and-other-software-stocks-surge-as-the-openai-threat-weakens-bb1eacfb?mod=mw_rss_topstories",
-      "date": "2026-06-27 19:17",
+      "date": "2026-06-27 21:01",
       "summary": "Oracle’s stock missed out on the broader software rally, as the company is tied to OpenAI’s success through its cloud-infrastructure business.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -254,7 +294,7 @@
     {
       "title": "U.S. confirms retaliatory strike on Iran, pushing oil prices higher in after-hours trading",
       "link": "https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8?mod=mw_rss_topstories",
-      "date": "2026-06-27 19:17",
+      "date": "2026-06-27 21:01",
       "summary": "Oil futures settled lower to post a third-straight weekly loss on Friday, but moved up in extended trading after the U.S. military confirmed a retaliatory strike on Iran.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -262,7 +302,7 @@
     {
       "title": "Tech stocks just had one of their worst weeks in a year. Here’s how AI momentum went off the rails.",
       "link": "https://www.marketwatch.com/story/tech-stocks-just-had-one-of-their-worst-weeks-in-a-year-heres-how-ai-momentum-went-off-the-rails-d4596bae?mod=mw_rss_topstories",
-      "date": "2026-06-27 19:17",
+      "date": "2026-06-27 21:01",
       "summary": "It one of the worst weeks for tech stocks of the year, and Wall Street spent much of it confronting a question it had been too euphoric to ask: what exactly are we getting for all this AI spending?",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -270,41 +310,121 @@
     {
       "title": "Iran’s ship attack tests the shipping-insurance market just as war-risk premiums had plunged",
       "link": "https://www.marketwatch.com/story/irans-ship-attack-tests-the-shipping-insurance-market-just-as-war-risk-premiums-had-plunged-8c4ef14d?mod=mw_rss_topstories",
-      "date": "2026-06-27 19:17",
+      "date": "2026-06-27 21:01",
       "summary": "War-risk premiums narrowed considerably in recent days but could increase again.",
       "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "SpaceX’s new bonds are flashing a warning sign, as investors pump the brakes on AI frenzy",
-      "link": "https://www.marketwatch.com/story/spacexs-new-bonds-are-flashing-a-warning-sign-as-investors-pump-the-brakes-on-ai-frenzy-752ad44b?mod=mw_rss_topstories",
-      "date": "2026-06-27 19:17",
-      "summary": "Elon Musk’s company made a splash earlier this week with a $25 billion bond deal, less than two weeks after it raised tens of billions of dollars in cash.",
-      "source": "MarketWatch",
+      "title": "This Stock Market Metric Just Hit \"Extreme Fear.\" Warren Buffett Has 11 Encouraging Words for Investors Right Now.",
+      "link": "https://www.fool.com/investing/2026/06/27/this-stock-market-metric-just-hit-extreme-fear-war/?.tsrc=rss",
+      "date": "2026-06-27 12:50",
+      "summary": "If you're nervous about volatility, Warren Buffett can offer some reassuring advice.",
+      "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Bond yields are falling as inflation pops. The Fed’s tough talk under Warsh is helping.",
-      "link": "https://www.marketwatch.com/story/bond-yields-are-falling-as-inflation-pops-the-feds-tough-talk-under-warsh-is-helping-7d538b3b?mod=mw_rss_topstories",
-      "date": "2026-06-27 19:17",
-      "summary": "Kevin Warsh, the new Federal Reserve chair, is helping coax Treasury yields lower by talking tough on inflation.",
-      "source": "MarketWatch",
+      "title": "SpaceX Joins Nasdaq-100 on July 7. Its Stock is Still Not a Buy",
+      "link": "https://247wallst.com/investing/2026/06/27/spacex-joins-nasdaq-100-on-july-7-its-stock-is-still-not-a-buy/?.tsrc=rss",
+      "date": "2026-06-27 12:40",
+      "summary": "The biggest IPO in history is about to reach another milestone, but smart investors shouldnt confuse forced buying with lasting value. On July 7, SpaceX (NASDAQ:SPCX) will officially join the Nasdaq-1",
+      "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Fed’s Kashkari now projects one interest-rate hike this year. Here’s what changed his mind.",
-      "link": "https://www.marketwatch.com/story/feds-kashkari-projects-one-interest-rate-hike-this-year-heres-what-changed-his-mind-3a6b428c?mod=mw_rss_topstories",
-      "date": "2026-06-27 19:17",
-      "summary": "Doubts over the U.S.-Iran peace deal and the AI buildup mean a rate hike is possible, the Minneapolis Fed president says.",
-      "source": "MarketWatch",
+      "title": "2 Blue Chip Industrial Stocks I'd Buy Into This Week's Weakness Without Hesitation",
+      "link": "https://www.fool.com/investing/2026/06/27/two-blue-chip-industrial-stocks-id-buy-into-this-w/?.tsrc=rss",
+      "date": "2026-06-27 12:25",
+      "summary": "Investors looking for industrial stocks experiencing modest pullbacks might want to examine Canadian National Railway and Johnson Controls.",
+      "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Healthcare stocks have become a haven for investors ditching tech",
-      "link": "https://www.marketwatch.com/story/healthcare-stocks-have-become-a-haven-for-investors-ditching-tech-81c544d0?mod=mw_rss_topstories",
-      "date": "2026-06-27 19:17",
-      "summary": "Shares of AbbVie, Eli Lilly and Johnson & Johnson were on track to hit all-time highs Friday, in the latest signal that investor appetite for the biopharmaceutical sector is back.",
-      "source": "MarketWatch",
+      "title": "This Top Dividend ETF Just Lowered Its Payment. Should Income Investors Be Concerned?",
+      "link": "https://www.fool.com/investing/2026/06/27/this-top-dividend-etf-just-lowered-its-payment-sho/?.tsrc=rss",
+      "date": "2026-06-27 12:20",
+      "summary": "The Schwab U.S. Dividend Equity ETF has a long history of paying a rising dividend.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "64 With $1.1 Million in a Traditional IRA. Yield Volatility Is Back. Heres Where Im Allocating Capital",
+      "link": "https://247wallst.com/investing/2026/06/27/64-with-1-1-million-in-a-traditional-ira-yield-volatility-is-back-heres-where-im-allocating-capital/?.tsrc=rss",
+      "date": "2026-06-27 12:09",
+      "summary": "At 64 with $1.1 million in a Traditional IRA, I want reliable income that compounds tax-deferred until required minimum distributions begin. The 10-year Treasury sits at 4.46%, after swinging between ",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Dow Jones Futures: Market At Tipping Point, Here's What To Do. Eli Lilly Soars, Tesla On Tap.",
+      "link": "https://finance.yahoo.com/m/4cf27c13-4e93-3dbe-b7ea-7f50e1d9d115/dow-jones-futures%3A-market-at.html?.tsrc=rss",
+      "date": "2026-06-27 12:00",
+      "summary": "Here's what investors should do amid the stock market's divergent signals. Eli Lilly is strong while Tesla EV sales loom.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Crypto's brutal week in review: Bitcoin prices, illicit Iranian transactions, & more",
+      "link": "https://finance.yahoo.com/video/cryptos-brutal-week-review-bitcoin-120000992.html?.tsrc=rss",
+      "date": "2026-06-27 12:00",
+      "summary": "Scott Melker reviews the week crypto just had, including bitcoin (BTC-USD) prices plummeting, Bitmine (BMNR) joining the Russell 1000 (^RUI), and more. \"The Daily Wolf with Scott Melker\" airs every da",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "The Insane Number HPEs CEO Just Threw Out Shows Why Bloom Energy Is a Buy Today",
+      "link": "https://247wallst.com/investing/2026/06/27/the-insane-number-hpes-ceo-just-threw-out-shows-why-bloom-energy-is-a-buy-today/?.tsrc=rss",
+      "date": "2026-06-27 11:51",
+      "summary": "The artificial intelligence boom has shifted from a race for chips to a race for electricity. Every new AI data center requires enormous amounts of reliable power, yet the U.S. electric grid is strugg",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Why SpaceX Stock Plummeted This Week",
+      "link": "https://www.fool.com/investing/2026/06/27/why-spacex-stock-plummeted-this-week/?.tsrc=rss",
+      "date": "2026-06-27 11:51",
+      "summary": "SpaceX stock is now down roughly 24% from its high. What comes next?",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Nvidia Owns This Under-the-Radar $20 Stock Poised to Disrupt a $1.8 Trillion Market",
+      "link": "https://www.fool.com/investing/2026/06/27/nvidia-owns-under-radar-stock-trillion-market-genb/?.tsrc=rss",
+      "date": "2026-06-27 11:43",
+      "summary": "Yes, many of the companies you've invested in also have their own stock portfolios. This is bullishness worth noting.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "The Vanguard ETF Built for Investors Who Want Dividends That Actually Grow",
+      "link": "https://www.fool.com/investing/2026/06/27/the-vanguard-etf-built-for-investors-who-want-divi/?.tsrc=rss",
+      "date": "2026-06-27 11:31",
+      "summary": "There's more to dividend investing than current income.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "SpaceX vs. Tesla: Here's Which Elon Musk Stock I'd Buy Right Now",
+      "link": "https://www.fool.com/investing/2026/06/27/spacex-vs-tesla-heres-which-elon-musk-stock-id-buy/?.tsrc=rss",
+      "date": "2026-06-27 11:27",
+      "summary": "How do you choose today between two richly priced stocks with bright prospects in the distant future?",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "NVIDIA (NVDA) Launches BioNeMo Agent Toolkit to Accelerate AI-Driven Scientific Discovery in Life Sciences",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-launches-bionemo-agent-112142349.html?.tsrc=rss",
+      "date": "2026-06-27 11:21",
+      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is one of the high growth stocks to buy right now. On June 23, NVIDIA introduced the BioNeMo Agent Toolkit, a new software suite providing domain-specific tools design",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "With Just 6 Words, Fed Chair Kevin Warsh Demolished Expectations. \"It's Hard to Believe,\" Says President Trump.",
+      "link": "https://www.fool.com/investing/2026/06/27/with-just-six-words-fed-chair-kevin-warsh-demolish/?.tsrc=rss",
+      "date": "2026-06-27 11:20",
+      "summary": "The new Fed chair signaled a major policy shift, and not everyone was happy.",
+      "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
@@ -352,110 +472,6 @@
       "link": "https://www.fool.com/investing/2026/06/27/where-will-spacexs-price-be-in-september-heres-wha/?.tsrc=rss",
       "date": "2026-06-27 09:30",
       "summary": "SpaceX stock has advanced in the double digits since its IPO.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Thinking of Buying the Bottom With Dogecoin? Do This 1 Thing First.",
-      "link": "https://www.fool.com/investing/2026/06/27/thinking-of-buying-the-bottom-with-dogecoin-do-thi/?.tsrc=rss",
-      "date": "2026-06-27 09:30",
-      "summary": "The coin's price could still have a long way to fall.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Could Buying VTI Today Set You Up for Life?",
-      "link": "https://www.fool.com/investing/2026/06/27/could-buying-vti-today-set-you-up-for-life/?.tsrc=rss",
-      "date": "2026-06-27 09:28",
-      "summary": "History gives one clear, encouraging answer.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "1 Hot Industrial Stock Riding the AI Infrastructure Boom",
-      "link": "https://www.fool.com/investing/2026/06/27/hot-industrial-stock-riding-ai-infrastructure-fix/?.tsrc=rss",
-      "date": "2026-06-27 09:21",
-      "summary": "This is an ideal picks-and-shovels stock to play the ongoing interest in all things artificial intelligence.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Would You Let an AI Agent Trade Crypto For You? Here's What to Know About Coinbase's New AI Agent Tool.",
-      "link": "https://www.fool.com/investing/2026/06/27/would-you-let-an-ai-agent-trade-crypto-for-you-her/?.tsrc=rss",
-      "date": "2026-06-27 09:12",
-      "summary": "Automating your investing process won't save you from poorly defined goals or bad decisions.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Micron's Explosive Earnings Report: The 1 Mind-Boggling Number You Won't Want to Miss. (Hint: It Beats Nvidia.)",
-      "link": "https://www.fool.com/investing/2026/06/27/microns-explosive-earnings-report-the-1-mind-boggl/?.tsrc=rss",
-      "date": "2026-06-27 08:35",
-      "summary": "AI customers are rushing to Micron for memory products.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "The Sneaky Way SpaceX, Anthropic, and OpenAI Can Destroy the Trump Bull Market",
-      "link": "https://www.fool.com/investing/2026/06/27/sneaky-way-spacex-anthropic-openai-destroy-trump/?.tsrc=rss",
-      "date": "2026-06-27 08:26",
-      "summary": "Newly implemented rules can turn the tables on the artificial intelligence (AI)-driven bull market under President Donald Trump.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "SpaceX Has Landed Data Center Deals With Anthropic, Google, and Reflection That Could Be Worth Over $76 Billion Through 2029. Is That Enough to Justify Its Valuation?",
-      "link": "https://www.fool.com/investing/2026/06/27/spacex-data-center-deals-anthropic-googl-stock/?.tsrc=rss",
-      "date": "2026-06-27 08:15",
-      "summary": "SpaceX has significantly ramped up its data center business.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Apple Seeks US Approval to Buy Chips From Blacklisted CXMT: FT",
-      "link": "https://finance.yahoo.com/technology/articles/apple-seeks-us-approval-buy-074523538.html?.tsrc=rss",
-      "date": "2026-06-27 07:45",
-      "summary": "(Bloomberg) -- Apple Inc. is pressing the White House for approval to purchase memory chips from a blacklisted Chinese company as it grapples to rein in chip costs, the Financial Times reported on Sat",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "The Biggest Risk to Nvidia's Stock Price That Almost Nobody Is Talking About",
-      "link": "https://www.fool.com/investing/2026/06/27/the-biggest-risk-to-nvidias-stock-price-that-almos/?.tsrc=rss",
-      "date": "2026-06-27 07:20",
-      "summary": "There's one under-the-radar risk that could threaten its reign.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Qualcomms big AI gamble: Breaking Nvidias chips stronghold",
-      "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-big-ai-gamble-breaking-070000173.html?.tsrc=rss",
-      "date": "2026-06-27 07:00",
-      "summary": "CEO Cristiano Amon is betting Qualcomm can gain a foothold in data center AIand the chipmaker has already lined up clients like Meta and Microsoft.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "3 Surefire Stocks to Buy on the Dip and Hold for a Decade",
-      "link": "https://www.fool.com/investing/2026/06/27/3-surefire-stocks-to-buy-on-the-dip-and-hold-for-a/?.tsrc=rss",
-      "date": "2026-06-27 06:50",
-      "summary": "As a wise man once said, it's important to \"be greedy when others are fearful.\"",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "This 1 Investing Mistake Is Quietly Destroying Your Long-Term Returns. Here's What to Do Instead.",
-      "link": "https://www.fool.com/investing/2026/06/27/1-investing-mistake-destroying-long-term-returns/?.tsrc=rss",
-      "date": "2026-06-27 06:20",
-      "summary": "When it comes to long-term investing, people are often their own worst enemies.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "1 Brand New Big Green Flag for XRP (Ripple) in 2026 and Beyond",
-      "link": "https://www.fool.com/investing/2026/06/27/1-brand-new-big-green-flag-for-xrp-ripple-in-2026/?.tsrc=rss",
-      "date": "2026-06-27 05:50",
-      "summary": "Ripple can now market its financial services to a major region of the world.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     }
