@@ -219,6 +219,14 @@ mark{background:rgba(88,166,255,.25);color:var(--text);padding:0 2px;border-radi
         </div>
       </div>
 
+      <!-- 投标监控 -->
+      <div class="widget">
+        <div class="widget-hd"><span class="dot" style="background:var(--orange)"></span>📋 投标监控 <a href="data/bids-summary.html" style="color:var(--blue);font-size:9px;margin-left:8px">查看全部</a></div>
+        <div class="widget-bd" id="bidPanel">
+          <div style="color:var(--text2)">加载中...</div>
+        </div>
+      </div>
+
       <!-- 快速搜索 -->
       <div class="widget">
         <div class="widget-hd"><span class="dot"></span>快速搜索</div>
@@ -425,6 +433,25 @@ mark{background:rgba(88,166,255,.25);color:var(--text);padding:0 2px;border-radi
     } catch(e) {}
   }
 
+  // ====== 投标监控 ======
+  async function loadBids() {
+    try {
+      const resp = await fetch("data/bids.json", { cache: "no-cache" });
+      if (!resp.ok) return;
+      const d = await resp.json();
+      if (!d.items || d.items.length === 0) {
+        document.getElementById("bidPanel").innerHTML = '<div style="color:var(--text2);font-size:10px">暂无最新招标信息</div>';
+        return;
+      }
+      let h = '<div style="color:var(--text2);margin-bottom:2px">最新 ' + Math.min(d.items.length, 5) + ' 条</div>';
+      for (let i = 0; i < Math.min(d.items.length, 5); i++) {
+        var item = d.items[i];
+        h += '<div class="alert-item" style="border-left-color:var(--orange)"><a href="' + item.link + '" target="_blank" style="color:var(--text)">' + item.title + '</a><div style="font-size:9px;color:var(--text2)">' + (item.date||'') + ' | ' + (item.source||'') + '</div></div>';
+      }
+      document.getElementById("bidPanel").innerHTML = h;
+    } catch(e) {}
+  }
+
   // ====== 新闻数据 ======
   async function loadNews(isRefresh) {
     if (isRefresh) $('refreshBtn').style.opacity = '0.5';
@@ -589,10 +616,12 @@ mark{background:rgba(88,166,255,.25);color:var(--text);padding:0 2px;border-radi
   loadMarket();
   loadNews();
   loadWatchlistSide();
+  loadBids();
 
   setInterval(() => {
     loadMarket();
     loadWatchlistSide();
+    loadBids();
     loadNews(true);
   }, REFRESH);
 })();
