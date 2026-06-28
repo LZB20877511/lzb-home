@@ -1,8 +1,288 @@
 {
-  "updated": "2026-06-28T10:01:20.776344+08:00",
+  "updated": "2026-06-28T14:48:53.818934+08:00",
   "source": "A股聚合",
-  "count": 42,
+  "count": 39,
   "items": [
+    {
+      "title": "半导体牛股，周末紧急澄清",
+      "link": "https://finance.sina.com.cn/stock/relnews/2026-06-28/doc-iniexymu6299839.shtml",
+      "date": "2026-06-28 14:44",
+      "summary": "针对网传题为《&lt;破局与重塑：Micro-TEC国产化浪潮&gt;周志奇演讲完整原文》的文章及相关内容，6月28日，富信科技紧急发布澄清声明。",
+      "source": "上海证券报",
+      "category": "a-stock"
+    },
+    {
+      "title": "东吴证券：全球流动性拐点 科技硬件的争议和机会",
+      "link": "https://finance.sina.com.cn/roll/2026-06-28/doc-iniexymu0622749.shtml",
+      "date": "2026-06-28 14:40",
+      "summary": "来源：东吴证券 4月以来景气信号驱动的AI算力硬件行情演绎得如火如荼，按照“终端→制造→设备→材料”的需求和订单传导顺序，5-6月海内外市场的算力硬件上游设备和材料标的已经...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "梁文锋署名的DSpark，看懂这10个点就够了！",
+      "link": "https://finance.sina.com.cn/stock/2026-06-28/doc-iniexymu6294787.shtml",
+      "date": "2026-06-28 14:30",
+      "summary": "来源：量子位 梁文锋署名的DeepSeek新论文DSpark你可能刷到过了—— 单用户速度提升85%、高并发场景有效吞吐翻4倍。 但你真的看懂了吗？ 别急，有人替你拆解了一遍。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "银河证券：锚定AI高景气赛道 把握顺周期复苏与出海新机遇",
+      "link": "https://finance.sina.com.cn/roll/2026-06-28/doc-iniexucy3200059.shtml",
+      "date": "2026-06-28 14:28",
+      "summary": "来源：银河证券 核心观点 26H1复盘：整体大幅跑赢大盘，AI相关表现亮眼。1）市场行情：年初至今机械板块累计涨幅达24%，受AI驱动的PCB设备及耗材...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "浙商证券：分化继续非银突起 AI继续持有 券商逢低关注",
+      "link": "https://finance.sina.com.cn/roll/2026-06-28/doc-iniexucy3198251.shtml",
+      "date": "2026-06-28 14:23",
+      "summary": "核心观点 本周受美、韩股市波动影响，A股波幅明显加大，多数指数冲高回落。展望后市，双创指数目前仍站在20日均线上方，虽后市仍或受到海外波动溢出影响...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "中国今年前5个月向欧洲出口电风扇猛增，有厂商订单增两成",
+      "link": "https://finance.sina.com.cn/jjxw/2026-06-28/doc-iniexucu3970820.shtml",
+      "date": "2026-06-28 14:21",
+      "summary": "随着欧洲夏天高温天气增多，中国向欧洲出口电风扇增长势头良好。海关数据显示，2026年1月-5月，中国向欧洲主要国家出口电风扇的金额同比大幅增长。",
+      "source": "一财网",
+      "category": "a-stock"
+    },
+    {
+      "title": "华金证券：七月基本面主导 科技仍是主线 聚焦绩优科技和周期行业",
+      "link": "https://finance.sina.com.cn/roll/2026-06-28/doc-iniexucw6420204.shtml",
+      "date": "2026-06-28 14:21",
+      "summary": "来源：华金证券 投资要点 复盘历史，A股7月表现偏震荡，主要受基本面、政策和外部事件、流动性等因素影响。（1）2010年以来A股7月表现偏震荡...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "光大证券：多因素扰动市场 震荡中把握布局良机",
+      "link": "https://finance.sina.com.cn/roll/2026-06-28/doc-iniexucw6419393.shtml",
+      "date": "2026-06-28 14:18",
+      "summary": "来源：光大证券 本周A 股主要宽基指数跌多涨少 本周A 股主要宽基指数跌多涨少。从主要宽基指数来看，本周A 股主要宽基指数大多收跌，仅科创50、中证500 上涨...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "开源证券：牛市多回调，坚定牛市信心，降低斜率预期",
+      "link": "https://finance.sina.com.cn/roll/2026-06-28/doc-iniexucw0742685.shtml",
+      "date": "2026-06-28 14:12",
+      "summary": "来源：开源证券 牛市多回调：当前牛市没有结束，但要降低斜率预期 本周市场波动显著放大，尤其是周二和周五出现明显下跌。很多投资者最关心的问题是：这是不是牛市结束的信...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "【国泰第一时间20260626】市场震荡调整，创业板指跌超4%",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-06-28/doc-iniexucy3193704.shtml",
+      "date": "2026-06-28 14:11",
+      "summary": "6月26日，市场震荡调整，三大指数低开低走，其中创业板指下跌4.07%、深证成指下跌3.44%、上证指数下跌2.26%，全A成交额3.58万亿元。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "财政支出增速延续回落趋势，关注后续存量财政落实情况",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-06-28/doc-iniexucw6416127.shtml",
+      "date": "2026-06-28 14:11",
+      "summary": "国开债ETF博时（159650）基金经理 吕瑞君 本周一（6月22日）银行间流动性持稳，主要资金价格变化不大，当日央行净回笼3415亿元。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "去年涨超100%今年又涨25%，这家医药股葛兰连持六季",
+      "link": "https://finance.sina.com.cn/stock/relnews/2026-06-28/doc-iniexucw0741799.shtml",
+      "date": "2026-06-28 14:10",
+      "summary": "文丨张桔 编辑丨谢长艳 虽然公募基金并非机构的全部，但作为内地机构的旗手，其对待一只标的的投资思路能够看出些许端倪。 近期相比科技股...",
+      "source": "证券市场周刊",
+      "category": "a-stock"
+    },
+    {
+      "title": "Momenta招股在即：基石投资有人排队，有人转身",
+      "link": "https://finance.sina.com.cn/roll/2026-06-28/doc-iniexucw6423409.shtml",
+      "date": "2026-06-28 14:05",
+      "summary": "来源：腾讯财经 文 | 谢照青 编辑 | 刘鹏 港股IPO市场仍在升温，但明星项目的光环，已经不再足以让所有长线资金无条件入场。 6月26日，6家公司同日在港交所敲钟...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "国产“伟哥”金戈恩仇录",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-06-28/doc-iniexymw3073221.shtml",
+      "date": "2026-06-28 13:55",
+      "summary": "来源：野马财经 一颗粉色小药丸，治好了男人的“难言之隐”， 却治不好商业合作里的信任危机。 治疗男人”难言之隐“的粉色小药丸——金戈，上市以来累计卖了78亿元...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "张雪公布“东鹏特饮事件”原视频，“吃瓜吃到自己头上，请停止造谣”",
+      "link": "https://finance.sina.com.cn/stock/relnews/2026-06-28/doc-iniexucw0732880.shtml",
+      "date": "2026-06-28 13:45",
+      "summary": "近日，社交平台流传视频称，东鹏饮料董事长从不喝自家饮品，在旁人递过饮料时摆手拒绝，引发热议。6月27日下午，东鹏饮料（集团）股份有限公司发布《关于网络不实谣言的澄...",
+      "source": "每日经济新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "存储芯片龙头获两路资金大举加仓",
+      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-06-28/doc-iniexucu3951033.shtml",
+      "date": "2026-06-28 13:30",
+      "summary": "本周13股获南向资金持股量环比增长超20%。 南向资金大笔卖出互联网龙头 本周（6月22日至6月26日）港股市场主要股指集体回调，恒生指数跌5.24%，恒生科技指数跌7.57%...",
+      "source": "数据宝",
+      "category": "a-stock"
+    },
+    {
+      "title": "中国股市需要“建设”，还是需要“抄他人作业”？",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-06-28/doc-iniexymw3071923.shtml",
+      "date": "2026-06-28 13:24",
+      "summary": "来源：鹏友来开会 近两年来，围绕中国股市的量化交易、大股东减持，舆论场展开了多轮激烈讨论。其中，要求停掉量化交易的呼声很高，还有的要求实施T+0...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "就在明天！两只新股“站在光里”",
+      "link": "https://finance.sina.com.cn/stock/newstock/2026-06-28/doc-iniexucu3948371.shtml",
+      "date": "2026-06-28 13:17",
+      "summary": "【导读】下周一有2只新股可申购，分别受益于半导体设备、LED产业 中国基金报记者 闻言 A股打新投资者注意啦！ 根据目前发行安排，下周有2只新股可申购...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "明天，半导体零部件龙头来了",
+      "link": "https://finance.sina.com.cn/stock/relnews/2026-06-28/doc-iniexucu3941463.shtml",
+      "date": "2026-06-28 13:06",
+      "summary": "根据目前的发行安排，下周有2只新股申购，创业板、北交所各有1只。 日程安排上，两只新股均在周一（6月29日）申购，分别是创业板新股托伦斯、北交所新股康美特。",
+      "source": "中国证券报",
+      "category": "a-stock"
+    },
+    {
+      "title": "东鹏饮料：已报案！张雪发声",
+      "link": "https://finance.sina.com.cn/stock/relnews/2026-06-28/doc-iniexucw0713642.shtml",
+      "date": "2026-06-28 12:57",
+      "summary": "东鹏饮料创始人不喝自家产品？6月27日晚间，东鹏饮料集团官方微信公众号发布澄清声明，“张雪的机车”抖音号也同步发声。",
+      "source": "上海证券报",
+      "category": "a-stock"
+    },
+    {
+      "title": "最新消息！科技巨头，突传利好！",
+      "link": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexucu3935956.shtml",
+      "date": "2026-06-28 12:49",
+      "summary": "AI科技巨头，传出利好消息！ 28日，据最新消息，美国政府即将允许Anthropic恢复其最新大模型Fable 5的访问权限。 此前6月12日，美国政府以国家安全为由...",
+      "source": "券商中国",
+      "category": "a-stock"
+    },
+    {
+      "title": "德法或提前相遇！美加墨世界杯32强对阵表来了",
+      "link": "https://finance.sina.com.cn/jjxw/2026-06-28/doc-iniexucw6383585.shtml",
+      "date": "2026-06-28 12:41",
+      "summary": "北京时间6月28日，2026年美加墨世界杯J组小组赛收官。阿根廷3-1战胜约旦，阿尔及利亚3-3战平奥地利。阿根廷小组第一，奥地利小组第二，阿尔及利亚小组第三，均出线...",
+      "source": "央视",
+      "category": "a-stock"
+    },
+    {
+      "title": "谷歌限制了Meta的Gemini使用量，因为人工智能需求激增导致产能紧张",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-28/doc-iniexucw0700757.shtml",
+      "date": "2026-06-28 12:29",
+      "summary": "英国媒体援引三位知情人士消息称，谷歌在今年3月前后告知Meta，无法足额供应其所需的Gemini模型算力额度。此举打乱并推迟了Meta多项内部人工智能项目的推进节奏。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "欢乐谷集团联手东方演艺集团、宇树科技等构建“欢乐互联”文旅融合平台",
+      "link": "https://finance.sina.com.cn/china/2026-06-28/doc-iniexucy3150937.shtml",
+      "date": "2026-06-28 12:23",
+      "summary": "6月28日消息，在北京欢乐谷20周年庆典暨欢乐谷集团“城市IP娱乐主场”战略发布会上，99米高的“大眼京”摩天轮正式运行，全新银河广场开放迎客...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "报道：品浩（PIMCO）瞄准公开市场私募交易",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-28/doc-iniexucy3150425.shtml",
+      "date": "2026-06-28 12:21",
+      "summary": "英国媒体援引对品浩首席投资官的采访报道，品浩正借助部分大型融资方的资金需求，在公开市场开展私募交易以把握投资机遇。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "违规向上市公司老板推荐“雪球产品” 华泰证券和私募被判赔千万元",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-06-28/doc-iniexucw6388147.shtml",
+      "date": "2026-06-28 12:05",
+      "summary": "法院认为，证券公司和投资公司的行为不仅共同违反金融监管强制性规定，破坏金融市场秩序，更直接导致费某在未能充分知悉且无法承受极高风险的情况下投入资金...",
+      "source": "经济观察报",
+      "category": "a-stock"
+    },
+    {
+      "title": "vivo黄韬、韩伯啸：告别看剧专用，X Fold6凭何成为主力机？",
+      "link": "https://finance.sina.com.cn/tech/mobile/n/n/2026-06-28/doc-iniexpvw4045249.shtml",
+      "date": "2026-06-28 12:04",
+      "summary": "“过去的折叠屏，交互方式其实和手机没有太大的区别，屏幕展开之后信息面积变大，但是信息密度没有提升，导致大家内屏使用率很低。”",
+      "source": "新浪数码",
+      "category": "a-stock"
+    },
+    {
+      "title": "腾讯小范围内测TenPay Go，面向境外人士来华支付",
+      "link": "https://finance.sina.com.cn/jjxw/2026-06-28/doc-iniexpvy0822938.shtml",
+      "date": "2026-06-28 12:03",
+      "summary": "界面新闻记者了解到，腾讯正在内测一款面向境外人士的“来华生活便利助手”，旨在提供包括移动支付服务的一站式数字生活服务。",
+      "source": "界面",
+      "category": "a-stock"
+    },
+    {
+      "title": "世界杯 | 32强对阵出炉！日本挑战巴西，梅罗不同半区，亚洲9队仅2队出线",
+      "link": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexpvw4045521.shtml",
+      "date": "2026-06-28 12:00",
+      "summary": "来源：体坛周报 当地时间6月27日，美加墨世界杯小组赛全部结束。48支参赛队决出32强跻身淘汰赛，传统强队全部晋级。 【1/16决赛对阵】 06.29 03：00南非vs加拿大 06...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "事关薪酬制度！12家券商同日宣布",
+      "link": "https://finance.sina.com.cn/stock/quanshang/2026-06-28/doc-iniexpvy0807288.shtml",
+      "date": "2026-06-28 11:32",
+      "summary": "【导读】12家券商同日发布新版薪酬制度 中国基金报记者 莫琳 随着股东大会密集召开，券商的薪酬制度改革也渐次落地。 6月26日，据记者不完全统计，中信证券、国泰海通...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "美军对伊朗目标展开新一轮打击 周末交锋后双方互指违反停火协议",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-28/doc-iniexpwa3255827.shtml",
+      "date": "2026-06-28 11:23",
+      "summary": "美国周六对伊朗境内多个目标实施了新一轮空袭，此前周末的以牙还牙式攻击令双方均指责对方违反了支撑和谈的停火协议。 周五的首次美军打击是对伊朗周四袭击一艘集装箱船的...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "周末，一大波利好来了！明天A股怎么走？",
+      "link": "https://finance.sina.com.cn/roll/2026-06-28/doc-iniexpwa3256674.shtml",
+      "date": "2026-06-28 11:22",
+      "summary": "每经记者|赵云每经编辑|彭水萍 刚过去的交易周（6月22日至26日），A股市场先是延续反弹，却在周五出现下跌。 Wind数据显示，主要股指表现可分为三档： 逆势上涨的...",
+      "source": "每日经济新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "一夜之间，4家A股公司被查被罚",
+      "link": "https://finance.sina.com.cn/stock/relnews/2026-06-28/doc-iniexpvy6475092.shtml",
+      "date": "2026-06-28 11:11",
+      "summary": "6月26日晚间，四家上市公司接连公告监管动态。巨力索具、荃银高科、ST长园分别收到行政处罚事先告知书，ST金鸿顺因涉嫌信息披露违法违规被立案调查。",
+      "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
+    {
+      "title": "8家公司集中披露股东减持意向，天宸股份3%比例上限与峰岹科技并列最高",
+      "link": "https://finance.sina.com.cn/roll/2026-06-28/doc-iniexpvy0781727.shtml",
+      "date": "2026-06-28 10:35",
+      "summary": "每经编辑|柯力 2026年6月27日，沪深京三市当日发布最新减持公告及减持进展的公司有8家，这8家全部为首次披露股东拟减持的公司。 上述公司包含了汽车制造业...",
+      "source": "每日经济新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "美国官员：伊朗向巴林和科威特发射导弹和无人机",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-28/doc-iniexpvy0773121.shtml",
+      "date": "2026-06-28 10:22",
+      "summary": "一名美国官员表示，伊朗已向包括巴林和科威特在内的邻国发射多枚导弹和无人机，这是中东地区最新一轮局势升级。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
     {
       "title": "存储芯片成本大涨，苹果美光打起“口水战”，到底谁为涨价买单？",
       "link": "https://finance.sina.com.cn/roll/2026-06-28/doc-iniexiqe3346758.shtml",
@@ -12,34 +292,18 @@
       "category": "a-stock"
     },
     {
-      "title": "韩国队出局，无缘世界杯32强",
-      "link": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexiqa0887297.shtml",
+      "title": "孩子王二次递表港交所，66岁江苏富豪有个“万店梦”",
+      "link": "https://finance.sina.com.cn/roll/2026-06-28/doc-iniexpvy0765097.shtml",
       "date": "2026-06-28 09:38",
-      "summary": "刚结束的美加墨世界杯K组第三轮的一场比赛中，刚果（金）队3：1逆转战胜乌兹别克斯坦队，锁定一个32强名额。乌兹别克斯坦队小组垫底出局。",
-      "source": "新华社",
-      "category": "a-stock"
-    },
-    {
-      "title": "韩国队，被淘汰了",
-      "link": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexipy4110273.shtml",
-      "date": "2026-06-28 09:35",
-      "summary": "来源：财联社 在刚刚结束的世界杯小组赛第三轮比赛中，刚果民主共和国3：1逆转战胜乌兹别克斯坦，积分达到4分，以8个成绩最佳小组第三出线，与此同时，韩国队遭淘汰。",
+      "summary": "来源 时代周报图源：图虫 作者|陈泽旋 编辑| 黎 倩 在66岁这一年，汪建国还在努力将自己一手打造的母婴零售帝国推向香港资本市场。",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "美伊，又开打了？！伊朗：打击8处美军设施！特朗普威胁：伊朗或将不复存在",
-      "link": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexiqa6557244.shtml",
-      "date": "2026-06-28 09:25",
-      "summary": "伊朗革命卫队：将以果断行动回应美方“侵略”。 伊朗伊斯兰革命卫队28日发表声明说，革命卫队海军和空军用导弹和无人机，摧毁了位于科威特阿里·萨利姆空军基地和位于巴林的美...",
-      "source": "证券时报",
-      "category": "a-stock"
-    },
-    {
-      "title": "视频|欧派《致全体同仁书》表明公司将常态化裁员，定制家居行业进入生死淘汰赛？",
-      "link": "https://finance.sina.com.cn/china/2026-06-28/doc-iniexiqe3332748.shtml",
-      "date": "2026-06-28 09:22",
-      "summary": "",
+      "title": "官宣：国泰海通总裁李俊杰，拟任上海市市级机关正职！",
+      "link": "https://finance.sina.com.cn/wm/2026-06-28/doc-iniexpvy6444446.shtml",
+      "date": "2026-06-28 09:31",
+      "summary": "来源：企业上市 6月26日，上海市委组织部通过“上海发布”公布市管干部任职前公示，现任国泰海通证券股份有限公司总裁、党委副书记李俊杰，拟任市级机关正职。",
       "source": "市场资讯",
       "category": "a-stock"
     },
@@ -48,294 +312,6 @@
       "link": "https://finance.sina.com.cn/stock/relnews/2026-06-28/doc-iniexiqa0875013.shtml",
       "date": "2026-06-28 09:13",
       "summary": "【导读】荃银高科自6月30日起被实施其他风险警示 中国基金报记者 夏天 6月26日晚间，荃银高科（证券代码：300087）公告称，近日收到中国证监会安徽监管局下发的《行政处罚...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "伊朗革命卫队：将以果断行动回应美方“侵略”，将更强硬地对待“违规”船只",
-      "link": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexiqa0872104.shtml",
-      "date": "2026-06-28 09:07",
-      "summary": "伊朗革命卫队称将更强硬对待“违规”船只 新华社德黑兰6月28日电 伊朗伊斯兰革命卫队28日发表声明称，根据伊美谅解备忘录，霍尔木兹海峡的通行管控由伊方负责...",
-      "source": "中国证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "捅破私募罚单“天花板”！玖瀛、腾创被罚没超5800万",
-      "link": "https://finance.sina.com.cn/stock/roll/2026-06-28/doc-iniexiqe3327071.shtml",
-      "date": "2026-06-28 09:00",
-      "summary": "作者 |谢美浴 编辑 | 付影 来源 | 独角金融 私募江湖里，向来不缺一夜成名、又转瞬倾覆的故事。 近日，深圳证监局一纸罚单，将昔日明星私募深圳前海玖瀛资产管理有限公司（...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "股权转让迈出一步，宝鹰股份难掩经营疲态",
-      "link": "https://finance.sina.com.cn/jjxw/2026-06-28/doc-iniexiqa0867489.shtml",
-      "date": "2026-06-28 09:00",
-      "summary": "界面新闻记者 | 袁颖琪 近日，宝鹰股份（002047.SZ）成功撤销退市风险警示及其他风险警示，股票简称由“*ST宝鹰”恢复为“宝鹰股份”。",
-      "source": "界面",
-      "category": "a-stock"
-    },
-    {
-      "title": "酒价内参6月28日价格发布：仅国窖1573洋河梦之蓝M6+上涨 总价创近72天以来新低",
-      "link": "https://finance.sina.com.cn/chanjing/jync/2026-06-28/doc-iniexiqa0865868.shtml",
-      "date": "2026-06-28 08:59",
-      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，中国白酒市场主要大单品的终端零售均价6月28日整体自低位继续下挫。如果主要单品各取一瓶整体打包售卖...",
-      "source": "酒业内参",
-      "category": "a-stock"
-    },
-    {
-      "title": "股价腰斩，“章建平”割肉了",
-      "link": "https://finance.sina.com.cn/stock/relnews/2026-06-28/doc-iniexiqa0866222.shtml",
-      "date": "2026-06-28 08:58",
-      "summary": "短短4个多月，江淮汽车股价腰斩，知名游资章建平也扛不住了。最新公告显示，6月10日至6月23日，章建平妻子方文艳卖出923.5万股，割肉出逃。",
-      "source": "上海证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "马宁，将亮相淘汰赛！英格兰、克罗地亚、加纳晋级！世界杯32强，今天确定",
-      "link": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexiqa0864925.shtml",
-      "date": "2026-06-28 08:53",
-      "summary": "据央视新闻消息，北京时间6月28日，FIFA官方确认了德国vs巴拉圭1/16决赛的裁判组。马宁将担任德国vs巴拉圭比赛第四官员，周飞担任候补助理裁判。",
-      "source": "每日经济新闻",
-      "category": "a-stock"
-    },
-    {
-      "title": "一周两次熔断！韩国股市：“外资卖、散户加杠杆接”",
-      "link": "https://finance.sina.com.cn/wm/2026-06-28/doc-iniexiqa0864084.shtml",
-      "date": "2026-06-28 08:31",
-      "summary": "来源：央视财经 韩国股市近期屡创新高，韩国综合股价指数今年以来近乎翻倍。然而就在本周五（26日），韩国综合股指盘中一度大跌超8%，本周内第二次触发熔断机制。",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "射频器件“卖一件亏一件”，世嘉科技4亿定增豪赌储能赛道",
-      "link": "https://finance.sina.com.cn/jjxw/2026-06-28/doc-iniexipy4078225.shtml",
-      "date": "2026-06-28 08:30",
-      "summary": "世嘉科技（002796.SZ）在扭亏为盈一年后业绩再次向下，2025年归母净利润亏损5654.80万元，2026 年一季度亏损2349.18万元。",
-      "source": "界面",
-      "category": "a-stock"
-    },
-    {
-      "title": "国内首个第四代半导体材料全产业链项目落户郑州",
-      "link": "https://finance.sina.com.cn/stock/roll/2026-06-28/doc-iniexiqe3307300.shtml",
-      "date": "2026-06-28 08:18",
-      "summary": "来源：河南日报 6月26日，郑州高新区与中科粉研（河南）超硬材料有限公司签署协议，中科粉研第四代半导体材料生产基地正式落户该区。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "“每天都在赔钱 ”！金价大跌，有商家囤货资产缩水百万，“跌掉一辆迈巴赫”",
-      "link": "https://finance.sina.com.cn/wm/2026-06-28/doc-iniexipy4076120.shtml",
-      "date": "2026-06-28 08:16",
-      "summary": "转自：华夏时报 近期，国际金价持续大幅下行。6月26日19时30分左右，伦敦金现货价格报4050美元/盎司，较年内高点5598美元/盎司下跌1548美元/盎司；6月24日至26日...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "存储利好来了！苹果，想买长鑫存储芯片！",
-      "link": "https://finance.sina.com.cn/stock/roll/2026-06-28/doc-iniexiqa0848659.shtml",
-      "date": "2026-06-28 08:09",
-      "summary": "来源：中国基金报 大家好啊，简单关注一下国产存储芯片的一个利好消息。 6月27日，据悉，在努力控制芯片成本之际，苹果公司正在向白宫施压...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "大增10000%！A股大牛股，突然刷屏",
-      "link": "https://finance.sina.com.cn/stock/relnews/2026-06-28/doc-iniexiqe3304485.shtml",
-      "date": "2026-06-28 08:05",
-      "summary": "周末，一则关于“光模块出口同比暴增超100倍”的消息刷屏了。 6月27日，据央视财经报道，今年以来，华工正源800G以上光模块出口同比增长超过100倍。",
-      "source": "券商中国",
-      "category": "a-stock"
-    },
-    {
-      "title": "300054，高端光刻胶新增批量订单，股价创历史新高",
-      "link": "https://finance.sina.com.cn/stock/relnews/2026-06-28/doc-iniexipy4067636.shtml",
-      "date": "2026-06-28 08:05",
-      "summary": "近一周，广生堂、胜宏科技、盛弘股份和恒坤新材等个股均有30家以上机构评级。 近一周广生堂调研机构数最多 近一周（6月20日至26日）机构调研个股有120多只...",
-      "source": "数据宝",
-      "category": "a-stock"
-    },
-    {
-      "title": "股价“腰斩”，章建平减仓，葛卫东坚守",
-      "link": "https://finance.sina.com.cn/stock/relnews/2026-06-28/doc-iniexiqa0840327.shtml",
-      "date": "2026-06-28 07:55",
-      "summary": "6月27日，江淮汽车发布关于回购股份事项前十名股东及前十名无限售条件股东持股情况的公告。 根据公告，截至6月23日，股东方文艳（牛散章建平妻子）持有江淮汽车2665...",
-      "source": "中国证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "688072，拟购买半导体公司，股票停牌！股价已涨近5倍！",
-      "link": "https://finance.sina.com.cn/stock/relnews/2026-06-28/doc-iniexiqa6521288.shtml",
-      "date": "2026-06-28 07:48",
-      "summary": "拓荆科技（688072）6月26日晚公告，公司正在筹划以发行股份及支付现金的方式购买无锡尚积半导体科技股份有限公司（以下简称“无锡尚积”或“标的公司”）的控股权并募集配套资...",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "中东，突发！特朗普威胁：伊朗或将不复存在！美军发动打击！",
-      "link": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexiqa6520286.shtml",
-      "date": "2026-06-28 07:48",
-      "summary": "美伊以，最新消息。 美军称再对伊实施打击 美国中央司令部发表声明称，在总统特朗普指示下，美军对伊朗境内多个目标实施了新一轮打击。",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "牛弹琴：果然，又猛烈打起来了",
-      "link": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexiqe3296585.shtml",
-      "date": "2026-06-28 07:44",
-      "summary": "全世界都有点目瞪口呆，美国和伊朗，前脚才签署停战备忘录，后脚怎么又打起来了？ 打得还挺猛烈。 美军连日来出动战斗机，对伊朗导弹、无人机等设施...",
-      "source": "牛弹琴",
-      "category": "a-stock"
-    },
-    {
-      "title": "拟收购光模块公司，马斯克也要站在“光”里？",
-      "link": "https://finance.sina.com.cn/roll/2026-06-28/doc-iniexche6645038.shtml",
-      "date": "2026-06-28 07:27",
-      "summary": "Mesh公司的光通信技术被认为或能够为SpaceX推进太空算力战略提供助力。 继收购AI初创公司Cursor之后，马斯克拟再次扩大商业版图，试图兑现SpaceX的上市承诺。",
-      "source": "一财网",
-      "category": "a-stock"
-    },
-    {
-      "title": "上调！国际评级机构出手！中信、中金首次获评A类",
-      "link": "https://finance.sina.com.cn/stock/quanshang/2026-06-28/doc-iniexcha4184968.shtml",
-      "date": "2026-06-28 07:24",
-      "summary": "近日，国际评级机构惠誉评级发布最新报告，对多家国内券商进行了评级。 评级报告显示，中信证券、中金公司被评为“A-”，成为国内首批获得惠誉“A-”国际主体评级的证券公司。...",
-      "source": "券商中国",
-      "category": "a-stock"
-    },
-    {
-      "title": "全民炒股，急踩刹车！韩国股市突变，发生了什么？",
-      "link": "https://finance.sina.com.cn/stock/roll/2026-06-28/doc-iniexchh3421128.shtml",
-      "date": "2026-06-28 07:24",
-      "summary": "全民狂欢、交易高度拥挤、杠杆资金猛增、新入市投资者表现激进、大型IPO吸金等现象，都与历史上泡沫时期的金融行为高度相似。",
-      "source": "券商中国",
-      "category": "a-stock"
-    },
-    {
-      "title": "韩国股市：“外资卖、散户加杠杆接”",
-      "link": "https://finance.sina.com.cn/stock/roll/2026-06-28/doc-iniexcha4184521.shtml",
-      "date": "2026-06-28 07:23",
-      "summary": "来源：财联社 据央视财经消息，韩国股市近期屡创新高，韩国综合股价指数今年以来近乎翻倍。然而，就在周五（26日），韩国综合股指盘中一度大跌超8%...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "先歌国际IPO，相比海菲曼弱爆了，浙商证券保荐核查是否流于形式？",
-      "link": "https://finance.sina.com.cn/wm/2026-06-28/doc-iniexche0961958.shtml",
-      "date": "2026-06-28 07:04",
-      "summary": "来源：基本面力场 最近有家公司正在申请于北交所IPO，公司全称是先歌国际影音股份有限公司，股票简称先歌国际（872824.NQ），保荐机构为浙商证券（601878.SH）...",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "形势突变！美军称再对伊实施打击",
-      "link": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexcha4174993.shtml",
-      "date": "2026-06-28 06:51",
-      "summary": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击 央视记者获悉，当地时间6月27日，美国已对伊朗实施军事打击。 美国中央司令部发表声明称，在总统特朗普指示下...",
-      "source": "中国证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美国在第二艘船只遭袭后对伊朗发动新一轮空袭",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-28/doc-iniexche0940769.shtml",
-      "date": "2026-06-28 06:31",
-      "summary": "美国军方表示，周六对伊朗多个目标发动了新一轮打击。 由于伊朗袭击了一艘在霍尔木兹海峡航行的商船，美国周五对伊朗目标实施打击。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "缺货！涨价！这一行业，迎超级周期！“订单排到5个月后”→",
-      "link": "https://finance.sina.com.cn/wm/2026-06-28/doc-iniexchh3399440.shtml",
-      "date": "2026-06-28 06:10",
-      "summary": "来源：央视财经 功率半导体是电能转换与电路控制的核心器件，广泛应用于电力电子领域。近期，国内功率半导体企业针对不同产品线进行价格上调...",
-      "source": "滚动播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "太无耻！许家印副手向法院“哭穷”：我一个月要花30万",
-      "link": "https://finance.sina.com.cn/stock/roll/2026-06-28/doc-iniexipy4063432.shtml",
-      "date": "2026-06-28 06:00",
-      "summary": "来源：说财猫 大半夜的，真是把猫姐气笑了。 套用诸葛先生的话就是： 我从未见过有如此厚颜无耻之人！ 没错，说的就是恒大前总裁、二把手夏海钧。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "美军在伊朗再度袭击商船后实施新一轮打击",
-      "link": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniexchh3390021.shtml",
-      "date": "2026-06-28 05:53",
-      "summary": "美国中央司令部部队表示，应美国总统指示，于6月27日对伊朗境内多处目标发动新一轮打击。昨日美军针对伊朗袭击“长荣美好”号货轮一事实施打击后...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "特朗普提名俄克拉荷马州执法官员出任移民与海关执法局局长",
-      "link": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniewwyh1020933.shtml",
-      "date": "2026-06-28 03:55",
-      "summary": "美国总统特朗普表示，他将提名兰斯·施罗耶担任美国移民与海关执法局（ICE）局长，并敦促参议院“立刻”批准这项任命。 特朗普于周六在社交媒体发文称...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "百元股演义：天量再现4000点堪忧，中报季揭幕在即，89家Q1净利增长超100%百元股梳理全景图，谁是未来王者？",
-      "link": "https://finance.sina.com.cn/stock/relnews/2026-06-28/doc-iniexiqa6522601.shtml",
-      "date": "2026-06-28 03:51",
-      "summary": "来源：巫师天下 本周值得关注的要点如下： 1、百元股在上周达到创纪录的308家后数量出现回落，全周减少19家至289家；但百元股均价却继续向上达到247.49元，再创新高...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "iPad、Xbox接连涨价 折射出存储芯片短缺之痛",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-28/doc-iniewssk1096414.shtml",
-      "date": "2026-06-28 01:11",
-      "summary": "仅仅在周四短短五个小时内，苹果公司和微软公司纷纷上调了多款热门产品的价格，包括Xbox游戏主机、Mac电脑和iPad。 两家公司都将涨价归因于人工智能热潮引发的史无前例的存...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "亚马逊会员日线上总消费额超Adobe预期",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-28/doc-iniewssk1093458.shtml",
-      "date": "2026-06-28 01:03",
-      "summary": "Adobe数据显示，亚马逊年度会员日活动期间，美国所有零售商线上消费总额达264亿美元，小幅超出该机构此前263亿美元的预测值。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "韩国人均持有超2个股票账户 韩国股市“外资卖、散户加杠杆接”",
-      "link": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexipy4059639.shtml",
-      "date": "2026-06-28 00:34",
-      "summary": "来源：第一财经 据央视财经消息，韩国股市近期屡创新高，韩国综合股价指数今年以来近乎翻倍。然而，就在周五（26日），韩国综合股指盘中一度大跌超8%...",
-      "source": "第一财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "美女首席的瓜！研报被公开“打假”，高位吹票惨遭客户怒斥，还有晒图",
-      "link": "https://finance.sina.com.cn/stock/fxsdt/2026-06-28/doc-iniexiqe3297693.shtml",
-      "date": "2026-06-28 00:15",
-      "summary": "来源：金石杂谈 6月27日消息，近期关于东北计算机首席的瓜再度刷屏。近期因为高位吹票京东方遭客户质疑，并被各种辱骂；写的上市公司研报...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "史上仅11次熔断 今年已5次！韩国股市波动为何如此剧烈？",
-      "link": "https://finance.sina.com.cn/roll/2026-06-28/doc-iniexiqe3296201.shtml",
-      "date": "2026-06-28 00:01",
-      "summary": "6月26日，韩国综合股价指数（KOSPI）盘中暴跌逾8%，再度触发全市场熔断机制，交易暂停20分钟。  这已经是2026年以来第5次全市场熔断。",
-      "source": "中国证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "超级热浪席卷欧洲 中国空调“一机难求”",
-      "link": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexche0959634.shtml",
-      "date": "2026-06-28 00:00",
-      "summary": "来源：财联社 随着超级热浪席卷整个欧洲大陆，当地空调迎来销售热潮。 日前，法国西部气温升至43℃，创下法国有记录以来，6月份最高气温；英格兰西南部地区25日气温达到36...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "东鹏林老板的压力来自“饭局”吗？",
-      "link": "https://finance.sina.com.cn/stock/relnews/2026-06-27/doc-iniexiqa6522798.shtml",
-      "date": "2026-06-27 23:42",
-      "summary": "文 | 食悟 近日，一些关于东鹏饮料董事长林木勤“饭局拒喝自家产品”的短视频席卷全网，舆论快速发酵，叠加股价连续回调，东鹏以及他们的林老板实在坐不住了！",
       "source": "市场资讯",
       "category": "a-stock"
     }
