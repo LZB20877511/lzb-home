@@ -3,59 +3,100 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>工程师的个人网站</title>
+<title>工程师的工具站</title>
 <style>
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Microsoft YaHei", sans-serif;
-  max-width: 800px; margin: 60px auto; padding: 20px;
+  max-width: 800px; margin: 40px auto; padding: 20px;
   background: #0d1117; color: #c9d1d9; line-height: 1.8;
 }
-h1 { color: #58a6ff; font-size: 28px; margin-bottom: 8px; }
-h2 { color: #8b949e; font-size: 20px; margin: 32px 0 12px; border-bottom: 1px solid #30363d; padding-bottom: 8px; }
-p { color: #8b949e; margin-bottom: 8px; }
+h1 { color: #58a6ff; font-size: 24px; margin-bottom: 4px; }
+.sub { color: #8b949e; font-size: 13px; margin-bottom: 28px; }
+h2 { color: #8b949e; font-size: 13px; margin: 28px 0 12px; border-bottom: 1px solid #30363d; padding-bottom: 6px; text-transform: uppercase; letter-spacing: 2px; }
 .card {
   background: #161b22; border: 1px solid #30363d; border-radius: 8px;
-  padding: 20px; margin: 12px 0; transition: border-color 0.2s;
+  padding: 20px; margin: 10px 0; transition: border-color 0.2s;
   display: block; text-decoration: none; color: inherit;
 }
 .card:hover { border-color: #58a6ff; }
-.card-title { color: #58a6ff; font-size: 18px; font-weight: 600; margin-bottom: 6px; }
-.card-desc { color: #8b949e; font-size: 14px; }
+.card-title { color: #58a6ff; font-size: 17px; font-weight: 600; margin-bottom: 6px; }
+.card-desc { color: #8b949e; font-size: 13px; margin-bottom: 8px; line-height: 1.7; }
+.card-links { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 8px; }
+.card-link {
+  display: inline-block; padding: 3px 10px; border-radius: 12px;
+  font-size: 11px; text-decoration: none;
+  border: 1px solid var(--border); background: #21262d; color: #8b949e;
+}
+.card-link:hover { border-color: #58a6ff; color: #58a6ff; }
+.card-link.ai { background: rgba(88,166,255,.1); border-color: rgba(88,166,255,.3); color: #58a6ff; }
 .tag {
   display: inline-block; padding: 2px 8px; border-radius: 10px;
-  font-size: 12px; margin-right: 6px;
-  background: rgba(88,166,255,0.15); color: #58a6ff;
+  font-size: 11px; margin-right: 4px; background: rgba(88,166,255,0.1); color: #79c0ff;
 }
-.footer {
-  margin-top: 48px; padding-top: 16px; border-top: 1px solid #30363d;
-  font-size: 12px; color: #484f58; text-align: center;
-}
+.tag.green { background: rgba(63,185,80,0.1); color: #56d364; }
+.tag.orange { background: rgba(210,153,29,0.1); color: #e3b341; }
+.status { display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: #3fb950; margin-right: 6px; }
+.future { opacity: 0.5; pointer-events: none; }
+.future .card-title { color: #484f58; }
+.footer { margin-top: 48px; padding-top: 16px; border-top: 1px solid #30363d; font-size: 11px; color: #484f58; text-align: center; }
 </style>
 </head>
 <body>
 
-<h1>👋 你好，我是工程师</h1>
-<p>信息系统咨询工程师 | 政务信息化专家</p>
-<p style="font-size:13px">lzb20877511.kdns.fr | GitHub Pages + Cloudflare CDN</p>
+<h1>工程师的工具站</h1>
+<div class="sub">lzb20877511.kdns.fr · 信息聚合 · 自动更新</div>
 
-<h2>📊 工具</h2>
+<h2>正在运行</h2>
 
 <a href="finance.html" class="card">
-  <div class="card-title">📈 财经聚合搜索</div>
+  <div class="card-title"><span class="status"></span>财经聚合</div>
   <div class="card-desc">
-    <span class="tag">A股</span><span class="tag">美股</span><span class="tag">政策</span><span class="tag">资金流向</span>
-    搜索A股、美股新闻、政策法规、北向资金、龙虎榜、融资融券等，含实时行情。
+    搜索A股/美股新闻、政策法规、龙虎榜、北向资金、融资融券。自选股实时行情、板块热度、涨停板、减持预警。
+  </div>
+  <div>
+    <span class="tag">A股</span><span class="tag">美股</span><span class="tag">政策</span><span class="tag">龙虎榜</span><span class="tag">公告</span><span class="tag green">自选股</span><span class="tag orange">北向资金</span>
+  </div>
+  <div class="card-links">
+    <a href="finance.html" class="card-link">📊 交互版（人看）</a>
+    <a href="finance-summary.html" class="card-link ai">🤖 AI 摘要（机器读）</a>
   </div>
 </a>
 
-<div class="card">
-  <div class="card-title">🔧 更多工具开发中...</div>
-  <div class="card-desc">API中转站：api-relay.lzb19820403.workers.dev</div>
+<a href="finance.html#bids" class="card">
+  <div class="card-title"><span class="status"></span>投标监控</div>
+  <div class="card-desc">
+    自动采集广东省及深圳市政府采购招标公告。监控：信息系统监理、信息化监理、初步设计、项目建议书、第三方检测、项目管理。
+  </div>
+  <div>
+    <span class="tag">监理</span><span class="tag">检测</span><span class="tag">项目管理</span><span class="tag">初设概算</span><span class="tag green">广东</span><span class="tag orange">深圳</span>
+  </div>
+  <div class="card-links">
+    <a href="finance.html" class="card-link">📋 交互版（侧边栏）</a>
+    <a href="data/bids-summary.html" class="card-link ai">🤖 AI 摘要（机器读）</a>
+  </div>
+</a>
+
+<h2>计划中</h2>
+
+<div class="card future">
+  <div class="card-title">知识库</div>
+  <div class="card-desc">监理方案模板、项目经验、标准规范库，AI 辅助检索和引用。</div>
+  <div>
+    <span class="tag">监理文档</span><span class="tag">国标规范</span><span class="tag">项目经验</span>
+  </div>
+</div>
+
+<div class="card future">
+  <div class="card-title">AI 日报</div>
+  <div class="card-desc">每日收盘自动生成市场简报 + 新出招标项目汇总，邮件/网页推送。</div>
+  <div>
+    <span class="tag">市场简报</span><span class="tag">招标汇总</span>
+  </div>
 </div>
 
 <div class="footer">
-  <p>本站内容仅供个人参考，不构成投资建议</p>
+  <p>本站内容仅供个人参考 | GitHub Pages + GitHub Actions 全自动运行</p>
 </div>
 
 </body>
