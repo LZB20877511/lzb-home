@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>招标信息聚合 - LZB</title>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{
+  --bg:#0d1117;--bg2:#161b22;--bg3:#21262d;--border:#30363d;
+  --text:#c9d1d9;--text2:#8b949e;--red:#f85149;--green:#3fb950;
+  --blue:#58a6ff;--orange:#d2991d;
+}
+body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Microsoft YaHei",sans-serif;line-height:1.6;min-height:100vh}
+.container{max-width:960px;margin:0 auto;padding:0 16px}
+
+.header{background:var(--bg2);border-bottom:1px solid var(--border);padding:10px 0;position:sticky;top:0;z-index:100}
+.header .container{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px}
+.logo{font-size:16px;font-weight:700;color:var(--orange)}
+.status{font-size:11px;color:var(--text2)}
+.status .live{color:var(--green)}
+.refresh-btn{font-size:11px;color:var(--blue);cursor:pointer;margin-left:6px}
+.refresh-btn:hover{text-decoration:underline}
+
+/* Search */
+.search-wrap{padding:12px 0}
+.search-box input{width:100%;background:var(--bg3);border:1px solid var(--border);border-radius:6px;padding:10px 14px;color:var(--text);font-size:14px;outline:none}
+.search-box input:focus{border-color:var(--orange)}
+.search-box input::placeholder{color:var(--text2)}
+.cats{display:flex;gap:4px;margin-top:8px;flex-wrap:wrap}
+.cat{padding:5px 12px;border-radius:14px;font-size:12px;cursor:pointer;border:1px solid var(--border);color:var(--text2);background:var(--bg2);transition:all 0.15s;user-select:none;white-space:nowrap}
+.cat:hover{border-color:var(--orange);color:var(--text)}
+.cat.active{background:var(--orange);border-color:var(--orange);color:#fff}
+
+/* Stats bar */
+.stats-bar{display:flex;gap:12px;flex-wrap:wrap;margin:8px 0}
+.stat{font-size:11px;color:var(--text2);padding:3px 10px;background:var(--bg2);border:1px solid var(--border);border-radius:12px}
+.stat b{color:var(--text)}
+
+/* Results */
+.result-count{font-size:12px;color:var(--text2);margin:8px 0}
+.updated{font-size:10px;color:var(--text2);text-align:right;margin:8px 0}
+.news-list{min-height:200px}
+.news-item{padding:12px 0;border-bottom:1px solid var(--border)}
+.news-item:hover{background:var(--bg2);margin:0 -8px;padding:12px 8px;border-radius:4px}
+.news-title{font-size:14px;line-height:1.5;margin-bottom:4px}
+.news-title a{color:var(--text);text-decoration:none}
+.news-title a:hover{color:var(--orange)}
+.news-meta{display:flex;gap:8px;font-size:11px;color:var(--text2);align-items:center;flex-wrap:wrap}
+.tag{display:inline-block;padding:1px 6px;border-radius:6px;font-size:10px;font-weight:500}
+.tag-sz{background:rgba(248,81,73,.15);color:var(--red)}
+.tag-gd{background:rgba(88,166,255,.15);color:var(--blue)}
+.tag-kw{background:rgba(210,153,29,.15);color:var(--orange)}
+mark{background:rgba(210,153,29,.25);color:var(--text);padding:0 2px;border-radius:2px}
+
+.states{padding:60px 20px;text-align:center;color:var(--text2)}
+.spinner{width:24px;height:24px;border:2px solid var(--border);border-top-color:var(--orange);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 10px}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* Sidebar */
+.grid{display:grid;grid-template-columns:1fr 240px;gap:16px;margin:12px 0}
+@media(max-width:768px){.grid{grid-template-columns:1fr}}
+.widget{background:var(--bg2);border:1px solid var(--border);border-radius:6px;overflow:hidden;margin-bottom:8px;font-size:11px}
+.widget-hd{padding:6px 10px;font-size:11px;font-weight:600;color:var(--text2);border-bottom:1px solid var(--border);display:flex;align-items:center;gap:4px}
+.widget-hd .dot{width:4px;height:4px;border-radius:50%;background:var(--orange)}
+.widget-bd{padding:8px 10px;font-size:10px}
+.hot-t{display:inline-block;padding:2px 7px;margin:2px;border-radius:8px;font-size:10px;background:var(--bg3);border:1px solid var(--border);color:var(--text2);cursor:pointer}
+.hot-t:hover{border-color:var(--orange);color:var(--orange)}
+
+.footer{text-align:center;padding:16px;font-size:10px;color:var(--text2);border-top:1px solid var(--border);margin-top:20px}
+::-webkit-scrollbar{width:5px}
+::-webkit-scrollbar-track{background:var(--bg)}
+::-webkit-scrollbar-thumb{background:var(--border);border-radius:3px}
+</style>
+</head>
+<body>
+
+<header class="header">
+  <div class="container">
+    <div class="logo">📋 招标信息聚合<span style="color:var(--text2);font-weight:400;font-size:12px"> · 广东/深圳</span></div>
+    <div class="status">
+      <span class="live">●</span> 每天 8:00 / 17:00 更新
+      <span class="refresh-btn" id="refreshBtn">↻ 刷新</span>
+    </div>
+  </div>
+</header>
+
+<div class="container">
+  <noscript>
+    <div style="background:#161b22;border:1px solid var(--border);border-radius:6px;padding:12px;margin:12px 0;font-size:12px;color:var(--text2)">
+      🤖 AI 阅读请用：<a href="data/bids-summary.html" style="color:#d2991d;font-weight:600">bids-summary.html</a>（纯静态HTML，零JS可直接读取）
+    </div>
+  </noscript>
+
+  <div class="search-wrap">
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="搜索：监理/检测/初设/深圳/广东..." autocomplete="off">
+    </div>
+    <div class="cats" id="cats">
+      <span class="cat active" data-cat="all">全部</span>
+      <span class="cat" data-cat="sz">深圳市</span>
+      <span class="cat" data-cat="gd">广东省其他</span>
+      <span class="cat" data-cat="监理">监理类</span>
+      <span class="cat" data-cat="检测">检测类</span>
+      <span class="cat" data-cat="设计">初设/建议书</span>
+      <span class="cat" data-cat="管理">项目管理</span>
+    </div>
+    <div class="result-count" id="resultCount"></div>
+  </div>
+
+  <div class="stats-bar" id="statsBar"></div>
+  <div class="updated" id="updatedTime"></div>
+
+  <div class="grid">
+    <div class="news-list" id="newsList">
+      <div class="states"><div class="spinner"></div><p>加载招标数据...</p></div>
+    </div>
+
+    <div class="sidebar">
+      <div class="widget">
+        <div class="widget-hd"><span class="dot"></span>快速筛选</div>
+        <div class="widget-bd" id="hotTopics">
+          <span class="hot-t" data-kw="信息系统监理">信息系统监理</span>
+          <span class="hot-t" data-kw="信息化监理">信息化监理</span>
+          <span class="hot-t" data-kw="第三方检测">第三方检测</span>
+          <span class="hot-t" data-kw="初步设计">初步设计</span>
+          <span class="hot-t" data-kw="项目建议书">项目建议书</span>
+          <span class="hot-t" data-kw="项目管理">项目管理</span>
+          <span class="hot-t" data-kw="深圳">深圳</span>
+          <span class="hot-t" data-kw="广东">广东</span>
+        </div>
+      </div>
+      <div class="widget">
+        <div class="widget-hd"><span class="dot"></span>数据来源</div>
+        <div class="widget-bd" style="color:var(--text2)">
+          <div>中国政府采购网</div>
+          <div>深圳政府采购平台</div>
+          <div style="margin-top:4px;font-size:9px">数据仅供参考，以原文为准</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer class="footer">
+  <p>中国政府采购网 · 深圳政府采购平台 | 仅供个人参考，不构成商业建议</p>
+</footer>
+
+<script>
+(function(){
+  const $=id=>document.getElementById(id);
+  let allData=[],fuse=null,currentCat='all',currentQuery='';
+
+  const kwMap={
+    '监理':['信息系统监理','信息化监理','监理服务','信息化监理服务','监理'],
+    '检测':['第三方检测','检测服务','测评','测试'],
+    '设计':['初步设计','概算','项目建议书','可行性研究'],
+    '管理':['项目管理','项目管理服务'],
+  };
+
+  async function loadData(){
+    $('refreshBtn').style.opacity='0.5';
+    try{
+      const resp=await fetch('data/bids.json',{cache:'no-cache'});
+      if(!resp.ok)throw new Error('no data');
+      const d=await resp.json();
+      allData=d.items||[];
+      if(d.updated)$('updatedTime').textContent='数据更新：'+new Date(d.updated).toLocaleString('zh-CN',{hour12:false});
+      $('refreshBtn').style.opacity='1';
+      updateStats();render();
+    }catch(e){
+      allData=[];
+      $('newsList').innerHTML='<div class="states"><p>暂无招标数据（每天 8:00 / 17:00 自动采集）</p></div>';
+    }
+  }
+
+  function updateStats(){
+    let sz=0,gd=0,jl=0,jc=0;
+    for(const item of allData){
+      const r=item.region||'';
+      if(r.includes('深圳'))sz++;
+      else if(r.includes('广东'))gd++;
+      const kw=item.keyword||'';
+      if(kw.includes('监理'))jl++;
+      if(kw.includes('检测'))jc++;
+    }
+    let h='';
+    h+=`<div class="stat">总计 <b>${allData.length}</b> 条</div>`;
+    h+=`<div class="stat">深圳 <b>${sz}</b></div>`;
+    h+=`<div class="stat">广东 <b>${gd}</b></div>`;
+    h+=`<div class="stat">监理 <b>${jl}</b></div>`;
+    h+=`<div class="stat">检测 <b>${jc}</b></div>`;
+    $('statsBar').innerHTML=h;
+
+    fuse=new Fuse(allData,{keys:['title','keyword','region'],threshold:0.35,includeMatches:true,minMatchCharLength:1});
+  }
+
+  function render(){
+    let items=allData;
+    const r=item=>item.region||'';
+
+    // 分类过滤
+    if(currentCat==='sz') items=items.filter(i=>r(i).includes('深圳'));
+    else if(currentCat==='gd') items=items.filter(i=>r(i).includes('广东')&&!r(i).includes('深圳'));
+    else if(kwMap[currentCat]){
+      items=items.filter(i=>{
+        const kw=i.keyword||'';
+        return kwMap[currentCat].some(k=>kw.includes(k));
+      });
+    }
+
+    // 搜索
+    if(currentQuery.trim()){
+      const results=fuse.search(currentQuery.trim());
+      items=results.map(r=>r.item);
+      if(currentCat==='sz') items=items.filter(i=>r(i).includes('深圳'));
+      else if(currentCat==='gd') items=items.filter(i=>r(i).includes('广东')&&!r(i).includes('深圳'));
+    }
+
+    items.sort((a,b)=>(b.date||'').localeCompare(a.date||''));
+    $('resultCount').textContent=items.length>0?`找到 ${items.length} 条`:'暂无数据';
+
+    if(items.length===0){
+      $('newsList').innerHTML='<div class="states"><p>📭 暂无匹配的招标信息</p></div>';
+      return;
+    }
+
+    let h='';
+    for(const item of items){
+      const isSz=r(item).includes('深圳');
+      const title=highlight(item.title,currentQuery);
+      h+=`<div class="news-item">
+        <div class="news-title"><a href="${escHtml(item.link)}" target="_blank" rel="noopener">${title}</a></div>
+        <div class="news-meta">
+          <span class="tag ${isSz?'tag-sz':'tag-gd'}">${isSz?'深圳':'广东'}</span>
+          <span>📅 ${item.date||''}</span>
+          <span class="tag tag-kw">${item.keyword||''}</span>
+          <span>${item.source||''}</span>
+        </div>
+      </div>`;
+    }
+    $('newsList').innerHTML=h;
+  }
+
+  function highlight(text,query){
+    if(!query||!query.trim())return escHtml(text);
+    try{
+      const e=escHtml(text),p=query.trim().replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+      return e.replace(new RegExp(`(${p})`,'gi'),'<mark>$1</mark>');
+    }catch{return escHtml(text)}
+  }
+  function escHtml(s){if(!s)return'';const d=document.createElement('div');d.textContent=s;return d.innerHTML}
+
+  // Events
+  $('cats').addEventListener('click',e=>{
+    const cat=e.target.closest('.cat');if(!cat)return;
+    document.querySelectorAll('.cat').forEach(c=>c.classList.remove('active'));
+    cat.classList.add('active');currentCat=cat.dataset.cat;render();
+  });
+  let st;
+  $('searchInput').addEventListener('input',()=>{clearTimeout(st);st=setTimeout(()=>{currentQuery=$('searchInput').value;render()},200)});
+  $('hotTopics').addEventListener('click',e=>{
+    const t=e.target.closest('.hot-t');if(!t)return;
+    $('searchInput').value=t.dataset.kw;currentQuery=t.dataset.kw;currentCat='all';
+    document.querySelectorAll('.cat').forEach(c=>c.classList.remove('active'));
+    document.querySelector('.cat[data-cat="all"]').classList.add('active');
+    render();$('searchInput').focus();
+  });
+  $('refreshBtn').addEventListener('click',loadData);
+
+  loadData();
+  setInterval(loadData,7200000); // 每2小时刷新
+})();
+</script>
+</body>
+</html>
