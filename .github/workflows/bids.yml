@@ -1,0 +1,29 @@
+name: 招标信息采集
+
+on:
+  schedule:
+    # 北京时间每天 8:00 和 17:00（UTC 0:00 和 9:00）
+    - cron: "0 0,9 * * *"
+  workflow_dispatch:
+
+jobs:
+  scrape-bids:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      TZ: Asia/Shanghai
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: 采集招标信息
+        run: python tools/bid-scraper.py
+      - name: 提交更新
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add data/bids.json data/bids-summary.html
+          git diff --cached --quiet || git commit -m "招标更新: $(TZ='Asia/Shanghai' date '+%m/%d %H:%M')"
+          git push
