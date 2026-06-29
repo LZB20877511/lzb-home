@@ -1,0 +1,32 @@
+name: Sync Watchlist to CF Worker
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'data/watchlist.json'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Sync to Cloudflare Worker
+        run: |
+          python3 -c "
+          import json, urllib.request
+          data = json.load(open('data/watchlist.json'))
+          for s in data:
+              req = urllib.request.Request(
+                  'https://api-relay.lzb19820403.workers.dev/api/watchlist',
+                  data=json.dumps(s).encode(),
+                  headers={'Content-Type': 'application/json'},
+                  method='POST'
+              )
+              try:
+                  resp = urllib.request.urlopen(req, timeout=10)
+                  print(f'OK {s[\"code\"]} {s[\"name\"]}')
+              except Exception as e:
+                  print(f'ERR {s[\"code\"]}: {e}')
+          print(f'Synced {len(data)} stocks')
+          "
