@@ -1,12 +1,202 @@
 {
-  "updated": "2026-06-30T06:57:39.255807+08:00",
+  "updated": "2026-06-30T09:53:55.116264+08:00",
   "source": "个股公告",
-  "count": 29,
+  "count": 25,
   "items": [
+    {
+      "title": "东江环保:2025年度股东会决议公告",
+      "link": "https://data.eastmoney.com/notices/detail/002672/20260630/AN202606291826549983.html",
+      "date": "2026-06-30 09:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002672",
+      "stock_name": "东江环保"
+    },
+    {
+      "title": "中国化学:中国化学2025年年度股东会决议公告",
+      "link": "https://data.eastmoney.com/notices/detail/601117/20260630/AN202606291826549475.html",
+      "date": "2026-06-30 09:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "601117",
+      "stock_name": "中国化学"
+    },
+    {
+      "title": "国网信通:国网信息通信股份有限公司2025年年度股东会决议公告",
+      "link": "https://data.eastmoney.com/notices/detail/600131/20260630/AN202606291826547306.html",
+      "date": "2026-06-30 09:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "600131",
+      "stock_name": "国网信通"
+    },
+    {
+      "title": "中创股份:2025年年度股东会决议公告",
+      "link": "https://data.eastmoney.com/notices/detail/688695/20260630/AN202606291826545809.html",
+      "date": "2026-06-30 09:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688695",
+      "stock_name": "中创股份"
+    },
+    {
+      "title": "中国中铁:中国中铁2025年年度股东会决议公告",
+      "link": "https://data.eastmoney.com/notices/detail/601390/20260630/AN202606291826544930.html",
+      "date": "2026-06-30 09:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "601390",
+      "stock_name": "中国中铁"
+    },
+    {
+      "title": "天汽模:关于发行股份及支付现金购买资产并募集配套资金暨关联交易的申请文件获得深圳证券交易所受理的公告",
+      "link": "https://data.eastmoney.com/notices/detail/002510/20260630/AN202606301826562520.html",
+      "date": "2026-06-30 09:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002510",
+      "stock_name": "天汽模"
+    },
+    {
+      "title": "晶合集成:晶合集成关于刊发H股招股说明书、H股发行价格区间及H股香港公开发售等事宜的公告",
+      "link": "https://data.eastmoney.com/notices/detail/688249/20260630/AN202606301826562331.html",
+      "date": "2026-06-30 09:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688249",
+      "stock_name": "晶合集成"
+    },
+    {
+      "title": "华菱线缆:安徽三竹智能科技有限公司模拟审计报告",
+      "link": "https://data.eastmoney.com/notices/detail/001208/20260630/AN202606301826562266.html",
+      "date": "2026-06-30 09:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "001208",
+      "stock_name": "华菱线缆"
+    },
+    {
+      "title": "华菱线缆:湖南华菱线缆股份有限公司关于发行可转换公司债券购买资产并募集配套资金暨关联交易变更签字律师的专项说明",
+      "link": "https://data.eastmoney.com/notices/detail/001208/20260630/AN202606301826562269.html",
+      "date": "2026-06-30 09:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "001208",
+      "stock_name": "华菱线缆"
+    },
+    {
+      "title": "华菱线缆:湖南华菱线缆股份有限公司关于深圳证券交易所《关于湖南华菱线缆股份有限公司发行可转换公司债券购买资产并募集配套资金申请的审核问询函》的回复(修订稿)",
+      "link": "https://data.eastmoney.com/notices/detail/001208/20260630/AN202606301826562267.html",
+      "date": "2026-06-30 09:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "001208",
+      "stock_name": "华菱线缆"
+    },
+    {
+      "title": "华菱线缆:北京坤元至诚资产评估有限公司关于深圳证券交易所《关于湖南华菱线缆股份有限公司发行可转换公司债券购买资产并募集配套资金申请的审核问询函》回复之专项核查意见",
+      "link": "https://data.eastmoney.com/notices/detail/001208/20260630/AN202606301826562276.html",
+      "date": "2026-06-30 09:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "001208",
+      "stock_name": "华菱线缆"
+    },
+    {
+      "title": "华菱线缆:北京市嘉源律师事务所关于湖南华菱线缆股份有限公司发行可转换公司债券购买资产并募集配套资金暨关联交易的补充法律意见书(三)",
+      "link": "https://data.eastmoney.com/notices/detail/001208/20260630/AN202606301826562274.html",
+      "date": "2026-06-30 09:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "001208",
+      "stock_name": "华菱线缆"
+    },
+    {
+      "title": "华菱线缆:湖南华菱线缆股份有限公司备考模拟审阅报告",
+      "link": "https://data.eastmoney.com/notices/detail/001208/20260630/AN202606301826562268.html",
+      "date": "2026-06-30 09:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "001208",
+      "stock_name": "华菱线缆"
+    },
+    {
+      "title": "华菱线缆:湖南华菱线缆股份有限公司关于提前归还部分暂时用于补充流动资金的募集资金的公告",
+      "link": "https://data.eastmoney.com/notices/detail/001208/20260630/AN202606301826562270.html",
+      "date": "2026-06-30 09:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "001208",
+      "stock_name": "华菱线缆"
+    },
+    {
+      "title": "华菱线缆:申万宏源证券承销保荐有限责任公司关于深圳证券交易所《关于湖南华菱线缆股份有限公司发行可转换公司债券购买资产并募集配套资金申请的审核问询函》回复之专项核查意见(修订稿)",
+      "link": "https://data.eastmoney.com/notices/detail/001208/20260630/AN202606301826562271.html",
+      "date": "2026-06-30 09:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "001208",
+      "stock_name": "华菱线缆"
+    },
+    {
+      "title": "华菱线缆:申万宏源证券承销保荐有限责任公司关于湖南华菱线缆股份有限公司发行可转换公司债券购买资产并募集配套资金暨关联交易变更签字律师的专项说明",
+      "link": "https://data.eastmoney.com/notices/detail/001208/20260630/AN202606301826562272.html",
+      "date": "2026-06-30 09:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "001208",
+      "stock_name": "华菱线缆"
+    },
+    {
+      "title": "华菱线缆:湖南华菱线缆股份有限公司发行可转换公司债券购买资产并募集配套资金暨关联交易报告书(草案)摘要(修订稿)",
+      "link": "https://data.eastmoney.com/notices/detail/001208/20260630/AN202606301826562264.html",
+      "date": "2026-06-30 09:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "001208",
+      "stock_name": "华菱线缆"
+    },
+    {
+      "title": "华菱线缆:大信会计师事务所关于湖南华菱线缆股份有限公司关于发行可转换公司债券购买资产并募集配套资金申请的审核问询函的回复(修订稿)",
+      "link": "https://data.eastmoney.com/notices/detail/001208/20260630/AN202606301826562222.html",
+      "date": "2026-06-30 09:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "001208",
+      "stock_name": "华菱线缆"
+    },
+    {
+      "title": "华菱线缆:湖南华菱线缆股份有限公司第六届董事会第十次会议决议公告",
+      "link": "https://data.eastmoney.com/notices/detail/001208/20260630/AN202606301826562223.html",
+      "date": "2026-06-30 09:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "001208",
+      "stock_name": "华菱线缆"
+    },
     {
       "title": "银河微电:股票交易风险提示公告",
       "link": "https://data.eastmoney.com/notices/detail/118011/20260630/AN202606291826553535.html",
-      "date": "2026-06-30 06:57",
+      "date": "2026-06-30 09:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -16,7 +206,7 @@
     {
       "title": "兆易创新:兆易创新关于股票交易风险提示的公告",
       "link": "https://data.eastmoney.com/notices/detail/603986/20260630/AN202606291826553333.html",
-      "date": "2026-06-30 06:57",
+      "date": "2026-06-30 09:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -26,7 +216,7 @@
     {
       "title": "广钢气体:股票交易风险提示公告",
       "link": "https://data.eastmoney.com/notices/detail/688548/20260630/AN202606291826552734.html",
-      "date": "2026-06-30 06:57",
+      "date": "2026-06-30 09:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -36,7 +226,7 @@
     {
       "title": "人民网:北京市嘉源律师事务所关于人民网股份有限公司2025年年度股东会的法律意见书",
       "link": "https://data.eastmoney.com/notices/detail/603000/20260630/AN202606291826552077.html",
-      "date": "2026-06-30 06:57",
+      "date": "2026-06-30 09:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -46,7 +236,7 @@
     {
       "title": "人民网:人民网股份有限公司2025年年度股东会决议公告",
       "link": "https://data.eastmoney.com/notices/detail/603000/20260630/AN202606291826552076.html",
-      "date": "2026-06-30 06:57",
+      "date": "2026-06-30 09:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -56,242 +246,12 @@
     {
       "title": "ST龙元:龙元建设关于股票交易异常波动的公告",
       "link": "https://data.eastmoney.com/notices/detail/600491/20260630/AN202606291826551958.html",
-      "date": "2026-06-30 06:57",
+      "date": "2026-06-30 09:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
       "stock_code": "600491",
       "stock_name": "ST龙元"
-    },
-    {
-      "title": "ST龙元:龙元建设关于公司股票存在可能因股价低于面值被终止上市的风险提示公告",
-      "link": "https://data.eastmoney.com/notices/detail/600491/20260630/AN202606291826551959.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "600491",
-      "stock_name": "ST龙元"
-    },
-    {
-      "title": "中科星图:中科星图股份有限公司关于2025年年度报告的信息披露监管问询函的回复公告",
-      "link": "https://data.eastmoney.com/notices/detail/688568/20260630/AN202606291826551793.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688568",
-      "stock_name": "中科星图"
-    },
-    {
-      "title": "中科星图:立信会计师事务所(特殊普通合伙)关于中科星图股份有限公司2025年年度报告的信息披露监管问询函之回复",
-      "link": "https://data.eastmoney.com/notices/detail/688568/20260630/AN202606291826551794.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688568",
-      "stock_name": "中科星图"
-    },
-    {
-      "title": "佳禾食品:佳禾食品工业股份有限公司股票交易异常波动公告",
-      "link": "https://data.eastmoney.com/notices/detail/605300/20260630/AN202606291826551685.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "605300",
-      "stock_name": "佳禾食品"
-    },
-    {
-      "title": "三花智控:2025年度股东会决议公告",
-      "link": "https://data.eastmoney.com/notices/detail/002050/20260630/AN202606291826551674.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002050",
-      "stock_name": "三花智控"
-    },
-    {
-      "title": "三花智控:浙江天册律师事务所关于浙江三花智能控制股份有限公司2025年度股东会的法律意见书",
-      "link": "https://data.eastmoney.com/notices/detail/002050/20260630/AN202606291826551672.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002050",
-      "stock_name": "三花智控"
-    },
-    {
-      "title": "三花智控:公司章程(2026年6月)",
-      "link": "https://data.eastmoney.com/notices/detail/002050/20260630/AN202606291826551673.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002050",
-      "stock_name": "三花智控"
-    },
-    {
-      "title": "莱尔科技:世纪证券有限责任公司关于广东莱尔新材料科技股份有限公司2025年年度报告的信息披露监管问询函回复的核查意见",
-      "link": "https://data.eastmoney.com/notices/detail/688683/20260630/AN202606291826551646.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688683",
-      "stock_name": "莱尔科技"
-    },
-    {
-      "title": "莱尔科技:中审众环会计师事务所(特殊普通合伙)关于广东莱尔新材料科技股份有限公司2025年年度报告的信息披露监管问询函的回复",
-      "link": "https://data.eastmoney.com/notices/detail/688683/20260630/AN202606291826551647.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688683",
-      "stock_name": "莱尔科技"
-    },
-    {
-      "title": "莱尔科技:关于2025年年度报告的信息披露监管问询函的回复公告",
-      "link": "https://data.eastmoney.com/notices/detail/688683/20260630/AN202606291826551648.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688683",
-      "stock_name": "莱尔科技"
-    },
-    {
-      "title": "ST龙大:第六届董事会第二十二次会议决议公告",
-      "link": "https://data.eastmoney.com/notices/detail/002726/20260630/AN202606291826551607.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002726",
-      "stock_name": "ST龙大"
-    },
-    {
-      "title": "ST龙大:关于变更回购股份用途的公告",
-      "link": "https://data.eastmoney.com/notices/detail/002726/20260630/AN202606291826551592.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002726",
-      "stock_name": "ST龙大"
-    },
-    {
-      "title": "ST龙大:关于控股股东所持公司927万股股份被强制执行进展情况的公告",
-      "link": "https://data.eastmoney.com/notices/detail/002726/20260630/AN202606291826551591.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002726",
-      "stock_name": "ST龙大"
-    },
-    {
-      "title": "京城股份:京城股份董事、高级管理人员薪酬管理制度",
-      "link": "https://data.eastmoney.com/notices/detail/600860/20260630/AN202606291826551536.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "600860",
-      "stock_name": "京城股份"
-    },
-    {
-      "title": "清溢光电:关于股票交易风险提示的公告",
-      "link": "https://data.eastmoney.com/notices/detail/688138/20260630/AN202606291826551418.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688138",
-      "stock_name": "清溢光电"
-    },
-    {
-      "title": "*ST明德:北京大成律师事务所关于武汉明德生物科技股份有限公司重大资产购买的法律意见书",
-      "link": "https://data.eastmoney.com/notices/detail/002932/20260630/AN202606291826551377.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002932",
-      "stock_name": "*ST明德"
-    },
-    {
-      "title": "*ST明德:立信会计师事务所(特殊普通合伙)及经办人员关于不存在不得参与上市公司重大资产重组相关情形的说明",
-      "link": "https://data.eastmoney.com/notices/detail/002932/20260630/AN202606291826551372.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002932",
-      "stock_name": "*ST明德"
-    },
-    {
-      "title": "*ST明德:武汉明德生物科技股份有限公司董事会关于本次交易是否存在直接或间接有偿聘请其他第三方机构或个人的说明",
-      "link": "https://data.eastmoney.com/notices/detail/002932/20260630/AN202606291826551388.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002932",
-      "stock_name": "*ST明德"
-    },
-    {
-      "title": "*ST明德:长江证券承销保荐有限公司关于本次交易是否构成重大资产重组、关联交易及重组上市的核查意见",
-      "link": "https://data.eastmoney.com/notices/detail/002932/20260630/AN202606291826551397.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002932",
-      "stock_name": "*ST明德"
-    },
-    {
-      "title": "*ST明德:第五届董事会第七次会议决议公告",
-      "link": "https://data.eastmoney.com/notices/detail/002932/20260630/AN202606291826551381.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002932",
-      "stock_name": "*ST明德"
-    },
-    {
-      "title": "*ST明德:武汉明德生物科技股份有限公司重大资产购买报告书(草案)",
-      "link": "https://data.eastmoney.com/notices/detail/002932/20260630/AN202606291826551404.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002932",
-      "stock_name": "*ST明德"
-    },
-    {
-      "title": "*ST明德:中联资产评估咨询(上海)有限公司及经办人员关于不存在不得参与上市公司重大资产重组相关情形的说明",
-      "link": "https://data.eastmoney.com/notices/detail/002932/20260630/AN202606291826551395.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002932",
-      "stock_name": "*ST明德"
-    },
-    {
-      "title": "*ST明德:长江证券承销保荐有限公司关于内幕信息知情人登记制度的制定和执行情况的核查意见",
-      "link": "https://data.eastmoney.com/notices/detail/002932/20260630/AN202606291826551398.html",
-      "date": "2026-06-30 06:57",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002932",
-      "stock_name": "*ST明德"
     }
   ]
 }
