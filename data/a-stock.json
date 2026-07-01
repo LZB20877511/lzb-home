@@ -1,14 +1,366 @@
 {
-  "updated": "2026-07-01T11:51:41.864884+08:00",
+  "updated": "2026-07-01T13:51:10.789756+08:00",
   "source": "A股聚合",
-  "count": 49,
+  "count": 48,
   "items": [
     {
-      "title": "“杰哥需要我帮他一下子”，美的油烟机玩梗张杰引争议，粉丝要求品牌方公开道歉",
-      "link": "https://finance.sina.com.cn/chanjing/wddc/2026-07-01/doc-inifhmhw1067987.shtml",
-      "date": "2026-07-01 11:50",
-      "summary": "6月30日，美的集团官方认证的小红书企业号“美的油烟机”在歌手张杰相关视频下发表评论引发巨大争议。 网友截图显示，“美的油烟机”在一条模仿玩梗张杰演唱会片段的视频下面评...",
-      "source": "5D调查",
+      "title": "199只主动权益基金上半年翻倍，易方达、财通各揽13只并列榜首，百亿基金仅4只（全名单）",
+      "link": "https://finance.sina.com.cn/money/fund/original/2026-07-01/doc-inifhrra3095200.shtml",
+      "date": "2026-07-01 13:39",
+      "summary": "2026年上半年行情收官，主动权益类基金交出了一份亮眼的成绩单。在科技成长主线的驱动下，全市场共有199只主动权益类基金实现年内收益翻倍。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "美伊和平前景存疑，白银却遭抛售——市场在定价什么？",
+      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-07-01/doc-inifhrqu0997728.shtml",
+      "date": "2026-07-01 13:35",
+      "summary": "来源：汇通网 汇通财经APP讯——周三（7月1日）亚洲时段，白银价格延续隔夜弱势，回落至57.50美元/盎司附近，盘中跌幅超1%。 尽管白银兼具工业金属与避险资产的双重属性...",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "光大期货：7月1日农产品日报",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-01/doc-inifhrqu0993279.shtml",
+      "date": "2026-07-01 13:32",
+      "summary": "蛋白粕： （侯雪玲，从业资格号：F3048706；交易咨询资格号：Z0013637） 周二，CBOT大豆收高，跟随玉米和小麦 市场走高。美国农业部如期上调美豆种植面积和美豆季度库存...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "光大期货：7月1日软商品日报",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-01/doc-inifhrqy6307196.shtml",
+      "date": "2026-07-01 13:31",
+      "summary": "白糖： （张笑金，从业资格号：F0306200；交易咨询资格号：Z0000082） 消息方面，截至6月24日当周，巴西港口等待装运食糖的船只数量为47艘，环比增加6艘。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "光大期货：7月1日有色金属日报",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-01/doc-inifhrqs4215553.shtml",
+      "date": "2026-07-01 13:31",
+      "summary": "铜： （展大鹏，从业资格号：F3013795；交易咨询资格号：Z0013582） 隔夜内外铜价冲高回落，小幅收涨，国内精炼铜现货进口亏损收窄。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "光大期货：7月1日金融日报",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-01/doc-inifhrra3082581.shtml",
+      "date": "2026-07-01 13:30",
+      "summary": "股指： （王东灜，从业资格号：F03087149；交易咨询资格号：Z0019537） 昨日，A股市场震荡上涨，Wind全A上涨1.69%，成交额3.29万亿元。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "保险板块午后拉升 新华保险涨停",
+      "link": "https://finance.sina.com.cn/jryx/insurance/2026-07-01/doc-inifhrqs4214673.shtml",
+      "date": "2026-07-01 13:29",
+      "summary": "7月1日金融一线消息，保险板块午后继续上扬，新华保险涨停，现价65.63元/股；中国人保、中国人寿涨超9%。",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "光大期货：7月1日矿钢煤焦日报",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-01/doc-inifhrqy6304830.shtml",
+      "date": "2026-07-01 13:27",
+      "summary": "螺纹钢： （邱跃成，从业资格号：F3046854；交易咨询资格号：Z0016941） 昨日螺纹盘面窄幅波动，截止日盘螺纹2610合约收盘价格为3088元/吨...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "光大期货：7月1日能源化工日报",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-01/doc-inifhrqy6304432.shtml",
+      "date": "2026-07-01 13:27",
+      "summary": "原油： （钟美燕，从业资格号：F3045334；交易咨询资格号：Z0002410） 周一油价再度下跌，其中WTI 8月合约收盘下跌1.25美元至69.50美元/桶，跌幅1.77%。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "25万股民狂欢，4倍大牛股3连板",
+      "link": "https://finance.sina.com.cn/wm/2026-07-01/doc-inifhrqs4218760.shtml",
+      "date": "2026-07-01 13:26",
+      "summary": "记者丨李益文 编辑丨叶映橙 江佩霞 7月1日，多氟多（002407.SZ）强势收获三连板，A股氟化工板块盘中全线飘红，截至发稿，板块内多股集体涨停，三美股份（603379...",
+      "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
+    {
+      "title": "韩国投资者，上半年持续加仓A股，哪些是他们的“心头好”？",
+      "link": "https://finance.sina.com.cn/stock/relnews/2026-07-01/doc-inifhrqs4215273.shtml",
+      "date": "2026-07-01 13:24",
+      "summary": "2026年上半年，韩国投资者持续加码配置中国市场。韩国证券存托结算院（KSD）数据显示，在韩国投资者净买入金额居前的中国市场标的中，多只ETF强势挤进榜单前列，科技...",
+      "source": "中国证券报",
+      "category": "a-stock"
+    },
+    {
+      "title": "逆变器重挫，阳光电源暴跌13%！新能源电池ETF华宝（159071）跌超3%，基金经理火线点评来了！",
+      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-01/doc-inifhrqs4212603.shtml",
+      "date": "2026-07-01 13:24",
+      "summary": "今日（7月1日），电池产业链突遭重挫。阳光电源大跌逾13%，锦浪科技、海博思创跌超9%，麦格米特跌超5%。专注储能产业链的新能源电池ETF华宝（159071）场内价格跌3.6%...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "畜牧养殖板块掀涨停潮，华宝基金农牧渔ETF（159275）盘中涨超6%！行业新一轮上升周期即将开启？",
+      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-01/doc-inifhrqu0989220.shtml",
+      "date": "2026-07-01 13:23",
+      "summary": "农牧渔板块今日（7月1日）持续猛攻！全市场首只农牧渔ETF（159275）盘中场内价格一度涨超6%，截至发稿，涨5.44%。 成份股方面，畜牧养殖板块集体大涨。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "低位补涨行情来袭？软件开发ETF华宝（159036）盘中大涨近4%，大智慧等4股涨停！机构：AI安全重要性凸显！",
+      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-01/doc-inifhrqs4211328.shtml",
+      "date": "2026-07-01 13:23",
+      "summary": "软件方向或迎低位补涨行情，囊括108只软件开发行业个股的软件开发指数盘中豪涨近4%，启明信息、能科科技、宝信软件、大智慧4股涨停，财富趋势、格灵深瞳涨超12%...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "白酒大佬也卖不动名酒了",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-07-01/doc-inifhrqu0987352.shtml",
+      "date": "2026-07-01 13:18",
+      "summary": "“过去卖名酒是‘躺赢’，现在可能是‘躺赔’。” 文|《中国企业家》记者张文静 编辑|米娜 头图来源|视觉中国 近日，“酒类流通第一股”华致酒行披露一则补税公告。",
+      "source": "中国企业家",
+      "category": "a-stock"
+    },
+    {
+      "title": "工行原行长杨凯生谈AI幻觉：是与生俱来的结构性问题，潜在风险亟待破解",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-07-01/doc-inifhrqu0984890.shtml",
+      "date": "2026-07-01 13:16",
+      "summary": "7月1日金融一线消息，6月30日，第十一届“融城杯金融科技创新案例评选”启动仪式在北京正式举行。 聚焦人工智能发展，工商银行原行长杨凯生指出...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "平安产险北京分公司全面启动2026年“7·8全国保险公众宣传日”系列活动",
+      "link": "https://finance.sina.com.cn/money/insurance/bxyx/2026-07-01/doc-inifhrqs4207586.shtml",
+      "date": "2026-07-01 13:16",
+      "summary": "2026年是“十五五”规划开局之年，保险行业迎来第14个“7·8全国保险公众宣传日”。为深入贯彻落实国家金融监督管理总局、中国保险行业协会工作部署...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "上半年全年并购交易总额达2.8万亿美元，同比飙升48%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-inifhrra3071682.shtml",
+      "date": "2026-07-01 13:15",
+      "summary": "伦敦证券交易所集团 （LSEG） 的数据显示，2026年上半年，超过100亿美元的“超大规模交易”激增，推动全球并购活动达到创纪录水平。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "音乐人屠颖酒店内意外去世，家属指责万豪酒店七大问题，酒店方最新回应",
+      "link": "https://finance.sina.com.cn/china/2026-07-01/doc-inifhrqs4206576.shtml",
+      "date": "2026-07-01 13:14",
+      "summary": "7月1日消息，近日，音乐人屠颖在万豪集团旗下广州白云国际会议中心越秀福朋喜来登酒店跑步机上去世一事，引发各界关注。6月29日，滚石唱片发布关于屠颖老师不幸事件联合声...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "特朗普家族因加密货币获利超10亿美元，白宫：不存在利益冲突",
+      "link": "https://finance.sina.com.cn/wm/2026-07-01/doc-inifhrqs4207442.shtml",
+      "date": "2026-07-01 13:11",
+      "summary": "文章来源：CCTV国际时讯 CCTV国际时讯消息，据美国媒体当地时间6月30日报告，美国总统特朗普提交给美国政府道德办公室的2025年度财务报告显示...",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "韩国将中国等六个国家团体游客的签证费豁免延长至年底",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-inifhrqs4202606.shtml",
+      "date": "2026-07-01 13:08",
+      "summary": "韩国法务部周三表示，韩国已将针对六个国家团体游客的签证费豁免计划延长至年底。 在扩展计划下，来自中国、柬埔寨、印度、印度尼西亚...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "SK海力士向美国SEC提交修订后的IPO文件",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-inifhrqu0979321.shtml",
+      "date": "2026-07-01 13:07",
+      "summary": "SK海力士公司本周向美证券交易委员会（SEC）重新提交了修订后的F-1表格注册文件，其中包含潜在的诉讼风险，该公司正在推进其在美国上市的计划。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "兴银理财、宁银理财频现IPO，打新成银行理财“财富密码”",
+      "link": "https://finance.sina.com.cn/money/lczx/2026-07-01/doc-inifhrqu0980566.shtml",
+      "date": "2026-07-01 13:04",
+      "summary": "21世纪经济报道记者 叶麦穗  打新成为银行理财的“财富密码”。 近日，全球大尺寸液晶面板龙头企业惠科股份正式登陆深交所主板。该股发行价定为10.12元/股...",
+      "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
+    {
+      "title": "中信证券：关注中报驱动性行情 业绩行情或已启动",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-01/doc-inifhrqu0993604.shtml",
+      "date": "2026-07-01 13:00",
+      "summary": "这两天，高考成绩开始放榜了，A股也完成了期中“考试”。 今天，一起盘一盘上半年A股交易数据背后叙事逻辑，看看如何从上半年的“错过”当中“抓住”下半年的机会。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "日本最高外汇官员三村淳：两个月前为支撑日元而采取的外汇干预措施取得了成功",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-inifhmia6408082.shtml",
+      "date": "2026-07-01 12:51",
+      "summary": "日本最高货币官员表示，两个月前日本为支撑日元而进行的外汇干预取得了成效，部分美国官员也对此表示支持，目前日元徘徊在四十年来的低点附近。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "超4500股上涨！“牛市旗手”，发力",
+      "link": "https://finance.sina.com.cn/wm/2026-07-01/doc-inifhmie3188204.shtml",
+      "date": "2026-07-01 12:51",
+      "summary": "7月首个交易日，A股主要指数涨跌不一，沪指偏强。截至午间收盘，上证指数报4138.65点，涨1.08%；深证成指涨0.41%，创业板指跌0.39%，科创综指涨0.23%。",
+      "source": "上海证券报",
+      "category": "a-stock"
+    },
+    {
+      "title": "未来5年，抓住这4个万亿级风口",
+      "link": "https://finance.sina.com.cn/chanjing/cyxw/2026-07-01/doc-inifhmia6413733.shtml",
+      "date": "2026-07-01 12:48",
+      "summary": "深耕新赛道、布局新领域，抢抓万亿市场红利，就是未来五年民营经济最确定的发展道路。 未来5年，有哪些投资机遇？这是民间资本最为关注的问题。",
+      "source": "中国新闻网",
+      "category": "a-stock"
+    },
+    {
+      "title": "央行首秀9000亿元隔夜逆回购操作，但尚未成为政策利率基准",
+      "link": "https://finance.sina.com.cn/roll/2026-07-01/doc-inifhmhw1103503.shtml",
+      "date": "2026-07-01 12:47",
+      "summary": "来源：华夏时报 文/冉学东 6月29日，央行启动隔夜逆回购3000亿元，6月30日，再次进行了6000亿元隔夜逆回购操作，数量翻倍，均采取固定利率，数量招标...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "陈向东：知真思维模式是高途文化的底层基石",
+      "link": "https://finance.sina.com.cn/stock/enterprise/us/2026-07-01/doc-inifhmie3179354.shtml",
+      "date": "2026-07-01 12:43",
+      "summary": "在高途（NYSE：GOTU）集团成立12周年之际，高途创始人陈向东系统提出了“本真心”“始善利人”“顺天和人”三层哲学框架，这些理念根植于一套严密的思维操作系统——知真思维模式（...",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "出征国际赛场 | 成都欧曼谛技工学校李锌斩获2026年澳大利亚全球技能挑战赛美发项目金牌！",
+      "link": "https://finance.sina.com.cn/stock/enterprise/hk/2026-07-01/doc-inifhmhw1096517.shtml",
+      "date": "2026-07-01 12:41",
+      "summary": "6月28日，2026年澳大利亚全球技能挑战赛在伍伦贡圆满落幕。中国东方教育（00667.HK）旗下成都欧曼谛技工学校培养选手、第48届世界技能大赛美发项目中国集训队正选选手李锌...",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "32中31！联想集团×咪咕“世界杯预测人机大战”诞生2500万分之一锦鲤",
+      "link": "https://finance.sina.com.cn/roll/2026-07-01/doc-inifhmie3172834.shtml",
+      "date": "2026-07-01 12:36",
+      "summary": "2026年世界杯小组赛结束后，一张32强答卷把“世界杯预测人机大战”的戏剧性推到了新高度。 在联想集团与咪咕视频联合发起的“世界杯预测人机大战”中...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "巨额回购股揭秘，最高股息率接近11%（附名单）",
+      "link": "https://finance.sina.com.cn/stock/relnews/2026-07-01/doc-inifhrqs4209698.shtml",
+      "date": "2026-07-01 12:35",
+      "summary": "价值股黄金坑出现了？ 今年上半年，A股市场结构性行情凸显，科技股表现亮眼，电子、通信等板块年内涨幅均超70%。以大消费、大金融为主的价值股则表现较弱，食品饮料...",
+      "source": "数据宝",
+      "category": "a-stock"
+    },
+    {
+      "title": "A股券商多股涨停，CPO概念下挫，“光伏一哥”跌超13%",
+      "link": "https://finance.sina.com.cn/wm/2026-07-01/doc-inifhmia6400027.shtml",
+      "date": "2026-07-01 12:32",
+      "summary": "7月1日早盘，A股四大指数涨跌不一，中小盘股走势较强，截至中午收盘，沪指震荡拉升超1%，深成指涨0.41%，创业板指跌0.39%，科创综指跌0.23%。",
+      "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
+    {
+      "title": "利好来了！脑机接口概念大涨",
+      "link": "https://finance.sina.com.cn/wm/2026-07-01/doc-inifhmie3185555.shtml",
+      "date": "2026-07-01 12:31",
+      "summary": "7月1日早盘，脑机接口概念股表现活跃。截至上午收盘，美好医疗涨15%，狄耐克涨12.4%，创新医疗、星网锐捷涨停。翔宇医疗、三博脑科、爱朋医疗、倍轻松、泰和科技...",
+      "source": "上海证券报",
+      "category": "a-stock"
+    },
+    {
+      "title": "视频|江西生物上市首日破发!掌门人年仅33岁，26岁妹妹任执行董事",
+      "link": "https://finance.sina.com.cn/roll/2026-07-01/doc-inifhmhu4311228.shtml",
+      "date": "2026-07-01 12:27",
+      "summary": "来源：红星资本局 上市首日破发！掌门人年仅33岁，26岁妹妹任执行董事，主力产品一年卖3000万支，出口销售均价为国内约1/3#江西生物上市首日破发#江西生物出口销售均价为国...",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "视频|海伦司痛失“名字”难撑招牌",
+      "link": "https://finance.sina.com.cn/roll/2026-07-01/doc-inifhmie3161901.shtml",
+      "date": "2026-07-01 12:22",
+      "summary": "来源：红星资本局 海伦司或将痛失中文名，3个核心商标被判无效，市值已从303亿缩水到21亿#海伦司8成门店靠加盟#海伦司",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "002458，涨停！业绩预增超78倍",
+      "link": "https://finance.sina.com.cn/jjxw/2026-07-01/doc-inifhmhu4307510.shtml",
+      "date": "2026-07-01 12:11",
+      "summary": "每经编辑|何小桃 7月1日，A股白羽肉鸡龙头益生股份（002458）盘中涨停，最新股价8.55元，市值122.4亿元。 与此同时，养殖业板块暴力反弹，湘佳股份、绿康生化、天邦食品...",
+      "source": "每日经济新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "欧洲央行德马尔科：欧洲央行不应急于再度加息",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-inifhmie3151048.shtml",
+      "date": "2026-07-01 12:06",
+      "summary": "欧洲央行管委、马耳他央行行长亚历山大・德马尔科表示，鉴于油价回落速度超出预期，欧洲央行不宜仓促推出新一轮加息举措，越来越多政策制定者也呼吁货币政策保持审慎...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "向董明珠提问要先买脱谷机？格力电器回应",
+      "link": "https://finance.sina.com.cn/tech/2026-07-01/doc-inifhmie3150205.shtml",
+      "date": "2026-07-01 12:05",
+      "summary": "新浪科技讯 7月1日上午消息，针对网传消息称格力电器2025年度股东会现场提问设置门槛——需下单格力脱谷机方可获得提问机会，格力电器最新回应新浪科技称：“整段对话只是现场...",
+      "source": "新浪科技",
+      "category": "a-stock"
+    },
+    {
+      "title": "消息人士：川崎重工拟通过新股与可转债融资12亿美元",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-inifhmhw1073844.shtml",
+      "date": "2026-07-01 11:59",
+      "summary": "据两名知情人士透露，日本川崎重工正敲定一项融资方案，计划通过发行新股及可转换债券募资约2000亿日元（折合12.3亿美元），用于资本开支。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "限时打折引流，Anthropic发布变相涨价版中端模型",
+      "link": "https://finance.sina.com.cn/roll/2026-07-01/doc-inifhmia6373411.shtml",
+      "date": "2026-07-01 11:59",
+      "summary": "变相涨价背后是上市前面临的财务压力。 北京时间7月1日，美国头部模型厂商Anthropic推出新一代中端主力模型Claude Sonnet 5。同时官方确认，已收到美国商务部通知...",
+      "source": "一财网",
+      "category": "a-stock"
+    },
+    {
+      "title": "深铁集团迎人事变动，黄力平升任董事长，总经理岗位暂空缺",
+      "link": "https://finance.sina.com.cn/roll/2026-07-01/doc-inifhmhu4296944.shtml",
+      "date": "2026-07-01 11:56",
+      "summary": "6月30日，深圳市地铁集团有限公司（以下简称“深铁集团”）对外发布关于董事长及总经理变动的公告。 公告显示，根据相关任免文件，黄力平出任深铁集团董事长...",
+      "source": "每日经济新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "曹操出行：11年亏50亿、股价暴跌70%！刚盈利就被一辆“黑车”打回原形",
+      "link": "https://finance.sina.com.cn/stock/auto/2026-07-01/doc-inifhmhw1075294.shtml",
+      "date": "2026-07-01 11:54",
+      "summary": "来源：雪山财金 2026年的出行行业，正处在合规化整治的深水区。作为吉利控股旗下头部网约车平台，曹操出行曾凭借2025年末首次实现季度盈利的成绩单...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "AOL母公司Bending Spoons的16.8亿美元IPO定价高于指导区间",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-inifhmhu4294166.shtml",
+      "date": "2026-07-01 11:54",
+      "summary": "互联网先驱AOL的母公司Bending Spoons已宣布其首次公开募股（IPO）的定价高于指导区间，估值约为180亿美元。 这家总部位于意大利的公司表示，此次发行总计募资16.8亿美元...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "Anthropic：Claude Fable 5 将于明天全球重新上线",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-inifhmhw1070256.shtml",
+      "date": "2026-07-01 11:53",
+      "summary": "Anthropic发文称，Claude Fable 5 将于明天全球重新上线。在与美国政府进行一系列富有成效的对话后，我们将使用一组新的分类器重新部署该模型...",
+      "source": "环球市场播报",
       "category": "a-stock"
     },
     {
@@ -20,43 +372,11 @@
       "category": "a-stock"
     },
     {
-      "title": "掘金“反内卷”下新一轮景气周期，化工ETF华泰柏瑞7月1日发售",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-01/doc-inifhmie3129697.shtml",
-      "date": "2026-07-01 11:38",
-      "summary": "随着宏观经济温和复苏与产业供需格局的持续改善，化工行业景气拐点或渐行渐近。2026年7月1日，化工ETF华泰柏瑞正式启动发售，认购代码561623，基金代码561620。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "ETF规模超百亿的基金公司上半年增长率：永赢基金ETF规模增47%，海富通增34%，国泰增30%（名单）",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-01/doc-inifhmhu4290680.shtml",
-      "date": "2026-07-01 11:37",
-      "summary": "2026上半年基金公司ETF规模增长率排名出炉，数据显示，截止6月30日，ETF规模超过百亿的基金公司中，今年以来，永赢基金ETF规模从306.63亿元增加至450.35亿元，增加143...",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "联合国自动驾驶全球技术法规发布！智能驾驶ETF华泰柏瑞（516520）交投显著升温",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-01/doc-inifhmhw1053620.shtml",
-      "date": "2026-07-01 11:34",
-      "summary": "近期，智能驾驶领域国内外政策共振显著。国内L3/L4强制性国标进入报批程序，产业安全标准体系加速成形；全球层面ADS GTR首次构建起覆盖产品全生命周期的统一法规框架。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "中国红牛党支部获评“北京市新兴领域先进基层党组织”",
-      "link": "https://finance.sina.com.cn/chanjing/2026-07-01/doc-inifhmhw1050294.shtml",
-      "date": "2026-07-01 11:31",
-      "summary": "6月29日，北京市新兴领域“两优一先”表彰大会举办，红牛维他命饮料有限公司党支部凭借扎实的党建工作成效、亮眼的党建赋能发展成果，获评“北京市新兴领域先进基层党组织”...",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "六月市场预测复盘：纳指守住3万点，黄金原油关键位未破，SpaceX估值狂热降温",
-      "link": "https://finance.sina.com.cn/money/future/2026-07-01/doc-inifhmia6343022.shtml",
-      "date": "2026-07-01 11:29",
-      "summary": "六月行情正式收官，我们发起的多项市场预测投票也陆续揭晓答案。从结果来看，本轮投票有一个很明显的特点：大家对大方向的判断整体不错，但在短期极端波动上...",
-      "source": "市场资讯",
+      "title": "2800亿巨头，突然崩跌近20%！整条赛道被带偏！发生了什么？",
+      "link": "https://finance.sina.com.cn/wm/2026-07-01/doc-inifhmhu4290471.shtml",
+      "date": "2026-07-01 11:44",
+      "summary": "光伏设备全线杀跌！ 今日（7月1日）早盘，光伏相关全线走低。市值近2800亿元的阳光电源一度暴跌近20%，锦浪科技、正泰电源、帝尔激光、固德威、上能电气跟跌。",
+      "source": "券商中国",
       "category": "a-stock"
     },
     {
@@ -65,334 +385,6 @@
       "date": "2026-07-01 11:25",
       "summary": "私募股权投资公司KKRKKR.N和韩国SK集团周三表示，双方将联合推出韩国规模最大的可再生能源平台，估值达2万亿韩元（13亿美元），以帮助满足人工智能（AI）数据中心和芯片工...",
       "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "2026上半年基金公司ETF规模增长率排名： 金鹰基金383%，长城基金221%，浙商资管157%（名单）",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-01/doc-inifhmhw1050462.shtml",
-      "date": "2026-07-01 11:24",
-      "summary": "2026上半年基金公司ETF规模增长率排名出炉，数据显示，截止6月30日，今年以来，金鹰基金ETF规模从0.08亿元增加至0.40亿元，增加0.32亿元，增长率382.80%。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "上市券商薪酬改革：绩效递延比例不低于40%，强化长期风险约束",
-      "link": "https://finance.sina.com.cn/jjxw/2026-07-01/doc-inifhmhw1047625.shtml",
-      "date": "2026-07-01 11:22",
-      "summary": "界面新闻记者 |陈靖 2026年上半年收官之际，证券行业迎来一场覆盖全行业的薪酬体系系统性重塑。 近日，中信证券（600030.SH）、国泰海通（601211.SH）、中信建投（601066...",
-      "source": "界面",
-      "category": "a-stock"
-    },
-    {
-      "title": "2026上半年基金公司ETF规模增长额排名：国泰基金增851亿居首，海富通增445亿，永赢增144亿（名单）",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-01/doc-inifhmia6337251.shtml",
-      "date": "2026-07-01 11:21",
-      "summary": "2026上半年基金公司ETF规模增长排名出炉，数据显示，截止6月30日，今年以来国泰基金ETF规模增加850.57亿元，增长额位居第一，最新ETF规模达3715亿元。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "市场都在问\"日本是否干预\"，但真正该问的是\"日本会卖掉什么\"",
-      "link": "https://finance.sina.com.cn/money/forex/hbfx/2026-07-01/doc-inifhmhw1045216.shtml",
-      "date": "2026-07-01 11:21",
-      "summary": "汇通财经APP讯——周三（7月1日）亚市早盘，美元兑日元延续上行趋势，一度刷新近40年高点至162.80，涨幅约0.15%。 日本财务省为捍卫日元而被迫持续干预的风险...",
-      "source": "滚动播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "韩元跌向2009年以来低点 外资抛售韩国股票",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-inifhmia6332968.shtml",
-      "date": "2026-07-01 11:18",
-      "summary": "在美元走强及海外投资者抛售当地股票之际，韩元跌向全球金融危机以来最低水平，领跌亚币。 韩元兑美元一度跌0.6%，至1559.10，上月曾跌至2009年3月以来低点1562.20。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "2026上半年基金公司ETF排名：华夏基金ETF规模5966亿第一，易方达5822亿第二，国泰基金3715亿第三（名单）",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-01/doc-inifhmhw1039741.shtml",
-      "date": "2026-07-01 11:16",
-      "summary": "数据显示，截止2026年6月30日，华夏基金ETF规模5965.56亿元位居第一。易方达基金ETF规模5821.65亿元位居第二 。国泰基金ETF规模3715.02 亿元位居第三。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "高瞻远“猪”：肥标差全线走强 南方市场领跑",
-      "link": "https://finance.sina.com.cn/money/future/2026-07-01/doc-inifhmie3104459.shtml",
-      "date": "2026-07-01 11:13",
-      "summary": "卓创资讯生猪行业高级分析师范晴晴 【导语】卓创资讯监测数据显示，截止到6月26日全国肥标差均值比月初走阔0.31元/公斤，增幅为63.27%。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "2026年下半年聚丙烯市场预测：地缘溢价消退&供给宽松 价格重心下移",
-      "link": "https://finance.sina.com.cn/money/future/2026-07-01/doc-inifhmhw1036679.shtml",
-      "date": "2026-07-01 11:13",
-      "summary": "卓创资讯聚丙烯分析师 宁晓琴 导语：进入下半年，随着美伊地缘缓和，地缘带来的风险溢价逐步消化、原料成本波动收敛，上半年停车、降负荷装置有望稳步提产...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "“蛋”说无妨：上半年M型双峰震荡上行 下半年季节性主浪与情绪",
-      "link": "https://finance.sina.com.cn/money/future/2026-07-01/doc-inifhmia6326834.shtml",
-      "date": "2026-07-01 11:12",
-      "summary": "卓创资讯鸡蛋市场分析师刘宏 【导语】2026年上半年，鸡蛋市场走出“M”型双峰行情，年内极值涨逾84%，价格差异化呈扩大趋势。季节性大框架虽未被打破，但1月淡季拉涨...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "东吴证券百亿并购豪赌：董事长范力的“带病吞并”与合规之殇",
-      "link": "https://finance.sina.com.cn/stock/quanshang/2026-07-01/doc-inifhmia6333385.shtml",
-      "date": "2026-07-01 11:10",
-      "summary": "来源：挖掘机007  在资本市场的棋局中，信任从来不能替代审查。当一家自身背负“1号罚单”的券商，执意以近两倍于市场拍卖价的高溢价，去吞并一家官司缠身、刚遭重罚的标的...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "2026主动权益基金半程榜：方正富邦核心优势A涨184%领跑，金梓才7只翻倍基“量产”，首尾分化逾217%",
-      "link": "https://finance.sina.com.cn/money/fund/original/2026-07-01/doc-inifhmhw1032575.shtml",
-      "date": "2026-07-01 11:08",
-      "summary": "2026年上半年行情收官，主动权益类基金业绩呈现分化。在科技成长主线行情的推动下，部分产品收益惊人，最高涨幅达183.67%，实现翻倍的主动权益类基金多达199只；与此同时...",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "从5600跌到3950，黄金牛市彻底结束了？",
-      "link": "https://finance.sina.com.cn/roll/2026-07-01/doc-inifhmhw1046599.shtml",
-      "date": "2026-07-01 11:08",
-      "summary": "中新经纬7月1日电 （李自曼）被奉为避险资产的黄金，在上半年演绎了一出“先封神、后坠崖”的戏码。 6月30日，伦敦金现（下称国际金价）盘中跌破3950美元/盎司关口...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "瑞穗称日元跌至历史低点颠覆市场假设 美、日利差模型失灵",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-inifhmhw1031984.shtml",
-      "date": "2026-07-01 11:07",
-      "summary": "瑞穗银行表示，日元跌至历史低点，正迫使投资人重新思考一项长期以来最常用来研判日元走势的策略。 多年来，策略师一直依赖日本与美国之间的利率差距...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "2000亿券商龙头，冲击涨停",
-      "link": "https://finance.sina.com.cn/stock/relnews/2026-07-01/doc-inifhmia6321265.shtml",
-      "date": "2026-07-01 11:01",
-      "summary": "今天上午盘中，证券板块拉升，截至10：54，证券板块涨4.67%，天风证券、国盛证券、华安证券涨停，招商证券上涨9.1%，最新市值超2000亿元。",
-      "source": "中国证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "澳大利亚考虑拆分四大会计师事务所",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-inifhmhu4247462.shtml",
-      "date": "2026-07-01 10:59",
-      "summary": "澳大利亚政府周三表示，鉴于该行业近期爆出一些备受瞩目的丑闻，政府正在考虑拆分四大会计师事务所，并将其纳入企业监管机构的监管范围。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "供应延迟、成本上升，但企业仍在招人扩产——澳元为何对PMI改善“无动于衷”？",
-      "link": "https://finance.sina.com.cn/money/forex/hbfx/2026-07-01/doc-inifhmhu4248109.shtml",
-      "date": "2026-07-01 10:57",
-      "summary": "汇通财经APP讯——周三（7月1日）亚洲时段，澳元兑美元低位震荡，当前交投于0.6890附近。 然而，澳大利亚6月制造业PMI却传递出实体经济层面的积极信号。",
-      "source": "滚动播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "保险板块拉升 中国人寿、新华保险涨超5%",
-      "link": "https://finance.sina.com.cn/jryx/insurance/2026-07-01/doc-inifhmie3086638.shtml",
-      "date": "2026-07-01 10:56",
-      "summary": "7月1日金融一线消息，保险板块大幅上涨，中国人寿、新华保险涨超5%，中国太保、中国人保涨超4%。",
-      "source": "金融一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "“光储市值一哥”市值跌破3000亿元，早盘蒸发600亿元",
-      "link": "https://finance.sina.com.cn/roll/2026-07-01/doc-inifhmia6315031.shtml",
-      "date": "2026-07-01 10:56",
-      "summary": "目前阳光电源总市值仍在万德光伏指数（884045）中位居第一，且是唯一市值超2000亿元的企业。 截至7月1日早盘10：25，阳光电源（300274.SZ）股价下跌18.26%至129.99元/股...",
-      "source": "一财网",
-      "category": "a-stock"
-    },
-    {
-      "title": "【2026股指套利半年报】近期股指套利策略实证研究",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-01/doc-inifhmie3085918.shtml",
-      "date": "2026-07-01 10:56",
-      "summary": "来源：中信建投期货 盛亦青 期货交易咨询从业信息：Z0021575 摘要 今年以来，我们对股指套利策略进行了大量的实证研究，本半年报作为近期股指套利策略实证研究的整理。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "ETF管理人排名座次洗牌：华夏惊险守住第一 国泰增850亿闯入前三|表",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-07-01/doc-inifhmie3085459.shtml",
-      "date": "2026-07-01 10:55",
-      "summary": "2026年上半年，国内ETF市场经历了前所未有的格局重塑。全市场ETF规模从年初的逾6万亿元持续回落，宽基ETF遭遇大规模资金流出，而部分行业主题ETF成为资金“新宠”。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "2026年香港IPO上半场收官：上市87家，募资2101亿 | 附完整新股名单",
-      "link": "https://finance.sina.com.cn/stock/relnews/2026-07-01/doc-inifhmia6318582.shtml",
-      "date": "2026-07-01 10:54",
-      "summary": "来源：瑞恩资本RyanbenCapital 2026年上半年，香港新上市公司共87家、募资2，101.95亿元（港元，以下同），新上市数量较上年同期增43家或97.7%，IPO募资按年增加1007...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "周三沃什首秀全球央行：市场期待他“讲清楚思路”，但可能难如愿",
-      "link": "https://finance.sina.com.cn/money/forex/whqqscgd/2026-07-01/doc-inifhmie3084990.shtml",
-      "date": "2026-07-01 10:52",
-      "summary": "文章来源：金十数据 两周前刚刚主持完任内首次货币政策会议的美联储主席凯文·沃什（Kevin Warsh），将于周三在葡萄牙出席欧洲央行“全球央行论坛”并参与小组讨论。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "全球以铝代铜变革显著加速：法拉利、宝马也开始“抄作业”！",
-      "link": "https://finance.sina.com.cn/roll/2026-07-01/doc-inifhmhu4246556.shtml",
-      "date": "2026-07-01 10:48",
-      "summary": "转自：财联社 财联社7月1日讯（编辑 潇湘）随着法拉利和宝马开始竞相推出采用轻量化、高性价比铝制线束的新车型，全球“以铝代铜”的变革进程显然正在加速——自两个世纪前电池...",
-      "source": "滚动播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "“牛市旗手”异动，直线拉涨停",
-      "link": "https://finance.sina.com.cn/stock/relnews/2026-07-01/doc-inifhmie3080490.shtml",
-      "date": "2026-07-01 10:48",
-      "summary": "【导读】券商板块盘中直线拉升，多股涨停 中国基金报记者 李智 7月1日上午，券商板块盘中直线拉升，天风证券、华安证券、国盛证券先后涨停，长江证券、招商证券...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "又一千亿市值龙头诞生！股价创新高！",
-      "link": "https://finance.sina.com.cn/stock/relnews/2026-07-01/doc-inifhezh3206926.shtml",
-      "date": "2026-07-01 10:44",
-      "summary": "7月1日早盘，氟化工板块反复活跃。截至发稿，昊华科技、多氟多涨停，股价均创历史新高，分别为82.92元/股、55.25元/股。其中，昊华科技市值突破千亿元，跃升至1069...",
-      "source": "证券日报",
-      "category": "a-stock"
-    },
-    {
-      "title": "比特币触21个月低点 受加息担忧及大买家Strategy改革融资模式影响",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-inifheze6421778.shtml",
-      "date": "2026-07-01 10:39",
-      "summary": "比特币一度跌至21个月以来低点，受加息前景影响，而且投资者逆转了最初对Michael Saylor对旗下Strategy Inc．融资改革投出的信心票...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "清园股份冲击“河南文旅第一股”：三年分红超8亿元超过利润总额",
-      "link": "https://finance.sina.com.cn/jjxw/2026-07-01/doc-inifheyy1127850.shtml",
-      "date": "2026-07-01 10:24",
-      "summary": "近日，开封清明上河园股份有限公司（以下简称“清园股份”）向港交所递交了上市申请材料，招商证券国际担任独家保荐人，向“河南文旅第一股”发起冲击。",
-      "source": "澎湃新闻",
-      "category": "a-stock"
-    },
-    {
-      "title": "存储芯片通胀，风暴正在升级",
-      "link": "https://finance.sina.com.cn/stock/roll/2026-07-01/doc-inifheze6403668.shtml",
-      "date": "2026-07-01 10:20",
-      "summary": "当一种技术的进化速度超越资源分配机制的调节能力时，整个经济系统都会变成它的缓冲区 文|《财经》执行主编 谢丽容 一场席卷全球的存储涨价风暴...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "“最像人”的机器人来了，顶配售价99万",
-      "link": "https://finance.sina.com.cn/jjxw/2026-07-01/doc-inifheyw4343760.shtml",
-      "date": "2026-07-01 10:14",
-      "summary": "界面新闻记者 | 陆柯言 界面新闻编辑 | 刘方远 参照真人1：1建模，且能看清血管、毛孔和指纹的“高颜值”仿生机器人，终于成为了现实。",
-      "source": "界面",
-      "category": "a-stock"
-    },
-    {
-      "title": "受益MLCC爆发，锆板块高歌猛进",
-      "link": "https://finance.sina.com.cn/stock/relnews/2026-07-01/doc-inifheyw4341733.shtml",
-      "date": "2026-07-01 10:14",
-      "summary": "7月1日早盘，锆概念股震荡走高，东方锆业（002167）2连板，国瓷材料等跟涨。 东方锆业近期发布产品价格调整通知函，氧氯化锆产品（包含母液料）每吨上调1500元...",
-      "source": "上海证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "艾硕控股发布年度业绩年内溢利433.3万港元 同比减少26.63%",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-01/doc-inifhezh3164387.shtml",
-      "date": "2026-07-01 10:11",
-      "summary": "艾硕控股（08341）发布截至2026年3月31日止年度的年度业绩，该集团取得收益1.69亿港元，同比减少19.63%；年内溢利433.3万港元，同比减少26.63%；每股盈利3.46港仙。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "谊和股份发布年度业绩 股东应占溢利1036.9万港元同比扭亏为盈",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-01/doc-inifhezh3163498.shtml",
-      "date": "2026-07-01 10:10",
-      "summary": "谊和股份（01703）发布截至2026年3月31日止年度业绩，该集团取得收益3.24亿港元，同比增加42.18%；公司拥有人应占溢利1036.9万港元，去年同期则取得亏损3197...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "深圳控股就本金总额13亿港元定期贷款融资订立融资协议",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-01/doc-inifheze6386315.shtml",
-      "date": "2026-07-01 10:09",
-      "summary": "深圳控股（00604）发布公告，于2026年6月30日，公司（作为借款人）与3家银行（作为贷款人）分别就本金总额为13亿港元的定期贷款融资...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
-      "link": "https://finance.sina.com.cn/stock/hyyj/2026-07-01/doc-inifheyw4348559.shtml",
-      "date": "2026-07-01 10:08",
-      "summary": "来源：科创板日报 《科创板日报》7月1日讯（编辑 宋子乔） 据中国台湾经济日报1日报道，业内传出，台积电、三星、SK海力士都在抢购电子级氢氟酸（HF）。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "创胜集团医药-B授出45.15万股奖励股份及2.25万份购股权",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-01/doc-inifheze6384884.shtml",
-      "date": "2026-07-01 10:08",
-      "summary": "创胜集团医药-B（06628）发布公告，于2026年6月30日，公司根据股份激励计划向136名奖励承授人授出45.15万股奖励股份及根据股份激励计划向9名购股权承授人授出2...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "盈证国际延迟刊发全年业绩 可能于7月2日上午起停牌",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-01/doc-inifheyw4332253.shtml",
-      "date": "2026-07-01 10:07",
-      "summary": "盈证国际（08379）发布公告，根据本公司目前可获得的资料，本公司及本公司核数师均需要额外时间收集资料并完成本公司截至2026年3月31日止年度的全年业绩的审核程序。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "直线涨停！002407，3连板！氟化工概念，集体走强！",
-      "link": "https://finance.sina.com.cn/stock/relnews/2026-07-01/doc-inifheyw4335667.shtml",
-      "date": "2026-07-01 10:07",
-      "summary": "7月1日，A股三大指数开盘涨跌不一。 盘面上，氟化工、锂矿、人形机器人等板块涨幅居前；光伏、CRO、仿制药、CPO概念股等板块跌幅居前。",
-      "source": "新浪财经2",
-      "category": "a-stock"
-    },
-    {
-      "title": "中远海发全资子公司拟新建15艘8.7万吨级多用途粮食船",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-01/doc-inifhezh3156737.shtml",
-      "date": "2026-07-01 10:05",
-      "summary": "中远海发（02866）发布公告，公司拟通过间接全资子公司海南中远海发海运有限公司（海南海发海运）委托中远海运重工有限公司（中远海运重工）所属大连中远海运重工有限公司...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "阿尔法企业发布年度业绩 股东应占溢利8238.2万港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-01/doc-inifhezh3155688.shtml",
-      "date": "2026-07-01 10:04",
-      "summary": "阿尔法企业（00948）发布截至2026年3月31日止年度业绩，持续经营业务收入1.05亿港元，同比增长158.3%；公司股东应占溢利8238.2万港元，上年同期亏损1...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "亨泰拟5400万港元向主席出售士宏有限公司全部已发行股本",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-01/doc-inifheyw4328475.shtml",
-      "date": "2026-07-01 10:03",
-      "summary": "亨泰（00197）公布，于2026年6月30日，公司的全资附属Fiorfie Trading Limited拟向公司董事会主席、执行董事、行政总裁林国兴先生出售士宏有限公司全部已发行股本...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "亨利加集团发布年度业绩 股东应占利润2816.6万港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-01/doc-inifheze6377445.shtml",
-      "date": "2026-07-01 10:02",
-      "summary": "亨利加集团（03638）发布截至2026年3月31日止年度业绩，收入2.29亿港元，同比下降4.2%；公司拥有人应占利润2816.6万港元，上年同期亏损7609.4万港元；每股基本盈利36...",
-      "source": "新浪港股",
       "category": "a-stock"
     }
   ]
