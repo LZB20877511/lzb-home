@@ -1,358 +1,318 @@
 {
-  "updated": "2026-07-02T15:59:04.024504+08:00",
+  "updated": "2026-07-02T17:42:56.462540+08:00",
   "source": "A股聚合",
-  "count": 44,
+  "count": 39,
   "items": [
     {
-      "title": "长城基金汪立：A股“K 型分化”下，下半年如何布局？",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-02/doc-inifkywe1013997.shtml",
-      "date": "2026-07-02 15:55",
-      "summary": "站在年中节点回望，“K型分化”成为2026上半年市场的核心关键词——AI板块持续上行，非AI板块承压回落；科技成长延续强势，传统消费相对低迷。",
+      "title": "投资，何不“反身而诚”？——中信保诚基金固收投资的“产品思维”",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-02/doc-inifmfcy4167191.shtml",
+      "date": "2026-07-02 17:41",
+      "summary": "先想清楚给持有人什么样的持有体验，再决定用什么策略去实现它。 投资不能只有策略视角，还要有产品思维。 不是说投研能力不重要——恰恰相反，扎实的投研是地基。",
       "source": "新浪基金",
       "category": "a-stock"
     },
     {
-      "title": "长城基金汪立：本轮成长风格占优周期有望延续",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-02/doc-inifkywe1013810.shtml",
-      "date": "2026-07-02 15:54",
-      "summary": "站在年中节点回望，“K型分化”成为2026上半年市场的核心关键词——AI板块持续上行，非AI板块承压回落；科技成长延续强势，传统消费相对低迷。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "阿维塔更新招股书解读：三条曲线同时向上，五年完成从亏损到造血",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifkyvy2713154.shtml",
-      "date": "2026-07-02 15:54",
-      "summary": "2026年6月30日，香港联交所网站披露，阿维塔科技完成主板挂牌上市申请资料更新与重新递表，披露2025年全年财务数据及最新业务进展。",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "美国NHTSA结束对69.5万辆特斯拉汽车意外减速问题的调查",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifkywa4236186.shtml",
-      "date": "2026-07-02 15:53",
-      "summary": "美国国家公路交通安全管理局 （NHTSA） 周四表示，已结束2022年开始的对 695000 辆特斯拉汽车意外减速问题的初步评估，因这一问题对驾驶员造成的危险性较低...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "外交部批日新版自由开放印太构想",
-      "link": "https://finance.sina.com.cn/china/2026-07-02/doc-inifkyvy2712643.shtml",
-      "date": "2026-07-02 15:52",
-      "summary": "就日本首相高市早苗频繁提及所谓新版“自由开放印太”构想，外交部发言人郭嘉昆2日在例行记者会上答问时表示，嘴上喊着自由开放，心里想着对立对抗...",
-      "source": "新华社",
-      "category": "a-stock"
-    },
-    {
-      "title": "日本国债因财政担忧大跌 日经指数受AI抛售拖累收跌2.5%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifkywe1012634.shtml",
-      "date": "2026-07-02 15:52",
-      "summary": "日本政府国债周四因财政担忧重燃而大幅下跌，同时隔夜华尔街科技股抛售潮导致人工智能相关权重股拖累日经指数下挫。 日元兑美元大幅上涨...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "收盘｜科创50指数跌7.7% 半导体、算力硬件产业链大幅回调",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifkywe1011133.shtml",
-      "date": "2026-07-02 15:48",
-      "summary": "7月2日，四大股指集体下跌，沪指跌2.03%，深成指跌3.85%，创业板指跌5.71%，科创综指跌5.64%，科创50指数跌7.7%。 盘面上，半导体、算力硬件产业链大幅回调，存储器...",
-      "source": "第一财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "韩股大幅收低近8% 受芯片股抛压拖累",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifkyvw5934257.shtml",
-      "date": "2026-07-02 15:47",
-      "summary": "周四，受全球芯片股抛售潮拖累，韩国股市下跌近8%，收盘创下逾三周低点。此前，Meta Platforms计划出售算力，引发了市场对AI产能过剩的担忧。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "侯旭宏获贵州农商联合银行行长推荐人选，此前任贵州国资运营公司董事长",
-      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-07-02/doc-inifkyvw5934522.shtml",
-      "date": "2026-07-02 15:45",
-      "summary": "泰山财经记者景茗 近日，贵州省人民政府发布职务调整通知，推荐侯旭宏为贵州农村商业联合银行股份有限公司（下称“贵州农商联合银行”）董事、副董事长、行长人选...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "博时基金市场异动陪伴7月2日：沪深三大指数下跌，沪指跌超2%，创业板指跌超5%",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-02/doc-inifkyvy2708347.shtml",
-      "date": "2026-07-02 15:44",
-      "summary": "♨博时基金市场异动陪伴 🔆市场表现： 7月2日，沪深三大指数下跌，沪指跌超2%，创业板指跌超5%。 👉解析： ‼今日A股三大指数全线调整，创业板指跌超5%、科创50跌超7%，通信...",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "电动车消费避坑指南：买车之前先搞懂这些投诉渠道",
-      "link": "https://finance.sina.com.cn/consume/xiaofei/2026-07-02/doc-inifkupy5978716.shtml",
-      "date": "2026-07-02 15:43",
-      "summary": "最近，绿源电动车的短视频广告因为“擦边”争议登上了热搜。广告中女模特单腿站在车座上、穿丝袜骑行时刻意抚摸脚背，甚至让女演员挂在树杈上摆出怪异姿势...",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "沃尔沃汽车第二季度销量同比下降5.6%，纯电车型销量增长14%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifkywa4230805.shtml",
-      "date": "2026-07-02 15:42",
-      "summary": "沃尔沃汽车公司周四表示，截至6月底的三个月内，该公司在全球范围内共售出171501辆汽车，同比下降5.6%。 该公司表示，包括纯电动和插电式混合动力汽车在内的电动车型销量同...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "“奈雪股东大会”管理层被尖锐“提问”，管理层：无市值管理计划、用户不会因欧包预制而不买",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifkywe1007730.shtml",
-      "date": "2026-07-02 15:42",
-      "summary": "7月2日，近日，有股东参加了“奈雪的茶股东周年大会”。该股东表示，现场多位亏损股东面对管理层提出多个尖锐问题。 例如，有亏损数百万的股东质疑“奈雪的成本相对其他茶饮更...",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "光大期货0702热点追踪：风险溢价退潮，国内外原油同步回落",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-02/doc-inifkywa4228468.shtml",
-      "date": "2026-07-02 15:38",
-      "summary": "中东局势缓和、霍尔木兹海峡航运恢复，油价重心继续下挫，周四国内原油期货主力合约下跌超5%，能化品种集体下跌。隔夜市场WTI、布伦特原油同步下探，刷新近4个月低点。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "关停近600家金融服务站，山西多家农商行“甩包袱”还是“换赛道”？",
-      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-07-02/doc-inifkyvy2704226.shtml",
-      "date": "2026-07-02 15:38",
-      "summary": "来源：华夏时报 近日，山西多家农商银行相继发布公告，宣布关停部分下设普惠金融服务站。其中，偏关农商银行一次性关停103个站点，河曲农商银行关停101个...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "重庆农商行原副行长获刑16年！涉挪用公款、受贿、非法经营同类营业三宗罪",
-      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-07-02/doc-inifkywa4235784.shtml",
-      "date": "2026-07-02 15:34",
-      "summary": "来源：消费日报财经 原标题：万亿农商行原副行长获刑16年！涉挪用公款、受贿、非法经营同类营业三宗罪 6月30日，重庆市第二中级人民法院发布喜报称...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "茉莉奶白与LV商标侵权案一审败诉，被判赔1030万元",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifkyvy2703483.shtml",
-      "date": "2026-07-02 15:32",
-      "summary": "记者丨易佳颖 编辑丨陶力 张伟贤 近日，21世纪经济报道记者获悉一纸判决，路易威登（LV）告茉莉奶白侵害商标权一审胜诉，茉莉奶白被判停止侵权，赔偿损失超1000万元...",
+      "title": "汇潮支付10年间被罚6次，支付业上半年总罚没规模逼近2亿",
+      "link": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-07-02/doc-inifmfcy4165020.shtml",
+      "date": "2026-07-02 17:38",
+      "summary": "21世纪经济报道记者 叶麦穗  2026年上半年收官，第三方支付行业严监管态势持续加码，监管围绕清算、账户、商户管理及反洗钱等关键环节开展全链条整治...",
       "source": "21世纪经济报道",
       "category": "a-stock"
     },
     {
-      "title": "Meta重磅消息冲击市场，全球芯片股闪崩",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifkyvy2702955.shtml",
-      "date": "2026-07-02 15:32",
-      "summary": "记者丨吴佳楠 编辑丨孙超逸 张伟贤 7月2日凌晨，美股三大指数集体收跌，道指跌0.03%，纳指跌0.66%，标普500指数跌0.22%。存储概念大幅回落，费城半导体指数跌6%，闪迪...",
-      "source": "21世纪经济报道",
+      "title": "OpenAI提议向特朗普政府出让5%股权，以缓解来自华盛顿方面的压力",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifmfea0941444.shtml",
+      "date": "2026-07-02 17:38",
+      "summary": "核心要点《金融时报》报道，OpenAI 提议向美国政府出让公司 5% 的股权。这家人工智能初创企业最新投后估值达 8520 亿美元，这笔 5% 股权的价值约为 4260 亿美元。",
+      "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "因侵犯公民个人信息 平安人寿一员工被禁业1年",
-      "link": "https://finance.sina.com.cn/jryx/insurance/2026-07-02/doc-inifkyvy2697706.shtml",
-      "date": "2026-07-02 15:30",
-      "summary": "7月2日金融一线消息，国家金融监督管理总局黑龙江监管局行政处罚信息公开表显示，李金健（时任中国平安人寿股份有限公司黑龙江分公司二级机构室副经理）因侵犯公民个人信息...",
+      "title": "124位偏股百亿基金经理成绩单：严凯、张明昕、方建等10位收益翻倍，张坤、蓝小康、陆彬亏超15%垫底",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-07-02/doc-inifmfcu5880575.shtml",
+      "date": "2026-07-02 17:37",
+      "summary": "2026年上半年，公募基金行业迎来了一场人才大洗牌。 Wind数据显示，截至6月30日，年内基金经理离任数量已达224人，较去年同期的188人明显增加，涉及102家基金公司。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "华宝基金胡一江：红利投资进入了甜点配置区",
+      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-02/doc-inifmfcw2653925.shtml",
+      "date": "2026-07-02 17:36",
+      "summary": "在刚刚过去的二季度中，尤其是6月份以来，A股的红利股、红利主题ETF等发生了明显的调整。这让投资者有些焦虑与茫然。在科技股的惊人走势与资金虹吸效应之下...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "茉莉奶白回应“被判赔偿LV超千万元”：会继续依法上诉",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifmfcy4161075.shtml",
+      "date": "2026-07-02 17:34",
+      "summary": "7月2日，有知情人士透露，路易威登马利蒂（LV）诉茉莉奶白商标侵权一案刚刚正式宣判。茉莉奶白主体公司及旗下一门店被认定侵害LV的注册商标专用权...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "央行：6月中期借贷便利（MLF）净投放2000亿元",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-07-02/doc-inifmfcu5875345.shtml",
+      "date": "2026-07-02 17:34",
+      "summary": "7月2日金融一线消息，央行公布2026年6月中央银行各项工具流动性投放情况。数据显示，6月中期借贷便利（MLF）净投放2000亿元，其他结构性货币政策工具净投放-1372亿元。",
       "source": "金融一线",
       "category": "a-stock"
     },
     {
-      "title": "苹果据悉拟未来一年内推出至少5款iPhone新机型",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifkyvy2694044.shtml",
-      "date": "2026-07-02 15:27",
-      "summary": "据知情人士称，苹果公司计划在今年下半年至2027年上半年期间至少推出五款新iPhone机型，同时提高可折叠设备的产量，以期在行业零部件供应短缺的情况下抢占更大的市场份额。...",
+      "title": "知情人士：OpenAI设想政府持股 提议美国每家AI巨头都上交5%股份",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifmfcy4160209.shtml",
+      "date": "2026-07-02 17:33",
+      "summary": "两名知情人士称，ChatGPT的开发公司OpenAI已开始初步讨论将5%的股份给予美国政府的事宜。 据报道，OpenAI首席执行官Sam Altman及其他高管提议...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "SpaceX向投资者展示了马斯克全新人工智能设备的原型机",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifkyvw5917868.shtml",
-      "date": "2026-07-02 15:27",
-      "summary": "马斯克旗下太空探索技术公司 SpaceX已研发出一款类手持设备原型产品，旨在重塑人类与人工智能的交互方式，近期 SpaceX 已向投资者展示该设备。",
+      "title": "特朗普要求北约无条件忠于华盛顿 遭到德国拒绝",
+      "link": "https://finance.sina.com.cn/world/2026-07-02/doc-inifmfea0936901.shtml",
+      "date": "2026-07-02 17:33",
+      "summary": "美国总统唐纳德·特朗普要求北约的欧洲盟友应该无条件忠于华盛顿，遭到德国国防部长鲍里斯·皮斯托里乌斯拒绝。 “北约并非盲目服从的组织...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "42家上市银行的审计江湖：八家机构抢滩、毕马威安永包揽七成、部分争议审计所仍获续约",
-      "link": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-07-02/doc-inifkyvy2709687.shtml",
-      "date": "2026-07-02 15:26",
-      "summary": "来源：财经新一线 随着42家A股上市银行股东会陆续召开，各家银行2026年度的外部审计机构也终于揭晓。7月2日，北京商报记者梳理发现...",
+      "title": "中央气象台：全球天气公报（2026年07月02日）",
+      "link": "https://finance.sina.com.cn/money/future/hyxh/2026-07-02/doc-inifmfea0937556.shtml",
+      "date": "2026-07-02 17:33",
+      "summary": "来源：中央气象台网站 印度孟加拉国缅甸有强降雨 委内瑞拉厄瓜多尔降水持续 一、全球天气实况 1．中南半岛有强降雨 过去24小时（7月1日00时-7月2日00时，UTC）...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "伊朗于哈梅内伊葬礼游行前夕警告美、以切勿发动袭击",
+      "link": "https://finance.sina.com.cn/world/2026-07-02/doc-inifmfcu5873417.shtml",
+      "date": "2026-07-02 17:32",
+      "summary": "伊朗一名军方指挥官周四警告美国和以色列，不要对伊朗发起任何袭击。该国正筹备最高领袖阿亚图拉·阿里·哈梅内伊的国葬，哈梅内伊已于战争首日遭空袭身亡。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "中央气象台：全国农业气象影响预报与评估（2026年07月02日）",
+      "link": "https://finance.sina.com.cn/money/future/hyxh/2026-07-02/doc-inifmfea0936682.shtml",
+      "date": "2026-07-02 17:32",
+      "summary": "来源：中央气象台网站 一、双季早稻和晚稻生长发育状况 目前，广西南部、广东中南部早稻大部处于乳熟成熟期，部分进入收获期，海南大部地区已收获；华南中北部...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "谷歌未能推翻欧盟针对安卓的41亿欧元反垄断罚款",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifmfcu5871267.shtml",
+      "date": "2026-07-02 17:30",
+      "summary": "谷歌对欧盟41亿欧元（47亿美元）反垄断罚款的长期斗争最终落败，欧盟的最高法官裁定，监管机构对这家美国科技巨头滥用安卓市场力量的处罚是正确。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "高盛预计：欧洲汽车和化工等股票将持续跑输大盘",
+      "link": "https://finance.sina.com.cn/world/2026-07-02/doc-inifmfcw2646452.shtml",
+      "date": "2026-07-02 17:29",
+      "summary": "高盛策略师表示，受竞争影响较大的欧洲上市公司由于盈利增长疲弱，未来仍可能持续跑输欧洲整体股市。 包括Peter Oppenheimer和Sharon...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "“摸黑前行”的SpaceX投资者将目光投向华尔街 评判天价估值背后的逻辑",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifmfcw2645954.shtml",
+      "date": "2026-07-02 17:29",
+      "summary": "自上月创纪录的IPO以来，SpaceX投资者在很大程度上一直是在“摸黑前行”，因为几乎没有财务预测可帮助判断这只股票的真实价值。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美国结束了针对69.5万辆特斯拉汽车因意外制动问题而展开的2022年调查",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifmfcw2645190.shtml",
+      "date": "2026-07-02 17:28",
+      "summary": "美国国家公路交通安全管理局（NHTSA）周四表示，已结束针对69.5万辆特斯拉车辆因意外减速问题展开的2022年初步评估，理由是该问题对驾驶员的实际危害较低...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "莱茵金属获得数亿欧元的Skynex防空系统合同",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifmfcu5867540.shtml",
+      "date": "2026-07-02 17:27",
+      "summary": "德国防务公司莱茵金属（Rheinmetall）表示，该公司获得了一份价值数亿欧元的合同，将向一个未具名的国际客户供应四套Skynex防空系统。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "调查显示伊朗战争推高成本 导致英国企业信心下滑",
+      "link": "https://finance.sina.com.cn/world/2026-07-02/doc-inifmfea0931618.shtml",
+      "date": "2026-07-02 17:26",
+      "summary": "周四公布的一项针对会计师的调查显示，由于伊朗战争推高了成本，削弱了对未来销售的预期，英国企业信心已跌至2022年以来的最低水平。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "印度警示存在网络安全风险后，Meta回应：WhatsApp用户名功能已设置多重防诈骗防护机制",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifmfcw2643101.shtml",
+      "date": "2026-07-02 17:26",
+      "summary": "核心要点Meta 表示，WhatsApp 用户名功能搭载多层防护机制，可防范各类网络诈骗。印度政府认为该用户名功能或将导致网络诈骗案件激增...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "日本最新财年税收收入连续第六年创历史新高",
+      "link": "https://finance.sina.com.cn/world/2026-07-02/doc-inifmfcu5866679.shtml",
+      "date": "2026-07-02 17:26",
+      "summary": "日本截至今年3月财政年度的国家税收收入创下历史新高，工资增长、就业改善以及金融资产收益增加推动个人所得税收入显著上升。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "消息人士：沙特阿美增产拉斯坦努拉港原油出口，改为现货销售模式",
+      "link": "https://finance.sina.com.cn/world/2026-07-02/doc-inifmfcw2641064.shtml",
+      "date": "2026-07-02 17:24",
+      "summary": "据贸易消息人士与航运数据显示，至少五艘超大型油轮满载总计1000万桶沙特原油从拉斯坦努拉港驶出霍尔木兹海峡；为加快对亚洲市场原油外销，沙特阿美已改用现货定价模式。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "估值回归历史低位，REITs配置价值凸显",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-02/doc-inifmfea0929838.shtml",
+      "date": "2026-07-02 17:24",
+      "summary": "时至6月，我国公募REITs正式迈入迎来上市五周年重要时刻。五年来，公募REITs从首批试点逐步走向常态化发行，底层资产范围持续扩围，已覆盖高速公路、产业园区、能源...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "美日闪崩超百点，交易员困惑！干预猜测升温，当局沉默",
+      "link": "https://finance.sina.com.cn/money/forex/whqqscgd/2026-07-02/doc-inifmfcw2644759.shtml",
+      "date": "2026-07-02 17:24",
+      "summary": "文章来源：金十数据 周四外汇市场中，美元兑日元盘中出现快速跳水，一度引发市场对日本当局是否实施干预的强烈猜测。 该货币对在欧盘前一度快速下挫逾百点...",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "10.14亿！2026上半年银行罚单量价齐升，数据治理成新靶心，罚单量激增122%",
-      "link": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-07-02/doc-inifkyvy2694002.shtml",
-      "date": "2026-07-02 15:25",
-      "summary": "财联社7月2日讯（编辑 王蔚）上半年已结束，监管的达摩克利斯之剑落点密集。 财联社据企业预警通数据统计，今年上半年，监管部门共对522家银行开出2950张罚单...",
-      "source": "滚动播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "邮储银行原行长刘建军：破除三大AI认知误区，银行经营迎代际更新",
-      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-07-02/doc-inifkywa4218124.shtml",
-      "date": "2026-07-02 15:25",
-      "summary": "当前行业普遍存在AI焦虑：不布局AI会落后被动，加大投入又面临成本高、效果不明确等问题。 “当前银行业AI应用已经走出概念炒作阶段，进入工程落地阶段。",
-      "source": "第一财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "商务部：中欧于今秋举行贸易投资磋商机制第二次例会",
-      "link": "https://finance.sina.com.cn/china/2026-07-02/doc-inifkywe1014092.shtml",
-      "date": "2026-07-02 15:23",
-      "summary": "新华社北京7月2日电（记者谢希瑶、王聿昊）商务部新闻发言人何亚东在2日举行的例行新闻发布会上介绍中欧贸易投资磋商机制首次会议情况时说...",
-      "source": "新华社客户端",
-      "category": "a-stock"
-    },
-    {
-      "title": "快手小贷增资至20亿元",
-      "link": "https://finance.sina.com.cn/jryx/bank/2026-07-02/doc-inifkywe0992867.shtml",
-      "date": "2026-07-02 15:22",
-      "summary": "7月2日金融一线消息，爱企查信息显示，广州快手小额贷款有限公司（以下简称“快手小贷”）注册资本发生变更，由10亿元增至20亿元。",
-      "source": "金融一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "调查显示英国第二季度商业信心跌至三年多最低",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifkywa4213103.shtml",
-      "date": "2026-07-02 15:19",
-      "summary": "周四公布的一项会计师调查显示，由于伊朗冲突推高了成本，削弱了人们对未来销售的预期，英国第二季度商业信心跌至 2022 年以来的最低点。",
+      "title": "荷兰合作银行：日元突然拉升令市场情绪更加紧张",
+      "link": "https://finance.sina.com.cn/world/2026-07-02/doc-inifmfcu5863989.shtml",
+      "date": "2026-07-02 17:24",
+      "summary": "荷兰合作银行称，在周五美国假期之前，投资者对日元走势忐忑不安。 针对日元突然拉升，驻伦敦外汇策略主管Jane Foley表示“目前尚不清楚这是否是财务省的价格检查”。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "商务部回应对美农产品关税问题",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifkyvy2684940.shtml",
-      "date": "2026-07-02 15:19",
-      "summary": "商务部新闻发言人何亚东在7月2日举行的例行发布会上回应有关降低或取消对美国农产品关税的提问时说，农产品贸易是中美经贸合作的重要组成部分。",
-      "source": "新华社",
-      "category": "a-stock"
-    },
-    {
-      "title": "奥地利工业设备制造商安德里茨拟进一步裁员500人",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifkywe0984776.shtml",
-      "date": "2026-07-02 15:13",
-      "summary": "奥地利工业设备制造商安德里茨（Andritz）首席执行官约阿希姆·舍恩贝克（Joachim Schoenbeck）表示，由于汽车行业需求疲软，该公司今年将在其德国子公司舒勒（Schuler）进...",
+      "title": "日本经济财政谘问会议成员呼吁日本央行以适度步伐加息",
+      "link": "https://finance.sina.com.cn/world/2026-07-02/doc-inifmfcu5863388.shtml",
+      "date": "2026-07-02 17:23",
+      "summary": "日本经济财政谘问会议的民间成员永滨利广周四表示，日本央行应继续以适度步伐加息，以纠正日元过度贬值的情况。永滨利广被视为鸽派首相高市早苗的经济顾问。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "视频|欧派创始人兼董事长姚良松自2017年以来累计分红近50亿元，占比超66%，比例上超越绝大多数A股上市公司",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifkywe0981451.shtml",
-      "date": "2026-07-02 15:10",
-      "summary": "来源：凤凰WEEKLY财经公告显示，欧派创始人兼董事长姚良松自2017年以来累计获得分红近50亿元，占比超66%，比例上超越绝大多数A股上市公司。",
+      "title": "苹果今年计划生产1000万部折叠屏iPhone",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifmfcy4150752.shtml",
+      "date": "2026-07-02 17:22",
+      "summary": "媒体援引知情人士消息称，苹果公司已告知供应商为今年生产约1000万部可折叠iPhone做准备，这高于此前预估的700万-800万部。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "视频|杨斌对话Anthropic经济顾问李斯特：世界杯要想赢球，应该聘请经济学家",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifmfcu5862305.shtml",
+      "date": "2026-07-02 17:22",
+      "summary": "来源：徐中清晨领导力",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "视频|网传欧派内部信称公司生死一线 要优化人员、压降费用 董事长姚良松9年分红近50亿",
-      "link": "https://finance.sina.com.cn/stock/relnews/2026-07-02/doc-inifkywe0979496.shtml",
-      "date": "2026-07-02 15:08",
-      "summary": "来源：凤凰WEEKLY财经",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "【国投林荣雄策略】“烧冷灶”与“扒热灶”",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifkywa4219682.shtml",
-      "date": "2026-07-02 15:00",
-      "summary": "来源：林荣雄策略会客厅 全文摘要 核心结论：在过去一段时间，我们反复强调凡是趋势皆为抱团，最后的疯狂最疯狂。综合眼下宏观“灰犀牛”并不明确以及AI资本开支难以验伪...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "OpenAI 提议向特朗普政府出让5%股份",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifkyvy2656191.shtml",
-      "date": "2026-07-02 14:50",
-      "summary": "【OpenAI提议向特朗普政府出让5%股份】 估值8520亿美元的人工智能初创企业OpenAI正与美方商议，计划向美国政府出让5%股份，希望通过获得特朗普政府层面的资金利益绑定...",
+      "title": "苹果计划至2027年推出五款新款iPhone，发力折叠屏之余考虑采用国产芯片",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifmfea0926287.shtml",
+      "date": "2026-07-02 17:20",
+      "summary": "核心要点《日经亚洲》消息，苹果已规划在 2027 年年初前推出至少五款全新 iPhone 机型。苹果已将折叠屏 iPhone 的生产规划上调至 1000 万台。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "韩国股市一度重挫8% AI担忧导致芯片股遭抛售",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifkyvw5875758.shtml",
-      "date": "2026-07-02 14:43",
-      "summary": "韩国股市大跌，Meta Platforms Inc．计划出售算力，引发投资者对AI产能过剩的质疑，导致芯片制造商类股遭抛售。 Kospi指数一度下跌8.3%，SK海力士重挫14%...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "投资者静待6月就业报告，美国国债收益率走高",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifkywe0962487.shtml",
-      "date": "2026-07-02 14:39",
-      "summary": "周四美国国债收益率小幅走高，一方面投资者持续消化美联储将出台更为鹰派政策的预期，另一方面市场静待重磅就业数据出炉，这份数据或将左右美联储后续政策决议。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "603986，封跌停",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifkywe0983479.shtml",
-      "date": "2026-07-02 14:39",
-      "summary": "来源：中国基金报 【导读】今日市场全线杀跌 中国基金报记者 泰勒 大家，今天还好吗？ 今天的市场全线杀跌，就连存储龙头兆易创新也跌停了。",
-      "source": "滚动播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "3000亿龙头京东方跌停到大涨8%，成交额A股第一",
-      "link": "https://finance.sina.com.cn/stock/relnews/2026-07-02/doc-inifkywa4183704.shtml",
-      "date": "2026-07-02 14:32",
-      "summary": "7月2日，京东方走出极致反转行情，早盘股价大幅下挫，一度触及跌停，随后震荡大涨，临近午间收盘该股直线拉升，午后开盘再度拉升，涨幅一度超过8%，截至发稿，涨5%...",
-      "source": "第一财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "存储、PCB两大龙头，双双跌停",
-      "link": "https://finance.sina.com.cn/stock/relnews/2026-07-02/doc-inifkyvw5868809.shtml",
-      "date": "2026-07-02 14:24",
-      "summary": "今日午后，存储芯片概念和光模块概念股下跌，科创50指数下跌超6%。 存储芯片概念股方面，兆易创新午后跌停，截至发稿，跌停板上有超2万手封单，成交额超311亿元...",
-      "source": "中国证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "日元走高 交易员警惕日本当局干预风险",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-02/doc-inifkyvq3512405.shtml",
-      "date": "2026-07-02 14:21",
-      "summary": "日元兑美元周四小幅走强，市场猜测日本可能会在官员没有发出任何警告的情况下干预汇率。 东京时间15：12，日元兑美元上涨0.23%，至162.21。此前，据报道。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "资讯获取、智能决策、全球视野，芝麻AI俨然成为投资者大管家",
-      "link": "https://finance.sina.com.cn/stock/aigcy/2026-07-02/doc-inifkyvw5863631.shtml",
-      "date": "2026-07-02 14:19",
-      "summary": "2026年的资本市场，早已告别了“闭眼开户就能赚钱”的粗放时代。随着生成式AI技术的全面渗透，投资者面临的核心矛盾已从“信息匮乏”彻底转变为“信息过载”——每天数千条快讯...",
+      "title": "保险销售分类分级 专业能力成通行证",
+      "link": "https://finance.sina.com.cn/money/insurance/bxdt/2026-07-02/doc-inifmfcw2636694.shtml",
+      "date": "2026-07-02 17:20",
+      "summary": "来源：北京商报 中国保险行业协会于今年3月发布的《保险产品适当性管理自律规范》（以下简称《自律规范》）7月1日起正式实施。这意味着，以后什么人卖什么保险...",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "2026最热门的炒股软件出炉！投资者：新浪财经APP实至名归",
-      "link": "https://finance.sina.com.cn/stock/aigcy/2026-07-02/doc-inifkyvy2636054.shtml",
-      "date": "2026-07-02 14:19",
-      "summary": "2026年的A股市场持续升温。据易观千帆数据显示，当年4月证券服务类APP月活跃用户规模已达1.8亿人；仅3月单月，A股新开户就达460.14万户，一季度累计新开1204.02万户。",
+      "title": "沪锌失守2.45万！宏观与需求双压，TC低位支撑有限",
+      "link": "https://finance.sina.com.cn/money/future/indu/2026-07-02/doc-inifmfcu5866751.shtml",
+      "date": "2026-07-02 17:20",
+      "summary": "长江有色金属网 一、行情回顾 据长江有色网最新报价，0#锌均价24300元/吨，较前日下跌90元/吨；1#锌均价24200元/吨跌90元；压铸锌合金锭25000元/吨跌100元；锌合金zamak-3...",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "梁汝波对字节中层开刀了",
-      "link": "https://finance.sina.com.cn/stock/roll/2026-07-02/doc-inifkyvq3510344.shtml",
-      "date": "2026-07-02 14:15",
-      "summary": "科技公司正在给中高层领导开出“AI罚单”。 文|《中国企业家》记者 闫俊文 见习编辑|李原编辑|何伊凡 AI急行军下，字节更坚决地将刀锋指向了阻挡创新的组织内部。",
-      "source": "中国企业家",
+      "title": "今日镍价上涨！不锈钢需求转弱+新能源需求回暖间博弈",
+      "link": "https://finance.sina.com.cn/money/future/indu/2026-07-02/doc-inifmfcy4150854.shtml",
+      "date": "2026-07-02 17:18",
+      "summary": "长江有色金属网 一、行情回顾 据长江有色网最新报价，1#镍均价126500元/吨，较前日上涨1100元/吨；电解镍（板状）均价127450元/吨涨750元/吨；金川镍升水维持高位...",
+      "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "三星高管团队到访联想总部，或涉及存储芯片长期供应合作",
-      "link": "https://finance.sina.com.cn/tech/2026-07-02/doc-inifkyvq3507017.shtml",
-      "date": "2026-07-02 14:14",
-      "summary": "新浪科技讯 7月2日下午消息，新浪科技获悉，韩国三星电子高管团队到访联想集团总部。一位接近双方合作的人士表示，此次三星高层团队到访...",
-      "source": "新浪科技",
-      "category": "a-stock"
-    },
-    {
-      "title": "存储一哥跌停，“易中天”股价重挫，MINIMAX大跌13%",
-      "link": "https://finance.sina.com.cn/wm/2026-07-02/doc-inifkyvy2633607.shtml",
-      "date": "2026-07-02 14:04",
-      "summary": "7月2日午后，A股各大指数再度走低，科创50跌超6%，创业板指跌幅扩大至5%，上证指数跌1.53%，深证成指跌3.17%。全市场超2700家个股上涨，半导体领跌科技板块。",
+      "title": "上半年银行市值缩水超万亿 常熟、瑞丰等多家银行增持“护价”",
+      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-07-02/doc-inifmfcu5878323.shtml",
+      "date": "2026-07-02 17:17",
+      "summary": "银行“护价”力度持续增强。 7月2日，常熟银行发布公告称，江苏江南商贸集团于2026年6月9日至6月30日增持本行股份1713万股，占总股本的0.47%，增持后持股比例提升至3.84%。",
       "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
+    {
+      "title": "宇树科技，IPO注册获批",
+      "link": "https://finance.sina.com.cn/wm/2026-07-02/doc-inifmfcw2640661.shtml",
+      "date": "2026-07-02 17:17",
+      "summary": "7月2日，证监会官网显示，证监会同意宇树科技股份有限公司首次公开发行股票并在科创板上市的注册申请。 6月2日，上交所官网显示，宇树科技科创板IPO提交注册...",
+      "source": "上海证券报",
+      "category": "a-stock"
+    },
+    {
+      "title": "公募基金经理上半年流动加速：224人离任创新高，易方达开启\"扫货\"模式新聘18位",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-07-02/doc-inifmfea0939561.shtml",
+      "date": "2026-07-02 17:16",
+      "summary": "2026年上半年，公募基金行业迎来了一场人才大洗牌。 Wind数据显示，截至6月30日，年内基金经理离任数量已达224人，较去年同期的188人明显增加，涉及102家基金公司。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "宇树科技通过证监会注册关，发行在即！王兴兴合计控制 68.78% 表决权！",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifmfcw2639619.shtml",
+      "date": "2026-07-02 17:16",
+      "summary": "来源：国际投行研究报告 一、核心控制权：实控人王兴兴（同股不同权 A/B 股）直接持股：23.82%（第一大股东）员工持股平台：上海宇翼企业管理咨询合伙企业（有限合伙）10...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "银登中心上半年不良挂牌近1700亿，6月对公不良转让环比大涨349%",
+      "link": "https://finance.sina.com.cn/jjxw/2026-07-02/doc-inifmfcy4149121.shtml",
+      "date": "2026-07-02 17:16",
+      "summary": "财联社7月2日讯（编辑 杨斌） 经历多年高速增长后，不良贷款转让市场的规模趋于平稳。财联社统计银登中心相关数据，上半年金融机构挂牌转让不良贷款本息总额近1700亿元...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "特朗普过去24小时都忙了什么？（2026-07-02）",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifmfcu5855109.shtml",
+      "date": "2026-07-02 17:15",
+      "summary": "来源：金十数据 1． 批评西班牙不友好——美国总统特朗普：西班牙是北约成员，但并不是一个表现很好的成员。他们的表现并不太友好，但他们会学会怎么做的。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "长江有色：2日铝价大涨 今日刚需成交乏力",
+      "link": "https://finance.sina.com.cn/money/future/indu/2026-07-02/doc-inifmfcw2632499.shtml",
+      "date": "2026-07-02 17:15",
+      "summary": "长江有色金属网 CCMN国际市场：今日伦铝震荡回落，LME三个月北京时间15：09报于3048.5美元/吨，较上一交易日结算价跌44美元/吨，跌幅1.42%。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "碳酸锂冲高回落仅涨0.17%，16.5万关口压力显现，反弹能否延续？",
+      "link": "https://finance.sina.com.cn/money/future/indu/2026-07-02/doc-inifmfcy4146339.shtml",
+      "date": "2026-07-02 17:13",
+      "summary": "长江有色金属网 一、行情回顾 据长江有色网最新报价，电池级碳酸锂99.5%均价164250元/吨，较前日上涨1500元/吨；工业级碳酸锂99.2%均价161250元/吨涨1500元；电池级氢氧化...",
+      "source": "市场资讯",
       "category": "a-stock"
     }
   ]
