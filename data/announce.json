@@ -1,12 +1,292 @@
 {
-  "updated": "2026-07-03T17:42:18.531059+08:00",
+  "updated": "2026-07-03T18:10:13.828138+08:00",
   "source": "个股公告",
   "count": 30,
   "items": [
     {
-      "title": "中国神华:中国神华关于召开2026年第二次临时股东会的通知",
-      "link": "https://data.eastmoney.com/notices/detail/601088/20260704/AN202607031826699588.html",
-      "date": "2026-07-03 17:42",
+      "title": "鹏欣资源:关于以集中竞价交易方式回购股份的预案",
+      "link": "https://data.eastmoney.com/notices/detail/600490/20260704/AN202607031826701032.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "600490",
+      "stock_name": "鹏欣资源"
+    },
+    {
+      "title": "亿华通:亿华通H股公告-截至二零二六年六月三十日止股份发行人的证券变动月报表",
+      "link": "https://data.eastmoney.com/notices/detail/688339/20260704/AN202607031826701030.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688339",
+      "stock_name": "亿华通"
+    },
+    {
+      "title": "联创电子:关于公司高级管理人员离任的公告",
+      "link": "https://data.eastmoney.com/notices/detail/002036/20260704/AN202607031826700996.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002036",
+      "stock_name": "联创电子"
+    },
+    {
+      "title": "纳芯微:关于召开2026年第二次临时股东会的通知",
+      "link": "https://data.eastmoney.com/notices/detail/688052/20260704/AN202607031826700995.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688052",
+      "stock_name": "纳芯微"
+    },
+    {
+      "title": "诚邦股份:北京君合(杭州)律师事务所关于2026年股票期权与限制性股票激励计划相关调整及首次授予事项的法律意见书",
+      "link": "https://data.eastmoney.com/notices/detail/603316/20260704/AN202607031826700978.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603316",
+      "stock_name": "诚邦股份"
+    },
+    {
+      "title": "诚邦股份:诚邦智芯科技股份有限公司关于调整2026年股票期权与限制性股票激励计划首次授予激励对象名单的公告",
+      "link": "https://data.eastmoney.com/notices/detail/603316/20260704/AN202607031826700979.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603316",
+      "stock_name": "诚邦股份"
+    },
+    {
+      "title": "诚邦股份:诚邦智芯科技股份有限公司2026年第一次临时股东会决议公告",
+      "link": "https://data.eastmoney.com/notices/detail/603316/20260704/AN202607031826700981.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603316",
+      "stock_name": "诚邦股份"
+    },
+    {
+      "title": "诚邦股份:诚邦智芯科技股份有限公司关于变更注册资本并修改《公司章程》的公告",
+      "link": "https://data.eastmoney.com/notices/detail/603316/20260704/AN202607031826700977.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603316",
+      "stock_name": "诚邦股份"
+    },
+    {
+      "title": "诚邦股份:诚邦智芯科技股份有限公司第五届董事会第二十七次会议决议公告",
+      "link": "https://data.eastmoney.com/notices/detail/603316/20260704/AN202607031826700980.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603316",
+      "stock_name": "诚邦股份"
+    },
+    {
+      "title": "诚邦股份:诚邦智芯科技股份有限公司关于向2026年股票期权与限制性股票激励计划激励对象首次授予股票期权与限制性股票的公告",
+      "link": "https://data.eastmoney.com/notices/detail/603316/20260704/AN202607031826700974.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603316",
+      "stock_name": "诚邦股份"
+    },
+    {
+      "title": "诚邦股份:诚邦智芯科技股份有限公司关于公司2026年股票期权与限制性股票激励计划内幕信息知情人买卖公司股票情况的自查报告",
+      "link": "https://data.eastmoney.com/notices/detail/603316/20260704/AN202607031826700973.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603316",
+      "stock_name": "诚邦股份"
+    },
+    {
+      "title": "诚邦股份:东方财富证券股份有限公司关于诚邦智芯科技股份有限公司2026年股票期权与限制性股票激励计划首次授予相关事项之独立财务顾问报告",
+      "link": "https://data.eastmoney.com/notices/detail/603316/20260704/AN202607031826700975.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603316",
+      "stock_name": "诚邦股份"
+    },
+    {
+      "title": "诚邦股份:诚邦股份2026年第一次临时股东会法律意见书",
+      "link": "https://data.eastmoney.com/notices/detail/603316/20260704/AN202607031826700972.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603316",
+      "stock_name": "诚邦股份"
+    },
+    {
+      "title": "诚邦股份:公司章程(2026年7月)",
+      "link": "https://data.eastmoney.com/notices/detail/603316/20260704/AN202607031826700976.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603316",
+      "stock_name": "诚邦股份"
+    },
+    {
+      "title": "方邦股份:关于2022年股票期权激励计划2026年第二季度自主行权结果暨股份变动的公告",
+      "link": "https://data.eastmoney.com/notices/detail/688020/20260704/AN202607031826700971.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688020",
+      "stock_name": "方邦股份"
+    },
+    {
+      "title": "金杯汽车:临2026-021号:金杯汽车关于公开挂牌转让子公司股权相关进展的公告",
+      "link": "https://data.eastmoney.com/notices/detail/600609/20260704/AN202607031826700862.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "600609",
+      "stock_name": "金杯汽车"
+    },
+    {
+      "title": "浩欧博:江苏浩欧博生物医药股份有限公司关于变更注册资本、修订《公司章程》并办理工商变更登记的公告",
+      "link": "https://data.eastmoney.com/notices/detail/688656/20260704/AN202607031826700811.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688656",
+      "stock_name": "浩欧博"
+    },
+    {
+      "title": "浩欧博:江苏浩欧博生物医药股份有限公司章程",
+      "link": "https://data.eastmoney.com/notices/detail/688656/20260704/AN202607031826700814.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688656",
+      "stock_name": "浩欧博"
+    },
+    {
+      "title": "浩欧博:江苏浩欧博生物医药股份有限公司2026年第二次临时股东会决议公告",
+      "link": "https://data.eastmoney.com/notices/detail/688656/20260704/AN202607031826700815.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688656",
+      "stock_name": "浩欧博"
+    },
+    {
+      "title": "浩欧博:江苏浩欧博生物医药股份有限公司关于完成董事会换届选举及聘任高级管理人员、证券事务代表的公告",
+      "link": "https://data.eastmoney.com/notices/detail/688656/20260704/AN202607031826700813.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688656",
+      "stock_name": "浩欧博"
+    },
+    {
+      "title": "浩欧博:国浩律师(上海)事务所关于江苏浩欧博生物医药股份有限公司2026年第二次临时股东会的法律意见书",
+      "link": "https://data.eastmoney.com/notices/detail/688656/20260704/AN202607031826700810.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688656",
+      "stock_name": "浩欧博"
+    },
+    {
+      "title": "中通国脉:中通国脉通信股份有限公司股票交易异常波动的公告",
+      "link": "https://data.eastmoney.com/notices/detail/603559/20260704/AN202607031826700812.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603559",
+      "stock_name": "中通国脉"
+    },
+    {
+      "title": "*ST九鼎:九鼎投资股票交易异常波动公告",
+      "link": "https://data.eastmoney.com/notices/detail/600053/20260704/AN202607031826700816.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "600053",
+      "stock_name": "*ST九鼎"
+    },
+    {
+      "title": "青松建化:青松建化关于党委委员、纪委书记职务调动的公告",
+      "link": "https://data.eastmoney.com/notices/detail/600425/20260704/AN202607031826700801.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "600425",
+      "stock_name": "青松建化"
+    },
+    {
+      "title": "通达股份:关于为子公司提供担保的进展公告",
+      "link": "https://data.eastmoney.com/notices/detail/002560/20260704/AN202607031826700720.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002560",
+      "stock_name": "通达股份"
+    },
+    {
+      "title": "国联民生:H股公告(2026年6月证券变动月报表)",
+      "link": "https://data.eastmoney.com/notices/detail/601456/20260704/AN202607031826700688.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "601456",
+      "stock_name": "国联民生"
+    },
+    {
+      "title": "丰元股份:关于全资子公司回购其控股子公司少数股东权益暨交易的进展公告",
+      "link": "https://data.eastmoney.com/notices/detail/002805/20260704/AN202607031826700646.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002805",
+      "stock_name": "丰元股份"
+    },
+    {
+      "title": "ST如意:股票交易异常波动公告",
+      "link": "https://data.eastmoney.com/notices/detail/002193/20260704/AN202607031826700649.html",
+      "date": "2026-07-03 18:10",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002193",
+      "stock_name": "ST如意"
+    },
+    {
+      "title": "中国神华:中国神华2026年第二次临时股东会会议资料",
+      "link": "https://data.eastmoney.com/notices/detail/601088/20260704/AN202607031826700563.html",
+      "date": "2026-07-03 18:10",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -14,294 +294,14 @@
       "stock_name": "中国神华"
     },
     {
-      "title": "凤竹纺织:凤竹纺织2025年年度权益分派实施公告",
-      "link": "https://data.eastmoney.com/notices/detail/600493/20260704/AN202607031826699587.html",
-      "date": "2026-07-03 17:42",
+      "title": "ST复华:上海复旦复华科技股份有限公司股票交易异常波动公告",
+      "link": "https://data.eastmoney.com/notices/detail/600624/20260704/AN202607031826700561.html",
+      "date": "2026-07-03 18:10",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "600493",
-      "stock_name": "凤竹纺织"
-    },
-    {
-      "title": "江南化工:关于持股5%以上股东非公开发行可交换公司债券换股价格调整的提示性公告",
-      "link": "https://data.eastmoney.com/notices/detail/002226/20260704/AN202607031826699584.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002226",
-      "stock_name": "江南化工"
-    },
-    {
-      "title": "中重科技:关于股票交易异常波动公告",
-      "link": "https://data.eastmoney.com/notices/detail/603135/20260704/AN202607031826699576.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "603135",
-      "stock_name": "中重科技"
-    },
-    {
-      "title": "瑞华泰:国信证券股份有限公司关于深圳瑞华泰薄膜科技股份有限公司向不特定对象发行可转换公司债券第三次临时受托管理事务报告(2026年度)",
-      "link": "https://data.eastmoney.com/notices/detail/118018/20260704/AN202607031826699575.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "118018",
-      "stock_name": "瑞科转债"
-    },
-    {
-      "title": "风语筑:上海风语筑文化科技股份有限公司股票交易异常波动的公告",
-      "link": "https://data.eastmoney.com/notices/detail/113643/20260704/AN202607031826699570.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "113643",
-      "stock_name": "风语转债"
-    },
-    {
-      "title": "中国石化:中国石化H股公告-翌日披露表格",
-      "link": "https://data.eastmoney.com/notices/detail/600028/20260704/AN202607031826699551.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "600028",
-      "stock_name": "中国石化"
-    },
-    {
-      "title": "中金岭南:2026年半年度业绩预告",
-      "link": "https://data.eastmoney.com/notices/detail/000060/20260704/AN202607031826699555.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "000060",
-      "stock_name": "中金岭南"
-    },
-    {
-      "title": "中国移动:月报表",
-      "link": "https://data.eastmoney.com/notices/detail/600941/20260704/AN202607031826699552.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "600941",
-      "stock_name": "中国移动"
-    },
-    {
-      "title": "中稀有色:中稀有色金属股份有限公司第九届董事会2026年第六次会议决议公告",
-      "link": "https://data.eastmoney.com/notices/detail/600259/20260704/AN202607031826699550.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "600259",
-      "stock_name": "中稀有色"
-    },
-    {
-      "title": "天安新材:天安新材2025年年度权益分派实施公告",
-      "link": "https://data.eastmoney.com/notices/detail/603725/20260704/AN202607031826699548.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "603725",
-      "stock_name": "天安新材"
-    },
-    {
-      "title": "天安新材:上海市锦天城律师事务所关于广东天安新材料股份有限公司差异化权益分派的法律意见书",
-      "link": "https://data.eastmoney.com/notices/detail/603725/20260704/AN202607031826699549.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "603725",
-      "stock_name": "天安新材"
-    },
-    {
-      "title": "盛邦安全:2025年年度权益分派实施公告",
-      "link": "https://data.eastmoney.com/notices/detail/688651/20260704/AN202607031826699538.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688651",
-      "stock_name": "盛邦安全"
-    },
-    {
-      "title": "盛邦安全:北京市康达律师事务所关于远江盛邦安全科技集团股份有限公司2025年年度差异化权益分配事项的法律意见书",
-      "link": "https://data.eastmoney.com/notices/detail/688651/20260704/AN202607031826699540.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688651",
-      "stock_name": "盛邦安全"
-    },
-    {
-      "title": "盛邦安全:国泰海通证券股份有限公司关于远江盛邦安全科技集团股份有限公司差异化分红事项的核查意见",
-      "link": "https://data.eastmoney.com/notices/detail/688651/20260704/AN202607031826699539.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688651",
-      "stock_name": "盛邦安全"
-    },
-    {
-      "title": "太钢不锈:第十届董事会第六次会议决议公告",
-      "link": "https://data.eastmoney.com/notices/detail/000825/20260704/AN202607031826699516.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "000825",
-      "stock_name": "太钢不锈"
-    },
-    {
-      "title": "浙江鼎力:浙江鼎力机械股份有限公司股票交易异常波动公告",
-      "link": "https://data.eastmoney.com/notices/detail/603338/20260704/AN202607031826699510.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "603338",
-      "stock_name": "浙江鼎力"
-    },
-    {
-      "title": "中国中冶:中国中冶H股公告",
-      "link": "https://data.eastmoney.com/notices/detail/601618/20260704/AN202607031826699477.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "601618",
-      "stock_name": "中国中冶"
-    },
-    {
-      "title": "艾迪精密:艾迪精密股票交易异常波动公告",
-      "link": "https://data.eastmoney.com/notices/detail/113644/20260704/AN202607031826699476.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "113644",
-      "stock_name": "艾迪转债"
-    },
-    {
-      "title": "德才股份:江苏泰和(深圳)律师事务所关于德才装饰股份有限公司差异化权益分派事项的法律意见书",
-      "link": "https://data.eastmoney.com/notices/detail/605287/20260704/AN202607031826699472.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "605287",
-      "stock_name": "德才股份"
-    },
-    {
-      "title": "德才股份:德才股份2025年年度权益分派实施公告",
-      "link": "https://data.eastmoney.com/notices/detail/605287/20260704/AN202607031826699467.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "605287",
-      "stock_name": "德才股份"
-    },
-    {
-      "title": "科达利:关于股票交易异常波动公告",
-      "link": "https://data.eastmoney.com/notices/detail/002850/20260704/AN202607031826699464.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002850",
-      "stock_name": "科达利"
-    },
-    {
-      "title": "云南锗业:关于公司高级管理人员离任的公告",
-      "link": "https://data.eastmoney.com/notices/detail/002428/20260704/AN202607031826699465.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002428",
-      "stock_name": "云南锗业"
-    },
-    {
-      "title": "科思科技:2026年第二次临时股东会决议公告",
-      "link": "https://data.eastmoney.com/notices/detail/688788/20260704/AN202607031826699423.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688788",
-      "stock_name": "科思科技"
-    },
-    {
-      "title": "科思科技:北京市中伦(南京)律师事务所关于深圳市科思科技股份有限公司2026年第二次临时股东会的法律意见书",
-      "link": "https://data.eastmoney.com/notices/detail/688788/20260704/AN202607031826699422.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688788",
-      "stock_name": "科思科技"
-    },
-    {
-      "title": "ST章鼓:股票交易异常波动公告",
-      "link": "https://data.eastmoney.com/notices/detail/002598/20260704/AN202607031826699410.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002598",
-      "stock_name": "ST章鼓"
-    },
-    {
-      "title": "誉衡药业:关于使用闲置自有资金进行委托理财的进展公告",
-      "link": "https://data.eastmoney.com/notices/detail/002437/20260704/AN202607031826699409.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002437",
-      "stock_name": "誉衡药业"
-    },
-    {
-      "title": "峰岹科技:H股公告(证券变动月报表)",
-      "link": "https://data.eastmoney.com/notices/detail/688279/20260704/AN202607031826699358.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688279",
-      "stock_name": "峰岹科技"
-    },
-    {
-      "title": "苑东生物:股票交易异常波动公告",
-      "link": "https://data.eastmoney.com/notices/detail/688513/20260704/AN202607031826699357.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688513",
-      "stock_name": "苑东生物"
-    },
-    {
-      "title": "江苏银行:江苏银行2025年年度权益分派实施公告",
-      "link": "https://data.eastmoney.com/notices/detail/600919/20260704/AN202607031826699359.html",
-      "date": "2026-07-03 17:42",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "600919",
-      "stock_name": "江苏银行"
+      "stock_code": "600624",
+      "stock_name": "ST复华"
     }
   ]
 }
