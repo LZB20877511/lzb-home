@@ -1,20 +1,28 @@
 {
-  "updated": "2026-07-03T07:06:33.746435+08:00",
+  "updated": "2026-07-03T09:22:44.947622+08:00",
   "source": "美股聚合",
   "count": 52,
   "items": [
     {
       "title": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
       "link": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "A drop in the unemployment rate helped provide some upside to what was an otherwise downbeat jobs report  but it was for all the wrong reasons.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Asia markets open mixed as chip slump weighs on sentiment: Live updates",
+      "link": "https://www.cnbc.com/2026/07/03/stock-market-today-live-updates.html",
+      "date": "2026-07-03 09:22",
+      "summary": "Asia-Pacific markets traded mixed on Friday as investors continued rotating out of technology stocks, tracking declines in the U.S.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Dow jumps nearly 600 points to record close; Nasdaq slides as chip stocks suffer: Live updates",
       "link": "https://www.cnbc.com/2026/07/01/stock-market-today-live-updates.html",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "The Dow Jones Industrial Average scaled to record highs on Thursday as investors reacted to a weaker-than-expected nonfarm payrolls report for June.",
       "source": "CNBC",
       "category": "us-stock"
@@ -22,15 +30,23 @@
     {
       "title": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound",
       "link": "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "The day before President Donald Trump walked back his tariff policy turned out to be one of his busiest days of 2025 for stock buying.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Nvidia offers start-up customers chance to swap compute power for revenue share",
+      "link": "https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html",
+      "date": "2026-07-03 09:22",
+      "summary": "Nvidia says it will give start-ups the chance to swap access to compute power for a slice of future profits under a new program aimed at AI-focused firms.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
       "link": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "Nonfarm payrolls were expected to rise by 115,000 in June and the unemployment rate to hold steady at 4.3%.",
       "source": "CNBC",
       "category": "us-stock"
@@ -38,7 +54,7 @@
     {
       "title": "Saudi Arabia has ramped up oil shipments through the Strait of Hormuz since U.S.-Iran deal",
       "link": "https://www.cnbc.com/2026/07/02/saudi-arabia-iran-strait-hormuz-persian-gulf-oil.html",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "Saudi Arabia is restarting its export logistics in the Persian Gulf after a three-month pause, according to Kpler.",
       "source": "CNBC",
       "category": "us-stock"
@@ -46,15 +62,31 @@
     {
       "title": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",
       "link": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "Tesla is trying to recover from consecutive annual declines in vehicle sales that were partly caused by a consumer backlash against CEO Elon Musk.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Trump administration cannot hold migrants without bond hearings past 90 days, court rules",
+      "link": "https://www.cnbc.com/2026/07/03/trump-administration-cannot-hold-migrants-without-bond-hearings-past-90-days.html",
+      "date": "2026-07-03 09:22",
+      "summary": "The ruling could affect thousands of migrants detained in Texas, Louisiana and other states under the court's jurisdiction.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Americans are paying record prices for steak. Here's why demand isn't cracking",
+      "link": "https://www.cnbc.com/2026/07/02/beef-prices-demand-for-steak-isnt-falling.html",
+      "date": "2026-07-03 09:22",
+      "summary": "Despite record beef prices, Americans aren't giving up steak. Consumers are treating beef as an affordable luxury and prioritizing it for special occasions.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Led by Buc-ees and new rival Dolly Parton, Americas gas station chains are in a mega-sizing era",
       "link": "https://www.cnbc.com/2026/07/02/led-by-buc-ees-dolly-parton-americas-gas-stations-go-mega-size-.html",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "Gas station chains led by Buc-ee's are coming closer to rivaling America's big box stores in size, and Dolly Parton is getting in on the retail trend.",
       "source": "CNBC",
       "category": "us-stock"
@@ -62,7 +94,7 @@
     {
       "title": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit",
       "link": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "Microsoft is the latest tech company to form a business focused on helping customers understand and implement artificial intelligence.",
       "source": "CNBC",
       "category": "us-stock"
@@ -70,31 +102,31 @@
     {
       "title": "Dow rides into new week at record high. What investors are watching ahead",
       "link": "https://www.cnbc.com/2026/07/02/dow-rides-into-new-week-at-record-high-what-investors-are-watching-ahead.html",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "Investors are wondering what the second half of the year will bring after big gains for stocks.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Americans are paying record prices for steak. Here's why demand isn't cracking",
-      "link": "https://www.cnbc.com/2026/07/02/beef-prices-demand-for-steak-isnt-falling.html",
-      "date": "2026-07-03 07:06",
-      "summary": "Despite record beef prices, Americans aren't giving up steak. Consumers are treating beef as an affordable luxury and prioritizing it for special occasions.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Healthcare surged in June. Raymond James is adding these two dividend payers to list of top picks",
       "link": "https://www.cnbc.com/2026/07/02/raymond-james-adds-two-dividend-payers-to-list-of-top-healthcare-picks.html",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "The healthcare sector had a hot June, and Raymond James likes these two dividend-paying stocks.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "The charts on this biotech stock look attractive, says Jay Woods",
+      "link": "https://www.cnbc.com/2026/07/02/the-charts-on-this-biotech-stock-look-attractive-says-jay-woods.html",
+      "date": "2026-07-03 09:22",
+      "summary": "The chief market strategist at Freedom Capital Markets breaks down the technicals in this biotech name.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Olympian David Hearn indicted in Reflecting Pool destruction of property case",
       "link": "https://www.cnbc.com/2026/07/02/reflecting-pool-indictment-david-hearn-destruction-pirro.html",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "President Donald Trump has made the renovation of the Reflecting Pool on the National Mall a top priority in his second year back in the White House.",
       "source": "CNBC",
       "category": "us-stock"
@@ -102,47 +134,39 @@
     {
       "title": "Trump Accounts get a boost from employer contributions  Goldman Sachs and Morgan Stanley are the latest to offer matching programs",
       "link": "https://www.cnbc.com/2026/07/02/trump-accounts-boosted-by-growing-list-of-employer-matches.html",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "The growing list of companies that will match contributions to Trump Accounts for their employees now includes Goldman Sachs and Morgan Stanley.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Sandwich chain Jersey Mike's files for IPO, reports 50% same-store sales growth in recent years",
-      "link": "https://www.cnbc.com/2026/07/02/jersey-mikes-files-for-ipo.html",
-      "date": "2026-07-03 07:06",
-      "summary": "Jersey Mike's has nearly 3,300 locations, making it the second-largest hoagie sandwich chain in the U.S. behind Subway.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "The charts on this biotech stock look attractive, says Jay Woods",
-      "link": "https://www.cnbc.com/2026/07/02/the-charts-on-this-biotech-stock-look-attractive-says-jay-woods.html",
-      "date": "2026-07-03 07:06",
-      "summary": "The chief market strategist at Freedom Capital Markets breaks down the technicals in this biotech name.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Levi's, The North Face and Columbia are turning to women to fuel their next phase of growth",
-      "link": "https://www.cnbc.com/2026/07/02/levis-the-north-face-and-columbia-are-turning-to-women-to-fuel-their-next-phase-of-growth-.html",
-      "date": "2026-07-03 07:06",
-      "summary": "Legacy apparel brands including VF Corp., Levi's, and Columbia are investing more heavily in women's products and marketing.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "GE Vernova's gas turbines aren't the only way it's winning from the AI boom",
       "link": "https://www.cnbc.com/2026/07/02/ge-vernovas-gas-turbines-arent-the-only-way-its-winning-from-the-ai-boom.html",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "Electrification secured $2.4 billion in data center equipment orders during the first quarter of 2026, beating the segment's total for all of 2025.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Sandwich chain Jersey Mike's files for IPO, reports 50% same-store sales growth in recent years",
+      "link": "https://www.cnbc.com/2026/07/02/jersey-mikes-files-for-ipo.html",
+      "date": "2026-07-03 09:22",
+      "summary": "Jersey Mike's has nearly 3,300 locations, making it the second-largest hoagie sandwich chain in the U.S. behind Subway.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Levi's, The North Face and Columbia are turning to women to fuel their next phase of growth",
+      "link": "https://www.cnbc.com/2026/07/02/levis-the-north-face-and-columbia-are-turning-to-women-to-fuel-their-next-phase-of-growth-.html",
+      "date": "2026-07-03 09:22",
+      "summary": "Legacy apparel brands including VF Corp., Levi's, and Columbia are investing more heavily in women's products and marketing.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Premier Lacrosse League plans to bring in team owners by 2028 'or soon thereafter,' co-founder says",
       "link": "https://www.cnbc.com/2026/07/02/premier-lacrosse-league-team-ownership.html",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "Paul Rabil told CNBC he's banking on the 2028 Los Angeles Summer Games, where lacrosse will return as an Olympic sport, to shine a spotlight on the PLL.",
       "source": "CNBC",
       "category": "us-stock"
@@ -150,7 +174,7 @@
     {
       "title": "Stocks making the biggest moves midday: Rivian, Tesla, Sandisk, Blue Owl, AeroVironment & more",
       "link": "https://www.cnbc.com/2026/07/02/stocks-making-the-biggest-moves-midday-rivn-tsla-sndk-owl-avav.html",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "Here are the companies making headlines in midday trading.",
       "source": "CNBC",
       "category": "us-stock"
@@ -158,7 +182,7 @@
     {
       "title": "Autonomous drone startup Quantum Systems raises $1.2 billion as investors pile into defense",
       "link": "https://www.cnbc.com/2026/07/02/autonomous-defense-startup-quantum-systems.html",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "Defense tech startups are raising record amounts on both sides of the Atlantic amid a flurry of investment in the sector.",
       "source": "CNBC",
       "category": "us-stock"
@@ -166,7 +190,7 @@
     {
       "title": "House lawmakers approved a bipartisan bill to protect older adults from financial fraud. Here's what to know",
       "link": "https://www.cnbc.com/2026/07/02/lawmakers-approved-bipartisan-bill-to-battle-fraud-among-older-adults.html",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "The Financial Exploitation Prevention Act of 2025 is aimed at preventing adults age 65 or older or those with disabilities from losing their money to fraud.",
       "source": "CNBC",
       "category": "us-stock"
@@ -174,7 +198,7 @@
     {
       "title": "Ford Q2 sales drop 10.3% due to F-Series supplier issue, falling EV demand",
       "link": "https://www.cnbc.com/2026/07/02/ford-q2-sales.html",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "Ford said its EV sales fell by 40.7% during the quarter compared with a year earlier, while sales of its F-Series trucks, including the F-150, declined 11%.",
       "source": "CNBC",
       "category": "us-stock"
@@ -182,39 +206,15 @@
     {
       "title": "Treasury says Trump Account investment options will include State Street, BlackRock and Vanguard ETFs",
       "link": "https://www.cnbc.com/2026/07/02/trump-account-investment-picks-are-state-street-blackrock-vanguard-etfs.html",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "The Treasury Department said the investment lineup for Trump Accounts includes ETFs from State Street, BlackRock and Vanguard.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "U.S. closes 2022 probe into 695,000 Tesla vehicles over unexpected braking",
-      "link": "https://www.cnbc.com/2026/07/02/us-closes-2022-probe-into-695000-tesla-vehicles-over-unexpected-braking.html",
-      "date": "2026-07-03 07:06",
-      "summary": "The U.S. National Highway Traffic Safety Administration closed its 2022 preliminary evaluation into 695,000 Tesla vehicles over unexpected deceleration.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Rivian raises 2026 delivery outlook while Lucid misses Wall Street expectations for second quarter",
-      "link": "https://www.cnbc.com/2026/07/02/rivian-lucid-q2-deliveries-demand.html",
-      "date": "2026-07-03 07:06",
-      "summary": "Rivian is increasing its delivery outlook to between 65,000 and 70,000 EVs, up from 62,000 to 67,000 units.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Metas push into cloud computing means Wall Street has to prepare for lower margins",
-      "link": "https://www.cnbc.com/2026/07/02/metas-push-into-cloud-excites-wall-street-despite-lower-margins.html",
-      "date": "2026-07-03 07:06",
-      "summary": "Meta appears poised to enter the cloud computing market in an effort to monetize its massive AI infrastructure.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "My doctor friend objected to his hospital’s fundraising tactics. Did management go too far?",
       "link": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "“This shocking program was exploiting doctors and the trust inherent in their relationships with patients.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -222,7 +222,7 @@
     {
       "title": "When does my kid get the free ‘Trump account’ money?",
       "link": "https://www.marketwatch.com/story/when-does-my-kid-get-the-free-trump-account-money-37c3f503?mod=mw_rss_topstories",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "As the accounts start working, here are 5 things families should know about what’s next",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -230,7 +230,7 @@
     {
       "title": "Dow scores fresh record despite tepid jobs report. Why the rest of 2026 is about workers.",
       "link": "https://www.marketwatch.com/story/dow-scores-fresh-record-despite-tepid-jobs-report-why-the-rest-of-2026-is-about-workers-6247fbed?mod=mw_rss_topstories",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "“American workers are not getting a raise,” says J.P. Morgan Asset Management strategist.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -238,7 +238,7 @@
     {
       "title": "Trump blasts ‘hostile’ Fed and says Warsh ‘has to do what he has to do’ on interest rates",
       "link": "https://www.marketwatch.com/story/trump-blasts-hostile-fed-and-says-warsh-has-to-do-what-he-has-to-do-on-interest-rates-60b5d16b?mod=mw_rss_topstories",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "Trump, in the interview, also said he continues to plan to remove Fed governor Lisa Cook from the central bank’s board.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -246,7 +246,7 @@
     {
       "title": "5 things to know about Jersey Mike’s ahead of its IPO",
       "link": "https://www.marketwatch.com/story/5-things-to-know-about-jersey-mikes-ahead-of-its-ipo-e6829aa2?mod=mw_rss_topstories",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "Sandwich chain’s IPO filing offers details about sales gains and family compensation",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -254,7 +254,7 @@
     {
       "title": "Trump’s billion-dollar crypto haul triggers some everyday investors sitting on big losses",
       "link": "https://www.marketwatch.com/story/trumps-billion-dollar-crypto-haul-triggers-some-everyday-investors-sitting-on-big-losses-9f045f00?mod=mw_rss_topstories",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "Millions of crypto investors around the world are sitting on losses as a painful bear market erases trillions of dollars in paper profits.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -262,9 +262,137 @@
     {
       "title": "Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era",
       "link": "https://www.marketwatch.com/story/gamer-trades-in-1-000-of-physical-discs-at-gamestop-days-after-sony-announces-end-of-disc-era-bf8383b7?mod=mw_rss_topstories",
-      "date": "2026-07-03 07:06",
+      "date": "2026-07-03 09:22",
       "summary": "While some collectors may plan to hoard their physical media, one Columbus gamer decided to liquidate his collection",
       "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "Micron Day Is Here!",
+      "link": "https://www.fool.com/investing/2026/07/02/micron-day-is-here/?.tsrc=rss",
+      "date": "2026-07-03 00:53",
+      "summary": "Micron's latest earnings report will tell us a great deal about the future of memory and compute demand.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Is Tilray a Textbook Value Trap -- or the Most Undervalued Cannabis Stock on the Market?",
+      "link": "https://www.fool.com/investing/2026/07/02/is-tilray-a-textbook-value-trap-or-the-most-underv/?.tsrc=rss",
+      "date": "2026-07-03 00:50",
+      "summary": "There are much better ways to spend $5.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Why AeroVironment Stock Climbed Today",
+      "link": "https://www.fool.com/investing/2026/07/02/why-aerovironment-stock-climbed-today/?.tsrc=rss",
+      "date": "2026-07-03 00:36",
+      "summary": "Defending against drones is an imperative for the U.S. military.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "TSLA Stock Clocks Worst Day In 11 Months After Q2 Delivery Blows Past Estimates  Investors And Experts Weigh In",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-clocks-worst-day-in-11-months-after-q2-delivery-blows-past-estimates/cZm97iXR7jO?.tsrc=rss",
+      "date": "2026-07-03 00:31",
+      "summary": "Earlier on Thursday, Tesla said that it delivered 480,126 vehicles in Q2 2026, beating the sell-side consensus of around 406,000 by roughly 18%.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Iren (NasdaqGS:IREN) Stock Sees Fair Value Lift On AI Data Center Contract Optimism",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-nasdaqgs-iren-stock-sees-002134522.html?.tsrc=rss",
+      "date": "2026-07-03 00:21",
+      "summary": "The updated blended fair value estimate for Iren has moved from US$70.40 to US$80.93, a shift that puts fresh attention on what is driving analysts models for the stock. This change sits against a bac",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "IEFA vs. VXUS: Both Are Cheap. Both Are Broad. Here Is the Key Difference Long-Term Investors Need to Understand.",
+      "link": "https://www.fool.com/investing/2026/07/02/iefa-vs-vxus-both-cheap-broad-here-is-difference/?.tsrc=rss",
+      "date": "2026-07-03 00:20",
+      "summary": "These international stock ETFs from iShares and Vanguard are very different once you look under the surface.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Why Broadcom Stock Slumped Today",
+      "link": "https://www.fool.com/investing/2026/07/02/why-broadcom-stock-slumped-today/?.tsrc=rss",
+      "date": "2026-07-03 00:13",
+      "summary": "Investors received a sharp reminder that there are other players in the high-stakes AI chip game.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Why Tesla (TSLA) Shares Are Getting Obliterated Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-shares-getting-001224073.html?.tsrc=rss",
+      "date": "2026-07-03 00:12",
+      "summary": "Shares of electric vehicle pioneer Tesla (NASDAQ:TSLA) fell 7.1% in the afternoon session after it snapped a four-session run-up despite a delivery report that beat expectations by a wide margin.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Dow Jones Futures: Dow Hits High But AI Tumbles; Apple, Robinhood Are Buys As Tesla, Sandisk Dive",
+      "link": "https://finance.yahoo.com/m/c5c7ee9b-1c12-3518-9e81-d4125388c16f/dow-jones-futures%3A-dow-hits.html?.tsrc=rss",
+      "date": "2026-07-02 23:51",
+      "summary": "The stock market had strong weekly gains, but it didn't feel that way with Sandisk and other AI plays selling off Thursday.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Could SpaceX Become the First $10 Trillion Company? Here's What Would Need to Happen.",
+      "link": "https://www.fool.com/investing/2026/07/02/could-spacex-become-the-first-10-trillion-company/?.tsrc=rss",
+      "date": "2026-07-02 23:50",
+      "summary": "SpaceX recently completed the largest IPO in history and is currently valued at over $2 trillion.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Popular Tesla investor blames Trump for Bitcoin crash",
+      "link": "https://www.thestreet.com/crypto/markets/popular-tesla-investor-blames-trump-for-bitcoin-crash?.tsrc=rss",
+      "date": "2026-07-02 23:39",
+      "summary": "Popular Tesla (Nasdaq: TSLA) investor and Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber doesn't mince his words, whether discussing Elon Musk's priorities or the crypto market. As it ",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "3 Growth Stocks to Buy on the Dip",
+      "link": "https://www.fool.com/investing/2026/07/02/3-growth-stocks-to-buy-on-the-dip/?.tsrc=rss",
+      "date": "2026-07-02 23:35",
+      "summary": "Don't wait until they recover.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Palantir Technologies (PLTR) Stock Trades Up, Here Is Why",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-pltr-stock-trades-232424730.html?.tsrc=rss",
+      "date": "2026-07-02 23:24",
+      "summary": "Shares of data analytics company Palantir Technologies (NASDAQ:PLTR) jumped 2.7% in the morning session after DA Davidson upgraded the software company to Buy from Neutral and a series of positive ope",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "How StubHub Stock Gained 30.5% Last Month",
+      "link": "https://www.fool.com/investing/2026/07/02/how-stubhub-stock-gained-305-last-month/?.tsrc=rss",
+      "date": "2026-07-02 23:20",
+      "summary": "Why did StubHub stock surge 30.5% in June? The answer involves earnings, festivals, and the world's biggest soccer tournament.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "IWO vs. IWM: What's the Best Way to Buy Small-Cap Stocks?",
+      "link": "https://www.fool.com/investing/2026/07/02/iwo-vs-iwm-whats-the-best-way-to-buy-small-cap-sto/?.tsrc=rss",
+      "date": "2026-07-02 23:20",
+      "summary": "Two iShares ETFs offer different ways to invest in Russell 2000 small caps.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Why Apple (AAPL) Stock Is Trading Up Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-apple-aapl-stock-trading-231624171.html?.tsrc=rss",
+      "date": "2026-07-02 23:16",
+      "summary": "Shares of iPhone and iPad maker Apple (NASDAQ:AAPL) jumped 4.1% in the morning session after reports it plans an aggressive launch of at least five new iPhone models and has increased production targe",
+      "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
@@ -284,138 +412,10 @@
       "category": "us-stock"
     },
     {
-      "title": "Dow Jones Futures: Dow Hits High But AI Tumbles; Apple, Robinhood Are Buys As Tesla, Sandisk Dive",
-      "link": "https://finance.yahoo.com/m/c5c7ee9b-1c12-3518-9e81-d4125388c16f/dow-jones-futures%3A-dow-hits.html?.tsrc=rss",
-      "date": "2026-07-02 22:32",
-      "summary": "The stock market had strong weekly gains, but it didn't feel that way with Sandisk and other AI plays selling off Thursday.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
       "title": "SpaceX Stock Is About to Face Its Biggest Hurdle Yet. Here's What Investors Should Do Next.",
       "link": "https://www.fool.com/investing/2026/07/02/spacex-stock-is-about-to-face-its-biggest-hurdle-yet-here-s-what-investors-should-do-next/?.tsrc=rss",
       "date": "2026-07-02 22:19",
       "summary": "Tuesday will be a big day for SpaceX and its shareholders.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "SPYIs 0.68% Fee Could Cost You Thousands Over 20 YearsHeres Why",
-      "link": "https://247wallst.com/investing/2026/07/02/spyis-0-68-fee-could-cost-you-thousands-over-20-years-heres-why/?.tsrc=rss",
-      "date": "2026-07-02 22:17",
-      "summary": "If you own Neos S&P 500 High Income ETF (CBOE:SPYI) for the fat monthly checks, the mailbox math looks great. The opportunity cost is where the fund gets quiet. Over the past year, SPYI holders pocket",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Amdocs, (DOX), 1Finity, Supermicro (SMCI) Validate AI-RAN Blueprint with NVIDIA (NVDA) Infrastructure",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amdocs-dox-1finity-supermicro-smci-221252522.html?.tsrc=rss",
-      "date": "2026-07-02 22:12",
-      "summary": "Amdocs Limited (NASDAQ:DOX) is one of the cheap stocks that are about to explode. On June 23, Amdocs, 1Finity, and Supermicro (NASDAQ:SMCI) validated an AI-RAN blueprint using NVIDIA-accelerated infra",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Thiel Capitals Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
-      "link": "https://finance.yahoo.com/technology/articles/thiel-capital-jack-selby-nabs-215710518.html?.tsrc=rss",
-      "date": "2026-07-02 21:57",
-      "summary": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Nvidia (NVDA) Stock Moves -1.39%: What You Should Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-moves-1-214503166.html?.tsrc=rss",
-      "date": "2026-07-02 21:45",
-      "summary": "The latest trading day saw Nvidia (NVDA) settling at $194.83, representing a -1.39% change from its previous close.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Stock Market Today, July 2: Rivian Jumps on Raised 2026 Delivery Guidance",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/02/stock-market-today-july-2-rivian-jumps-on-raised-2026-delivery-guidance/?.tsrc=rss",
-      "date": "2026-07-02 21:35",
-      "summary": "The EV maker beat Q2 delivery targets and lifted its full-year outlook, signaling strong demand momentum, today, July 2, 2026.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Why Rivian Stock Popped Today",
-      "link": "https://www.fool.com/investing/2026/07/02/why-rivian-stock-is-up-today/?.tsrc=rss",
-      "date": "2026-07-02 21:02",
-      "summary": "The automotive tech provider was one of the few beneficiaries of higher gas prices.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Update: Dow Rises to Record as Wall Street Logs Weekly Gains",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-rises-record-wall-street-205758332.html?.tsrc=rss",
-      "date": "2026-07-02 20:57",
-      "summary": "(Updates with market moves at the end of the day.) The Dow Jones Industrial Average rose to a rec",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Got $1,000 to Invest? Buy These 2 Stocks Right Now and Hold Them for Decades.",
-      "link": "https://www.fool.com/investing/2026/07/02/got-1000-to-invest-buy-these-x-stocks-right-now-an/?.tsrc=rss",
-      "date": "2026-07-02 20:57",
-      "summary": "Oklo and Plug Power could be potential multibaggers.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Why Franklin Covey Stock Plummeted Today",
-      "link": "https://www.fool.com/investing/2026/07/02/why-franklin-covey-stock-plummeted-today/?.tsrc=rss",
-      "date": "2026-07-02 20:52",
-      "summary": "Franklin Covey's latest quarterly results and forward guidance disappointed investors.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Where Will SpaceX Stock Be in 1 Year?",
-      "link": "https://www.fool.com/investing/2026/07/02/where-will-spacex-stock-be-in-1-year/?.tsrc=rss",
-      "date": "2026-07-02 20:50",
-      "summary": "Perspectives on SpaceX stock will likely change once the IPO hype dies down.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Tesla, Rivian, Strategy, Moderna, Sandisk, Blue Owl, and More Stocks That Explain Todays Market",
-      "link": "https://finance.yahoo.com/m/2e642161-0ef1-39fd-9ac2-f1ecca51b063/tesla%2C-rivian%2C-strategy%2C.html?.tsrc=rss",
-      "date": "2026-07-02 20:47",
-      "summary": "FEATURE  Stocks were generally higher Thursday following a jobs report that showed the U.S. labor market grew at a slower pace in June.  Strategy advanced 7.9% as higher cryptocurrency prices boosted ",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Veteran manager sends blunt take on buying the June swoon in July",
-      "link": "https://www.thestreet.com/investing/veteran-manager-sends-blunt-take-on-buying-the-june-swoon-in-july?.tsrc=rss",
-      "date": "2026-07-02 20:42",
-      "summary": "I do not want investors to worry about the selloff in AI and data center-related stocks that commenced in late June. If you decided to sell the AI and data center stocks, you literally have nowhere to",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "5 Artificial Intelligence (AI) Stocks to Load Up On in July",
-      "link": "https://www.fool.com/investing/2026/07/02/5-artificial-intelligence-ai-stocks-to-load-up-on/?.tsrc=rss",
-      "date": "2026-07-02 20:42",
-      "summary": "Companies in the AI sector haven't been surefire winners for investors in 2026.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Update: US Equity Indexes Mixed as Weak Jobs Data Trigger Rotation Out of Growth Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-weak-203815003.html?.tsrc=rss",
-      "date": "2026-07-02 20:38",
-      "summary": "(Updates with index/price moves, macroeconomic data, and company news from the first paragraph.)",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Why Nvidia is now striking revenue share deals with neoclouds",
-      "link": "https://blockspace.media/short/why-nvidia-is-now-striking-revenue-share-deals-with-neoclouds/?.tsrc=rss",
-      "date": "2026-07-02 20:35",
-      "summary": "Nvidia is stepping into a financier role with its new revenue share agreements.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     }
