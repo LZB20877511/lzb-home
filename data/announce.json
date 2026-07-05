@@ -1,12 +1,102 @@
 {
-  "updated": "2026-07-05T15:51:05.723631+08:00",
+  "updated": "2026-07-05T17:27:06.789630+08:00",
   "source": "个股公告",
   "count": 29,
   "items": [
     {
+      "title": "国泰海通:国泰海通证券股份有限公司第七届董事会第十六次会议(临时会议)决议公告",
+      "link": "https://data.eastmoney.com/notices/detail/601211/20260706/AN202607051826728903.html",
+      "date": "2026-07-05 17:27",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "601211",
+      "stock_name": "国泰海通"
+    },
+    {
+      "title": "国泰海通:国泰海通证券股份有限公司关于公司执行董事、总裁离任并由董事长代为履行总裁职责的公告",
+      "link": "https://data.eastmoney.com/notices/detail/601211/20260706/AN202607051826728902.html",
+      "date": "2026-07-05 17:27",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "601211",
+      "stock_name": "国泰海通"
+    },
+    {
+      "title": "福昕软件:福建福昕软件开发股份有限公司关于控股股东、实际控制人及其一致行动人协议转让部分公司股份暨权益变动的提示性公告",
+      "link": "https://data.eastmoney.com/notices/detail/688095/20260706/AN202607051826728719.html",
+      "date": "2026-07-05 17:27",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688095",
+      "stock_name": "福昕软件"
+    },
+    {
+      "title": "福昕软件:福建福昕软件开发股份有限公司简式权益变动报告书(转让方)",
+      "link": "https://data.eastmoney.com/notices/detail/688095/20260706/AN202607051826728720.html",
+      "date": "2026-07-05 17:27",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688095",
+      "stock_name": "福昕软件"
+    },
+    {
+      "title": "益盛药业:关于收到吉林省药品监督管理局采取风险控制措施通知书的公告",
+      "link": "https://data.eastmoney.com/notices/detail/002566/20260706/AN202607051826728716.html",
+      "date": "2026-07-05 17:27",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002566",
+      "stock_name": "益盛药业"
+    },
+    {
+      "title": "奥来德:2026年半年度业绩预告的自愿性披露公告",
+      "link": "https://data.eastmoney.com/notices/detail/688378/20260706/AN202607051826728670.html",
+      "date": "2026-07-05 17:27",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688378",
+      "stock_name": "奥来德"
+    },
+    {
+      "title": "群兴玩具:关于第一大股东部分股份被第二次司法拍卖的进展公告",
+      "link": "https://data.eastmoney.com/notices/detail/002575/20260706/AN202607051826728618.html",
+      "date": "2026-07-05 17:27",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002575",
+      "stock_name": "群兴玩具"
+    },
+    {
+      "title": "永鼎股份:永鼎股份2026年半年度业绩预增公告",
+      "link": "https://data.eastmoney.com/notices/detail/600105/20260706/AN202607051826728385.html",
+      "date": "2026-07-05 17:27",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "600105",
+      "stock_name": "永鼎股份"
+    },
+    {
+      "title": "景旺电子:景旺电子关于重新向香港联交所递交H股发行上市的申请并刊发申请资料的公告",
+      "link": "https://data.eastmoney.com/notices/detail/603228/20260706/AN202607051826728384.html",
+      "date": "2026-07-05 17:27",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603228",
+      "stock_name": "景旺电子"
+    },
+    {
       "title": "中国神华:中国神华2025年度权益分派实施公告",
       "link": "https://data.eastmoney.com/notices/detail/601088/20260706/AN202607051826728133.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -16,7 +106,7 @@
     {
       "title": "中国银行:中国银行股份有限公司2025年年度A股分红派息实施公告",
       "link": "https://data.eastmoney.com/notices/detail/601988/20260706/AN202607051826728109.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -26,7 +116,7 @@
     {
       "title": "交通银行:交通银行2025年度A股分红派息实施公告",
       "link": "https://data.eastmoney.com/notices/detail/601328/20260706/AN202607051826728107.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -36,7 +126,7 @@
     {
       "title": "天山铝业:2026年半年度业绩预告",
       "link": "https://data.eastmoney.com/notices/detail/002532/20260706/AN202607051826728214.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -44,19 +134,9 @@
       "stock_name": "天山铝业"
     },
     {
-      "title": "群兴玩具:关于第一大股东部分股份被第二次司法拍卖的进展公告",
-      "link": "https://data.eastmoney.com/notices/detail/002575/20260706/AN202607051826728213.html",
-      "date": "2026-07-05 15:51",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002575",
-      "stock_name": "群兴玩具"
-    },
-    {
       "title": "山金国际:股票交易异常波动公告",
       "link": "https://data.eastmoney.com/notices/detail/000975/20260706/AN202607051826728192.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -66,7 +146,7 @@
     {
       "title": "和远气体:第五届董事会第十九次会议决议公告",
       "link": "https://data.eastmoney.com/notices/detail/002971/20260706/AN202607051826728211.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -76,7 +156,7 @@
     {
       "title": "恒久退:关于公司股票进入退市整理期交易第三次的风险提示公告",
       "link": "https://data.eastmoney.com/notices/detail/002808/20260706/AN202607051826728172.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -86,7 +166,7 @@
     {
       "title": "粤桂股份:关于向特定对象发行股票申请获得中国证监会同意注册批复的公告",
       "link": "https://data.eastmoney.com/notices/detail/000833/20260706/AN202607051826728203.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -96,7 +176,7 @@
     {
       "title": "好利科技:简式权益变动报告书(旭昇投资及一致行动人汤奇青)",
       "link": "https://data.eastmoney.com/notices/detail/002729/20260706/AN202607051826728198.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -106,7 +186,7 @@
     {
       "title": "粤桂股份:招商证券股份有限公司关于广西粤桂广业控股股份有限公司向特定对象发行股票之上市保荐书",
       "link": "https://data.eastmoney.com/notices/detail/000833/20260706/AN202607051826728207.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -116,7 +196,7 @@
     {
       "title": "和远气体:关于回购注销2024年限制性股票激励计划部分限制性股票及调整回购价格的公告",
       "link": "https://data.eastmoney.com/notices/detail/002971/20260706/AN202607051826728182.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -126,7 +206,7 @@
     {
       "title": "东方盛虹:关于董事辞职及补选董事的公告",
       "link": "https://data.eastmoney.com/notices/detail/000301/20260706/AN202607051826728208.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -136,7 +216,7 @@
     {
       "title": "浙富控股:2026年半年度业绩预告",
       "link": "https://data.eastmoney.com/notices/detail/002266/20260706/AN202607051826728215.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -146,7 +226,7 @@
     {
       "title": "好利科技:金圆统一证券有限公司关于好利来(中国)电子科技股份有限公司详式权益变动报告书之财务顾问核查意见",
       "link": "https://data.eastmoney.com/notices/detail/002729/20260706/AN202607051826728174.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -156,7 +236,7 @@
     {
       "title": "和远气体:泰和泰(武汉)律师事务所关于湖北和远气体股份有限公司回购注销2024年限制性股票激励计划部分限制性股票及调整回购价格的法律意见书",
       "link": "https://data.eastmoney.com/notices/detail/002971/20260706/AN202607051826728190.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -166,7 +246,7 @@
     {
       "title": "和远气体:关于召开2026年第一次临时股东会的通知",
       "link": "https://data.eastmoney.com/notices/detail/002971/20260706/AN202607051826728177.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -176,7 +256,7 @@
     {
       "title": "东方盛虹:关于召开2026年第四次临时股东会的通知",
       "link": "https://data.eastmoney.com/notices/detail/000301/20260706/AN202607051826728173.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -186,7 +266,7 @@
     {
       "title": "泰坦股份:董事会决议公告",
       "link": "https://data.eastmoney.com/notices/detail/003036/20260706/AN202607051826728206.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -196,7 +276,7 @@
     {
       "title": "海南发展:关于控股子公司三鑫(惠州)幕墙产品有限公司破产清算的进展公告",
       "link": "https://data.eastmoney.com/notices/detail/002163/20260706/AN202607051826728186.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -206,92 +286,12 @@
     {
       "title": "ST萃华:关于立案调查进展暨风险提示的公告",
       "link": "https://data.eastmoney.com/notices/detail/002731/20260706/AN202607051826728212.html",
-      "date": "2026-07-05 15:51",
+      "date": "2026-07-05 17:27",
       "summary": "",
       "source": "公告API",
       "category": "announce",
       "stock_code": "002731",
       "stock_name": "ST萃华"
-    },
-    {
-      "title": "好利科技:详式权益变动报告书(产投科创)",
-      "link": "https://data.eastmoney.com/notices/detail/002729/20260706/AN202607051826728210.html",
-      "date": "2026-07-05 15:51",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002729",
-      "stock_name": "好利科技"
-    },
-    {
-      "title": "和远气体:董事会薪酬与考核委员会关于回购注销2024年限制性股票激励计划部分限制性股票的核查意见",
-      "link": "https://data.eastmoney.com/notices/detail/002971/20260706/AN202607051826728179.html",
-      "date": "2026-07-05 15:51",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002971",
-      "stock_name": "和远气体"
-    },
-    {
-      "title": "东方盛虹:2026年半年度业绩预告",
-      "link": "https://data.eastmoney.com/notices/detail/000301/20260706/AN202607051826728193.html",
-      "date": "2026-07-05 15:51",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "000301",
-      "stock_name": "东方盛虹"
-    },
-    {
-      "title": "金科股份:关于股票交易异常波动的公告",
-      "link": "https://data.eastmoney.com/notices/detail/000656/20260706/AN202607051826728185.html",
-      "date": "2026-07-05 15:51",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "000656",
-      "stock_name": "金科股份"
-    },
-    {
-      "title": "好利科技:关于筹划公司控制权变更事项的进展暨复牌公告",
-      "link": "https://data.eastmoney.com/notices/detail/002729/20260706/AN202607051826728201.html",
-      "date": "2026-07-05 15:51",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002729",
-      "stock_name": "好利科技"
-    },
-    {
-      "title": "甘化科工:股票交易异常波动公告",
-      "link": "https://data.eastmoney.com/notices/detail/000576/20260706/AN202607051826728204.html",
-      "date": "2026-07-05 15:51",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "000576",
-      "stock_name": "甘化科工"
-    },
-    {
-      "title": "ST萃华:关于股票交易被实施退市风险警示暨停复牌安排的公告",
-      "link": "https://data.eastmoney.com/notices/detail/002731/20260706/AN202607051826728200.html",
-      "date": "2026-07-05 15:51",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002731",
-      "stock_name": "ST萃华"
-    },
-    {
-      "title": "和远气体:公司2024年限制性股票激励计划回购注销的激励对象名单",
-      "link": "https://data.eastmoney.com/notices/detail/002971/20260706/AN202607051826728170.html",
-      "date": "2026-07-05 15:51",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002971",
-      "stock_name": "和远气体"
     }
   ]
 }
