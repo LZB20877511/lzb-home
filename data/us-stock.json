@@ -1,36 +1,44 @@
 {
-  "updated": "2026-07-06T16:19:44.530960+08:00",
+  "updated": "2026-07-06T16:54:11.112796+08:00",
   "source": "美股聚合",
   "count": 56,
   "items": [
     {
       "title": "Lockheed Martin leading race for $3.5 billion purchase of naval defense firm Ultra Maritime",
       "link": "https://www.cnbc.com/2026/07/06/lockheed-martin-leading-race-for-3point5-billion-buy-of-ultra-maritime-.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "Ultra is owned by private equity firm Advent International, and specialises in anti-submarine technology.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Trump's calls, Ukraine's strikes and Russia's barrage on Kyiv put markets on alert",
+      "link": "https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html",
+      "date": "2026-07-06 16:54",
+      "summary": "Trump reportedly spoke with Putin and Zelenskyy as Ukraine struck Russian targets and Moscow launched another deadly attack on Kyiv.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Belgium set to appeal as FIFA reverses Balogun's World Cup suspension after Trump reportedly intervenes",
+      "link": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
+      "date": "2026-07-06 16:54",
+      "summary": "Folarin Balogun was surprisingly cleared by FIFA to play for the United States Men's National Team in the World Cup against Belgium on Monday.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "'NATO 3.0': Defense spending pledges face the Trump test",
       "link": "https://www.cnbc.com/2026/07/06/nato-summit-turkey-us-trump-defense-spending.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "Leaders are expected to focus on whether Europe can turn higher defense spending into military power as Washington pushes allies to shoulder more of the burden.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "FIFA reverses Balogun's World Cup game suspension after Trump reportedly intervenes",
-      "link": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
-      "date": "2026-07-06 16:19",
-      "summary": "Folarin Balogun was surprisingly cleared by FIFA to play for the United States Men's National Team in the World Cup against Belgium on Monday.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Why Iran may find it difficult to clear its oil inventories even after sanctions relief",
       "link": "https://www.cnbc.com/2026/07/06/iran-oil-supply-hormuz-china-energy.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "Iran may face challenges in clearing oil inventories even after restrictions have been lifted, amid oil supplies elsewhere while China becomes less enthusiastic",
       "source": "CNBC",
       "category": "us-stock"
@@ -38,7 +46,7 @@
     {
       "title": "Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says",
       "link": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "The reported delay adds to concerns that Nvidia's breakneck annual release cadence is colliding with manufacturing limits.",
       "source": "CNBC",
       "category": "us-stock"
@@ -46,7 +54,7 @@
     {
       "title": "Yen to extend historic slump, while AI and energy 'supply bust' to support the U.S. dollar: Goldman",
       "link": "https://www.cnbc.com/2026/07/06/yen-slump-dollar-currencies-ai-energy.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "Goldman Sachs has turned more bearish on the Japanese yen, arguing that the currency is likely to weaken further even with an intervention.",
       "source": "CNBC",
       "category": "us-stock"
@@ -54,7 +62,7 @@
     {
       "title": "Ebola outbreak containment hampered by USAID closure, experts say",
       "link": "https://www.cnbc.com/2026/07/06/ebola-drc-uganda-usaid-trump-musk.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "Foreign aid cuts have \"demonstrably worsened\" the Ebola crisis, a virologist told CNBC.",
       "source": "CNBC",
       "category": "us-stock"
@@ -62,7 +70,7 @@
     {
       "title": "Oil slips after OPEC+ agrees to raise output targets",
       "link": "https://www.cnbc.com/2026/07/06/oil-slips-after-opec-agrees-to-raise-output-targets.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "Oil fell on Monday after OPEC+ agreed to further increase output targets from August while exports from key producers via the Strait are recovering, potentially adding to global supplies.",
       "source": "CNBC",
       "category": "us-stock"
@@ -70,23 +78,15 @@
     {
       "title": "Trump to meet with Ukraine's Zelenskyy and Syria's al-Sharaa during the NATO summit",
       "link": "https://www.cnbc.com/2026/07/05/trump-to-meet-ukraines-zelenskyy-and-syrias-al-sharaa-at-nato-summit.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "Trump plans to meet with Ukrainian President Volodymyr Zelenskyy and Syrian President Ahmad al-Sharaa on Wednesday, the White House said.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Goldman Sachs says these undervalued stocks are 'well positioned' to outperform",
-      "link": "https://www.cnbc.com/2026/07/05/goldman-sachs-says-these-stocks-are-best-positioned-to-outperform.html",
-      "date": "2026-07-06 16:19",
-      "summary": "The firm highlighted stocks that are poised for gains as the third quarter unfolds.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "World Cup fans spent anywhere from $2,500 to $150,000 to see matchesthey say it was worth it",
       "link": "https://www.cnbc.com/2026/07/05/world-cup-fans-spent-anywhere-from-2500-to-150000-to-see-matches.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "Soccer fans heading to World Cup matches at MetLife Stadium shared how much they expected to spend with CNBC Make It outside New York's Penn Station.",
       "source": "CNBC",
       "category": "us-stock"
@@ -94,15 +94,23 @@
     {
       "title": "The World Cup sends prediction market volumes soaring to record highs",
       "link": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Goldman Sachs says these undervalued stocks are 'well positioned' to outperform",
+      "link": "https://www.cnbc.com/2026/07/05/goldman-sachs-says-these-stocks-are-best-positioned-to-outperform.html",
+      "date": "2026-07-06 16:54",
+      "summary": "The firm highlighted stocks that are poised for gains as the third quarter unfolds.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Delta pilot says big bang felt after flight apparently hit by fireworks while landing in Chicago",
       "link": "https://www.cnbc.com/2026/07/05/delta-pilot-heard-big-bang-after-flight-hit-by-fireworks-in-chicago.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "",
       "source": "CNBC",
       "category": "us-stock"
@@ -110,71 +118,71 @@
     {
       "title": "Metas woes deepen in India as child abuse ads on Instagram draw government ire",
       "link": "https://www.cnbc.com/2026/07/06/meta-instagram-india-warning-whatsapp.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "U.S. social media giant Meta is facing an onslaught of regulatory scrutiny in India, which has the largest user base for Facebook, Instagram and WhatsApp.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Gold holds near two-week high on easing Fed rate-hike bets",
-      "link": "https://www.cnbc.com/2026/07/06/gold-holds-near-two-week-high-on-easing-fed-rate-hike-bets.html",
-      "date": "2026-07-06 16:19",
-      "summary": "Gold was steady near a two-week high on Monday after a softer-than-expected U.S. jobs report last week tempered expectations of interest rate hikes from the Federal Reserve.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Macquarie says now is the 'best time' to buy Chinese AI chip stocks. This one's its favorite",
       "link": "https://www.cnbc.com/2026/07/05/macquarie-says-now-is-best-time-to-buy-chinese-ai-chip-stocks-heres-its-favorite.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "Macquarie began research coverage of five Chinese companies making chips for artificial intelligence applications.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Gold holds near two-week high on easing Fed rate-hike bets",
+      "link": "https://www.cnbc.com/2026/07/06/gold-holds-near-two-week-high-on-easing-fed-rate-hike-bets.html",
+      "date": "2026-07-06 16:54",
+      "summary": "Gold was steady near a two-week high on Monday after a softer-than-expected U.S. jobs report last week tempered expectations of interest rate hikes from the Federal Reserve.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Cargo vessel in Red Sea reports coming under attack, UK maritime body says",
       "link": "https://www.cnbc.com/2026/07/05/cargo-vessel-in-red-sea-reports-attack-uk-maritime-body-says.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "The incident was reported in one of the world's most crucial trade transit routes amid a fragile ceasefire between Iran and the U.S.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Bank of Americas third-quarter top picks include this streaming stock with 40% upside",
-      "link": "https://www.cnbc.com/2026/07/05/bank-of-americas-top-picks-include-streaming-stock-with-40percent-upside.html",
-      "date": "2026-07-06 16:19",
-      "summary": "The firm's top picks for the third quarter include Visa, Walmart and Spotify.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "What caused the pre-holiday chip stock slump and what to do about it",
       "link": "https://www.cnbc.com/2026/07/05/jim-cramer-what-caused-the-pre-holiday-chip-stock-slump-and-what-to-do-about-it.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "The problem is that we have seen this horror movie before.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Trump gives campaign-style July 4 speech on National Mall for U.S. 250th anniversary",
-      "link": "https://www.cnbc.com/2026/07/05/trump-gives-campaign-style-july-4-speech-on-national-mall.html",
-      "date": "2026-07-06 16:19",
-      "summary": "Trump's speech mixed patriotism with attacks on perceived ideological threats at home and abroad.",
+      "title": "Bank of Americas third-quarter top picks include this streaming stock with 40% upside",
+      "link": "https://www.cnbc.com/2026/07/05/bank-of-americas-top-picks-include-streaming-stock-with-40percent-upside.html",
+      "date": "2026-07-06 16:54",
+      "summary": "The firm's top picks for the third quarter include Visa, Walmart and Spotify.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Lemonade's $10.5M data breach settlement: See if you qualify and learn how to protect your identity",
       "link": "https://www.cnbc.com/select/do-you-qualify-for-lemonade-10-5-million-data-breach-settlement/",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "A class action suit alleges cybercriminals accessed drivers license numbers belonging to approximately 190,000 Lemonade customers.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Trump gives campaign-style July 4 speech on National Mall for U.S. 250th anniversary",
+      "link": "https://www.cnbc.com/2026/07/05/trump-gives-campaign-style-july-4-speech-on-national-mall.html",
+      "date": "2026-07-06 16:54",
+      "summary": "Trump's speech mixed patriotism with attacks on perceived ideological threats at home and abroad.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "UK and France agree with Oman to ensure safety of its territorial waters",
       "link": "https://www.cnbc.com/2026/07/04/uk-france-agree-with-oman-to-ensure-safety-of-its-territorial-waters.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "France said it has deployed mine countermeasures to the Middle East, including two mine-hunting ships.",
       "source": "CNBC",
       "category": "us-stock"
@@ -182,7 +190,7 @@
     {
       "title": "Dollar near two-week lows as rate-hike bets recede, embattled yen in focus",
       "link": "https://www.cnbc.com/2026/07/06/dollar-near-2-week-low-as-rate-hike-bets-fall-embattled-yen-in-focus.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "The U.S. dollar steadied near a 2-week low on Monday as investors scaled back bets on a Fed rate hike this year, while the yen remained near a 40-year low.",
       "source": "CNBC",
       "category": "us-stock"
@@ -190,7 +198,7 @@
     {
       "title": "Top Wall Street analysts prefer these dividend stocks for boosting portfolio returns",
       "link": "https://www.cnbc.com/2026/07/05/analysts-prefer-these-dividend-stocks-for-boosting-portfolio-returns.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "With thousands of dividend-paying companies to choose from, identifying the right stocks can be challenging.",
       "source": "CNBC",
       "category": "us-stock"
@@ -198,7 +206,7 @@
     {
       "title": "Brides are bringing back the one-night-only bachelorette party: 'You just come, have one perfect night and leave'",
       "link": "https://www.cnbc.com/2026/07/05/brides-are-bringing-back-the-one-night-only-bachelorette-party.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "Before they ballooned into multi-day destination getaways, bachelorette parties tended to be one night of raucous fun. Some brides are bringing it back.",
       "source": "CNBC",
       "category": "us-stock"
@@ -206,23 +214,15 @@
     {
       "title": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor",
       "link": "https://www.cnbc.com/2026/07/05/successor-to-irans-slain-leader-khamenei-does-not-appear-at-funeral.html",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "Iranian state TV showed Khamenei's sons Mostafa, Meysam and Masoud praying at the funeral. Supreme leader Mojtaba Khamenei was not seen.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "'Just married': Taylor Swift and Travis Kelce tie the knot",
-      "link": "https://www.cnbc.com/2026/07/04/just-married-taylor-swift-and-travis-kelce-tie-the-knot.html",
-      "date": "2026-07-06 16:19",
-      "summary": "Comedian Adam Sandler officiated the ceremony, said the publicist's statement under the headline \"Taylor Swift & Travis Kelce Are Married!\"",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Just a week after spin-off plan, Comcast says it will buy British broadcaster",
       "link": "https://www.marketwatch.com/story/just-a-week-after-spin-off-plan-comcast-says-it-will-buy-british-broadcaster-6178a2be?mod=mw_rss_topstories",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "Just a week after Comcast announced a plan to spin off NBCUniversal, the Philadelphia media-and-broadband conglomerate said it’s buying a British broadcaster.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -230,7 +230,7 @@
     {
       "title": "U.S. stock futures rise as Wall Street looks to extend its rally coming off the holiday weekend",
       "link": "https://www.marketwatch.com/story/u-s-stock-futures-rise-as-wall-street-looks-to-extend-its-rally-coming-off-the-holiday-weekend-5e5a9102?mod=mw_rss_topstories",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "U.S. stock-index futures gained on Sunday, with Wall Street looking to extend last week’s gains.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -238,7 +238,7 @@
     {
       "title": "OPEC+ raises output levels again despite tumbling crude prices",
       "link": "https://www.marketwatch.com/story/opec-raises-output-levels-again-despite-tumbling-crude-prices-534791c8?mod=mw_rss_topstories",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "Major oil producers on Sunday agreed once again to modestly increase their crude production, although, as in previous months, the hike is largely symbolic until a peace deal between the U.S. and Iran ",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -246,7 +246,7 @@
     {
       "title": "Hybrids are the breakout star of the U.S. car market as EV demand fades",
       "link": "https://www.marketwatch.com/story/hybrids-are-the-breakout-star-of-the-u-s-car-market-as-ev-demand-fades-96dce1c3?mod=mw_rss_topstories",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "Hybrids aren’t a bridge to EVs anymore — instead, they’re winning on function and price.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -254,7 +254,7 @@
     {
       "title": "Why the stock market’s red-hot momentum trade might be headed for a violent unwind this month",
       "link": "https://www.marketwatch.com/story/why-the-stock-markets-red-hot-momentum-trade-might-be-headed-for-a-violent-unwind-this-month-78a45397?mod=mw_rss_topstories",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "Momentum trades tend to struggle in July — but this year may be particularly volatile, says one strategist. The rumblings have already started.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -262,7 +262,7 @@
     {
       "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Should I confront her?",
       "link": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -270,7 +270,7 @@
     {
       "title": "Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era",
       "link": "https://www.marketwatch.com/story/gamer-trades-in-1-000-of-physical-discs-at-gamestop-days-after-sony-announces-end-of-disc-era-bf8383b7?mod=mw_rss_topstories",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "While some collectors may plan to hoard their physical media, one Columbus gamer decided to liquidate his collection",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -278,7 +278,7 @@
     {
       "title": "‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
       "link": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "“He lived rent-free, helping her with health-related issues and other tasks.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -286,9 +286,49 @@
     {
       "title": "Here’s what’s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
       "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
-      "date": "2026-07-06 16:19",
+      "date": "2026-07-06 16:54",
       "summary": "Why it’s a good month to save on streaming, despite the return of ‘Enola Holmes’ to Netflix and ‘Silo’ to Apple",
       "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "Meta Platforms' New Cloud Business Could Be a Game Changer for Its Stock",
+      "link": "https://www.fool.com/investing/2026/07/06/meta-platforms-cloud-business-game-changer/?.tsrc=rss",
+      "date": "2026-07-06 08:34",
+      "summary": "Meta getting into the cloud business should help allay investors' fears of overspending on AI infrastructure.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "President Trump Sells Palantir Stock and Buys an AI Stock Up 2,100% Since 2023",
+      "link": "https://www.fool.com/investing/2026/07/06/president-trump-sell-palantir-buy-ai-stock-up-2100/?.tsrc=rss",
+      "date": "2026-07-06 08:32",
+      "summary": "Trump's investment accounts sold Palantir and bought Western Digital in the first quarter.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Apple Could Have Purchased Any of 487 S&P 500 Companies -- but CEO Tim Cook Chose to Invest $853 Billion Into This Game-Changing Opportunity",
+      "link": "https://www.fool.com/investing/2026/07/06/apple-purchase-487-sp-500-companies-853-billion/?.tsrc=rss",
+      "date": "2026-07-06 08:26",
+      "summary": "Tim Cook's massive investment has had a decisive impact on Apple's bottom line.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "AAPL Stock Dips Premarket: Analyst Warns Foldable iPhone Supply Issues Could Blow September Launch Window",
+      "link": "https://stocktwits.com/news-articles/markets/equity/aapl-stock-dips-premarket-analyst-warns-foldable-i-phone-supply-issues-could-blow-september-launch-window/cZm13iuR7kz?.tsrc=rss",
+      "date": "2026-07-06 08:22",
+      "summary": "Apple would announce the foldable iPhone in September but might not ship it until the fourth quarter, Ming-Chi Kuo said.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "The \"Magnificent Seven\" Just Delivered a $2.2 Trillion Warning to Wall Street. Should You Listen?",
+      "link": "https://www.fool.com/investing/2026/07/06/the-magnificent-seven-just-delivered-a-22-trillion/?.tsrc=rss",
+      "date": "2026-07-06 08:22",
+      "summary": "These stocks have led the performance of the S&P 500 in recent years.",
+      "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
@@ -408,46 +448,6 @@
       "link": "https://www.fool.com/investing/2026/07/05/why-palantir-stock-popped-this-week/?.tsrc=rss",
       "date": "2026-07-06 03:10",
       "summary": "The AI leader's stock is a buy, according to a respected Wall Street analyst.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Teslas blowout quarter comes with a warning sign",
-      "link": "https://www.thestreet.com/automotive/teslas-blowout-quarter-comes-with-a-warning-sign?.tsrc=rss",
-      "date": "2026-07-06 02:33",
-      "summary": "Tesla (TSLA) finally gave investors the number they had been waiting for. The electric-vehicle maker produced a lot more automobiles than Wall Street expected in the second quarter, giving bulls a muc",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "TSLA Stock Rises Overnight: Analyst Sees Rebound This Week After EV Delivery Surge, But Calls Stock Fully-Priced",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-analyst-rebound-ev-delivery-surge-stock-fully-priced/cZmKDHQR7kl?.tsrc=rss",
-      "date": "2026-07-06 02:22",
-      "summary": "Analyst Gary Black said higher gas prices likely drove EV demand more than FSD/autonomy enthusiasm.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Down 32%, Is Nike the Smartest Dividend Stock to Buy for the Second Half of 2026?",
-      "link": "https://www.fool.com/investing/2026/07/05/down-32-is-nike-the-smartest-dividend-stock-to-buy/?.tsrc=rss",
-      "date": "2026-07-06 02:20",
-      "summary": "The stock offers a high yield, but it comes with risks.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Why Retail Traders Couldnt Take Their Eyes Off These Stocks Last Week: META, MU, BABA, TSLA, RKLB",
-      "link": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week-meta-mu-baba-tsla-rklb/cZmKDleR7kk?.tsrc=rss",
-      "date": "2026-07-06 02:11",
-      "summary": "Artificial intelligence, semiconductors, automotive and space technology dominated headlines during the week.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "McDonald's Popped 4% While the Nasdaq Fell. Is the Dividend Juggernaut Back?",
-      "link": "https://www.fool.com/investing/2026/07/05/mcdonalds-popped-4-while-the-nasdaq-fell-is-the-di/?.tsrc=rss",
-      "date": "2026-07-06 01:51",
-      "summary": "When tech wobbled, nervous money bought burgers. Here's what gives -- and whether shares look attractive today.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     }
