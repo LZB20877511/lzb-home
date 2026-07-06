@@ -1,6 +1,307 @@
 {
-  "updated": "2026-07-06T14:57:55.713226+08:00",
+  "updated": "2026-07-06T16:19:44.531558+08:00",
   "source": "个股公告",
-  "count": 0,
-  "items": []
+  "count": 30,
+  "items": [
+    {
+      "title": "扬州金泉:关于召开2026年第一次临时股东会的通知",
+      "link": "https://data.eastmoney.com/notices/detail/603307/20260707/AN202607061826745140.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603307",
+      "stock_name": "扬州金泉"
+    },
+    {
+      "title": "扬州金泉:上海仁盈律师事务所关于扬州金泉旅游用品股份有限公司2024年限制性股票激励计划调整回购数量、回购价格的法律意见书",
+      "link": "https://data.eastmoney.com/notices/detail/603307/20260707/AN202607061826745139.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603307",
+      "stock_name": "扬州金泉"
+    },
+    {
+      "title": "扬州金泉:关于续聘会计师事务所的公告",
+      "link": "https://data.eastmoney.com/notices/detail/603307/20260707/AN202607061826745137.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603307",
+      "stock_name": "扬州金泉"
+    },
+    {
+      "title": "扬州金泉:第三届董事会第二次会议决议公告",
+      "link": "https://data.eastmoney.com/notices/detail/603307/20260707/AN202607061826745138.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603307",
+      "stock_name": "扬州金泉"
+    },
+    {
+      "title": "扬州金泉:关于回购注销部分限制性股票通知债权人的补充公告",
+      "link": "https://data.eastmoney.com/notices/detail/603307/20260707/AN202607061826745141.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603307",
+      "stock_name": "扬州金泉"
+    },
+    {
+      "title": "扬州金泉:关于变更公司注册资本、修订《公司章程》部分条款并办理工商变更登记的公告",
+      "link": "https://data.eastmoney.com/notices/detail/603307/20260707/AN202607061826745145.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603307",
+      "stock_name": "扬州金泉"
+    },
+    {
+      "title": "扬州金泉:关于调整回购价格和回购数量的公告",
+      "link": "https://data.eastmoney.com/notices/detail/603307/20260707/AN202607061826745143.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603307",
+      "stock_name": "扬州金泉"
+    },
+    {
+      "title": "扬州金泉:关于使用自有资金进行委托理财的公告",
+      "link": "https://data.eastmoney.com/notices/detail/603307/20260707/AN202607061826745142.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603307",
+      "stock_name": "扬州金泉"
+    },
+    {
+      "title": "公牛集团:公牛集团股份有限公司回购注销部分公司员工持股计划未解锁股份的实施公告",
+      "link": "https://data.eastmoney.com/notices/detail/603195/20260707/AN202607061826745144.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603195",
+      "stock_name": "公牛集团"
+    },
+    {
+      "title": "联讯仪器:2025年度内部控制审计报告",
+      "link": "https://data.eastmoney.com/notices/detail/688808/20260707/AN202607061826745114.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688808",
+      "stock_name": "联讯仪器"
+    },
+    {
+      "title": "华昌化工:第八届董事会第七次会议决议公告",
+      "link": "https://data.eastmoney.com/notices/detail/002274/20260707/AN202607061826745057.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002274",
+      "stock_name": "华昌化工"
+    },
+    {
+      "title": "华昌化工:关于优化调整组织管理架构的公告",
+      "link": "https://data.eastmoney.com/notices/detail/002274/20260707/AN202607061826745045.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002274",
+      "stock_name": "华昌化工"
+    },
+    {
+      "title": "濮耐股份:关于2026年员工持股计划非交易过户完成的公告",
+      "link": "https://data.eastmoney.com/notices/detail/002225/20260707/AN202607061826745050.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002225",
+      "stock_name": "濮耐股份"
+    },
+    {
+      "title": "华昌化工:关于召开2026年第一次临时股东会的通知",
+      "link": "https://data.eastmoney.com/notices/detail/002274/20260707/AN202607061826745051.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002274",
+      "stock_name": "华昌化工"
+    },
+    {
+      "title": "北京利尔:关于向特定对象发行股票申请获得深圳证券交易所受理的公告",
+      "link": "https://data.eastmoney.com/notices/detail/002392/20260707/AN202607061826745048.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002392",
+      "stock_name": "北京利尔"
+    },
+    {
+      "title": "宿迁联盛:宿迁联盛关于使用部分闲置募集资金进行现金管理到期赎回的公告",
+      "link": "https://data.eastmoney.com/notices/detail/603065/20260707/AN202607061826745026.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603065",
+      "stock_name": "宿迁联盛"
+    },
+    {
+      "title": "恒润股份:江阴市恒润重工股份有限公司关于5%以上股东部分股份被司法拍卖的进展公告",
+      "link": "https://data.eastmoney.com/notices/detail/603985/20260707/AN202607061826745027.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603985",
+      "stock_name": "恒润股份"
+    },
+    {
+      "title": "海鸥股份:江苏海鸥冷却塔股份有限公司章程",
+      "link": "https://data.eastmoney.com/notices/detail/603269/20260707/AN202607061826745022.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603269",
+      "stock_name": "海鸥股份"
+    },
+    {
+      "title": "海鸥股份:江苏海鸥冷却塔股份有限公司关于完成工商变更登记备案并换发营业执照的公告",
+      "link": "https://data.eastmoney.com/notices/detail/603269/20260707/AN202607061826745023.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603269",
+      "stock_name": "海鸥股份"
+    },
+    {
+      "title": "浙江自然:浙江自然关于完成工商变更登记并换发营业执照的公告",
+      "link": "https://data.eastmoney.com/notices/detail/605080/20260707/AN202607061826745019.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "605080",
+      "stock_name": "浙江自然"
+    },
+    {
+      "title": "大连电瓷:关于2026年限制性股票激励计划内幕信息知情人及激励对象买卖公司股票情况的自查报告",
+      "link": "https://data.eastmoney.com/notices/detail/002606/20260707/AN202607061826745012.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002606",
+      "stock_name": "大连电瓷"
+    },
+    {
+      "title": "亚玛顿:关于完成工商变更登记并换发营业执照的公告",
+      "link": "https://data.eastmoney.com/notices/detail/002623/20260707/AN202607061826745013.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002623",
+      "stock_name": "亚玛顿"
+    },
+    {
+      "title": "大连电瓷:董事会薪酬与考核委员会关于2026年限制性股票激励计划授予激励对象名单的公示情况说明及核查意见",
+      "link": "https://data.eastmoney.com/notices/detail/002606/20260707/AN202607061826745015.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002606",
+      "stock_name": "大连电瓷"
+    },
+    {
+      "title": "汇宇制药:关于股东减持计划时间届满暨减持股份结果公告",
+      "link": "https://data.eastmoney.com/notices/detail/688553/20260707/AN202607061826745005.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "688553",
+      "stock_name": "汇宇制药"
+    },
+    {
+      "title": "电子城:电子城关于董事离任的公告",
+      "link": "https://data.eastmoney.com/notices/detail/600658/20260707/AN202607061826744965.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "600658",
+      "stock_name": "电子城"
+    },
+    {
+      "title": "威龙股份:威龙葡萄酒股份有限公司关于控股股东部分股份解除质押的公告",
+      "link": "https://data.eastmoney.com/notices/detail/603779/20260707/AN202607061826744904.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603779",
+      "stock_name": "威龙股份"
+    },
+    {
+      "title": "泛微网络:泛微网络关于变更注册资本并完成工商变更登记的公告",
+      "link": "https://data.eastmoney.com/notices/detail/603039/20260707/AN202607061826744895.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603039",
+      "stock_name": "泛微网络"
+    },
+    {
+      "title": "泛微网络:泛微网络公司章程(2026年5月21日修订)",
+      "link": "https://data.eastmoney.com/notices/detail/603039/20260707/AN202607061826744892.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603039",
+      "stock_name": "泛微网络"
+    },
+    {
+      "title": "技源集团:技源集团股份有限公司关于使用闲置募集资金进行现金管理赎回的公告",
+      "link": "https://data.eastmoney.com/notices/detail/603262/20260707/AN202607061826744894.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603262",
+      "stock_name": "技源集团"
+    },
+    {
+      "title": "九洲药业:浙江九洲药业股份有限公司2026年第二次临时股东会会议资料",
+      "link": "https://data.eastmoney.com/notices/detail/603456/20260707/AN202607061826744893.html",
+      "date": "2026-07-06 16:19",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603456",
+      "stock_name": "九洲药业"
+    }
+  ]
 }
