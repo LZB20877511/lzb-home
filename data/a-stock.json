@@ -1,253 +1,389 @@
 {
-  "updated": "2026-07-07T07:07:14.874475+08:00",
+  "updated": "2026-07-07T09:29:15.815999+08:00",
   "source": "A股聚合",
-  "count": 31,
+  "count": 48,
   "items": [
     {
-      "title": "上半年IPO申报放量升温 科创赛道扩容与从严审核并行",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-07/doc-inifxpie1518690.shtml",
-      "date": "2026-07-07 07:03",
-      "summary": "● 本报记者 杨梓岩 2026年上半年的IPO市场，在6月迎来了集中交卷。 Wind数据显示，上半年三大交易所合计新增受理IPO企业242家，同比增长37%。",
-      "source": "中国证券报",
+      "title": "科技股持续调整，机构：行情有望形成“高低切换、多点开花”的扩散格局| 华宝基金3A日报（2026.7.6）",
+      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-07/doc-inifxtrh8386015.shtml",
+      "date": "2026-07-07 09:27",
+      "summary": "三大指数集体收跌，科技股持续调整，机构：行情有望形成“高低切换、多点开花”的扩散格局| 华宝基金3A日报（2026.7.6）",
+      "source": "新浪基金",
       "category": "a-stock"
     },
     {
-      "title": "A股交易新规落地首日 ST板块成交放量",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-07/doc-inifxpik8401128.shtml",
-      "date": "2026-07-07 07:02",
-      "summary": "热门科技股出现明显分化 ● 本报记者 吴玉华 7月6日是交易新规实施的首个交易日，A股三大指数均下跌，深证成指、创业板指均跌逾1%。",
-      "source": "中国证券报",
+      "title": "华泰期货：基本面情况不变，镍不锈钢震荡上涨",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-07/doc-inifxtra1469808.shtml",
+      "date": "2026-07-07 09:25",
+      "summary": "来源：华泰期货 作者： 师橙 镍品种 市场分析 2026-07-06日沪镍主力合约开于126770元/吨，收于126890元/吨，较前一交易日收盘变化0.09%，当日成交量为243393（-23966）手...",
+      "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "三星预计第二季度营业利润将增长18倍，超出市场预期",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpif8290599.shtml",
-      "date": "2026-07-07 06:46",
-      "summary": "三星电子周二预测，受人工智能驱动的需求持续推高内存芯片价格的影响，其第二季度营业利润将较去年同期激增1810%。 这家全球最大的内存芯片制造商在监管文件中表示...",
+      "title": "酒价内参7月7日价格发布：洋河梦之蓝M6+小幅下跌1元/瓶",
+      "link": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-07-07/doc-inifxtrc8246306.shtml",
+      "date": "2026-07-07 09:24",
+      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，中国白酒市场主要大单品的终端零售均价7月7日整体继续回落。如果主要单品各取一瓶整体打包售卖，今日总售价为9882元...",
+      "source": "酒业内参",
+      "category": "a-stock"
+    },
+    {
+      "title": "酒价内参7月7日价格发布：水晶剑南春下跌2元/瓶",
+      "link": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-07-07/doc-inifxtra1468243.shtml",
+      "date": "2026-07-07 09:23",
+      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，中国白酒市场主要大单品的终端零售均价7月7日整体继续回落。如果主要单品各取一瓶整体打包售卖，今日总售价为9882元...",
+      "source": "酒业内参",
+      "category": "a-stock"
+    },
+    {
+      "title": "酒价内参7月7日价格发布：飞天茅台下跌2元/瓶",
+      "link": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-07-07/doc-inifxtrf1606152.shtml",
+      "date": "2026-07-07 09:22",
+      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，中国白酒市场主要大单品的终端零售均价7月7日整体继续回落。如果主要单品各取一瓶整体打包售卖，今日总售价为9882元...",
+      "source": "酒业内参",
+      "category": "a-stock"
+    },
+    {
+      "title": "酒价内参7月7日价格发布：国窖1573下跌3元/瓶",
+      "link": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-07-07/doc-inifxtrh8381577.shtml",
+      "date": "2026-07-07 09:22",
+      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，中国白酒市场主要大单品的终端零售均价7月7日整体继续回落。如果主要单品各取一瓶整体打包售卖，今日总售价为9882元...",
+      "source": "酒业内参",
+      "category": "a-stock"
+    },
+    {
+      "title": "酒价内参7月7日价格发布：精品茅台下跌3元/瓶",
+      "link": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-07-07/doc-inifxtrh8381117.shtml",
+      "date": "2026-07-07 09:21",
+      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，中国白酒市场主要大单品的终端零售均价7月7日整体继续回落。如果主要单品各取一瓶整体打包售卖，今日总售价为9882元...",
+      "source": "酒业内参",
+      "category": "a-stock"
+    },
+    {
+      "title": "酒价内参7月7日价格发布：习酒君品下跌4元/瓶",
+      "link": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-07-07/doc-inifxtra1466411.shtml",
+      "date": "2026-07-07 09:21",
+      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，中国白酒市场主要大单品的终端零售均价7月7日整体继续回落。如果主要单品各取一瓶整体打包售卖，今日总售价为9882元...",
+      "source": "酒业内参",
+      "category": "a-stock"
+    },
+    {
+      "title": "酒价内参7月7日价格发布：古井贡古20下跌6元/瓶",
+      "link": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-07-07/doc-inifxtra1466079.shtml",
+      "date": "2026-07-07 09:20",
+      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，中国白酒市场主要大单品的终端零售均价7月7日整体继续回落。如果主要单品各取一瓶整体打包售卖，今日总售价为9882元...",
+      "source": "酒业内参",
+      "category": "a-stock"
+    },
+    {
+      "title": "华信地产财务附属进一步收购国债",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-07/doc-inifxtrf1603459.shtml",
+      "date": "2026-07-07 09:20",
+      "summary": "华信地产财务（00252）发布公告，于2026年7月6日，公司的全资附属公司捷径透过公开市场进一步收购国债。于本公告日期，捷径于公开市场收购的国债的未偿还投资总额约为3460...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "快讯：恒指低开0.2% 科指跌0.37% 黄金股普跌 芯片股走弱",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-07/doc-inifxtrf1605657.shtml",
+      "date": "2026-07-07 09:20",
+      "summary": "美股周一表现强劲，科技股表现突出，道指再创历史新高，三大指数全线收升。美元汇价先升后回，美国十年期债息维持在4.47厘水平，金价反复靠稳，油价则于低位徘徊。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "酒价内参7月7日价格发布：五粮液1618小幅上涨1元/瓶",
+      "link": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-07-07/doc-inifxtrh8379554.shtml",
+      "date": "2026-07-07 09:20",
+      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，中国白酒市场主要大单品的终端零售均价7月7日整体继续回落。如果主要单品各取一瓶整体打包售卖，今日总售价为9882元...",
+      "source": "酒业内参",
+      "category": "a-stock"
+    },
+    {
+      "title": "酒价内参7月7日价格发布：青花汾20上涨4元/瓶",
+      "link": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-07-07/doc-inifxtra1465152.shtml",
+      "date": "2026-07-07 09:19",
+      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，中国白酒市场主要大单品的终端零售均价7月7日整体继续回落。如果主要单品各取一瓶整体打包售卖，今日总售价为9882元...",
+      "source": "酒业内参",
+      "category": "a-stock"
+    },
+    {
+      "title": "华盛国际控股完成配售1.51亿股新股份",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-07/doc-inifxtrh8378743.shtml",
+      "date": "2026-07-07 09:19",
+      "summary": "华盛国际控股（01323）发布公告，于2026年7月3日完成根据2026年6月11日的配售协议以一般授权配售1.51亿股新股份。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "国美零售发行34.29亿股新股",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-07/doc-inifxtra1464333.shtml",
+      "date": "2026-07-07 09:18",
+      "summary": "国美零售（00493）发布公告，根据日期为2026年6月5日的协议（详情披露于本公司2026年6月5日及2026年6月30日的公告）发行34.29亿股新股。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "酒价内参7月7日价格发布：青花郎涨幅居前，上涨5元/瓶",
+      "link": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-07-07/doc-inifxtrf1602436.shtml",
+      "date": "2026-07-07 09:18",
+      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，中国白酒市场主要大单品的终端零售均价7月7日整体继续回落。如果主要单品各取一瓶整体打包售卖，今日总售价为9882元...",
+      "source": "酒业内参",
+      "category": "a-stock"
+    },
+    {
+      "title": "人民币兑美元中间价报6.8054，上调12点",
+      "link": "https://finance.sina.com.cn/money/forex/rmb/2026-07-07/doc-inifxtrc8241401.shtml",
+      "date": "2026-07-07 09:18",
+      "summary": "7月7日，人民币兑美元中间价报6.8054，上调12点。 摩根士丹利建议押注美联储加息预期消退 摩根士丹利的利率策略师建议，随着美联储加息预期减弱...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "酒价内参7月7日价格发布：普五八代领跌 总价创近四日新低",
+      "link": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-07-07/doc-inifxtrf1601704.shtml",
+      "date": "2026-07-07 09:18",
+      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，中国白酒市场主要大单品的终端零售均价7月7日整体继续回落。如果主要单品各取一瓶整体打包售卖，今日总售价为9882元...",
+      "source": "酒业内参",
+      "category": "a-stock"
+    },
+    {
+      "title": "炙龙控股附属就租赁香港物业的租赁协议订立临时租约",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-07/doc-inifxtrf1601367.shtml",
+      "date": "2026-07-07 09:18",
+      "summary": "炙龙控股（08493）发布公告，于2026年7月6日，本公司间接全资附属公司唐坊餐饮（作为租户）与Goodpoint（作为业主）就租赁该等物业的租赁协议订立临时租约...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "美高域拟折让3.2%配售最多3000万股配售股份 净筹约9920万港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-07/doc-inifxtrc8240289.shtml",
+      "date": "2026-07-07 09:17",
+      "summary": "美高域（01985）发布公告，于2026年7月6日，本公司与配售代理订立配售协议，据此，本公司委任配售代理按尽力基准并须待配售协议的先决条件获达成的情况下...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "存储“涨到头”了吗？",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-07/doc-inifxtrf1600616.shtml",
+      "date": "2026-07-07 09:16",
+      "summary": "来源：华尔街见闻 摩根士丹利认为，全球存储芯片行业正逼近“变化率的顶峰”（Peak rate of change），但这并不意味着周期的终结。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "现代汽车与韩国政府就电动汽车充电基础设施签署谅解备忘录",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxtrf1597256.shtml",
+      "date": "2026-07-07 09:13",
+      "summary": "现代汽车集团周二表示，将与政府合作，建立插电式充电（PnC）技术的全国性认证，以促进电动汽车（EV）的更广泛普及。 该公司表示，已与韩国气候...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "万亿买断式逆回购落地 流动性呵护力度持续提升",
-      "link": "https://finance.sina.com.cn/roll/2026-07-07/doc-inifxpii1619751.shtml",
-      "date": "2026-07-07 06:40",
-      "summary": "● 本报记者 彭扬 7月6日，中国人民银行开展10000亿元3个月期买断式逆回购操作，同步投放70亿元7天期逆回购。据Wind数据，当日有8000亿元买断式逆回购...",
-      "source": "中国证券报",
+      "title": "华宝基金红利风向标 | 高股息板块齐发力，华宝红利家族全线飘红",
+      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-07/doc-inifxtra1460428.shtml",
+      "date": "2026-07-07 09:13",
+      "summary": "",
+      "source": "新浪基金",
       "category": "a-stock"
     },
     {
-      "title": "7月7日隔夜要闻：美股收高 黄金下跌 原油跌至五个月低点 微软裁员 博通与苹果延长芯片供应协议至2031年",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpik8369392.shtml",
-      "date": "2026-07-07 06:30",
-      "summary": "市场 7月7日收盘：美股周一收高，道指突破53000点创历史新高 7月7日美股成交额前20：SpaceX即将正式纳入纳斯达克100指数 7月7日热门中概股普涨 台积电涨4.07%，蔚来涨4...",
+      "title": "【早盘三分钟】7月7日华宝基金ETF早知道",
+      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-07/doc-inifxtrf1595454.shtml",
+      "date": "2026-07-07 09:11",
+      "summary": "",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "开盘|国内期货主力合约涨多跌少 集运欧线跌超3%",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-07/doc-inifxtrc8228480.shtml",
+      "date": "2026-07-07 09:02",
+      "summary": "2026年7月7日，早盘开盘，国内期货主力合约涨多跌少，不锈钢（SS）涨超2%，液化石油气（LPG）涨近2%，丙烯、菜粕、苯乙烯（EB）、豆二、PTA、对二甲苯涨超1%。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "媒体：伊朗向霍尔木兹海峡的商船发射了至少两枚导弹",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxtrh8351722.shtml",
+      "date": "2026-07-07 08:51",
+      "summary": "媒体记者在社交平台X上援引一名美国官员的消息发帖，伊朗至少向穿越霍尔木兹海峡的商船发射了两枚导弹。 这名记者称，两艘商船遭袭，受损严重，但没有人员伤亡报告。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "除了打12315，投诉商家还能通过哪些正规途径",
-      "link": "https://finance.sina.com.cn/consume/xiaofei/2026-07-07/doc-inifvzfx8696779.shtml",
-      "date": "2026-07-07 06:30",
-      "summary": "提到消费维权，绝大多数人第一个想到的就是12315。没错，12315确实是消费者最熟悉、最权威的投诉渠道，但它并不是唯一的选择。根据不同的消费场景和纠纷类型...",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "Rivian拟发行7500万股股票 用于美国能源部贷款相关出资",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpif8281068.shtml",
-      "date": "2026-07-07 06:22",
-      "summary": "电动汽车制造商Rivian Automotive拟出售7500万股股票，以筹集资金用于与美国能源部贷款相关的股权出资。 根据Rivian周一向美国证券交易委员会提交的文件...",
+      "title": "投资者等待美联储会议纪要之际金价下跌",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxtrh8350066.shtml",
+      "date": "2026-07-07 08:49",
+      "summary": "亚洲早盘金价下跌。Hola Prime的Somesh Kapuria在评论中表示，在连续几个交易日上涨之后，这种黄色金属的价格可能面临风险，他指出，自今年年初以来...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "低估值遇上高分红 银行板块估值修复窗口正在打开",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-07/doc-inifxpif8281565.shtml",
-      "date": "2026-07-07 05:59",
-      "summary": "● 本报记者 李蕴奇 今年以来，A股银行板块维持“低估值、高分红”特征，截至7月6日收盘，申万银行指数跌超9%，42家上市银行全部“破净”，仅9家银行股价上涨。",
-      "source": "中国证券报-中证网",
+      "title": "高纯度聚焦医疗器械板块复苏机遇！医疗器械ETF华泰柏瑞7月7日起发售",
+      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-07/doc-inifxtrf1572366.shtml",
+      "date": "2026-07-07 08:47",
+      "summary": "历经数年集采与控费政策深度调整的医疗器械板块，或正迎来估值、业绩与政策三端的共振窗口。2026年7月7日起，医疗器械ETF华泰柏瑞（认购代码561813...",
+      "source": "新浪基金",
       "category": "a-stock"
     },
     {
-      "title": "特朗普称沃尔玛将下调部分商品价格 呼吁其他零售商效仿",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpie1494890.shtml",
-      "date": "2026-07-07 05:59",
-      "summary": "美国总统特朗普表示，沃尔玛应政府要求同意下调部分商品价格，并敦促其他零售商效仿，称此举将惠及美国消费者。 特朗普周一在社交媒体发文称：“我刚刚获悉，美国规模最大...",
+      "title": "日本发行人推动亚洲离岸债发行创新高",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxtra1439913.shtml",
+      "date": "2026-07-07 08:45",
+      "summary": "日本借款人推动亚太地区离岸债券市场季度发行规模创下历史新高，超过了此前中资发行人主导市场时期所达到的前高点。 作为亚洲最大的离岸债券承销机构之一...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "Coursera将在与Udemy合并后的重组中裁员",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpif8269425.shtml",
-      "date": "2026-07-07 05:50",
-      "summary": "在线教育平台Coursera周一表示，在收购Udemy后，该公司将裁员，具体涉及员工人数尚未披露。 该公司预计将因此产生800万至1100万美元的费用...",
+      "title": "日本名义薪资增幅再次突破3% 料强化日本央行加息立场",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxtra1437582.shtml",
+      "date": "2026-07-07 08:42",
+      "summary": "日本5月份薪资再次上涨，涨幅远超通胀，料进一步强化日本央行加息立场。 厚生劳动省周二公布的数据显示，5月份名义薪资同比增长3.2%，4月增幅经修正后为3.6%。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "投资者团体：华尔街监管机构应坚持要求提交季度报告",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpif8268664.shtml",
-      "date": "2026-07-07 05:48",
-      "summary": "根据周一公布的公众意见信件汇总显示，投资业界正敦促华尔街的最高监管机构坚持现行做法，即要求上市公司进行季度报告。",
+      "title": "同仁堂医养：香港公开发售获251.74倍认购 全球发售净筹约5.32亿港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggipo/2026-07-07/doc-inifxtra1435184.shtml",
+      "date": "2026-07-07 08:38",
+      "summary": "同仁堂医养（02667）公布配发结果，公司全球发售1.08亿股H股，香港公开发售占10%，国际发售占90%。每股发售价5.50港元，全球发售净筹约5.32亿港元。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "沪上阿姨：H股全流通获联交所授出上市批准",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-07/doc-inifxtrh8338072.shtml",
+      "date": "2026-07-07 08:37",
+      "summary": "沪上阿姨（02589）公布，就公司拟参与H股全流通计划，公司已收到联交所授出的日期为2026年7月6日的约3525.6万股H股（（即将予转换及上市的境内未上市股份的总数）上市及买...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "嘀嗒出行授出合共100万份受限制股份单位",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-07/doc-inifxtrf1561046.shtml",
+      "date": "2026-07-07 08:36",
+      "summary": "嘀嗒出行（02559）发布公告，于2026年7月6日，公司根据公司于2023年3月31日采纳并于2024年6月13日修订的首次公开发售后受限制股份单位计划...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "LG新能源预计第二季度营业利润将因电动汽车需求疲软而下降77%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxtra1433642.shtml",
+      "date": "2026-07-07 08:36",
+      "summary": "韩国电池制造商LG能源解决方案（LGES）周二表示，预计4月至6月的营业利润将下降77%，至1，130亿韩元（7，391万美元），原因是电动汽车（EV） 需求疲软继续拖累电池销售。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "特朗普：沃尔玛将下调碎牛肉及其他商品的价格",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpik8356259.shtml",
-      "date": "2026-07-07 05:47",
-      "summary": "美国总统特朗普周一表示，应其政府要求，沃尔玛将下调包括碎牛肉在内的多种商品价格。 这家零售商表示，今年夏天，顾客在沃尔玛和山姆会员店购买肉类...",
+      "title": "美国CISA使用Anthropic的Mythos排查政府代码漏洞",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxtra1433115.shtml",
+      "date": "2026-07-07 08:35",
+      "summary": "三位知情人士周一表示，美国网络安全与基础设施安全局（CISA）正在使用Anthropic公司的人工智能（AI）模型Mythos对政府软件进行审查。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "丰田将在得克萨斯州投资36亿美元建设工厂，并将部分卡车生产从墨西哥转移至此",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpie1490169.shtml",
-      "date": "2026-07-07 05:45",
-      "summary": "丰田汽车公司周一宣布，将在得克萨斯州新建一座耗资36亿美元的汽车工厂，并将部分卡车生产从墨西哥转移至美国。 这家日本汽车制造商表示...",
+      "title": "韩国股指Kospi下跌 三星构成最大拖累",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxtra1432793.shtml",
+      "date": "2026-07-07 08:35",
+      "summary": "受三星电子股价下跌拖累，韩国股市基准指数KOSPI一度下跌4.1%。尽管这家存储芯片制造商的利润飙升了18倍，但其股票依然遭到抛售，分析师称业绩预期之前已被计入股价。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "美国股市：科技股反弹推动大盘走高 AI交易重获动能",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzh1616756.shtml",
-      "date": "2026-07-07 05:32",
-      "summary": "美国股市周一上涨，投资者在上周对人工智能交易出现动摇后再度涌入科技股。 纳斯达克100指数上涨1.3%，标普500指数上涨0.7%，信息技术、通信服务和非必需消费品板块领涨。",
+      "title": "日经指数下跌0.5%，科技和芯片相关股领跌",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxtra1425618.shtml",
+      "date": "2026-07-07 08:23",
+      "summary": "日本股市早盘走低，科技和芯片相关股领跌。美银证券日本公司的两名策略师在一份近期研究报告中表示：“AI投资的盈利能力仍是一个需要监测的风险因素。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "7月7日外盘头条：微软裁员4800人 SpaceX即将纳入纳指100 英伟达回应AI服务器架构路线图并没有改变",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzi8392923.shtml",
-      "date": "2026-07-07 05:30",
-      "summary": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普在白宫为美股敲响开市钟 庆祝儿童储蓄项目“特朗普账户”上线 2、英伟达AI服务器架构据传将延后推出...",
+      "title": "三星股价在财报发布后下跌 拖累了内存芯片行业的竞争对手",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxtrc8198839.shtml",
+      "date": "2026-07-07 08:17",
+      "summary": "三星电子公布初步业绩后，其股价在韩国交易所下跌高达5%。 尽管业绩好于预期，但负面反应拖累了近几个月人工智能驱动股价大幅上涨的同行。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "特朗普称沃尔玛将把牛绞肉价格下调近15%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzn8471508.shtml",
-      "date": "2026-07-07 05:19",
-      "summary": "美国总统特朗普表示，沃尔玛将把牛绞肉每磅价格下调近15%，“许多其他产品”也将降价。 特朗普还表示，沃尔玛将大幅降价。 他表示，沃尔玛正以“大胆而有力的方式”采取行动...",
-      "source": "环球市场播报",
+      "title": "上海小南国：已于六月初开展食品贸易业务",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-07/doc-inifxtrc8195316.shtml",
+      "date": "2026-07-07 08:12",
+      "summary": "上海小南国（03666）发布公告，于本公告日期，公司正考虑采取可行措施，以刊发上市规则规定的所有尚未刊发财务业绩，并令上市科信纳公司已遵守上市规则第13.24条的规定。",
+      "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "交易员对美元看涨程度创2015年以来最高",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzi8389350.shtml",
-      "date": "2026-07-07 05:19",
-      "summary": "由于市场押注美国借贷成本将在更长时间内维持高位，推动美元出现为期一个月的涨势，全球交易员对美元前景的乐观程度达到2015年以来最高。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "对冲基金对日元看跌情绪达到2007年以来最严重程度",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzm1694780.shtml",
-      "date": "2026-07-07 05:18",
-      "summary": "对冲基金对日元的看空程度升至2007年以来最高，当时日元汇率徘徊在近四十年来最低水平附近。 美国商品期货交易委员会（CFTC）周一公布的数据显示，截至6月30日...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "大宗商品综述：原油跌至五个月低点 黄金下跌 铝价反弹",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzh1611693.shtml",
-      "date": "2026-07-07 05:17",
-      "summary": "随着市场显示出更多供应过剩迹象，原油价格周一跌至五个月低点。黄金价格走低，交易员在等待本周美联储政策会议纪要提供利率走向的线索。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "7月7日美股成交额前20：SpaceX即将正式纳入纳斯达克100指数",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzn8451981.shtml",
-      "date": "2026-07-07 04:49",
-      "summary": "周一美股成交额第1名美光科技收高0.96%，成交359.56亿美元。花旗周一将美光科技列入“上行催化剂”观察名单。 花旗分析师在研报中表示：“鉴于2026年下半年DRAM芯片价格有望走...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "厄瓜多尔山洪致9人死亡 一省长在灾害中失踪",
-      "link": "https://finance.sina.com.cn/jjxw/2026-07-07/doc-inifxhzi8380230.shtml",
-      "date": "2026-07-07 04:39",
-      "summary": "厄瓜多尔国家风险管理秘书处6日通报，本月3日在该国亚马孙地区萨莫拉-钦奇佩省发生的山洪及次生灾害已造成9人死亡。 该机构称，受持续强降雨影响，萨莫拉河漫堤...",
+      "title": "宇树科技，IPO注册生效！",
+      "link": "https://finance.sina.com.cn/roll/2026-07-07/doc-inifxtrf1538462.shtml",
+      "date": "2026-07-07 08:11",
+      "summary": "央视财经记者获悉，7月6日，上海证券交易所官网显示，宇树科技股份有限公司科创板IPO审核状态变更为“注册生效”。 上交所官网显示...",
       "source": "央视",
       "category": "a-stock"
     },
     {
-      "title": "美国债市：美债在清淡交投中涨跌互现 短债跑赢",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzi8367136.shtml",
-      "date": "2026-07-07 04:22",
-      "summary": "在周一的窄幅震荡交易中，美国国债收益率曲线陡化，价格走势因缺乏触发更大波动的重大催化剂而表现平淡。油价企稳，为短期国债提供支撑...",
-      "source": "环球市场播报",
+      "title": "嘀嗒出行将派发特别股息每股1.1745港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-07/doc-inifxtra1417502.shtml",
+      "date": "2026-07-07 08:11",
+      "summary": "嘀嗒出行（02559）发布公告，董事会已决议建议自本公司的股份溢价账中向于2026年7月20日（星期一）（记录日期）名列本公司股东名册的股东派付特别现金股息（特别现金股息）...",
+      "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "加密货币暴跌之际 困境资产投资基金探讨置换Strategy优先股持仓",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzn8436423.shtml",
-      "date": "2026-07-07 04:22",
-      "summary": "逢低买入Strategy Inc．优先股的困境资产投资基金正与该公司一家投行顾问洽谈，拟将所持优先股换成其他证券。随着加密货币持续暴跌令这家大量囤积比特币的公司处境日益艰难...",
-      "source": "环球市场播报",
+      "title": "元亨燃气因“20并1”基准进行股份合并而削减62.18亿股",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-07/doc-inifxtra1416793.shtml",
+      "date": "2026-07-07 08:10",
+      "summary": "元亨燃气（00332）发布公告，于2026年7月6日，该公司因“20并1”基准进行股份合并而削减62.18亿股。",
+      "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "纽约汇市：美元指数基本持稳 日元连续第二日走弱",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzm1659936.shtml",
-      "date": "2026-07-07 04:21",
-      "summary": "美元指数周一基本持平，此前早盘因风险情绪改善而上涨。日元连续第二个交易日走弱。 彭博美元即期指数在纽约午后下跌不到0.1%，此前盘中一度上涨0.3%。",
-      "source": "环球市场播报",
+      "title": "极智嘉-W于7月6日斥资483.77万港元回购40万股",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-07/doc-inifxtrf1536102.shtml",
+      "date": "2026-07-07 08:09",
+      "summary": "极智嘉-W（02590）发布公告，于2026年7月6日，该公司斥资483.77万港元回购40万股。",
+      "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "7月7日热门中概股普涨 台积电涨4.07%，蔚来涨4.80%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzi8366376.shtml",
-      "date": "2026-07-07 04:20",
-      "summary": "7月7日热门中概股普涨，纳斯达克中国金龙指数（HXC）收高1.71%。 上涨个股（按市值从高到低）：台积电涨4.07%，阿里巴巴涨1.84%，拼多多涨1.64%，日月光半导体涨3.44%...",
-      "source": "环球市场播报",
+      "title": "库存见底、头部锁单！ 锂电池电解液主要添加剂，价格攀升！",
+      "link": "https://finance.sina.com.cn/roll/2026-07-07/doc-inifxtra1429050.shtml",
+      "date": "2026-07-07 08:08",
+      "summary": "近期，锂电池电解液主要添加剂碳酸亚乙烯酯（VC）热度攀升。一方面，现货市场迎来新一轮涨价，相关企业兑现业绩；另一方面，宁德时代、比亚迪等头部电池厂密集通过长单...",
+      "source": "证券时报",
       "category": "a-stock"
     },
     {
-      "title": "7月7日收盘：美股周一收高，道指突破53000点创历史新高",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzh1585788.shtml",
-      "date": "2026-07-07 04:08",
-      "summary": "北京时间7月7日凌晨，美股周一收高。道指史上首次突破53000点，创历史新高。芯片股引领纳指走高。市场关注的焦点仍是近期持续的板块轮动趋势。",
-      "source": "环球市场播报",
+      "title": "图达通第二季度激光雷达产品总出货量约27.11万台 同比增长约385%",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-07/doc-inifxtrc8192317.shtml",
+      "date": "2026-07-07 08:07",
+      "summary": "图达通（02665）发布公告，于2026年第二季度，公司激光雷达产品总出货量约27.11万台，同比增长约385%，环比增长约49%；其中，猎鹰系列占约7.78万台，同比增长约55%...",
+      "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "Hugin B平台上部模块启程前往北海开发项目",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzn8422951.shtml",
-      "date": "2026-07-07 03:57",
-      "summary": "Hugin B平台上部模块已离开Aker Solutions位于Verdal的船厂，驶往Yggdrasil区域，这标志着Aker BP为期三年半的大型海上项目交付系列圆满收官。",
-      "source": "环球市场播报",
+      "title": "泛亚环保拟定在市场上购回股份",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-07/doc-inifxtrc8191501.shtml",
+      "date": "2026-07-07 08:06",
+      "summary": "泛亚环保（00556）发布公告，董事会拟定不时在公开市场上购回公司股份如下：（i）约价值5000万港元将会动用作根据股东于2026年6月8日举行的股东周年大会上批准的股份购回授...",
+      "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "五年仍净值腰斩，这些基金怎么了",
-      "link": "https://finance.sina.com.cn/roll/2026-07-07/doc-inifxhzi8350796.shtml",
-      "date": "2026-07-07 03:25",
-      "summary": "◎记者 赵明超 为投资者创造长期稳健回报，是公募基金作为专业机构投资者的核心使命与应有之义。回望过去五年A股市场走势，市场整体走出结构性向好行情：代表价值风格的上证...",
-      "source": "上海证券报",
+      "title": "毛记葵涌拟折让约19.70%配售最多5400万股 净筹约2.29亿港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-07/doc-inifxtra1413658.shtml",
+      "date": "2026-07-07 08:05",
+      "summary": "毛记葵涌（01716）发布公告，于2026年7月6日（交易时段后），公司与独家配售代理订立配售协议，据此，公司有条件同意配发及发行，而独家配售代理有条件同意按尽力基准促使...",
+      "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "新版交易规则施行首日 ST板块表现分化 业内人士：有助于提升定价效率和价格公允性",
-      "link": "https://finance.sina.com.cn/roll/2026-07-07/doc-inifxhzh1573398.shtml",
-      "date": "2026-07-07 03:25",
-      "summary": "◎刘禹希 记者 费天元 7月6日，沪深北交易所新版交易规则正式施行。其中，最受市场关注的变化之一，是沪深市主板风险警示股票（ST、*ST）涨跌幅限制从5%放宽至10%...",
-      "source": "上海证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "A股市场重要股东减持渠道“一降两升”",
-      "link": "https://finance.sina.com.cn/roll/2026-07-07/doc-inifxhzn8405456.shtml",
-      "date": "2026-07-07 03:25",
-      "summary": "长期以来，协议转让因为发生在场外，信息披露的透明度相对不足，且定价缺乏充分的市场化标尺，往往成为隐蔽套利的工具，从而侵害中小股东权益。",
-      "source": "上海证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "艾伯维TEPKINLY联合疗法获欧盟批准，用于治疗复发或难治性滤泡性淋巴瘤",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzh1573086.shtml",
-      "date": "2026-07-07 03:24",
-      "summary": "艾伯维（AbbVie）宣布，欧盟委员会已批准其TEPKINLY（epcoritamab）联合来那度胺和利妥昔单抗（R2方案），用于治疗成人复发或难治性滤泡性淋巴瘤（FL）。",
+      "title": "日韩股市低开 韩股开跌1.6% 三星电子跌3%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxtrc8189606.shtml",
+      "date": "2026-07-07 08:04",
+      "summary": "日经225指数开盘下跌0.4%，报69460.08点。韩国综合指数开盘下跌1.6%，报7919.20点。 三星电子跌3%，此前公布第二季度营业利润89.40万亿韩元，同比增长1810%，预估84...",
       "source": "环球市场播报",
       "category": "a-stock"
     }
