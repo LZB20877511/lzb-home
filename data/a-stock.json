@@ -1,334 +1,310 @@
 {
-  "updated": "2026-07-08T09:14:32.965182+08:00",
+  "updated": "2026-07-08T10:37:47.244070+08:00",
   "source": "A股聚合",
-  "count": 41,
+  "count": 38,
   "items": [
     {
-      "title": "韩国拟2028年起强制要求大型企业披露ESG信息",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihaawc1403874.shtml",
-      "date": "2026-07-08 09:13",
-      "summary": "韩国官员周三表示，从2028年起，总资产达到或超过10万亿韩元（约合65亿美元）的韩国企业将被要求披露其环境、社会和治理（ESG）绩效及风险信息。",
+      "title": "一连串攻击后霍尔木兹海峡风险升温 油轮零星通行、天然气船止步",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihaawe8287310.shtml",
+      "date": "2026-07-08 10:36",
+      "summary": "当地时间周三凌晨，仍有少数船舶似乎航经霍尔木兹海峡；即使一连串针对油轮的攻击，让船东苦于评估在这条关键水道营运的风险。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "EIA：AI热潮将推动美国今明两年用电量续创新高",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihaawk4819817.shtml",
-      "date": "2026-07-08 09:13",
-      "summary": "美国能源信息署（EIA）周二在《短期能源展望》（STEO）中表示，美国电力消费量在2025年连续第二年创下年度新高后，2026年和2027年将进一步增长...",
+      "title": "华安基金：美国6月非农数据“爆冷”叠加通胀回落，过度紧缩预期或迎修正",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-08/doc-inihaawc1511514.shtml",
+      "date": "2026-07-08 10:36",
+      "summary": "上周伦敦现货黄金收于4，174美元/盎司（周环比2.1%），国内AU9999黄金收于911元/克（周环比3.8%）。 美国6月非农数据“爆冷”逆转加息预期。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "大童保险全面启动2026年7.8全国保险公众宣传日系列活动",
+      "link": "https://finance.sina.com.cn/jryx/insurance/2026-07-08/doc-inihaawe8287824.shtml",
+      "date": "2026-07-08 10:35",
+      "summary": "2026年是“十五五”开局之年，第14个“7.8全国保险公众宣传日”如期而至，今年活动主题为“奋进十五五 保险让前行更有底气”。为深入贯彻中央金融工作会议精神...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "华安基金：科技板块震荡，创业板50指数上周跌5.14%",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-08/doc-inihaawk4900369.shtml",
+      "date": "2026-07-08 10:34",
+      "summary": "行情回顾及主要观点： 上周A股市场整体呈现分化趋势：沪深300跌0.54%，中证500涨0.48%，中证1000涨0.23%，创业板50跌5.14%，科创50跌2.79%。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "一度跌超13%！2400亿龙头，巨震",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-07-08/doc-inihaawc1511584.shtml",
+      "date": "2026-07-08 10:31",
+      "summary": "今天上午，消费电子龙头股蓝思科技大跌，盘中一度跌超13%。截至10：13，该股下跌9.37%，报46.99元/股，最新市值为2480.5亿元。",
+      "source": "中国证券报",
+      "category": "a-stock"
+    },
+    {
+      "title": "光大期货0708黄金点评：美伊局势重燃通胀担忧，黄金反弹结束了吗？",
+      "link": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-07-08/doc-inihaawc1504223.shtml",
+      "date": "2026-07-08 10:31",
+      "summary": "地缘局势反复，隔夜现货黄金冲高回落，跌超1%，COMEX黄金期货跌1.22%，SHFE黄金涨0.08%。霍尔木兹海峡局势升级，一艘满载卡塔尔LNG运输船遭袭起火，美伊局势再添不确定性...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "高盛重提“HALO交易”：第二阶段刚刚开始",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inihaawk4896812.shtml",
+      "date": "2026-07-08 10:30",
+      "summary": "来源：华尔街见闻 重资产股票跑赢轻资产股票，这个趋势已经持续了一年多。但现在，高盛欧洲股票策略团队在7月7日发布的最新报告中表示：HALO交易的第一阶段——估值修复——已...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "新西兰央行加息25个基点 以应对通胀压力",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihaawh8116716.shtml",
+      "date": "2026-07-08 10:27",
+      "summary": "新西兰央行三年来首次上调关键利率，表明随着通胀压力出现，该行希望转向刺激性较低的政策环境。 央行货币政策委员会周三将官方现金利率上调25个基点至2.5%...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "英矽智能：Rentosertib启动III期临床试验",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-08/doc-inihaawc1401106.shtml",
-      "date": "2026-07-08 09:11",
-      "summary": "英矽智能（03696）发布公告，英矽智能自主研发的Rentosertib（ISM001-055） 正式启动III期临床试验（CTR20262475，NCT07687459）...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "华泰期货：原油价格反弹，市场支撑仍存",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-08/doc-inihaawh8040825.shtml",
-      "date": "2026-07-08 09:11",
-      "summary": "作者： 康远宁 市场分析 1、7月7日沥青期货下午盘收盘行情：主力BU2609合约下午收盘价3853元/吨，较昨日结算价下跌35元/吨；持仓330382手，环比下跌6825手，成交466450手...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "华宝基金红利风向标 | 红利处于性价比较高配置区间，耐心资本或可持续关注",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-08/doc-inihaawe8177052.shtml",
-      "date": "2026-07-08 09:11",
-      "summary": "",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "罕见！绵阳农商行拟任董事长转任行长，在职行长降为副行长",
-      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-07-08/doc-inihaawc1401351.shtml",
-      "date": "2026-07-08 09:11",
-      "summary": "21世纪经济报道记者 张欣 6月30日，四川绵阳农商行密集披露人事调整相关公告，其中三位高管职位的非常规调整引发业内关注。 综合来看...",
-      "source": "21世纪经济报道",
-      "category": "a-stock"
-    },
-    {
-      "title": "华泰期货：伊朗再度袭击商船，美国取消伊朗制裁豁免",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-08/doc-inihaawk4816894.shtml",
-      "date": "2026-07-08 09:10",
-      "summary": "作者： 康远宁 市场要闻与重要数据 1、 截至7月8日收盘，纽约商品交易所8月交货的轻质原油期货价格上涨1.89美元，收于每桶70.44美元，涨幅为2...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "华泰期货：中东局势再起波折，燃料油市场整体反弹",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-08/doc-inihaawc1398509.shtml",
-      "date": "2026-07-08 09:08",
-      "summary": "作者： 康远宁 市场分析 上期所燃料油期货主力合约夜盘收涨1.57%，报2978元/吨；INE低硫燃料油期货主力合约夜盘收涨1.54%，报3830元/吨。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "易控智驾：香港公开发售获157.82倍认购",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggipo/2026-07-08/doc-inihaawk4814605.shtml",
-      "date": "2026-07-08 09:07",
-      "summary": "易控智驾（07687）公布配发结果，公司全球发售2613.2万股H股，香港公开发售占10%，国际发售占90%。每股发售价87.92港元，全球发售净筹约21.75亿港元。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "中国生物制药与阿斯利康就TQC3721订立独家授权协议",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-08/doc-inihaawe8172632.shtml",
-      "date": "2026-07-08 09:07",
-      "summary": "中国生物制药（01177）发布公告，集团附属公司正大天晴药业集团股份有限公司已与阿斯利康就集团自主研发的PDE3/4抑制剂（研发代号：TQC3721）订立独家授权协议。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "极兔速递-W上半年包裹量合计175.03亿件 同比增长25.1%",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-08/doc-inihaawk4814542.shtml",
-      "date": "2026-07-08 09:07",
-      "summary": "极兔速递-W（01519）发布公告，于2026年第二季度，包裹量合计91.77亿件，同比增长24.2%。 于2026年上半年，包裹量合计175.03亿件，同比增长25.1%。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "【香江策论每日一图】韩国股市现金缓冲垫变薄，杜杆压力处于高位",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inihaawc1395693.shtml",
-      "date": "2026-07-08 09:06",
-      "summary": "来源：张忆东策略世界 A行情调整的时间还不够充分，A相关股权和债权融资压力都需要时间缓解。从调整空间上看，美元、通胀和微观拥挤等三重风险仍未完全消化。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "重仓锂电·光风起舞|创业板新能源ETF华宝（159076）今起迎风上市！",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-08/doc-inihaawc1395370.shtml",
-      "date": "2026-07-08 09:06",
-      "summary": "据最新媒体报道，面对欧美贸易政策的不确定性，全球清洁能源科技龙头阳光电源在2026年7月的投资者交流会上透露，受地缘冲突及能源安全焦虑驱动...",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "EIA大幅下调油价预期 预计美国今明两年用电需求创新高",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-08/doc-inihaawc1390557.shtml",
-      "date": "2026-07-08 09:02",
-      "summary": "来源：财联社 财联社7月8日讯（编辑 刘蕊）美东时间周二，美国能源信息署（EIA）发布《短期能源展望》（STEO）报告。 EIA在报告中上调了全球石油产量预测...",
+      "title": "000524，一字涨停！",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-07-08/doc-inihaawc1510200.shtml",
+      "date": "2026-07-08 10:26",
+      "summary": "来源：中国基金报 记者：李智 一起来看下最新的市场情况及资讯。 7月8日早间，A股市场震荡调整。截至发稿，沪指涨0.18%，深成指跌0.39%，创业板指跌0.09%。",
       "source": "滚动播报",
       "category": "a-stock"
     },
     {
-      "title": "骗购外汇盯上跨境电商额度",
-      "link": "https://finance.sina.com.cn/money/forex/forexinfo/2026-07-08/doc-inihaawk4816545.shtml",
-      "date": "2026-07-08 09:01",
-      "summary": "（来源：智汇大叔） 没有频繁海淘，年度跨境额度为何莫名见底？一起涉案金额6.8亿余元骗购换汇大案解开背后蹊跷，一份份信息完整真实的跨境订单...",
-      "source": "新浪财经",
+      "title": "栾晓维：中国电信已推出110余个行业大模型和350余个智能体服务",
+      "link": "https://finance.sina.com.cn/hy/hyjz/2026-07-08/doc-inihaawk4896720.shtml",
+      "date": "2026-07-08 10:23",
+      "summary": "2026（第二十五届）中国互联网大会于7月8日-10日在北京国家会议中心举办，主题为“智启新程・融创未来——以数智合力谱写‘十五五’发展新篇章”。",
+      "source": "睿见Economy",
       "category": "a-stock"
     },
     {
-      "title": "开盘|国内期货主力合约涨多跌少，SC原油涨超4%",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-08/doc-inihaawe8164471.shtml",
-      "date": "2026-07-08 09:00",
-      "summary": "2026年7月8日，早盘开盘，国内期货主力合约涨多跌少，SC原油涨超4%，燃料油、低硫燃料油（LU）涨超3%，纯苯、苯乙烯（EB）涨超2%，聚丙烯涨近2%，烧碱、集运欧线涨超1%。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "消息称 Deepseek 入局AI芯片自研 降低对英伟达等公司依赖",
-      "link": "https://finance.sina.com.cn/tech/roll/2026-07-08/doc-inihaawh8031397.shtml",
-      "date": "2026-07-08 08:53",
-      "summary": "【TechWeb】7月8日消息，据外媒报道，深度求索（DeepSeek）正悄然推进一项重大战略转型，正在开发自主AI芯片，致力于减少对英伟达等公司芯片的依赖。",
-      "source": "TechWeb",
-      "category": "a-stock"
-    },
-    {
-      "title": "日本投资者5月份购买韩国债券规模接近历史最高水平",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inifzwqh8287088.shtml",
-      "date": "2026-07-08 08:49",
-      "summary": "日本周三公布的最新国际收支数据显示，5月份日本投资者购买韩国债券的金额仍接近历史最高水平。 5月份净购买金额为3，507亿日元，此前4月达到创纪录的3，936亿日元。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "持续集体“破净”，上市银行市值管理如何做？",
-      "link": "https://finance.sina.com.cn/jjxw/2026-07-08/doc-inifzwqh8287961.shtml",
-      "date": "2026-07-08 08:48",
-      "summary": "界面新闻记者 | 何柳颖界面新闻编辑 | 王姝 银行股持续集体破净。 7月7日收盘，42只A股银行股市净率均跌破1倍，目前市净率高于0.8倍的仅宁波银行（002142.SZ）...",
-      "source": "界面",
-      "category": "a-stock"
-    },
-    {
-      "title": "诺贝尔经济学奖得主皮萨里德斯：AI 无法让西方经济体重返生产率快速增长时代",
-      "link": "https://finance.sina.com.cn/tech/digi/2026-07-08/doc-inihaawk4806248.shtml",
-      "date": "2026-07-08 08:46",
-      "summary": "IT之家 7 月 8 日消息，据彭博社 7 日报道，专门研究自动化与就业关系的诺贝尔经济学奖得主、伦敦政治经济学院教授克里斯托弗 · 皮萨里德斯警告...",
-      "source": "IT之家",
-      "category": "a-stock"
-    },
-    {
-      "title": "A股缩量5100亿元，7月机构调仓路线曝光",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inifzwqn4930450.shtml",
-      "date": "2026-07-08 08:41",
-      "summary": "记者丨易妍君 编辑丨张星 周二（7月7日），A股震荡调整，沪指失守4000点关口，两市成交额2.58万亿元，较上一个交易日缩量5100亿元。",
+      "title": "中小银行IPO“闯关记”：排队十八年仍未等来敲钟时刻",
+      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-07-08/doc-inihaawe8263476.shtml",
+      "date": "2026-07-08 10:17",
+      "summary": "南方财经记者 翁榕涛 实习生 卢泽杨 有一家银行，为了上市已经坚持了十八年。 近日，深交所官网信息显示，东莞银行股份有限公司（下称“东莞银行”）...",
       "source": "21世纪经济报道",
       "category": "a-stock"
     },
     {
-      "title": "韩国誓言加大力度稳定金融市场和经济 并将制定“韩元国际化路线图”",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inifzwqk8148108.shtml",
-      "date": "2026-07-08 08:37",
-      "summary": "韩国财政部发布声明称，在包括汇市在内的高波动环境中，韩国将加大力度稳定经济和金融市场。 受外国和机构投资者获利了结、再平衡相关抛盘以及全球人工智能行业展望的影响...",
+      "title": "新加坡要求房地产开发商将反洗钱审查聚焦于高风险买家",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihaawh8107230.shtml",
+      "date": "2026-07-08 10:16",
+      "summary": "新加坡住房监管机构要求房地产开发商将严格的反洗钱审查适用于高风险购房者，并明确表示大多数买家无需接受额外审查，例如核查财富来源和资金来源。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "茅台宁德参投！半导体独角兽思朗科技冲刺科创板",
-      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-08/doc-inifzwqn4928645.shtml",
-      "date": "2026-07-08 08:37",
-      "summary": "7月7日，上海思朗科技股份有限公司（下称“思朗科技”）科创板IPO获上交所受理。公司2024年获国 家级独角兽企业。公开信息显示，思朗科技成立于2016年...",
-      "source": "新浪财经",
+      "title": "跃居全市场ETF涨幅榜第三！大数据ETF华宝（516700）猛拉4．36%！浪潮信息业绩大超预期，印证AI服务器高景气",
+      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-08/doc-inihaawe8259880.shtml",
+      "date": "2026-07-08 10:14",
+      "summary": "今日（7月8日）早盘，深度绑定国产算力（IDC、服务器）、AI应用领域的大数据ETF华宝（516700）场内涨幅盘中上探4．36%，一度跃居全市场ETF涨幅榜第三位，现涨3．47%...",
+      "source": "新浪基金",
       "category": "a-stock"
     },
     {
-      "title": "三星电子去年创造经济价值超177万亿韩元，位居韩企第一",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inifzwqf1498031.shtml",
-      "date": "2026-07-08 08:35",
-      "summary": "周三公布的行业数据显示，2025 年韩国百强企业中，三星电子创造的经济价值位居首位。 企业评价机构CEO Score整理的数据显示，这家科技巨头去年的经济总贡献达177...",
+      "title": "方圆生活服务于7月8日上午盘中短暂停牌",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-08/doc-inihaawc1482011.shtml",
+      "date": "2026-07-08 10:13",
+      "summary": "方圆生活服务（09978）发布公告，该公司股份已于今天（8/7/2026）上午九时正起短暂停止买卖。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "视频丨长安启源海报被指抄袭小米，两张海报构图光影高度相似，此前也有多个车企陷抄袭争议",
+      "link": "https://finance.sina.com.cn/stock/companyt/2026-07-08/doc-inihaawe8256099.shtml",
+      "date": "2026-07-08 10:11",
+      "summary": "",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "健世科技-B早盘涨超7% 经导管三尖瓣置换系统取得欧盟MDR CE认证",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-08/doc-inihaawh8102428.shtml",
+      "date": "2026-07-08 10:11",
+      "summary": "健世科技-B（09877）早盘涨超7%，截至发稿，股价上涨7.33%，现报8.20港元，成交额125.77万港元。 健世科技今早公布，近日，集团自主研发的经导管三尖瓣置换系统（Transveno...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "智谱解禁日低开高走，盘中一度涨近15%，近七成基石表态长期持有",
+      "link": "https://finance.sina.com.cn/stock/hkstock/2026-07-08/doc-inihaawe8264782.shtml",
+      "date": "2026-07-08 10:11",
+      "summary": "7月8日，智谱（02513.HK）迎来上市后首次限售股解禁。11家基石投资者持有的约2568.16万股解除限售，占总股本约5.76%，按前一交易日收盘价计算，解禁市值超400亿港元。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "猫眼娱乐盘中涨超5% 周星驰执导电影《功夫女足》即将上映",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-08/doc-inihaawc1478213.shtml",
+      "date": "2026-07-08 10:10",
+      "summary": "猫眼娱乐（01896）盘中涨超5%，截至发稿，股价上涨3.76%，现报5.24港元，成交额2706.82万港元。 由周星驰执导的电影《功夫女足》已确定将于7月11日上映。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "五新股同日登陆港交所上演“冰火两重天”：基本半导体暴涨近8%，瑞为技术重挫17%",
+      "link": "https://finance.sina.com.cn/stock/hkstock/2026-07-08/doc-inihaawh8100679.shtml",
+      "date": "2026-07-08 10:09",
+      "summary": "7月8日，港股市场迎来5只新股同日上市，分别为Momenta（6880.HK）、瑞为技术（7656.HK）、易控智驾（7687.HK）、基本半导体（9971.HK）及宝盖新材（8090.HK）。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "中国生物制药早盘涨超4% 附属与阿斯利康就TQC3721订立独家授权协议",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-08/doc-inihaawk4877031.shtml",
+      "date": "2026-07-08 10:09",
+      "summary": "中国生物制药（01177）早盘涨超4%，截至发稿，股价上涨4.15%，现报5.02元，成交额3.17亿港元。 7月8日，中国生物制药发布公告，集团附属公司正大天晴药业集团股份有限公司...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "邬贺铨：到2030年，全球IP流量中AI占比将超过60%",
+      "link": "https://finance.sina.com.cn/hy/hyjz/2026-07-08/doc-inihaawe8242730.shtml",
+      "date": "2026-07-08 10:01",
+      "summary": "2026（第二十五届）中国互联网大会于7月8日-10日在北京国家会议中心举办，主题为“智启新程・融创未来——以数智合力谱写‘十五五’发展新篇章”。",
+      "source": "睿见Economy",
+      "category": "a-stock"
+    },
+    {
+      "title": "上海金融法院发布财产保险合同纠纷十大典型案例",
+      "link": "https://finance.sina.com.cn/money/insurance/bxdt/2026-07-08/doc-inihaawe8266755.shtml",
+      "date": "2026-07-08 10:00",
+      "summary": "来源：上海金融法院 编者按 “十五五”规划纲要提出，加快建设金融强国，坚持防风险、强监管、促高质量发展，加快建设中国特色现代金融体系。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "港股硬科技深蹲反弹？规模最大港股通信息技术ETF华宝（159131）冲高逾2%，联想集团涨超5%",
+      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-08/doc-inihaawk4864509.shtml",
+      "date": "2026-07-08 09:56",
+      "summary": "今日（7月8日），港股硬科技强势反弹，上海复旦、华勤技术涨超9%，联想集团涨超5%。同类规模最大、流动性最强*的港股通信息技术ETF华宝（159131）开盘后快速冲高2．14%...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "在美国隔夜抛售后，韩国芯片股反弹，因芯片供应依然紧张",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihaawc1454657.shtml",
+      "date": "2026-07-08 09:53",
+      "summary": "周三，韩国芯片制造商三星电子和SK海力士 的股价在早盘下跌后反弹，此前受对人工智能驱动的芯片热潮可持续性担忧影响，市场出现大幅抛售，投资者趁低吸纳。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "越疆上半年具身智能出货金额超过4000万元 同比保持高速增长",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-08/doc-inifzwqf1497605.shtml",
-      "date": "2026-07-08 08:34",
-      "summary": "越疆（02432）发布公告，截至2026年6月30日，公司累计拓展具身智能客户231家，客户储备基数充足，已完整覆盖订单签署、送样验证、小规模交付及规模使用等商业转化阶段。",
+      "title": "上海复旦绩后涨近9% 预计上半年归母净利润同比增加约313.19%至416.49%",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-08/doc-inihaawk4850968.shtml",
+      "date": "2026-07-08 09:43",
+      "summary": "上海复旦（01385）发盈喜后一度涨逾11%，截至发稿，股价上涨8.55%，报33元，成交额9338.79万港元。 7月7日，上海复旦发布公告，截至2026年6月30日止半年度...",
       "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "科伦博泰生物拟折让约8.52%配售583.8万股 净筹约27.23亿港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-08/doc-inifzwqk8145671.shtml",
-      "date": "2026-07-08 08:34",
-      "summary": "科伦博泰生物（06990）发布公告，于2026年7月8日（交易时段前），公司与配售代理订立配售协议，据此，配售代理已有条件同意按个别（但非共同或共同及个别）基准作为公司代...",
+      "title": "汇聚科技早盘涨超5% 预计上半年纯利最高同比增长170%",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-08/doc-inihaawh8071036.shtml",
+      "date": "2026-07-08 09:41",
+      "summary": "汇聚科技（01729）早盘一度涨超13%，截至发稿，股价上涨5.23%，现报14.68港元，成交额8270.39万港元。 汇聚科技发盈喜，预期2026年上半年取得的纯利同比增长约150%至170%...",
       "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "果下科技与Rocmore达成战略合作 携手拓展北欧及欧洲储能市场版图",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-08/doc-inifzwqn4922846.shtml",
-      "date": "2026-07-08 08:34",
-      "summary": "果下科技（02655）发布公告，于2026年6月底，公司与Rocmore Energy AB订立一项战略合作协议，据此，框架合作协议各订约方拟建立长期战略合作...",
+      "title": "易控智驾首挂上市 早盘微涨0.94%",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggipo/2026-07-08/doc-inihaawe8212818.shtml",
+      "date": "2026-07-08 09:39",
+      "summary": "易控智驾（07687）首挂上市，公告显示，每股定价87.92港元，共发行2613.2万股股份，每手50股，所得款项净额约21.75亿港元。截至发稿，股价上涨0.94%，现报88.75港元...",
       "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "人瑞人才发盈喜 预期2026年上半年股东应占溢利同比增长39.0%至63.4%",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-08/doc-inifzwqn4922519.shtml",
-      "date": "2026-07-08 08:33",
-      "summary": "人瑞人才（06919）公布，该集团预期于2026年上半年实现收入约28.8亿-32.8亿元，同比增长10.6%至25.9%；期内溢利5810万-6810万元，同比增长78.5%至109...",
+      "title": "基本半导体首挂上市 早盘上涨13.09%",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggipo/2026-07-08/doc-inihaawe8211052.shtml",
+      "date": "2026-07-08 09:38",
+      "summary": "基本半导体（09971）首挂上市，公告显示，每股定价31.62港元，共发行2738.62万股股份，每手200股，所得款项净额约7.66亿港元。截至发稿，股价上涨13.09%，现报35.76港元...",
       "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "信达生物根据股份计划发行188.2万股",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-08/doc-inifzwqf1495407.shtml",
-      "date": "2026-07-08 08:32",
-      "summary": "信达生物（01801）发布公告，于2026年7月3日根据公司于2018年6月12日采纳的首次公开发售后雇员持股计划所授予的购股权而配发及发行188.2万股。",
+      "title": "基本半导体首日高开近8% 一手赚500港元 中签率仅0.17%",
+      "link": "https://finance.sina.com.cn/stock/hkstock/2026-07-08/doc-inihaawc1434289.shtml",
+      "date": "2026-07-08 09:37",
+      "summary": "7月8日，中国第三代半导体功率器件企业基本半导体（09971.HK）正式在港交所主板挂牌上市。首日表高开7.91%，报34.12港元，较每股31.62港元的发售价上涨约7.9%；每手200股...",
       "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "信达生物根据股份计划发行75.2万股",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-08/doc-inifzwqk8143903.shtml",
-      "date": "2026-07-08 08:32",
-      "summary": "信达生物（01801）发布公告，于2026年7月6日根据公司于2018年6月12日采纳的首次公开发售后雇员持股计划所授予的购股权而配发及发行75.2万股。",
+      "title": "宝盖新材首挂上市 早盘上涨4.50%",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggipo/2026-07-08/doc-inihaawe8209251.shtml",
+      "date": "2026-07-08 09:36",
+      "summary": "宝盖新材（08090）首挂上市，公告显示，每股定价6.22港元，共发行1447万股股份，每手500股，所得款项净额约8430万港元。截至发稿，股价上涨4.50%，现报6.50港元...",
       "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "日本政府据报拟修改“骨太方针”货币政策措辞 以免被误解为向央行施压",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inifzwqk8142354.shtml",
-      "date": "2026-07-08 08:30",
-      "summary": "据报道，日本政府可能会调整其年度政策方针中有关货币政策的表述，以免给外界留下向央行施压的印象。 日本政府来年的经济财政基本方针（即“骨太方针”）最初提到...",
+      "title": "MOMENTA-W首挂上市 早盘高开5.55%",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggipo/2026-07-08/doc-inihaawk4840623.shtml",
+      "date": "2026-07-08 09:35",
+      "summary": "MOMENTA-W（06880）首挂上市，公告显示，每股定价295.6港元，共发行1993.83万股股份，每手20股，所得款项净额约56.56亿港元。截至发稿，股价上涨5.55%，现报312港元...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "韩国股市扭转早盘跌势 SK海力士拉升",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihaawk4838918.shtml",
+      "date": "2026-07-08 09:33",
+      "summary": "韩国股市基准指数Kospi震荡，在美国对伊朗发动新一轮袭击后低开，接着在SK海力士的拉动下回升，一度上涨1.8%。 SK海力士股价抹去早盘5%的跌幅，一度飙升5.8%...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "原油价格大涨 此前美国因霍尔木兹海峡船只遇袭而打击伊朗目标",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inifzwqk8141968.shtml",
-      "date": "2026-07-08 08:29",
-      "summary": "原油价格大涨，此前美国对伊朗发动一波打击，以报复伊朗在霍尔木兹海峡对船只发动的一系列袭击。 布伦特原油价格上涨2.8%，突破每桶76美元...",
+      "title": "长江有色：美元走高+现货交投偏淡 8日锌价或小跌",
+      "link": "https://finance.sina.com.cn/money/future/indu/2026-07-08/doc-inihaawk4836783.shtml",
+      "date": "2026-07-08 09:31",
+      "summary": "长江有色金属网 【ccmn.cn摘要】美股全线下跌叠加美元走高施压，隔夜伦锌收跌0.22%；进口TC陷入负值区间，冶炼厂亏损面扩大，现货贴水延续交投偏淡，预今现锌小跌。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "从“有没有”到“好不好”，上海再保险中心建设顶层设计再完善",
+      "link": "https://finance.sina.com.cn/roll/2026-07-08/doc-inihaawh8064493.shtml",
+      "date": "2026-07-08 09:31",
+      "summary": "上海国际再保险中心的建设再次迎来重磅支持政策。 7月7日，国家金融监督管理总局、上海市人民政府印发《关于加快上海国际再保险中心建设的若干措施》（下称《若干措施》）...",
+      "source": "一财网",
+      "category": "a-stock"
+    },
+    {
+      "title": "花旗：建滔集团上半年业绩或超预期 受玻纤布售价推动",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihaawh8057510.shtml",
+      "date": "2026-07-08 09:29",
+      "summary": "花旗称，鉴于电子级玻璃纤维布的平均售价可能高于预期，建滔集团上半年业绩或超出该行预测。不过其大股东Hallgain如果继续将所持有的建滔集团股份比例减至30%...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "视源股份递表港交所 中金公司、广发证券为联席保荐人",
-      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-08/doc-inifzwqk8151447.shtml",
-      "date": "2026-07-08 08:28",
-      "summary": "2025年视源股份旗下希沃(seewo)品牌教育交互智能平板以17.0%的市场份额(按营收计)位居全球首位。视源股份向港交所主板提交上市申请，中金公司、广发证券为联席保荐人。",
-      "source": "证券时报网",
-      "category": "a-stock"
-    },
-    {
-      "title": "操盘必读：影响股市利好或利空消息_2026年7月8日_财经新闻",
-      "link": "https://finance.sina.com.cn/stock/cpbd/2026-07-08/doc-inifzwqh8266143.shtml",
-      "date": "2026-07-08 08:25",
-      "summary": "宏观新闻 1、国务院发布批复，原则同意《旅游强国建设“十五五”规划》。其中提到，着力完善现代旅游业体系，优化旅游空间布局，培育旅游发展新动能，丰富旅游供给...",
-      "source": "股市直击",
-      "category": "a-stock"
-    },
-    {
-      "title": "泰格医药获Massachusetts Financial Services Company增持15.9万股 每股作价34.9371港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-08/doc-inifzwqn4915694.shtml",
-      "date": "2026-07-08 08:24",
-      "summary": "香港联交所最新数据显示，7月2日，Massachusetts Financial Services Company增持泰格医药（03347）15.9万股，每股作价34.9371港元，总金额约为555.50万港元。",
+      "title": "快讯：恒指高开0.19% 科指涨0.42% PCB概念、光通信板块回暖",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-08/doc-inihaawc1420787.shtml",
+      "date": "2026-07-08 09:25",
+      "summary": "美股周二全线下滑，半导体股遭遇抛售，加上油价回升拖累大市向下，三大指数均录得跌幅收市；美元展现反弹，美国十年期债息回升至4.55厘水平，金价表现受压...",
       "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "雷诺与Kakao Mobility签署谅解备忘录，在未来移动出行服务领域展开合作",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inifzwqn4915289.shtml",
-      "date": "2026-07-08 08:23",
-      "summary": "雷诺韩国公司与Kakao Mobility周三表示，双方已同意在下一代出行服务领域展开合作，包括高精度地图、软件以及车载信息娱乐技术。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "康龙化成获AIHC Master Fund增持100万股 每股作价18.7904港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-08/doc-inifzwqn4914173.shtml",
-      "date": "2026-07-08 08:22",
-      "summary": "香港联交所最新数据显示，7月2日，AIHC Master Fund增持康龙化成（03759）100万股，每股作价18.7904港元，总金额为1879.04万港元。",
+      "title": "智谱获近七成基石股东长期持有表态 摩根大通上调目标价至2000港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/2026-07-08/doc-inihaawh8052494.shtml",
+      "date": "2026-07-08 09:24",
+      "summary": "在解禁窗口临近之际，智谱获多家机构投资者明确表态长期看好并将继续持有，合计持股占本次解禁基石股数近七成。与此同时，摩根大通将智谱目标价由1800港元上调至2000港元...",
       "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "中国财险获The Capital Group Companies, Inc.增持1168万股 每股作价约14.21港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-08/doc-inifzwqf1482883.shtml",
-      "date": "2026-07-08 08:21",
-      "summary": "香港联交所最新数据显示，7月3日，The Capital Group Companies， Inc．增持中国财险（02328）1168万股，每股作价14.2122港元，总金额约为1.66亿港元。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "澜起科技获瑞银集团增持18.184万股 每股作价461.8904港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-08/doc-inifzwqn4912241.shtml",
-      "date": "2026-07-08 08:19",
-      "summary": "香港联交所最新数据显示，6月30日，瑞银集团增持澜起科技（06809）18.184万股，每股作价461.8904港元，总金额约为8399.02万港元。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "SpaceX重挫近7%SpaceX市值一夜蒸发9733亿元",
-      "link": "https://finance.sina.com.cn/stock/wbstock/2026-07-08/doc-inifzwqf1494561.shtml",
-      "date": "2026-07-08 08:18",
-      "summary": "来源：@福布斯中文网微博【#SpaceX重挫近7%##SpaceX市值一夜蒸发9733亿元#】#美芯片股重挫#美东时间周二，美股三大指数集体下跌。",
-      "source": "新浪财经2",
-      "category": "a-stock"
-    },
-    {
-      "title": "德永佳集团获主席潘彬泽增持122.4万股 每股作价1.1港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-08/doc-inifzwqk8134431.shtml",
-      "date": "2026-07-08 08:18",
-      "summary": "香港联交所最新数据显示，7月2日，主席潘彬泽增持德永佳集团（00321）122.4万股，每股作价1.1港元，总金额约为134.64万港元。增持后最新持股数目约为7.47亿股...",
-      "source": "新浪港股",
+      "title": "韩股涨幅扩大，芯片巨头直线拉升",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-07-08/doc-inihaawh8048072.shtml",
+      "date": "2026-07-08 09:15",
+      "summary": "7月8日早盘，截至08：41，韩国KOSPI指数转涨，此前一度跌近4%。SK海力士涨超2%。 截至08：49，SK海力士涨幅扩大至4%。 截至08：55，韩国KOSPI指数涨幅扩大至1%。",
+      "source": "第一财经",
       "category": "a-stock"
     }
   ]
