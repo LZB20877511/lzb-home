@@ -1,254 +1,246 @@
 {
-  "updated": "2026-07-09T22:57:48.764467+08:00",
+  "updated": "2026-07-09T23:53:15.315285+08:00",
   "source": "A股聚合",
-  "count": 31,
+  "count": 30,
   "items": [
     {
-      "title": "D-Wave获IDC量子计算领导者评级，商业化进程获权威认可",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqs7513105.shtml",
+      "title": "纽约联储行长表示特别关注人工智能需求对通胀的影响",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihftwv5232862.shtml",
+      "date": "2026-07-09 23:52",
+      "summary": "纽约联储行长约翰·威廉姆斯表示，在推动美国通胀的诸多因素中，他最关注的是人工智能带动的需求。如果这种需求持续存在，可能迫使美联储加息。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "United Rentals将于7月23日召开第二季度财报电话会议",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihftwt8456260.shtml",
+      "date": "2026-07-09 23:51",
+      "summary": "设备租赁公司United Rentals， Inc．（纽约证券交易所代码：URI）宣布，将于2026年7月23日（周四）美国东部时间上午8：30举行第二季度财报电话会议。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美国贸易代表：特朗普可借助此前关税案所依据的法律切断与西班牙贸易",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihftwq7409458.shtml",
+      "date": "2026-07-09 23:51",
+      "summary": "核心要点美国贸易代表贾米森・格雷尔表示，特朗普总统可援引《国际紧急经济权力法》（IEEPA）切断对西班牙全部贸易，该法案正是此前其已被法院否决的 “对等关税”...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "联合健康集团推出新型消费账户福利，赋予消费者更多选择权",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihftws4185672.shtml",
+      "date": "2026-07-09 23:49",
+      "summary": "美国联合健康保险公司（UnitedHealthcare）近日推出了一项名为“生活方式支出账户”的新型雇主资助福利，旨在以灵活高效的方式支持员工的个性化健康和幸福目标。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "以色列国防部长：如果威胁重现 以色列准备恢复对伊朗的打击",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihftwt8453496.shtml",
+      "date": "2026-07-09 23:46",
+      "summary": "以色列国防部长伊斯雷尔·卡茨在空军毕业典礼上表示，如有需要，以色列已准备好恢复对伊朗的军事行动。 卡茨表示，以色列国防军已做好重新夺取制空权并发动进一步打击的准备...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "ADS入选《时代》杂志2026年度全球最具影响力公司榜单",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihftwq7406853.shtml",
+      "date": "2026-07-09 23:45",
+      "summary": "Advanced Drainage Systems（纽约证券交易所代码：WMS）宣布，公司被《时代》杂志评选为2026年度全球最具影响力公司之一。该年度榜单旨在表彰那些通过创新...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "Tempus AI将于7月30日发布2026年第二季度财报",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihftwv5225859.shtml",
+      "date": "2026-07-09 23:41",
+      "summary": "精准医疗领域的人工智能公司Tempus AI， Inc．（纳斯达克代码：TEM）宣布，将于2026年7月30日（周四）美股收盘后发布截至2026年6月30日的第二季度财务业绩。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "伊朗外长与巴基斯坦陆军参谋长通电话",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihftwt8448194.shtml",
+      "date": "2026-07-09 23:38",
+      "summary": "伊朗外交部官方媒体频道称，伊朗外长阿巴斯·阿拉格齐周四下午与巴基斯坦陆军参谋长、元帅阿西姆·穆尼尔通电话，阿拉格齐在通话中谴责美国“明显违反”伊斯兰堡谅解备忘录。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "欧洲央行上月讨论加息时力图避免暗示后续行动 吸取2011年教训",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihftws4179118.shtml",
+      "date": "2026-07-09 23:37",
+      "summary": "欧洲央行官员上月加息时，试图避免暗示还会进一步加息，以吸取2011年的教训。 根据6月10-11日会议讨论摘要，决策者将当前形势与2011年的情况进行了比较。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "MSCI与瑞银达成战略合作，推动私募市场透明度提升",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqs7532252.shtml",
+      "date": "2026-07-09 23:36",
+      "summary": "MSCI Inc．与瑞银集团宣布建立战略合作伙伴关系，旨在借助双方在数据、分析和另类投资领域的专长，推动私募市场透明度的提升。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "扎克伯格为Meta付费人工智能模型制定“激进”价格策略",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqx5352344.shtml",
+      "date": "2026-07-09 23:35",
+      "summary": "在竞争激烈的AI工具市场，马克·扎克伯格希望凭借价格优势胜出。 Meta Platforms Inc．发布了其最先进人工智能模型Muse Spark 1.1，并首次面向开发者推出付费版本。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美光宣布加码数百亿美元美国芯片制造投资，股价大涨7%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqv8576040.shtml",
+      "date": "2026-07-09 23:35",
+      "summary": "核心要点存储芯片厂商美光公布新一轮投资计划，旨在完善美国本土半导体供应链，股价应声上涨。本次战略投资包含 50 亿美元，用于支持台企环球晶圆扩建其位于得克萨斯州的硅...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "通用磨坊旗下零食品牌Nature Valley推出国家公园纪念版包装与探险套装",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqv8575006.shtml",
+      "date": "2026-07-09 23:33",
+      "summary": "为庆祝与美国国家公园基金会合作十五周年，通用磨坊（General Mills）旗下的零食品牌Nature Valley推出了一系列以黄石、优胜美地等美国标志性国家公园为灵感的限量版纪念包...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "Fortune Brands Innovations定于8月4日发布第二季度财报",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqx5346316.shtml",
+      "date": "2026-07-09 23:28",
+      "summary": "美国家居、安防及数字产品公司Fortune Brands Innovations， Inc．（纽约证券交易所代码：FBIN）宣布，将于2026年8月4日（周二）美股收盘后发布第二季度财务业绩。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "Frontdoor将于8月6日发布第二季度财报",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqx5342001.shtml",
+      "date": "2026-07-09 23:23",
+      "summary": "美国领先的家庭保修服务提供商Frontdoor， Inc．（纳斯达克代码：FTDR）宣布，将于2026年8月6日（周四）发布第二季度财务业绩，并于当天美国中部时间上午7：30（东部时间上...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "Backblaze Q1硬盘可靠性报告：92%新部署硬盘超20TB，年化故障率降至1.24%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqv8563098.shtml",
+      "date": "2026-07-09 23:19",
+      "summary": "云存储平台Backblaze发布了2026年第一季度硬盘可靠性报告，数据显示其存储集群可靠性持续改善，同时高容量硬盘已成为新部署的绝对主力。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "停牌前涨停！002677，拟易主",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-09/doc-inihfpqu4300060.shtml",
+      "date": "2026-07-09 23:15",
+      "summary": "来源：中国基金报 【导读】浙江美大拟易主，停牌前1个交易日涨停 中国基金报记者 闻言 7月9日晚间，浙江美大发布公告称，公司当日收到实际控制人夏志生、夏鼎的通知。",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "300020及控股股东，被立案！",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-09/doc-inihfpqu4299740.shtml",
+      "date": "2026-07-09 23:15",
+      "summary": "来源：中国基金报 【导读】涉嫌信息披露违法违规，ST银江及控股股东被证监会立案 中国基金报记者 闻言 7月9日晚间，ST银江发布公告称...",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美国6月二手房销售回落 负担能力担忧挥之不去",
+      "link": "https://finance.sina.com.cn/world/2026-07-09/doc-inihfpqv8559061.shtml",
+      "date": "2026-07-09 23:13",
+      "summary": "美国6月二手房销售回落，受抵押贷款利率持续高企影响，房地产市场仍未摆脱持续数年的低迷。 全美房地产经纪人协会（NAR）周四公布的数据显示，6月二手房销售下降2.4%...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美伊紧张局势再度升温 伊朗紧急运出约1100万桶原油",
+      "link": "https://finance.sina.com.cn/world/2026-07-09/doc-inihfpqs7520052.shtml",
+      "date": "2026-07-09 23:12",
+      "summary": "随着美伊紧张局势再度升级、美国总统特朗普威胁恢复对伊朗港口实施封锁，德黑兰过去24小时紧急调派油轮，运出约1100万桶原油。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "星巴克自研AI软件替代外部供应商，IBM微软股价承压",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqv8558519.shtml",
+      "date": "2026-07-09 23:12",
+      "summary": "美股周四早盘，IBM下跌2.1%，微软下跌1.1%，此前有报道称星巴克正借助人工智能开发内部软件工具，以取代目前从微软和IBM采购的部分企业应用程序。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美光科技上调美国投资计划至2500亿美元 押注AI存储芯片需求",
+      "link": "https://finance.sina.com.cn/world/2026-07-09/doc-inihfpqv8556947.shtml",
+      "date": "2026-07-09 23:10",
+      "summary": "美光科技表示，计划将对美国新工厂的支出增至2500亿美元，以满足全球人工智能热潮推动的存储芯片需求激增。 此举意味着在美光此前宣布的2000亿美元支持承诺上再增加500亿美...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美国稀土人才短缺，或拖累国供应链重建进程",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqx5333081.shtml",
+      "date": "2026-07-09 23:10",
+      "summary": "尽管美国政府投入数十亿美元推动稀土供应链重建，但专业人才严重短缺正在成为制约这一进程的关键瓶颈。 美国稀土产业正面临严峻的人才断层。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "礼来湿疹药物Ebglyss获加拿大医保推荐，全境覆盖迈出关键一步",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqv8555352.shtml",
+      "date": "2026-07-09 23:07",
+      "summary": "礼来公司近日迎来利好消息，加拿大药品管理局已对其中度至重度特应性皮炎治疗药物Ebglyss（lebrikizumab）给出了积极的报销推荐意见。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "Wedbush：服务器CPU持续短缺，英特尔仍有提价空间",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqv8553688.shtml",
+      "date": "2026-07-09 23:05",
+      "summary": "投行Wedbush近日发布报告指出，鉴于服务器CPU市场持续供不应求，英特尔在本季度仍有进一步上调处理器价格的空间，且不会对市场需求造成明显冲击。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "报道：卡塔尔暂缓推进全球最大液化天然气基地增产基地 运营将维持最低负荷",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqv8550907.shtml",
+      "date": "2026-07-09 23:01",
+      "summary": "霍尔木兹海峡一艘卡塔尔液化天然气运输船遇袭，市场担忧这条关键航道通行风险居高不下，卡塔尔已暂缓推进全球最大液化天然气基地的快速增产工作。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "房价创历史新高，美国6月房屋销售数据不及预期",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqx5326362.shtml",
+      "date": "2026-07-09 23:00",
+      "summary": "核心要点6 月成屋销量环比 5 月下滑 2.4%；6 月末房源库存 156 万套，环比下降 0.6%，较 2025 年 6 月上涨 1.3%；全款购房成交占比四分之一，低于去年 29% 的水平。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美国6月房屋销量回落 春季销售惨淡",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqs7513784.shtml",
+      "date": "2026-07-09 22:59",
+      "summary": "受抵押贷款利率居高不下、房价屡创新高的双重压力，购房者入市意愿低迷，美国6月房屋销量回落，楼市春季传统销售旺季收官表现惨淡。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "阿联酋正将本国自研卫星星座送入轨道",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqu4290441.shtml",
+      "date": "2026-07-09 22:59",
+      "summary": "来，阿拉伯联合酋长国（阿联酋）在深空探索领域斩获了一系列亮眼成果：不仅派遣宇航员进入太空，其“希望号”探测器还成功进入火星轨道。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "Meta入局AI代码大模型赛道，追赶Anthropic与OpenAI",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqx5325077.shtml",
       "date": "2026-07-09 22:57",
-      "summary": "D-Wave Quantum近日迎来双重利好消息。公司被IDC MarketScape评为全球量子计算领域的领导者之一，同时CEO Alan Baratz强调公司正聚焦商业增长...",
+      "summary": "核心要点Meta 推出 Muse Spark 大模型重大更新，并公布定价方案；Meta 人工智能负责人表示，对比 Anthropic、OpenAI 同类产品，本次定价极具竞争力...",
       "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "高盛集团拿下总值 700 亿美元资产管理合作项目，合作方包括威瑞森通信、洛克希德・马丁公司",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqx5323157.shtml",
-      "date": "2026-07-09 22:54",
-      "summary": "高盛集团周四宣布，公司成功拿下两份资产管理委托业务，将为威瑞森通信与洛克希德・马丁合计管理 7000 亿美元退休资产。这也是高速增长的企业外包投资市场近期规模最大的合...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "Meta在加拿大开工建设130亿加元数据中心，着眼AI算力扩张",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqv8546624.shtml",
-      "date": "2026-07-09 22:54",
-      "summary": "当地时间7月8日，Meta宣布在加拿大艾伯塔省斯特金县正式开工建设其在该国的首座数据中心，总投资达130亿加元（约合92亿美元）。这座装机容量1吉瓦（GW）的设施是Meta在美国...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "英伟达推出Nemotron 3 Ultra，推理成本较闭源模型骤降90%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqu4287331.shtml",
-      "date": "2026-07-09 22:52",
-      "summary": "英伟达近日发布开源大模型Nemotron 3 Ultra，凭借高性能与极低推理成本引发市场关注。该模型在LangChain深度智能体基准测试中取得开源模型组别最高准确率...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "微软调整游戏战略：黑曜石工作室取消《宣誓2》转攻《辐射》新作",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqx5318876.shtml",
-      "date": "2026-07-09 22:49",
-      "summary": "微软旗下黑曜石游戏工作室（Obsidian Entertainment）近期经历重大战略调整。据报道，为配合Xbox新任首席执行官Asha Sharma的“聚焦核心IP”战略...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "库存跌至数十年低位 美国石油储备难以应对美伊冲突重启",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqv8542497.shtml",
-      "date": "2026-07-09 22:49",
-      "summary": "美国的石油储备体系远未做好应对美伊停火协议破裂、冲突重启的准备。 今年6月中旬特朗普总统宣布临时停火后，国际油价回落至战前水平，霍尔木兹海峡的油轮航运也逐步恢复...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "OpenAI首席执行官：OpenAI 最新人工智能模型在智能体代码编写任务上的令牌效率提升 54%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqs7508453.shtml",
-      "date": "2026-07-09 22:48",
-      "summary": "OpenAI首席执行官奥特曼周四接受采访时表示，公司最新人工智能模型GPT-5.6 Sol在智能代理编程任务上的令牌效率提升54%，且综合表现与市面上竞品持平甚至更优。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "深夜！全线爆发！芯片巨头，重大宣布！",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-09/doc-inihfpqs7509215.shtml",
-      "date": "2026-07-09 22:47",
-      "summary": "芯片股大涨。 当地时间7月9日，美股三大指数集体高开，截至发稿，道指涨0.12%，纳指涨0.61%，标普500指数涨0.4%。 芯片股集体走高，费城半导体指数涨超5%。",
-      "source": "证券时报",
-      "category": "a-stock"
-    },
-    {
-      "title": "大额分红后，三兄妹紧攥98%表决权冲IPO……",
-      "link": "https://finance.sina.com.cn/stock/hyyj/2026-07-09/doc-inihfpqs7511699.shtml",
-      "date": "2026-07-09 22:43",
-      "summary": "来源：IPO日报 7月10日，淮南文峰光电科技股份有限公司（下称“文峰光电”）迎来北交所上市委审议，保荐机构为国元证券。 公司主营航空航天、核工业配套特种线缆与光电组件...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "高盛拿下威瑞森、洛克希德・马丁合计700亿美元资产管理委托业务",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqs7499469.shtml",
-      "date": "2026-07-09 22:34",
-      "summary": "核心要点高盛拿下威瑞森通信与洛克希德・马丁两大企业委托，合计管理 700亿美元退休资产；美国头部大企业资产组合日趋复杂，越来越多企业选择将退休资产外包给专业机构打理...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "法官虽表疑虑仍批准马斯克150万美元SEC和解协议",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqv8528424.shtml",
-      "date": "2026-07-09 22:33",
-      "summary": "美国联邦地区法官斯帕克尔·苏克纳南周三正式批准了埃隆·马斯克与美国证券交易委员会就推特股票收购披露违规案达成的150万美元和解协议...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "台风“巴威”逼近 影响几何",
-      "link": "https://finance.sina.com.cn/china/2026-07-09/doc-inihfpqv8540052.shtml",
-      "date": "2026-07-09 22:32",
-      "summary": "新华社北京7月9日电 题：台风“巴威”逼近 影响几何 新华社记者刘诗平 超强台风“巴威”正在逼近我国沿海地区。中央气象台预报，10日起，华东、华中、华北...",
-      "source": "新华社",
-      "category": "a-stock"
-    },
-    {
-      "title": "翻倍大涨！公募基金首批二季报出炉",
-      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-09/doc-inihfpqx5313829.shtml",
-      "date": "2026-07-09 22:30",
-      "summary": "随着同泰基金旗下多只产品发布季报数据，公募基金二季报的披露也拉开序幕。 以同泰数字经济为例，该基金凭借对科技股的高锐度布局，二季度内实现了翻倍涨幅。",
-      "source": "券商中国",
-      "category": "a-stock"
-    },
-    {
-      "title": "奥特曼：OpenAI全新大模型智能自主编码的Token效率提升54%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqs7495954.shtml",
-      "date": "2026-07-09 22:28",
-      "summary": "OpenAI 首席执行官山姆・奥特曼周四接受采访时表示，公司最新一代人工智能大模型在智能自主编码任务上的 Token 使用效率提升 54%，综合性能对标市面上竞品...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "晋江鞋厂负责人已被控制",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-09/doc-inihfpqu4276003.shtml",
-      "date": "2026-07-09 22:27",
-      "summary": "7月9日，福建晋江陈埭镇江头村辉腾鞋业公司厂房发生火灾，事故已造成28人死亡。记者采访了解到，该企业负责人和相关负责人已被控制，企业账户已冻结。",
-      "source": "新华社",
-      "category": "a-stock"
-    },
-    {
-      "title": "10%普遍关税临近到期日 美国贸易代表称不确定会有新措施完全替代",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqv8518732.shtml",
-      "date": "2026-07-09 22:25",
-      "summary": "在被问及将于本月底到期的10%普遍关税时，美国贸易代表格里尔表示，将以多项措施取而代之。 格里尔对记者表示，他不确定这些措施是否会与现有关税“一对一”替代 他说...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "ETF日报：半导体材料设备中长期投资价值显著，短期或需注意行情波动风险，可持续关注半导体设备ETF",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-09/doc-inihfpqv8513901.shtml",
-      "date": "2026-07-09 22:19",
-      "summary": "今日A股上演V型反弹，午后持续拉升。截至收盘，上证指数涨1.65%，报4036.59点，深证成指涨3.07%，科创综指涨6.68%，创业板指涨4.49%。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "002677，筹划重大事项！停牌！股价5天3涨停！",
-      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-09/doc-inihfpqx5311043.shtml",
-      "date": "2026-07-09 22:19",
-      "summary": "两家上市公司，有望迎来易主时刻！浙江美大(002677)7月9日晚间公告，公司控股股东、实际控制人夏志生、夏鼎正在筹划重大事项，该事项可能导致公司控制权发生变动...",
-      "source": "证券时报e公司",
-      "category": "a-stock"
-    },
-    {
-      "title": "300020，公司及控股股东被证监会立案！",
-      "link": "https://finance.sina.com.cn/stock/s/2026-07-09/doc-inihfpqs7496814.shtml",
-      "date": "2026-07-09 22:16",
-      "summary": "ST银江（300020）7月9日晚间公告，公司及控股股东银江科技集团有限公司当天分别收到中国证监会下发的《立案告知书》，因公司及控股股东涉嫌信息披露违法违规...",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "通用电气股价持续走高，现在入场还合适吗？",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqx5284520.shtml",
-      "date": "2026-07-09 22:12",
-      "summary": "这家航空发动机巨头股价上行趋势明确，但经过一轮大幅上涨后，投资者需要思考：当前入场股价是否已经充分消化了公司基本面利好。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "10倍光纤大牛股长飞光纤，遭百万股抛售，一把套现4亿元",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-09/doc-inihfpqv8510946.shtml",
-      "date": "2026-07-09 22:11",
-      "summary": "7月9日，长江通信发布公告称，截至7月9日，公司通过集中竞价方式出售长飞光纤A股999985股，交易金额4.12亿元，出售价格区间为380.03元/股—448.02元/股。",
-      "source": "中国证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "10倍光纤大牛股，遭百万股抛售，一把套现4亿元",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-09/doc-inihfpqv8510221.shtml",
-      "date": "2026-07-09 22:11",
-      "summary": "7月9日，长江通信发布公告称，截至7月9日，公司通过集中竞价方式出售长飞光纤A股999985股，交易金额4.12亿元，出售价格区间为380.03元/股—448.02元/股。",
-      "source": "中国证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "福建晋江鞋厂火灾现场疏散213人 500余人投入救援",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-09/doc-inihfpqs7495213.shtml",
-      "date": "2026-07-09 22:11",
-      "summary": "记者采访了解到，福建晋江陈埭镇江头村的辉腾鞋业有限公司厂房火灾发生后，属地消防赶赴现场救援，调集救援力量500余人全力开展工作。",
-      "source": "央视新闻客户端",
-      "category": "a-stock"
-    },
-    {
-      "title": "Meta跌幅收窄至0.5%，此前一度跌约4%",
-      "link": "https://finance.sina.com.cn/stock/t/2026-07-09/doc-inihfpqs7491780.shtml",
-      "date": "2026-07-09 22:11",
-      "summary": "（来源：每日经济新闻）每经AI快讯，7月9日，Meta跌幅收窄至0.5%，此前一度跌约4%。消息面上，Meta平台首次推出付费人工智能开发者模式。",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "飞龙股份：2026年半年度业绩预告",
-      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-09/doc-inihfpqv8525178.shtml",
-      "date": "2026-07-09 22:09",
-      "summary": "证券日报网讯 7月9日，飞龙股份发布2026年半年度业绩预告称，公司2026年半年度预计实现归属于上市公司股东的净利润6，800万元至8，000万元。",
-      "source": "证券日报网",
-      "category": "a-stock"
-    },
-    {
-      "title": "早盘：美股小幅上扬 标普指数上涨0.4%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihfpqu4259722.shtml",
-      "date": "2026-07-09 22:07",
-      "summary": "北京时间7月9日晚，美股周四早盘小幅上扬，标普指数上涨0.4%。纳指在芯片股带动下上涨。交易员继续评估美伊紧张局势。特朗普称美国发动打击后伊朗来电寻求达成协议...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "新益昌：公司已有应用于存储领域的设备",
-      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-09/doc-inihfpqv8516817.shtml",
-      "date": "2026-07-09 22:06",
-      "summary": "证券日报网讯 7月9日，新益昌在互动平台回答投资者提问时表示，公司已有应用于存储领域的设备，设备信息详见公司披露的《2025年年度报告》，后续具体情况...",
-      "source": "证券日报网",
-      "category": "a-stock"
-    },
-    {
-      "title": "龙源电力：公司构建了覆盖前期规划、工程建设、生产运行、财务管控以及项目后评价和设备退役的全生命周期成本管控体系",
-      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-09/doc-inihfpqu4262739.shtml",
-      "date": "2026-07-09 22:06",
-      "summary": "证券日报网7月9日讯 ，龙源电力在接受调研者提问时表示，公司构建了覆盖前期规划、工程建设、生产运行、财务管控以及项目后评价和设备退役的全生命周期成本管控体系。",
-      "source": "证券日报网",
-      "category": "a-stock"
-    },
-    {
-      "title": "东芯股份：砺算科技产品覆盖消费卡到专业卡",
-      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-09/doc-inihfpqu4266069.shtml",
-      "date": "2026-07-09 22:05",
-      "summary": "证券日报网7月9日讯 ，东芯股份在接受调研者提问时表示，根据砺算科技微信公众号，砺算科技产品覆盖消费卡到专业卡。其中，专业卡已在2025年开始进行交付...",
-      "source": "证券日报网",
-      "category": "a-stock"
-    },
-    {
-      "title": "特变电工：截至2026年一季度末，公司自营电站约4.3GW",
-      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-09/doc-inihfpqs7497306.shtml",
-      "date": "2026-07-09 22:05",
-      "summary": "证券日报网7月9日讯 ，特变电工在接受调研者提问时表示，公司自营新能源电站分布全国各地，在新疆，在内蒙、河南、云南、江西等地都有分布。",
-      "source": "证券日报网",
-      "category": "a-stock"
-    },
-    {
-      "title": "三峡旅游拟以4576.11万元向控股股东出售九凤谷公司100%股权",
-      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-09/doc-inihfpqv8517666.shtml",
-      "date": "2026-07-09 22:03",
-      "summary": "北京商报讯（记者吴其芸）7月9日，三峡旅游发布公告称，结合公司战略发展规划，为进一步聚焦游轮旅游主业发展，优化资源配置，三峡旅游计划将持有的湖北三峡九凤谷旅游开发...",
-      "source": "北京商报",
       "category": "a-stock"
     }
   ]
