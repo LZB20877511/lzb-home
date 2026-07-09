@@ -1,28 +1,52 @@
 {
-  "updated": "2026-07-09T18:03:49.239786+08:00",
+  "updated": "2026-07-09T18:30:23.155898+08:00",
   "source": "美股聚合",
-  "count": 52,
+  "count": 53,
   "items": [
     {
       "title": "Trump says Iran called to make a deal after U.S. strikes; adds it's unclear if war is back on",
       "link": "https://www.cnbc.com/2026/07/09/trump-iran-war-strikes-hormuz.html",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "When asked whether the U.S. and Iran are returning to full-scale military conflict, Trump responded: \"I don't know.\"",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "NATO Rutte's praise of Trump grabbed headlines  but did it achieve anything?",
+      "title": "PepsiCo earnings miss estimates as North American consumers tighten their budgets",
+      "link": "https://www.cnbc.com/2026/07/09/pepsico-pep-q2-2026-earnings.html",
+      "date": "2026-07-09 18:30",
+      "summary": "PepsiCo reported weaker-than-expected quarterly earnings despite strong international demand.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "What AI companies want for the millions they're spending on elections",
+      "link": "https://www.cnbc.com/2026/07/09/ai-companies-election-spending.html",
+      "date": "2026-07-09 18:30",
+      "summary": "Lawmakers are working on AI legislation  and two major industry PACs are each pushing for their own version of regulation.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "From 'dear Donald' to 'Trump trillion': Inside NATO chief Mark Rutte's U.S. strategy",
       "link": "https://www.cnbc.com/2026/07/09/nato-rutte-trump-europe.html",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "NATO chief Mark Rutte lavished praise on U.S. President Donald Trump during a fractious summit in Turkey this week.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "SpaceX is racing toward orbital data centers. Here are ways to play this emerging technology",
+      "link": "https://www.cnbc.com/2026/07/08/spacex-racing-to-orbital-data-centers-ways-to-play-emerging-technology-.html",
+      "date": "2026-07-09 18:30",
+      "summary": "SpaceXs push toward orbital data centers opens new avenues for AI infrastructure. Wall Street is already mapping the stocks that could benefit.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "AstraZeneca stock dives 9% after heart drug trial misses target",
       "link": "https://www.cnbc.com/2026/07/09/astrazeneca-stock-trial-heart-drug-pharma.html",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "A late-stage clinical trial failed to miss its primary endpoint, U.K.'s laregst drugmaker said Thursday.",
       "source": "CNBC",
       "category": "us-stock"
@@ -30,103 +54,79 @@
     {
       "title": "Ukraines drone playbook is wreaking havoc in Russia  and upending where NATO wants to invest",
       "link": "https://www.cnbc.com/2026/07/09/ukraine-drone-strikes-russia-nato.html",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "Ukraines deep drone strikes on Russian refineries are reshaping the war and pushing NATO toward a $40 billion counter-drone plan.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "SpaceX is racing toward orbital data centers. Here are ways to play this emerging technology",
-      "link": "https://www.cnbc.com/2026/07/08/spacex-racing-to-orbital-data-centers-ways-to-play-emerging-technology-.html",
-      "date": "2026-07-09 18:03",
-      "summary": "SpaceXs push toward orbital data centers opens new avenues for AI infrastructure. Wall Street is already mapping the stocks that could benefit.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Jim Cramer sees a big risk to the bull market resurfacing  and it's not the Iran war",
-      "link": "https://www.cnbc.com/2026/07/08/jim-cramer-risk-bull-market-resurfacing.html",
-      "date": "2026-07-09 18:03",
-      "summary": "CNBC's Jim Cramer said the growing wave of stock offerings and debt issuance is the next big threat to the bull market.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Platner quits Maine Senate race; Democrats set to pick new nominee",
       "link": "https://www.cnbc.com/2026/07/08/platner-quits-maine-senate-race-midterm-elections.html",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "Maine Democrats must now replace Platner with less than four months until the midterm elections.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Trump announces long-shot bid to get Supreme Court to rehear birthright citizenship case",
-      "link": "https://www.cnbc.com/2026/07/08/trump-supreme-court-birthright-citizenship-rehearing.html",
-      "date": "2026-07-09 18:03",
-      "summary": "Trump already asked the Supreme Court to reconsider denying him an appeal of a verdict holding him liable for sexually abusing and defaming E. Jean Carroll.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Meta is building its first big Canadian data center as AI expansion crosses the border",
-      "link": "https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html",
-      "date": "2026-07-09 18:03",
-      "summary": "Meta is building its first big Canadian data center as AI expansion crosses the border.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Waymo to start driverless rides in 4 more U.S. markets as expansion accelerates",
       "link": "https://www.cnbc.com/2026/07/08/waymo-starts-driverless-rides-in-san-diego-las-vegas-tampa-denver.html",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "Waymo has a big lead in the nascent U.S. robotaxi market, and is opening up in more cities.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Trump announces long-shot bid to get Supreme Court to rehear birthright citizenship case",
+      "link": "https://www.cnbc.com/2026/07/08/trump-supreme-court-birthright-citizenship-rehearing.html",
+      "date": "2026-07-09 18:30",
+      "summary": "Trump already asked the Supreme Court to reconsider denying him an appeal of a verdict holding him liable for sexually abusing and defaming E. Jean Carroll.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
       "link": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "The Federal Reserve on Wednesday released minutes from its June 16-17 meeting.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Why the worlds best-performing stock market this year fell into bear territory",
-      "link": "https://www.cnbc.com/2026/07/09/kospi-bear-territory-ai-samsung-skhynix-chipmakers.html",
-      "date": "2026-07-09 18:03",
-      "summary": "The Kospi fell more than 5% on Wednesday, which brought it 20% below its June 19 record high, according to LSEG data.",
+      "title": "Meta is building its first big Canadian data center as AI expansion crosses the border",
+      "link": "https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html",
+      "date": "2026-07-09 18:30",
+      "summary": "Meta is building its first big Canadian data center as AI expansion crosses the border.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Levi Strauss beats quarterly expectations, raises guidance and dividend",
       "link": "https://www.cnbc.com/2026/07/08/levi-strauss-levi-q2-2026-earnings.html",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "Levi Strauss beat quarterly expectations on the top and bottom lines during its fiscal 2026 second quarter.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Trump loses appeals court bid to delay paying E. Jean Carroll $5M in damages",
-      "link": "https://www.cnbc.com/2026/07/08/trump-e-jean-carroll-supreme-court-sex-abuse.html",
-      "date": "2026-07-09 18:03",
-      "summary": "Trump was held civilly liable in two trials for defaming E. Jean Carroll when he denied her claim he sexually abused her in a New York department store.",
+      "title": "Jim Cramer sees a big risk to the bull market resurfacing  and it's not the Iran war",
+      "link": "https://www.cnbc.com/2026/07/08/jim-cramer-risk-bull-market-resurfacing.html",
+      "date": "2026-07-09 18:30",
+      "summary": "CNBC's Jim Cramer said the growing wave of stock offerings and debt issuance is the next big threat to the bull market.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Used EVs keep getting more expensive amid Iran war, high gas prices",
-      "link": "https://www.cnbc.com/2026/07/08/used-ev-prices-gas-war.html",
-      "date": "2026-07-09 18:03",
-      "summary": "The Manheim Used Vehicle Value Index for EVs  which tracks prices of used vehicles sold at its U.S. wholesale auctions  increased 12% compared to June 2025.",
+      "title": "Why the worlds best-performing stock market this year fell into bear territory",
+      "link": "https://www.cnbc.com/2026/07/09/kospi-bear-territory-ai-samsung-skhynix-chipmakers.html",
+      "date": "2026-07-09 18:30",
+      "summary": "The Kospi fell more than 5% on Wednesday, which brought it 20% below its June 19 record high, according to LSEG data.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Where this top bond manager is investing for income in the second half",
       "link": "https://www.cnbc.com/2026/07/08/where-this-top-bond-manager-is-investing-for-income-in-the-second-half.html",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "As the bond landscape shifts, Franklin Templeton Fixed Income chief investment officer Sonal Desai is finding ample opportunities for income.",
       "source": "CNBC",
       "category": "us-stock"
@@ -134,7 +134,7 @@
     {
       "title": "World Cup drives Google Search to record queries per second",
       "link": "https://www.cnbc.com/2026/07/08/world-cup-drives-google-search-to-record-queries-per-second.html",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "The milestone comes amid Lionel Messi and Argentina's popularity.",
       "source": "CNBC",
       "category": "us-stock"
@@ -142,15 +142,23 @@
     {
       "title": "Few bright spots in Wednesday's tough market  why Nvidia stock is one of them",
       "link": "https://www.cnbc.com/2026/07/08/few-bright-spots-in-wednesdays-tough-market-why-nvidia-stock-is-one-of-them.html",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Used EVs keep getting more expensive amid Iran war, high gas prices",
+      "link": "https://www.cnbc.com/2026/07/08/used-ev-prices-gas-war.html",
+      "date": "2026-07-09 18:30",
+      "summary": "The Manheim Used Vehicle Value Index for EVs  which tracks prices of used vehicles sold at its U.S. wholesale auctions  increased 12% compared to June 2025.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "AirPods-maker Luxshare sees shares close lower in tepid Hong Kong debut",
       "link": "https://www.cnbc.com/2026/07/09/luxshare-ipo-hong-kong-debut-apple-airpod-.html",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "The company, which is already listed in Shenzhen, had priced shares in the IPO at 63.28 Hong Kong dollars apiece, raising HK$24.27 billion ($3.09 billion).",
       "source": "CNBC",
       "category": "us-stock"
@@ -158,7 +166,7 @@
     {
       "title": "Gas prices could rise as Iran conflict escalatesa 'budget reset' may help absorb the added cost, financial planners say",
       "link": "https://www.cnbc.com/2026/07/08/iran-conflict-may-lift-gas-priceshow-a-budget-reset-can-help.html",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "Renewed tensions with Iran could push gas prices higher. Here's how financial planners say to adjust your budget.",
       "source": "CNBC",
       "category": "us-stock"
@@ -166,7 +174,7 @@
     {
       "title": "Crypto still 'off the table' for Singapore's Temasek, four years after FTX flop",
       "link": "https://www.cnbc.com/2026/07/09/temasek-takeaways-crypto-defense-ai-european-luxury-names.html",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "Temasek's investment in the now-bankrupt FTX cryptocurrency exchange led to a writedown of $275 million in 2022, drawing much local criticism.",
       "source": "CNBC",
       "category": "us-stock"
@@ -174,7 +182,7 @@
     {
       "title": "Trump's European allies add distance on Iran following testy NATO summit",
       "link": "https://www.cnbc.com/2026/07/08/trump-iran-nato-summit-war-hormuz-strait.html",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "President Donald Trump spent two days in Ankara, Turkey with other NATO member leaders.",
       "source": "CNBC",
       "category": "us-stock"
@@ -182,7 +190,7 @@
     {
       "title": "SpaceX stock closes below debut price at $148 in two-day slide after Nasdaq-100 inclusion",
       "link": "https://www.cnbc.com/2026/07/08/spacex-stock-nasdaq-100-ipo.html",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "SpaceX's record IPO raised a total of $85.7 billion after underwriters exercised the \"greenshoe\" overallotment.",
       "source": "CNBC",
       "category": "us-stock"
@@ -190,7 +198,7 @@
     {
       "title": "China consumer price growth weakens in June while producer inflation rises to near 4-year high",
       "link": "https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "Investors increasingly view China's two-speed growth with robust export and tepid domestic demand as a defining long-term feature of the Chinese economy.",
       "source": "CNBC",
       "category": "us-stock"
@@ -198,7 +206,7 @@
     {
       "title": "China's rare missile test will push wary Asia-Pacific countries to close ranks, analysts say",
       "link": "https://www.cnbc.com/2026/07/08/china-nuclear-missile-launch-test-pacific-weapons-military-defense-alliance-australia-.html",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "China's rare launch of a ballistic missile launch into the Pacific will push regional powers to deepen their defense ties.",
       "source": "CNBC",
       "category": "us-stock"
@@ -206,23 +214,15 @@
     {
       "title": "Delta launches 'basic business' fares without lounge access, seat selection",
       "link": "https://www.cnbc.com/2026/07/08/delta-basic-business-fares.html",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "Delta is launching basic business and other stripped-down premium classes that come with fewer perks.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Oil prices jump more than 4% after Trump threatens to bomb Iran and reimpose naval blockade",
-      "link": "https://www.cnbc.com/2026/07/08/oil-prices-brent-wti-iran-us-hormuz.html",
-      "date": "2026-07-09 18:03",
-      "summary": "Speaking at the NATO summit in Turkey, Trump said he considered the ceasefire with Iran over. His comments came after U.S. airstrikes overnight.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "‘The money would have been life-changing’: My father told my grandmother to slash my inheritance. Is that fair?",
       "link": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "“I could have bought a home for what I hope will be a growing family.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -230,7 +230,7 @@
     {
       "title": "Major drugmaker loses $27 billion in market value after failed trial",
       "link": "https://www.marketwatch.com/story/major-drugmaker-loses-27-billion-in-market-value-after-failed-trial-b891fc61?mod=mw_rss_topstories",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "Two companies  announced on Thursday that the heart disease drug they had been developing failed its Phase III trial.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -238,7 +238,7 @@
     {
       "title": "SK Hynix Nasdaq listing may become the second-largest equity offering ever, trailing only SpaceX’s",
       "link": "https://www.marketwatch.com/story/sk-hynix-nasdaq-listing-may-become-the-second-largest-equity-offering-ever-trailing-only-spacexs-8dca5afa?mod=mw_rss_topstories",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "Friday’s offering of SK Hynix may become the second-largest equity offering ever.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -246,7 +246,7 @@
     {
       "title": "Former Dallas Cowboys cheerleader Reece Weaver buys $750,000 home in Alabama after sudden exit from squad",
       "link": "https://www.marketwatch.com/story/former-dallas-cowboys-cheerleader-reece-weaver-buys-750-000-home-in-alabama-after-sudden-exit-from-squad-71796a9b?mod=mw_rss_topstories",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "Netflix sensation and Dallas Cowboys Cheerleaders darling Reece Weaver has already turned the page on her time with the team—and planted new roots in the state of Alabama",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -254,7 +254,7 @@
     {
       "title": "7-Eleven made $349 million from surge in gasoline prices in the U.S. last quarter",
       "link": "https://www.marketwatch.com/story/7-eleven-made-349-million-from-surge-in-gasoline-prices-in-the-u-s-last-quarter-ce74de85?mod=mw_rss_topstories",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "Convenience store operator 7-Eleven on Thursday disclosed a $349 million profit from the surge in gasoline prices during the last quarter, even as fewer Americans filled their tanks.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -262,9 +262,41 @@
     {
       "title": "Levi’s is finding new ways to win customers — by looking toward tops and ‘denim luxury’",
       "link": "https://www.marketwatch.com/story/levis-is-finding-new-ways-to-win-customers-by-looking-toward-tops-and-denim-luxury-b6e0890a?mod=mw_rss_topstories",
-      "date": "2026-07-09 18:03",
+      "date": "2026-07-09 18:30",
       "summary": "Jeans maker raises its full-year outlook for the second straight time, but shares fall after hours",
       "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "Prediction: TSMC Stock Is Going to Soar After July 16",
+      "link": "https://www.fool.com/investing/2026/07/09/prediction-tsmc-stock-is-going-to-soar-after-july/?.tsrc=rss",
+      "date": "2026-07-09 10:19",
+      "summary": "The foundry giant has underperformed the semiconductor sector this year, but it could step on the gas after its Q2 results are released next week.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Jamie Dimon Said the Clarity Act's Stablecoin Rules Will \"Blow Up\" the System. JPMorgan Chase's June 29 Position Paper Explains Why.",
+      "link": "https://www.fool.com/investing/2026/07/09/jamie-dimon-said-the-clarity-acts-stablecoin-rules/?.tsrc=rss",
+      "date": "2026-07-09 10:15",
+      "summary": "Just how \"stable\" are stablecoins?",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Betting on the price of a chip: why the H100 rental market matters",
+      "link": "https://www.proactiveinvestors.com/companies/news/1095193/betting-on-the-price-of-a-chip-why-the-h100-rental-market-matters-1095193.html?.tsrc=rss",
+      "date": "2026-07-09 10:05",
+      "summary": "Punters on Polymarket are wagering on what it will cost to rent Nvidia's H100 chip by the end of July, and the market says more about the AI economy than almost any equity index. Traders currently ass",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "AI Weekly: Samsung's massive profits, Microsoft's big lays off",
+      "link": "https://finance.yahoo.com/video/ai-weekly-samsungs-massive-profits-095459626.html?.tsrc=rss",
+      "date": "2026-07-09 09:54",
+      "summary": "STORY: From Samsung's huge quarter to Microsoft's big lay offs...This is AI Weekly.:: AI WeeklySamsung flagged a 19-fold jump in second-quarter profits from a year earlier.The South Korean giant estim",
+      "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
@@ -392,30 +424,6 @@
       "link": "https://finance.yahoo.com/m/640dde47-20dd-3925-ab6d-6ca419e1d436/spacex-stock-has-some.html?.tsrc=rss",
       "date": "2026-07-09 08:26",
       "summary": "There are, however, a few much higher numbers out there for investors to consider.  Analyst John Godyn rates shares Buy with a $200 price target, but his bull case is much higher.  We believe this [$2",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "No Forward-Looking Guidance Needed: Fed Chair Kevin Warsh Just Dropped an Unmistakable Clue About Interest Rates",
-      "link": "https://www.fool.com/investing/2026/07/09/fed-chair-kevin-warsh-clear-clue-interest-rates/?.tsrc=rss",
-      "date": "2026-07-09 08:26",
-      "summary": "The new head of the central bank inadvertently spilled the beans on what's likely coming regarding interest rates.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "The Stock Market Just Made a Move That Warren Buffett Has Called \"Playing With Fire.\" History Shows He's Right.",
-      "link": "https://www.fool.com/investing/2026/07/09/the-stock-market-just-made-a-move-that-warren-buff/?.tsrc=rss",
-      "date": "2026-07-09 08:22",
-      "summary": "Buffett has a long track record of investing success and has proven his understanding of the financial markets.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "$1,000 Invested in Tesla 10 Years Ago Is Worth Over $27,000 Today. Can SpaceX Follow That Same Path Over the Next Decade?",
-      "link": "https://www.fool.com/investing/2026/07/09/1000-invested-in-tesla-10-years-ago-is-worth-over/?.tsrc=rss",
-      "date": "2026-07-09 08:05",
-      "summary": "SpaceX would likely need to deliver on long-term ambitions for it to happen.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     }

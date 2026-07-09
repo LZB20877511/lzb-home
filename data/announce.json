@@ -1,297 +1,287 @@
 {
-  "updated": "2026-07-09T18:03:49.240381+08:00",
+  "updated": "2026-07-09T18:30:23.156611+08:00",
   "source": "个股公告",
-  "count": 29,
+  "count": 28,
   "items": [
     {
-      "title": "祥生医疗:祥生医疗关于向2026年限制性股票激励计划激励对象首次授予限制性股票的公告",
-      "link": "https://data.eastmoney.com/notices/detail/688358/20260710/AN202607091826847835.html",
-      "date": "2026-07-09 18:03",
+      "title": "东软集团:东软集团关于以集中竞价交易方式回购公司股份方案的公告",
+      "link": "https://data.eastmoney.com/notices/detail/600718/20260710/AN202607091826848584.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "688358",
-      "stock_name": "祥生医疗"
+      "stock_code": "600718",
+      "stock_name": "东软集团"
     },
     {
-      "title": "龙蟠科技:江苏龙蟠科技集团股份有限公司关于使用闲置募集资金进行现金管理赎回的进展公告",
-      "link": "https://data.eastmoney.com/notices/detail/603906/20260710/AN202607091826847726.html",
-      "date": "2026-07-09 18:03",
+      "title": "惠康科技:关于宁波惠康工业科技股份有限公司以自筹资金预先投入募投项目和支付发行费用的鉴证报告",
+      "link": "https://data.eastmoney.com/notices/detail/001237/20260710/AN202607091826848544.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "603906",
-      "stock_name": "龙蟠科技"
+      "stock_code": "001237",
+      "stock_name": "惠康科技"
     },
     {
-      "title": "龙蟠科技:江苏龙蟠科技集团股份有限公司股票交易异常波动公告",
-      "link": "https://data.eastmoney.com/notices/detail/603906/20260710/AN202607091826847727.html",
-      "date": "2026-07-09 18:03",
+      "title": "炬申股份:2026年第二次临时股东会决议公告",
+      "link": "https://data.eastmoney.com/notices/detail/001202/20260710/AN202607091826848546.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "603906",
-      "stock_name": "龙蟠科技"
+      "stock_code": "001202",
+      "stock_name": "炬申股份"
     },
     {
-      "title": "九州一轨:北京金诚同达律师事务所关于北京九州一轨环境科技股份有限公司2026年第三次临时股东会的法律意见书",
-      "link": "https://data.eastmoney.com/notices/detail/688485/20260710/AN202607091826847777.html",
-      "date": "2026-07-09 18:03",
+      "title": "惠康科技:财通证券股份有限公司关于宁波惠康工业科技股份有限公司使用募集资金置换预先投入募投项目及已支付发行费用的自筹资金的核查意见",
+      "link": "https://data.eastmoney.com/notices/detail/001237/20260710/AN202607091826848547.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "688485",
-      "stock_name": "九州一轨"
+      "stock_code": "001237",
+      "stock_name": "惠康科技"
     },
     {
-      "title": "九州一轨:北京九州一轨环境科技股份有限公司2026年第三次临时股东会决议公告",
-      "link": "https://data.eastmoney.com/notices/detail/688485/20260710/AN202607091826847776.html",
-      "date": "2026-07-09 18:03",
+      "title": "丽尚国潮:立信中联会计师事务所(特殊普通合伙)关于对兰州丽尚国潮实业集团股份有限公司年报问询函的回复",
+      "link": "https://data.eastmoney.com/notices/detail/600738/20260710/AN202607091826848491.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "688485",
-      "stock_name": "九州一轨"
+      "stock_code": "600738",
+      "stock_name": "丽尚国潮"
     },
     {
-      "title": "海螺水泥:翌日披露報表",
-      "link": "https://data.eastmoney.com/notices/detail/600585/20260710/AN202607091826847667.html",
-      "date": "2026-07-09 18:03",
+      "title": "丽尚国潮:丽尚国潮关于2025年年度报告信息披露监管问询函的回复公告",
+      "link": "https://data.eastmoney.com/notices/detail/600738/20260710/AN202607091826848492.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "600585",
-      "stock_name": "海螺水泥"
+      "stock_code": "600738",
+      "stock_name": "丽尚国潮"
     },
     {
-      "title": "海南机场:海南机场设施股份有限公司第十一届董事会第二次会议决议公告",
-      "link": "https://data.eastmoney.com/notices/detail/600515/20260710/AN202607091826847664.html",
-      "date": "2026-07-09 18:03",
+      "title": "嘉事堂:关于收到国资监管部门同意批复、股东签署补充协议暨权益变动的进展公告",
+      "link": "https://data.eastmoney.com/notices/detail/002462/20260710/AN202607091826848487.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "600515",
-      "stock_name": "海南机场"
+      "stock_code": "002462",
+      "stock_name": "嘉事堂"
     },
     {
-      "title": "奥翔药业:奥翔药业2025年年度权益分派实施公告",
-      "link": "https://data.eastmoney.com/notices/detail/603229/20260710/AN202607091826847666.html",
-      "date": "2026-07-09 18:03",
+      "title": "炬申股份:北京市嘉源律师事务所关于炬申物流集团股份有限公司2026年第二次临时股东会的法律意见书",
+      "link": "https://data.eastmoney.com/notices/detail/001202/20260710/AN202607091826848485.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "603229",
-      "stock_name": "奥翔药业"
+      "stock_code": "001202",
+      "stock_name": "炬申股份"
     },
     {
-      "title": "奥翔药业:北京海润天睿律师事务所关于浙江奥翔药业股份有限公司差异化权益分派事项的法律意见书",
-      "link": "https://data.eastmoney.com/notices/detail/603229/20260710/AN202607091826847660.html",
-      "date": "2026-07-09 18:03",
+      "title": "金自天正:北京金自天正智能控制股份有限公司2025年年度权益分派实施公告",
+      "link": "https://data.eastmoney.com/notices/detail/600560/20260710/AN202607091826848490.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "603229",
-      "stock_name": "奥翔药业"
+      "stock_code": "600560",
+      "stock_name": "金自天正"
     },
     {
-      "title": "海南机场:海南机场设施股份有限公司关于发行公司债券方案的公告",
-      "link": "https://data.eastmoney.com/notices/detail/600515/20260710/AN202607091826847661.html",
-      "date": "2026-07-09 18:03",
+      "title": "炬申股份:关于完成补选第四届董事会独立董事的公告",
+      "link": "https://data.eastmoney.com/notices/detail/001202/20260710/AN202607091826848489.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "600515",
-      "stock_name": "海南机场"
+      "stock_code": "001202",
+      "stock_name": "炬申股份"
     },
     {
-      "title": "海南机场:海南机场设施股份有限公司关于公司控股子公司被动形成关联担保的公告",
-      "link": "https://data.eastmoney.com/notices/detail/600515/20260710/AN202607091826847662.html",
-      "date": "2026-07-09 18:03",
+      "title": "惠康科技:第二届董事会第七次会议决议公告",
+      "link": "https://data.eastmoney.com/notices/detail/001237/20260710/AN202607091826848486.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "600515",
-      "stock_name": "海南机场"
+      "stock_code": "001237",
+      "stock_name": "惠康科技"
     },
     {
-      "title": "仙鹤股份:仙鹤股份有限公司关于实施“鹤21转债”赎回暨摘牌的公告",
-      "link": "https://data.eastmoney.com/notices/detail/603733/20260710/AN202607091826847665.html",
-      "date": "2026-07-09 18:03",
+      "title": "炬申股份:北京市中伦(上海)律师事务所关于中证中小投资者服务中心有限责任公司公开征集炬申物流集团股份有限公司表决权的法律意见书",
+      "link": "https://data.eastmoney.com/notices/detail/001202/20260710/AN202607091826848481.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "603733",
-      "stock_name": "仙鹤股份"
+      "stock_code": "001202",
+      "stock_name": "炬申股份"
     },
     {
-      "title": "龙溪股份:福建龙溪轴承(集团)股份有限公司关于部分董事、高级管理人员及核心管理人员增持公司股份的公告(2026-020)",
-      "link": "https://data.eastmoney.com/notices/detail/600592/20260710/AN202607091826847659.html",
-      "date": "2026-07-09 18:03",
+      "title": "惠康科技:关于使用募集资金置换预先投入募投项目及已支付发行费用的自筹资金的公告",
+      "link": "https://data.eastmoney.com/notices/detail/001237/20260710/AN202607091826848479.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "600592",
-      "stock_name": "龙溪股份"
+      "stock_code": "001237",
+      "stock_name": "惠康科技"
     },
     {
-      "title": "海南机场:海南机场设施股份有限公司关于召开2026年第二次临时股东会的通知",
-      "link": "https://data.eastmoney.com/notices/detail/600515/20260710/AN202607091826847663.html",
-      "date": "2026-07-09 18:03",
+      "title": "惠康科技:关于向境外全资子公司增资以实施募投项目的公告",
+      "link": "https://data.eastmoney.com/notices/detail/001237/20260710/AN202607091826848480.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "600515",
-      "stock_name": "海南机场"
+      "stock_code": "001237",
+      "stock_name": "惠康科技"
     },
     {
-      "title": "海南机场:海南机场设施股份有限公司董事、高级管理人员薪酬管理制度(2026年7月修订)",
-      "link": "https://data.eastmoney.com/notices/detail/600515/20260710/AN202607091826847658.html",
-      "date": "2026-07-09 18:03",
+      "title": "中船特气:中船特气股票交易风险提示公告",
+      "link": "https://data.eastmoney.com/notices/detail/688146/20260710/AN202607091826848472.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "600515",
-      "stock_name": "海南机场"
+      "stock_code": "688146",
+      "stock_name": "中船特气"
     },
     {
-      "title": "南方航空:南方航空关于向特定对象发行A股股票申请文件的审核问询函回复的提示性公告",
-      "link": "https://data.eastmoney.com/notices/detail/600029/20260710/AN202607091826847617.html",
-      "date": "2026-07-09 18:03",
+      "title": "芯联集成:芯联集成电路制造股份有限公司关于变更持续督导保荐代表人的公告",
+      "link": "https://data.eastmoney.com/notices/detail/688469/20260710/AN202607091826848423.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "600029",
-      "stock_name": "南方航空"
+      "stock_code": "688469",
+      "stock_name": "芯联集成"
     },
     {
-      "title": "磁谷科技:兴业证券股份有限公司关于南京磁谷科技股份有限公司2025年年度报告的信息披露监管问询函回复的核查意见",
-      "link": "https://data.eastmoney.com/notices/detail/688448/20260710/AN202607091826847653.html",
-      "date": "2026-07-09 18:03",
+      "title": "沧州大化:沧州大化股份有限公司2025年年度权益分派实施公告",
+      "link": "https://data.eastmoney.com/notices/detail/600230/20260710/AN202607091826848403.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "688448",
-      "stock_name": "磁谷科技"
+      "stock_code": "600230",
+      "stock_name": "沧州大化"
     },
     {
-      "title": "磁谷科技:关于上海证券交易所对公司2025年年度报告信息披露监管问询函的回复公告",
-      "link": "https://data.eastmoney.com/notices/detail/688448/20260710/AN202607091826847652.html",
-      "date": "2026-07-09 18:03",
+      "title": "新亚强:2025年年度权益分派实施公告",
+      "link": "https://data.eastmoney.com/notices/detail/603155/20260710/AN202607091826848387.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "688448",
-      "stock_name": "磁谷科技"
+      "stock_code": "603155",
+      "stock_name": "新亚强"
     },
     {
-      "title": "磁谷科技:中兴华会计师事务所(特殊普通合伙)关于对南京磁谷科技股份有限公司2025年年度报告的信息披露监管问询函的专项说明",
-      "link": "https://data.eastmoney.com/notices/detail/688448/20260710/AN202607091826847651.html",
-      "date": "2026-07-09 18:03",
+      "title": "金陵饭店:金陵饭店股份有限公司关于股东回馈活动的自愿性信息披露公告",
+      "link": "https://data.eastmoney.com/notices/detail/601007/20260710/AN202607091826848388.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "688448",
-      "stock_name": "磁谷科技"
+      "stock_code": "601007",
+      "stock_name": "金陵饭店"
     },
     {
-      "title": "南方航空:关于中国南方航空股份有限公司向特定对象发行股票申请文件的审核问询函回复的专项说明",
-      "link": "https://data.eastmoney.com/notices/detail/600029/20260710/AN202607091826847613.html",
-      "date": "2026-07-09 18:03",
+      "title": "红太阳:2026年半年度业绩预告",
+      "link": "https://data.eastmoney.com/notices/detail/000525/20260710/AN202607091826848389.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "600029",
-      "stock_name": "南方航空"
+      "stock_code": "000525",
+      "stock_name": "红太阳"
     },
     {
-      "title": "丰元股份:2026年半年度业绩预告",
-      "link": "https://data.eastmoney.com/notices/detail/002805/20260710/AN202607091826847639.html",
-      "date": "2026-07-09 18:03",
+      "title": "*ST萃华:股票交易异常波动公告",
+      "link": "https://data.eastmoney.com/notices/detail/002731/20260710/AN202607091826848390.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "002805",
-      "stock_name": "丰元股份"
+      "stock_code": "002731",
+      "stock_name": "*ST萃华"
     },
     {
-      "title": "南方航空:北京大成律师事务所关于中国南方航空股份有限公司2026年度向特定对象发行A股股票之补充法律意见书(一)",
-      "link": "https://data.eastmoney.com/notices/detail/600029/20260710/AN202607091826847612.html",
-      "date": "2026-07-09 18:03",
+      "title": "神马股份:大信会计师事务所(特殊普通合伙)关于上海证券交易所《关于神马实业股份有限公司2025年年度报告的信息披露监管问询函》之回复",
+      "link": "https://data.eastmoney.com/notices/detail/600810/20260710/AN202607091826848385.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "600029",
-      "stock_name": "南方航空"
+      "stock_code": "600810",
+      "stock_name": "神马股份"
     },
     {
-      "title": "瑞华泰:瑞华泰股票交易严重异常波动公告",
-      "link": "https://data.eastmoney.com/notices/detail/688323/20260710/AN202607091826847585.html",
-      "date": "2026-07-09 18:03",
+      "title": "神马股份:神马股份关于上海证券交易所《关于神马实业股份有限公司2025年年度报告的信息披露监管问询函》之回复公告",
+      "link": "https://data.eastmoney.com/notices/detail/600810/20260710/AN202607091826848386.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "688323",
-      "stock_name": "瑞华泰"
+      "stock_code": "600810",
+      "stock_name": "神马股份"
     },
     {
-      "title": "盛航股份:关于控股股东增持公司股份计划的公告",
-      "link": "https://data.eastmoney.com/notices/detail/001205/20260710/AN202607091826847582.html",
-      "date": "2026-07-09 18:03",
+      "title": "华建集团:华建集团关于法院裁定批准子公司华建数创重整计划的公告",
+      "link": "https://data.eastmoney.com/notices/detail/600629/20260710/AN202607091826848349.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "001205",
-      "stock_name": "盛航股份"
+      "stock_code": "600629",
+      "stock_name": "华建集团"
     },
     {
-      "title": "工业富联:富士康工业互联网股份有限公司2026年半年度业绩预增公告",
-      "link": "https://data.eastmoney.com/notices/detail/601138/20260710/AN202607091826847541.html",
-      "date": "2026-07-09 18:03",
+      "title": "华建集团:华建数创(上海)科技有限公司破产重整案重整计划草案",
+      "link": "https://data.eastmoney.com/notices/detail/600629/20260710/AN202607091826848348.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "601138",
-      "stock_name": "工业富联"
+      "stock_code": "600629",
+      "stock_name": "华建集团"
     },
     {
-      "title": "山东墨龙:股票交易异常波动公告",
-      "link": "https://data.eastmoney.com/notices/detail/002490/20260710/AN202607091826847510.html",
-      "date": "2026-07-09 18:03",
+      "title": "苏州科达:2026年半年度业绩预亏公告",
+      "link": "https://data.eastmoney.com/notices/detail/603660/20260710/AN202607091826848318.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "002490",
-      "stock_name": "山东墨龙"
+      "stock_code": "603660",
+      "stock_name": "苏州科达"
     },
     {
-      "title": "通源环境:股票交易异常波动公告",
-      "link": "https://data.eastmoney.com/notices/detail/688679/20260710/AN202607091826847529.html",
-      "date": "2026-07-09 18:03",
+      "title": "*ST节能:关于重大诉讼进展及累计新增诉讼、仲裁情况的公告",
+      "link": "https://data.eastmoney.com/notices/detail/000820/20260710/AN202607091826848319.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "688679",
-      "stock_name": "通源环境"
+      "stock_code": "000820",
+      "stock_name": "*ST节能"
     },
     {
-      "title": "东航物流:东航物流关于股东减持股份结果的公告",
-      "link": "https://data.eastmoney.com/notices/detail/601156/20260710/AN202607091826847516.html",
-      "date": "2026-07-09 18:03",
+      "title": "金橙子:2026年第二次临时股东会会议资料",
+      "link": "https://data.eastmoney.com/notices/detail/688291/20260710/AN202607091826848250.html",
+      "date": "2026-07-09 18:30",
       "summary": "",
       "source": "公告API",
       "category": "announce",
-      "stock_code": "601156",
-      "stock_name": "东航物流"
-    },
-    {
-      "title": "荣盛石化:2026年员工持股计划首次持有人会议决议公告",
-      "link": "https://data.eastmoney.com/notices/detail/002493/20260710/AN202607091826847507.html",
-      "date": "2026-07-09 18:03",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002493",
-      "stock_name": "荣盛石化"
+      "stock_code": "688291",
+      "stock_name": "金橙子"
     }
   ]
 }
