@@ -2,36 +2,55 @@ name: 财经数据自动采集
 
 on:
   schedule:
-    - cron: "57 23 * * *"
-    - cron: "12 1 * * *"
-    - cron: "57 1 * * *"
-    - cron: "57 2 * * *"
-    - cron: "57 4 * * *"
-    - cron: "27 6 * * *"
-    - cron: "7 7 * * *"
-    - cron: "57 9 * * 0"
-    - cron: "0 22,0,2,4,6,8,10,12,14,16 * * *"
-    - cron: "0 10,12,13 * * *"
+    # 财经新闻：北京时间每天 6:00-23:00 每小时一次（UTC 22-15）
+    - cron: "0 22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 * * *"
+    # 开盘前强制刷新：北京时间每天 9:00 必更一次（UTC 1:00），独立于 hourly 避免排队延迟漏更
+    - cron: "0 1 * * *"
+    # 投标监控：北京时间每天 8:00 和 17:00（UTC 0:00 和 9:00）
+    - cron: "0 0,9 * * *"
   workflow_dispatch:
 
 jobs:
-  scrape:
+  scrape-news:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      TZ: Asia/Shanghai
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
-      - name: 采集数据
+      - name: 采集财经数据
         run: python tools/rss-scraper.py
-      - name: 生成摘要
+      - name: 生成摘要页
         run: python tools/gen-summary.py
       - name: 提交更新
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git add data/ finance-summary.html
+          git add data/a-stock.json data/us-stock.json data/announce.json finance-summary.html
           git diff --cached --quiet || git commit -m "自动更新: $(TZ='Asia/Shanghai' date '+%m/%d %H:%M')"
+          git push
+
+  scrape-bids:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      TZ: Asia/Shanghai
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: 采集投标信息
+        run: python tools/bid-scraper.py
+      - name: 提交更新
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add data/bids.json data/bids-summary.html
+          git diff --cached --quiet || git commit -m "投标监控: $(TZ='Asia/Shanghai' date '+%m/%d %H:%M')"
           git push
