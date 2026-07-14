@@ -1,350 +1,310 @@
 {
-  "updated": "2026-07-14T15:57:26.746146+08:00",
+  "updated": "2026-07-14T18:00:38.093427+08:00",
   "source": "A股聚合",
-  "count": 43,
+  "count": 38,
   "items": [
     {
-      "title": "英国海事贸易组织称一艘油轮报告在阿曼附近遭导弹击中",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhki8034118.shtml",
-      "date": "2026-07-14 15:56",
-      "summary": "英国海事贸易组织UKMTO发布通告称，一艘油轮报告在沿南部航线驶离相关海域途中遭到导弹击中。 通告显示，事件发生地点位于阿曼利马东南约13海里处。",
+      "title": "西班牙队将迎战法国队！华帝又要“封神”了？",
+      "link": "https://finance.sina.com.cn/stock/enterprise/2026-07-14/doc-inihunsa5226498.shtml",
+      "date": "2026-07-14 17:55",
+      "summary": "7月11日凌晨，美加墨世界杯1/4决赛再燃战火，西班牙队与比利时队在拉斯维加斯忠诚体育场狭路相逢。经过90分钟激战，“斗牛士军团”最终以2：1战胜“欧洲红魔”...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "西班牙力克比利时进入决赛！丁丁历险记倒在了板鸭篇",
+      "link": "https://finance.sina.com.cn/stock/enterprise/cn/2026-07-14/doc-inihunse1231993.shtml",
+      "date": "2026-07-14 17:55",
+      "summary": "北京时间7月11日，2026年美加墨世界杯迎来一场焦点大战，西班牙国家足球队与比利时队在淘汰赛中狭路相逢。经过激烈角逐，西班牙队最终以2比1战胜对手...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "光模块板块集体爆发，“易中天”组合开启反攻模式，创业板人工智能ETF华宝（159363）大涨3.26%",
+      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-14/doc-inihunsa5225387.shtml",
+      "date": "2026-07-14 17:53",
+      "summary": "7月14日，光模块板块集体拉升，“易中天”组合开启反攻模式，带动创业板人工智能ETF华宝（159363）大涨3.26%，十大重仓股中，新易盛涨11%，北京君正涨9.21%，中际旭创涨6...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "世界杯营销“预言帝”又出手：盘点各品牌动作，华帝仍是那个标尺",
+      "link": "https://finance.sina.com.cn/stock/enterprise/cn/2026-07-14/doc-inihunsf8006939.shtml",
+      "date": "2026-07-14 17:53",
+      "summary": "北京时间7月11日，美加墨世界杯四强名单再添强者。继法国队2比0淘汰摩洛哥后，西班牙队2比1绝杀比利时，顽强晋级。 本场比赛西班牙队依靠娴熟传控主导局面...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "买车用车遇到问题怎么投诉？车主维权指南",
+      "link": "https://finance.sina.com.cn/consume/xiaofei/2026-07-14/doc-inihuhke5311969.shtml",
+      "date": "2026-07-14 17:52",
+      "summary": "最近“油价又大涨”的消息让不少车主叫苦不迭。92号汽油一度突破每升8元大关，一箱油比去年多花好几十块。开车出行的成本持续攀升，让很多有车一族开始认真考虑是不是该换电...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "网上买东西货不对板怎么办？教你几招维权避坑",
+      "link": "https://finance.sina.com.cn/consume/xiaofei/2026-07-14/doc-inihuhke5311371.shtml",
+      "date": "2026-07-14 17:52",
+      "summary": "你有没有过这样的经历：在网上看中了一件衣服，图片上模特穿着特别好看，下单后满怀期待地等了好几天，结果拆开快递一看——颜色跟图片完全不一样，面料薄得像纸一样...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "西班牙进四强！预测夺冠第二，将战夺冠第一法国队，华帝你慌了没",
+      "link": "https://finance.sina.com.cn/stock/enterprise/cn/2026-07-14/doc-inihunse1229377.shtml",
+      "date": "2026-07-14 17:52",
+      "summary": "北京时间7月11日清晨，2026美加墨世界杯1/4决赛迎来一场万众瞩目的巅峰对决。斗牛士军团对阵欧洲红魔，两支“黄金一代”交锋，第30分钟，法比安·鲁伊斯补射破门...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "宿命对决！华帝前任将对战现任，夺冠就送青瓷抽真金",
+      "link": "https://finance.sina.com.cn/stock/enterprise/2026-07-14/doc-inihunsa5222893.shtml",
+      "date": "2026-07-14 17:50",
+      "summary": "北京时间7月11日，2026美加墨世界杯1/4决赛落幕。西班牙队凭借成熟的传控体系和高效进攻，最终以2：1击败比利时队，成功晋级4强，延续着本届世界杯的不败神话。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "新欢揍旧爱？世界杯上演一出华帝的白月光VS朱砂痣",
+      "link": "https://finance.sina.com.cn/stock/enterprise/2026-07-14/doc-inihunsa5221958.shtml",
+      "date": "2026-07-14 17:49",
+      "summary": "7月11日，洛杉矶SoFi体育场，西班牙队凭借梅里诺第88分钟的补射一剑封喉，2比1绝杀比利时队挺进世界杯四强。北京时间7月15日凌晨3点...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "首家裁撤总行信用卡中心银行缘何出现？停app、减分中心，银行应对信用卡新发展周期各显神通",
+      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-07-14/doc-inihunsf8006733.shtml",
+      "date": "2026-07-14 17:46",
+      "summary": "原标题：首家裁撤总行信用卡中心银行缘何出现？！停app、减分中心，银行应对信用卡新发展周期各显神通… 来源：行长要鉴 广州银行总行卡中心关闭，“断腕”决心可见一斑。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "存100万解锁5.25%利息？#国有四大行发布紧急提醒#上热搜 网友：不要贪图小便宜而因小失大",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-07-14/doc-inihunry8441872.shtml",
+      "date": "2026-07-14 17:45",
+      "summary": "7月14日金融一线消息，#国有四大行发布紧急提醒#话题登上微博热搜，引发网友热议。 据悉，近期，有不法分子利用第三方互联网平台以及社交媒体等渠道...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "世纪之战！亚马尔大战姆巴佩，华帝“新欢”遇“旧爱”？",
+      "link": "https://finance.sina.com.cn/roll/2026-07-14/doc-inihunsa5218491.shtml",
+      "date": "2026-07-14 17:45",
+      "summary": "北京时间7月11日凌晨，西班牙队在世界杯1/4决赛中2：1淘汰比利时队，时隔16年重返世界杯四强。至此，本届首场半决赛对阵正式落定。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "法国本土内衣品牌登陆IPO，正面抗衡快时尚巨头",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihunry8441496.shtml",
+      "date": "2026-07-14 17:44",
+      "summary": "核心要点 法国内衣品牌法兰西内裤（Le Slip Français） 于周二在巴黎证券交易所挂牌上市。 品牌押注本土制造服饰赛道，正面迎战希音（Shein）...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "三星电子据悉就潜在赴美国发行上市进行初步探讨",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhkh1257343.shtml",
-      "date": "2026-07-14 15:56",
-      "summary": "据知情人士透露，三星电子正处于探索发行美国存托凭证的早期阶段。 知情人士说，该公司已与多家银行进行了初步磋商，但尚未决定是否推进发行计划。",
-      "source": "环球市场播报",
+      "title": "“花式保壳”套路失灵，A股一批“不死鸟”集体退市！上市36年老股，今日摘牌！",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-07-14/doc-inihunsa5220762.shtml",
+      "date": "2026-07-14 17:43",
+      "summary": "7月14日，登陆A股长达36年的深市老五股之一国华退（000004，原证券简称“国华网安”）正式摘牌离场。 近期市场迎来一波老牌上市公司退市潮：退市岩石、国华退...",
+      "source": "新浪财经",
       "category": "a-stock"
     },
     {
-      "title": "美国银行为亚太资本市场业务任命新主管 进一步调整地区管理层",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhke5262193.shtml",
-      "date": "2026-07-14 15:52",
-      "summary": "美国银行晋升Thorsten Pauli领导该行亚太全球资本市场部门，成为地区人员调整的最新一例。 据一份备忘录显示，经验丰富的IPO银行家Pauli将在未来几个月内迁往香港...",
-      "source": "环球市场播报",
+      "title": "炸裂！603629，净利预增超11倍！算力业务爆发",
+      "link": "https://finance.sina.com.cn/stock/s/2026-07-14/doc-inihunse1225134.shtml",
+      "date": "2026-07-14 17:43",
+      "summary": "今年以来，人工智能大模型及应用飞速迭代，导致算力需求暴涨，高端算力供不应求，“算力租赁”四个字，点燃了市场对相关概念的追捧。",
+      "source": "新浪财经",
       "category": "a-stock"
     },
     {
-      "title": "14秒20cm垂直涨停！创新药龙头签下40亿首付大单",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuhki8032754.shtml",
-      "date": "2026-07-14 15:51",
-      "summary": "记者丨季媛媛 编辑丨张伟贤 7月14日午后，A股创新药概念异动拉升。迪哲医药直线拉升，仅用14秒，封“20cm”涨停，最新市值262亿元。",
+      "title": "斩获多项荣誉，高端厨电华帝持续引领“健康厨电”高质量发展",
+      "link": "https://finance.sina.com.cn/roll/2026-07-14/doc-inihunry8440464.shtml",
+      "date": "2026-07-14 17:43",
+      "summary": "高端厨电领导品牌华帝在健康家电领域再获殊荣。近日，在由广东省室内环境卫生行业协会（下文简称“协会”）召开的“美好生活·健康家”（2026）第三届健康人居公益发展大会上...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "子公司为完成承诺造假！母公司被ST！",
+      "link": "https://finance.sina.com.cn/stock/s/2026-07-14/doc-inihunse1222892.shtml",
+      "date": "2026-07-14 17:40",
+      "summary": "来源：IPO日报 7月13日晚间，天际新能源科技股份有限公司（下称“天际股份”，002759）公告称，因2023年年度报告存在虚假记载，公司拟被处以200万元罚款...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "巨力索具（002342）收到正式处罚，投资者索赔案持续推进",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-07-14/doc-inihunsa5215230.shtml",
+      "date": "2026-07-14 17:40",
+      "summary": "2026年7月10日，巨力索具（002342）公告收到河北证监局出具的《行政处罚决定书》，上海久诚律师事务所股票索赔律师许峰提示，此次是证监会下发的正式处罚...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "众泰汽车（000980）被证监会立案索赔启动，证通电子（002197）索赔案再提交法院立案",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-07-14/doc-inihunse1216842.shtml",
+      "date": "2026-07-14 17:38",
+      "summary": "2026年7月10日晚，众泰汽车（000980）公告收到证监会出具的《立案告知书》，因公司涉嫌信息披露违法违规，根据《证券法》《行政处罚法》等法律法规...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "地缘风险扰动通胀预期，美伊博弈推升加息定价",
+      "link": "https://finance.sina.com.cn/money/forex/hbfx/2026-07-14/doc-inihunsf7995215.shtml",
+      "date": "2026-07-14 17:38",
+      "summary": "文章来源：汇通财经 周二（7月14日）亚欧时段，现货黄金展开小幅反弹，面对油价连续大涨，出现少许利空出尽的态势，但近期金价趋势下跌整体受到了真实利率的压制。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "南威软件（603636）被证监会立案索赔启动，鹏博士（600804）索赔案倒计时三天",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-07-14/doc-inihunsa5212977.shtml",
+      "date": "2026-07-14 17:37",
+      "summary": "2026年7月10日晚，南威软件（603636）公告收到证监会出具的《立案告知书》，因公司涉嫌信息披露违法违规，根据《证券法》《行政处罚法》等法律法规...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "美股芯片股盘前大涨，SK海力士涨超6%，百度跌4%，国际油价飙升，黄金盘中跌破4000美元",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-07-14/doc-inihunse1223692.shtml",
+      "date": "2026-07-14 17:36",
+      "summary": "美股芯片股盘前大涨，SK海力士涨超6%，百度跌4%，国际油价飙升，黄金盘中跌破4000美元，美对伊朗恢复海上封锁 美股存储芯片概念股盘前集体反弹，其中，SK海力士涨超6%...",
       "source": "21世纪经济报道",
       "category": "a-stock"
     },
     {
-      "title": "全线爆发！两大概念板块，涨停潮",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuhke5261318.shtml",
-      "date": "2026-07-14 15:48",
-      "summary": "午后全线爆发。 今日（7月14日），A股盘中全线触底反弹，截至收盘，上证指数涨超1%，3900点失而复得；创业板指午后发力反攻，大涨逾3%并收复3800点；深证成指、北证50...",
-      "source": "证券时报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美“星舰”拟于本周四进行第13次试飞 首次搭载实用版“星链”卫星",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhka8481559.shtml",
-      "date": "2026-07-14 15:48",
-      "summary": "SpaceX研发的“星舰”重型运载火箭及超重型助推器预计最快于美东时间本周四（16日）傍晚5点45分（北京时间17日早6点45分）开展第13次不入轨亚轨道飞行测试。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "60万亿消费蓝图落地，消费板块的戴维斯双击还有多远？",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-14/doc-inihuhke5257334.shtml",
-      "date": "2026-07-14 15:47",
-      "summary": "7月13日，国务院正式批复《扩大消费“十五五”规划》。这是中国历史上首份专门针对消费领域制定的国家级五年专项规划，信号意义不言自明。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "富国基金“双十”主动权益基金增至21只，数量居行业第2",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-14/doc-inihuhke5256587.shtml",
-      "date": "2026-07-14 15:47",
-      "summary": "2026年二季度以来，A股市场在AI产业加速落地与地缘格局重塑的双重驱动下，结构性行情持续深化。在权益市场波动加大的背景下，相比短期爆发...",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "美联储理事沃勒促政策决策保持审慎 警告仍保留加息选项",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhke5255529.shtml",
-      "date": "2026-07-14 15:46",
-      "summary": "美联储理事克里斯托弗·沃勒（Christopher Waller）13日在纽约发表讲话时表示，美联储在应对通胀问题时应保持审慎，避免因过度吸取历史教训而仓促调整利率...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "伊媒：伊朗在格什姆岛附近海域救起20余名船员",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuhkh1249970.shtml",
-      "date": "2026-07-14 15:45",
-      "summary": "新华社德黑兰7月14日电（记者沙达提 陈霄）据伊朗法尔斯通讯社14日报道，一艘散货船与另一艘船舶当天在格什姆岛北部海域相撞，伊朗方面成功救起20余名船员。",
-      "source": "新华社",
-      "category": "a-stock"
-    },
-    {
-      "title": "成本压力与竞争加剧 德国大众汽车拟追加裁员5万人",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhkh1243437.shtml",
-      "date": "2026-07-14 15:44",
-      "summary": "德国最大汽车制造商大众集团（Volkswagen）日前在一份内部员工备忘录中发出预警，为应对与行业对手竞争中的不利地位，集团可能需要在全球范围内追加裁员5万人。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "国内规模最大ETF再次易主！银华日利ETF登顶",
-      "link": "https://finance.sina.com.cn/money/fund/jjgsgd/2026-07-14/doc-inihuhke5260787.shtml",
-      "date": "2026-07-14 15:44",
-      "summary": "来源：中国基金报 【导读】国内规模最大ETF再次易主，银华日利ETF登顶 中国基金报记者 若晖 7月13日，A股市场风云突变，上证指数重挫2.06%，一部分避险资金涌入货币ETF...",
+      "title": "银江技术（300020）再被证监会立案，投资者索赔案继续推进",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-07-14/doc-inihunsf7990038.shtml",
+      "date": "2026-07-14 17:35",
+      "summary": "2026年7月9日晚，银江技术（300020）公告，银江技术及控股股东银江科技集团有限公司于2026年7月9日分别收到证监会下发的《立案告知书》...",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "债市周游记：美伊局势升温，债市窄幅震荡",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-14/doc-inihuhkh1241116.shtml",
-      "date": "2026-07-14 15:43",
-      "summary": "",
-      "source": "新浪基金",
+      "title": "赛力斯:高管及骨干拟增持不低于1.19亿元",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-07-14/doc-inihunse1208935.shtml",
+      "date": "2026-07-14 17:30",
+      "summary": "7月14日，赛力斯发布《关于公司董事、高级管理人员及骨干团队增持A股及H股股份计划公告》，公告表示，公司董事、高级管理人员及骨干团队计划自本公告披露日起6个月内...",
+      "source": "新浪证券",
       "category": "a-stock"
     },
     {
-      "title": "【国泰第一时间20260713】外围因素影响，A股缩量调整",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-14/doc-inihuhki8014585.shtml",
-      "date": "2026-07-14 15:40",
-      "summary": "2026年7月13日，A股缩量调整，沪指跌逾2%险守3900点，创业板指跌逾3%，科技成长题材尽数回调，市场近4700股下跌。截止收盘，沪指报3913.79点，跌2.06%；深成指报14522...",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "英伟达与三菱重工拟在AI数据中心技术领域展开合作",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhki8014512.shtml",
-      "date": "2026-07-14 15:40",
-      "summary": "据报道，三菱重工和英伟达正考虑在人工智能（AI）数据中心技术领域展开合作。 双方正研究将三菱重工的冷却系统和能源管理技术整合到英伟达相关设施之中。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "泰周刊：地缘再起波澜，中期仍看结构性机会",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-14/doc-inihuhki8013391.shtml",
-      "date": "2026-07-14 15:39",
-      "summary": "左右滑动查看更多 未来A股市场展望 市场研判 国内方面，核心CPI走低。具体数据来看，6月核心CPI环比为-0.1%，低于历史同期均值，同比回落至1.0%，连续两个月走低。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "印尼矿商低价高税陷困局！镍矿供应收缩，沪镍库存下降",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-14/doc-inihuhke5247081.shtml",
-      "date": "2026-07-14 15:38",
-      "summary": "（来源：长江镍业网） 印尼镍矿市价倒挂基准价，中小矿商陷入低价高税困境。这一信号迅速传导至供应预期，全球最大镍矿国的供给变量再成市场焦点，扰动情绪短线升温。",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "近两百名经济学家与科技领袖联名预警人工智能潜在冲击",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhki8011476.shtml",
-      "date": "2026-07-14 15:38",
-      "summary": "由全球近200名顶尖经济学家、研究人员和科技界领袖联合签署的一份名为《我们必须立即行动》的公开信于13日发表。公开信警告称，人工智能（AI）技术的发展速度和对全球经济...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "印尼矿价倒挂VS现货反涨1200！镍市定价错位暗藏何种信号",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-14/doc-inihuhkh1235306.shtml",
-      "date": "2026-07-14 15:38",
-      "summary": "（来源：长江镍业网） 印尼镍矿市价倒挂基准价，中小矿商深陷低价高税困境，经营空间被双向挤压。而国内长江现货1#镍今日均价却报130050元/吨，单日涨1200元。",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "镍价回升背后，需求承接力成最大悬念",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-14/doc-inihuhke5246667.shtml",
-      "date": "2026-07-14 15:38",
-      "summary": "（来源：长江镍业网） 长江现货1#镍今日均价报130050元/吨，单日涨1200元；沪镍期货最新价格129330元/吨，涨630元。价格齐升，但驱动逻辑却暗藏冲突，多空各执一端。",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "库存周减2525吨、现货涨1200！镍市基差结构透露什么信号",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-14/doc-inihuhki8011111.shtml",
-      "date": "2026-07-14 15:38",
-      "summary": "（来源：长江镍业网） 沪镍库存截至7月10日当周为99097吨，单周减少2525吨，去库节奏延续。与此同时，长江现货1#镍均价报130050元/吨，涨1200元。",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "镍价涨1200，矿商却叫苦？一文拆解镍产业链利润去了哪里",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-14/doc-inihuhka8468547.shtml",
-      "date": "2026-07-14 15:37",
-      "summary": "（来源：长江镍业网） 长江现货1#镍今日均价报130050元/吨，涨1200元，电解镍端回暖。但据CCMN平台7月14日报道，印尼镍矿市价倒挂基准价，中小矿商反陷低价高税困境。",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "日本国债上涨 片山皋月讲话提振投资者信心",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhki8009569.shtml",
-      "date": "2026-07-14 15:36",
-      "summary": "周二日本国债走高，日本财务大臣片山皋月发表的讲话提振了投资者对该国主权债务的信心，20年期国债拍卖吸引了强劲的投资者需求。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "江苏盱眙珠江村镇银行被罚0.91万元：违反反假货币业务管理规定",
-      "link": "https://finance.sina.com.cn/jryx/fd/2026-07-14/doc-inihuhka8467362.shtml",
-      "date": "2026-07-14 15:34",
-      "summary": "7月14日金融一线消息，中国人民银行淮安市分行行政处罚决定信息公示表显示，江苏盱眙珠江村镇银行股份有限公司因违反反假货币业务管理规定，被警告并罚款9100元。",
-      "source": "金融一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "交通银行三明分行被罚28.5万元：违反金融统计管理规定、未按规定报送统计报表",
-      "link": "https://finance.sina.com.cn/jryx/fd/2026-07-14/doc-inihuhke5241807.shtml",
-      "date": "2026-07-14 15:33",
-      "summary": "7月14日金融一线消息，中国人民银行三明市分行行政处罚决定信息公示表显示，交通银行股份有限公司三明分行因违反金融统计管理规定，未按规定报送统计报表，被罚款28...",
-      "source": "金融一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "千亿存储龙头，“深V”反转",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuhka8467667.shtml",
-      "date": "2026-07-14 15:33",
-      "summary": "7月14日午后，A股市场探底回升，集体收涨。截至收盘，沪指涨超1.3%，深证成指涨超2.7%，创业板指涨超3.4%，科创综指涨0.8%。沪深两市成交额约2.7万亿元...",
-      "source": "上海证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "保收入破解养殖困局 新工具护航稳产稳收——大商所首单生猪“保险+期货”收入保险项目落地青岛",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-14/doc-inihuhkh1229540.shtml",
-      "date": "2026-07-14 15:33",
-      "summary": "为更好落实国家关于强化生猪产能综合调控的有关部署，助力生猪产业稳定发展，保障养殖主体合理收益，2026年大商所继续开展基于期货市场的“农民收入保障计划”专项工作...",
+      "title": "智云股份索赔持续征集，维权已有胜诉判决",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-07-14/doc-inihunse1206531.shtml",
+      "date": "2026-07-14 17:25",
+      "summary": "上海沪紫律师事务所刘鹏律师团队近日再次向法院递交一批立案材料，目前该案还在诉讼时效内。 刘鹏律师表示符合于2023年4月28日-2024年4月12日期间买入...",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "韩国考虑将刑事责任最低年龄下调至13周岁",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhix4117366.shtml",
-      "date": "2026-07-14 15:32",
-      "summary": "韩国性别平等家族部周二表示，政府正考虑将刑事责任最低年龄从现行 14 周岁下调 1 周岁，不过最终方案需在进一步征集意见后敲定。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "拓宽全球资本渠道 三星电子据悉初步探讨赴美发行ADR可能性",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhiv7339682.shtml",
-      "date": "2026-07-14 15:30",
-      "summary": "全球半导体与消费电子巨头三星电子正处于探讨发行美国存托凭证（ADR）可能性的早期阶段，意在通过进入美国资本市场来拓宽融资渠道并重塑公司估值。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "日本日经指数收涨 受逢低买入和韩国KOSPI指数反弹提振",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhiv7339488.shtml",
-      "date": "2026-07-14 15:30",
-      "summary": "周二，受逢低买盘支撑以及科技股占主导的韩国股市带来的利好影响，日本日经平均指数上涨。 基准日经225指数上涨0.74%，收于67，743.50点，扭转了早盘一度下跌1...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "午后A股暴力拉升，沪指3887点→3967点！原因找到了",
-      "link": "https://finance.sina.com.cn/roll/2026-07-14/doc-inihuhkh1229500.shtml",
-      "date": "2026-07-14 15:30",
-      "summary": "每经记者|肖芮冬每经编辑|赵云 7月14日，市场探底回升，三大指数集体收涨。截至收盘，沪指涨1.36%，深成指涨2.77%，创业板指涨3.43%。",
-      "source": "每日经济新闻",
-      "category": "a-stock"
-    },
-    {
-      "title": "黎巴嫩贝鲁特港口发生火灾",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuhix4115558.shtml",
-      "date": "2026-07-14 15:27",
-      "summary": "新华社贝鲁特7月14日电 据外媒14日报道，黎巴嫩贝鲁特港口的集装箱堆场发生火灾，现场浓烟滚滚。（完）",
-      "source": "新华社",
-      "category": "a-stock"
-    },
-    {
-      "title": "SK海力士在首尔汇市抛售美元 推动韩元汇率强劲反弹",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhke5235815.shtml",
-      "date": "2026-07-14 15:27",
-      "summary": "受韩国半导体巨头SK海力士公司（SK Hynix）在外汇市场大规模抛售美元影响，韩元对美元汇率14日盘中强劲反弹。截至14日交易时段，美元对韩元汇率下跌0.3%至1492.95。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美联邦取消新能源车税收优惠 加州出台地方补贴政策针锋相对",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhiv7332761.shtml",
-      "date": "2026-07-14 15:25",
-      "summary": "美国加利福尼亚州州长加文·纽森（Gavin Newsom）13日签署了SB 168号法案，正式启动加州新一轮零排放汽车（ZEV）即时补贴计划。分析人士指出...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "外交部：奉劝有关国家不要沦为美方散布虚假信息帮凶",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuhiv7336505.shtml",
-      "date": "2026-07-14 15:24",
-      "summary": "外交部发言人林剑14日在例行记者会上答问时表示，中方一贯反对并依法打击黑客活动，同时反对出于政治目的散布网络安全的虚假信息。",
-      "source": "新华社",
-      "category": "a-stock"
-    },
-    {
-      "title": "外交部：中方对海湾地区军事冲突再起深表关切",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuhka8458193.shtml",
-      "date": "2026-07-14 15:22",
-      "summary": "外交部发言人林剑14日在例行记者会上答问时表示，中方对海湾地区军事冲突再起深表关切，呼吁相关各方顺应国际和地区求和平稳定的强烈呼声，保持理性克制...",
-      "source": "新华社",
-      "category": "a-stock"
-    },
-    {
-      "title": "中天证券换帅：辽宁金控原总经理张远军履新董事长",
-      "link": "https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihuhka8455929.shtml",
-      "date": "2026-07-14 15:22",
-      "summary": "7月14日，澎湃新闻记者获悉，中天证券股份有限公司（下称“中天证券”）已完成换帅。原董事长李安卸任，辽宁金融控股集团有限公司（下称“辽宁金控集团”）原总经理张远军履新...",
-      "source": "澎湃新闻",
-      "category": "a-stock"
-    },
-    {
-      "title": "美国或六年来首现环比“负CPI”？但今晚的重点不在这……",
-      "link": "https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihuhke5231103.shtml",
-      "date": "2026-07-14 15:19",
-      "summary": "财联社7月14日讯（编辑 潇湘）今晚，全球市场的目光将再度聚焦于一份至关重要的美国经济数据上——美国劳工统计局将于北京时间20点半公布6月CPI报告。",
-      "source": "滚动播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "A股收评 | A股探底回升！三大指数集体收涨 科技股领衔反攻 反弹原因浮现",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuhka8454667.shtml",
-      "date": "2026-07-14 15:16",
-      "summary": "来源：智通财经网 7月14日，A股深V反弹，三大指数集体收涨，市场逾4200股飘红，全天成交2.7万亿，较上个交易日缩量1138亿。截至收盘，沪指涨1.36%，深证成指涨2.77%...",
+      "title": "中邮人寿两次反超泰康人寿，李学军打开局面",
+      "link": "https://finance.sina.com.cn/money/insurance/bxyx/2026-07-14/doc-inihunsa5206505.shtml",
+      "date": "2026-07-14 17:24",
+      "summary": "来源：银瑞社 作者：许淑敏 李学军，曝光度走高。 对内，中邮人寿董事会议、股东大会，基本都由李学军主持。 对外，中邮人寿2026年媒体开放日上，李学军携高管团队亮相...",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "特朗普推出霍尔木兹海峡通行费，海运成本或将翻倍",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhiv7318055.shtml",
-      "date": "2026-07-14 15:13",
-      "summary": "航运企业经营者与物流领域专家表示，特朗普总统计划对途经霍尔木兹海峡的船只征收通行费，此举将大幅抬升这条关键航道的原油及其他货物运输成本。",
+      "title": "64岁高迎欣下沉一线，民生银行收购了9家村镇银行",
+      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-07-14/doc-inihunsa5206394.shtml",
+      "date": "2026-07-14 17:24",
+      "summary": "来源：银瑞社 作者：许淑敏 过去两个月，民生银行董事长高迎欣都在各地调研。 先是5月，高迎欣去了河南滑县调研定点帮扶工作，又去了封丘县调研乡村振兴； 再到6月...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "长园集团正式处罚落地，原董事长挪用资金",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-07-14/doc-inihunry8427347.shtml",
+      "date": "2026-07-14 17:24",
+      "summary": "2026年7月14日，长园科技集团股份有限公司（ST长园，600525）正式收到深圳证监局下发的《行政处罚决定书》，此前一个多月的《行政处罚事先告知书》终成定局。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "国瓷材料持续扩张：应收账款高企债务不断抬升 利润何时兑现？",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-07-14/doc-inihunsf7980785.shtml",
+      "date": "2026-07-14 17:24",
+      "summary": "出品：新浪财经上市公司研究院  作者：郝显 国瓷材料近日发布公告，宣布对澳大利亚牙科材料企业SDI Limited100%股权的收购已经完成审批和对价支付，标的从澳交所退市...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "商界宣战！参议院推进五角大楼承包商股票回购、分红限制条款",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihunse1203784.shtml",
+      "date": "2026-07-14 17:23",
+      "summary": "核心要点 商界对一项纳入必须通过的国防法案的条款发起对抗，该条款规定：五角大楼承包商未经国防部批准，不得开展股票回购、支付分红。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "午后，突发！A50直线飙涨，亚太集体拉升！两大利好突袭",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuhke5224702.shtml",
-      "date": "2026-07-14 15:08",
-      "summary": "午后的亚太市场，迎来上涨一波流！ 7月14日下午A股开盘之后，韩国KOSPI指数上演“深V”反弹，持续拉升，一度涨超1%，此前一度跌超5%，三星电子涨超4%。",
-      "source": "券商中国",
+      "title": "同辉信息信披违规终收罚单，受损投资者维权索赔还在继续",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-07-14/doc-inihunsa5203185.shtml",
+      "date": "2026-07-14 17:22",
+      "summary": "2024年3月29日，同辉信息公告称，公司因涉嫌信息披露违法违规，被中国证监会立案调查。历经一年多调查后，2025年10月17日，公司收到北京证监局出具的《行政处罚决定书》...",
+      "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "特朗普霍尔木兹海峡收费方案再度引发市场对原油供应风险的关注",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhka8437490.shtml",
-      "date": "2026-07-14 15:07",
-      "summary": "特朗普计划对所有途经霍尔木兹海峡的货运征收 20% 通行费，这一举措或将打破全球原油供应过剩格局；若美伊冲突再度升级、这条关键航道被迫关停...",
-      "source": "环球市场播报",
+      "title": "天际股份领监管罚单，财务造假引发索赔",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-07-14/doc-inihuhka8555055.shtml",
+      "date": "2026-07-14 17:19",
+      "summary": "2026年7月13日，对于天际股份而言，可谓“冰火两重天”。一边是公司因2023年年报存在虚假记载收到广东证监局的《行政处罚事先告知书》...",
+      "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "收评：创业板指探底回升涨超3% PCB概念等大涨",
-      "link": "https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihuhiv7309821.shtml",
-      "date": "2026-07-14 15:04",
-      "summary": "人民财讯7月14日电，今日三大指数早盘走弱，午后集体走高。截至收盘，沪指涨1.36%，深证成指涨2.77%，创业板指涨3.43%。盘面上，PCB概念掀涨停潮，生益科技...",
-      "source": "证券时报网",
+      "title": "惠伦晶体索赔递交立案，符合要求还可加入",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-07-14/doc-inihuhke5330398.shtml",
+      "date": "2026-07-14 17:17",
+      "summary": "上海沪紫律师事务所刘鹏律师团队近日递交了23位投资者索赔案件至法院。符合于2021年4月23日-2025年4月24日（含当日）期间买入，并在2025年4月25日之后卖出或仍持有而亏损的...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "今夜，全球市场三重大考！",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuhka8555548.shtml",
+      "date": "2026-07-14 17:17",
+      "summary": "来源：华尔街见闻 美联储加息预期骤然升温、银行财报季正式开幕、新任主席首次国会亮相——三重变量在同一时间窗口叠加，令本周二成为近期市场最具决定性意义的单日。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "鸿博股份已有胜诉先例，受损投资者抓紧维权",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-07-14/doc-inihuhkh1328463.shtml",
+      "date": "2026-07-14 17:15",
+      "summary": "鸿博股份投资者索赔事项持续受到市场关注。此次纠纷主要源于公司2023年度业绩预告出现较大调整，引发监管关注，也给部分投资者造成了损失。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "年中经济形势座谈会信息量很大，8位座上宾是什么来头",
+      "link": "https://finance.sina.com.cn/wm/2026-07-14/doc-inihunry8432102.shtml",
+      "date": "2026-07-14 17:15",
+      "summary": "记者丨周潇枭 7月13日下午，中共中央政治局常委、国务院总理李强主持召开经济形势专家和企业家座谈会，听取对当前经济形势和下一步经济工作的意见建议。",
+      "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
+    {
+      "title": "鼎信通讯终审胜诉，其余投资者同案同判维权更快",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-07-14/doc-inihuhke5327494.shtml",
+      "date": "2026-07-14 17:13",
+      "summary": "鼎信通讯证券虚假陈述责任纠纷案件迎来重要进展。部分投资者提起的索赔诉讼已经获得终审判决，并取得胜诉结果。鼎信通讯2025年年报显示...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "大悦城变革，余波未尽",
+      "link": "https://finance.sina.com.cn/stock/s/2026-07-14/doc-inihuhki8110627.shtml",
+      "date": "2026-07-14 17:13",
+      "summary": "来源：地产K线 文/乐居财经 曾树佳 一直在做自我调整的大悦城控股（SZ000031），又有了新的人事变动。 它发布公告称，董事会于近日收到董事、总会计师（财务负责人）...",
+      "source": "市场资讯",
       "category": "a-stock"
     }
   ]
