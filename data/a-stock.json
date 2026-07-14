@@ -1,270 +1,350 @@
 {
-  "updated": "2026-07-14T13:26:26.208350+08:00",
+  "updated": "2026-07-14T15:57:26.746146+08:00",
   "source": "A股聚合",
-  "count": 33,
+  "count": 43,
   "items": [
     {
-      "title": "国泰君安期货：海峡局势再现波澜，这次有什么不一样？",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-14/doc-inihtzzz4122461.shtml",
-      "date": "2026-07-14 13:26",
-      "summary": "国泰君安期货市场分析师 张驰宁 Z0020302 近期霍尔木兹海峡局势再度紧张升级，伊朗波斯湾海峡管理局 12 日发布公告，当前霍尔木兹海峡暂无法通行...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "韩国上半年ICT出口超2500亿美元，同比飙升逾120%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihtzzx7329341.shtml",
-      "date": "2026-07-14 13:07",
-      "summary": "韩国政府周二公布的数据显示，受人工智能热潮推动，今年上半年韩国信息通信技术（ICT）产品出口额达到2539亿美元，同比增长120.5%，创历史新高。",
+      "title": "英国海事贸易组织称一艘油轮报告在阿曼附近遭导弹击中",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhki8034118.shtml",
+      "date": "2026-07-14 15:56",
+      "summary": "英国海事贸易组织UKMTO发布通告称，一艘油轮报告在沿南部航线驶离相关海域途中遭到导弹击中。 通告显示，事件发生地点位于阿曼利马东南约13海里处。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "板块业绩加速兑现，9家券商中报预增全线飘红！证券ETF华泰柏瑞（560400）受资金关注",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-14/doc-inihtzzx7328348.shtml",
-      "date": "2026-07-14 13:06",
-      "summary": "近日，A股进入2026年中期业绩预告密集披露期，市场投资风格持续向业绩确定性主线回归，具备扎实基本面与高增长韧性的行业板块持续获得资金青睐。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "午间利好！688603直线拉升",
-      "link": "https://finance.sina.com.cn/stock/roll/2026-07-14/doc-inihtzzx7337765.shtml",
-      "date": "2026-07-14 13:05",
-      "summary": "7月14日午间，天承科技（688603）披露2026年半年度业绩预告。公司预计2026年上半年实现营业收入3亿元到3.1亿元，同比增加40.75%到45...",
-      "source": "上海证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "国泰海通证券：天工国际首予增持评级 目标价5.20港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-07-14/doc-inihuaae8482538.shtml",
-      "date": "2026-07-14 13:05",
-      "summary": "国泰海通证券发布研报，首予天工国际（00826）“增持”评级，目标价5.20港元。该行预计公司26-28年EPS为0.23/0.37/0.45元，根据可比公司2026年平均26.93xPE...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "大和：思摩尔国际降至“持有”评级 目标价下调至7.6港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-07-14/doc-inihuaae8482451.shtml",
-      "date": "2026-07-14 13:05",
-      "summary": "大和发布研报称，将思摩尔国际（06969）评级由“跑赢大市”下调至“持有”，目标价由17港元大幅下调至7.6港元，以2026至2027年平均每股盈利的27倍目标市盈率作估值...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "高盛：中银香港重申“买入”评级 12个月目标价维持53.3港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-07-14/doc-inihuaae8482388.shtml",
-      "date": "2026-07-14 13:05",
-      "summary": "高盛发布研报称，重申中银香港（02388）“买入”评级，12个月目标价维持53.3港元。该行预测中银香港第二季净利润为105.10亿港元，年度同比增长2%...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "美银证券：洛阳钼业重申“买入”评级 目标价22港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-07-14/doc-inihuaah5259075.shtml",
-      "date": "2026-07-14 13:05",
-      "summary": "美银证券发布研报称，维持洛阳钼业（03993）“买入”评级，目标价22港元。洛阳钼业发布盈喜，预计2026年上半年归属股东净利润为155亿至165亿元人民币...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "高盛：波司登维持“买入”评级 目标价上升至5.3港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-07-14/doc-inihuaah5259023.shtml",
-      "date": "2026-07-14 13:05",
-      "summary": "高盛发布研报称，维持波司登（03998）“买入”评级，将基于13倍2027财年预测市盈率计算的12个月目标价由5.1港元上调至5.3港元。该行指波司登公布了强劲的2026财年下半财年业...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "太平养老河北分公司被罚1万元：承保管控不到位",
-      "link": "https://finance.sina.com.cn/jryx/fd/2026-07-14/doc-inihtzzz4100993.shtml",
-      "date": "2026-07-14 13:03",
-      "summary": "7月14日金融一线消息，国家金融监督管理总局河北监管局行政处罚信息公开表显示，太平养老保险股份有限公司河北分公司因承保管控不到位，被警告并罚款1万元。",
-      "source": "金融一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "机构：第二季度全球智能手机出货量下降11%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuaae8479487.shtml",
-      "date": "2026-07-14 13:01",
-      "summary": "Counterpoint Research周一报告称，全球智能手机出货量在第二季度下降了11%，这是13年来第二季度最低水平。 该研究机构将销量下滑归因于智能手机内存芯片成本上升导致的售...",
+      "title": "三星电子据悉就潜在赴美国发行上市进行初步探讨",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhkh1257343.shtml",
+      "date": "2026-07-14 15:56",
+      "summary": "据知情人士透露，三星电子正处于探索发行美国存托凭证的早期阶段。 知情人士说，该公司已与多家银行进行了初步磋商，但尚未决定是否推进发行计划。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "韩国法院暂停FTC认定Coupang创始人金范为实际控制人",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihtzzx7315597.shtml",
-      "date": "2026-07-14 12:52",
-      "summary": "据媒体周二报道，韩国一家法院暂停了韩国公平交易委员会关于将Coupang创始人金范指定为该电商集团实际控制人的决定。",
+      "title": "美国银行为亚太资本市场业务任命新主管 进一步调整地区管理层",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhke5262193.shtml",
+      "date": "2026-07-14 15:52",
+      "summary": "美国银行晋升Thorsten Pauli领导该行亚太全球资本市场部门，成为地区人员调整的最新一例。 据一份备忘录显示，经验丰富的IPO银行家Pauli将在未来几个月内迁往香港...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "俄罗斯石化重镇萨拉瓦特工业区遭到无人机袭击",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihtzzz4089409.shtml",
-      "date": "2026-07-14 12:50",
-      "summary": "俄罗斯巴什科尔托斯坦共和国行政长官Radiy Khabirov表示，针对萨拉瓦特工业区的一次“大规模”无人机袭击已被成功击退。Khabirov发文称，被击落的无人机残骸坠落后...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "日本20年期国债收益率下跌11个基点至3.635%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihtvtz7442719.shtml",
-      "date": "2026-07-14 12:49",
-      "summary": "日本债券价格上涨，此前周二举行的20年期国债拍卖吸引了众多投资者。 日本20年期国债收益率下跌11个基点至3.635%。30年期国债收益率下降4.5个基点至3.86%。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "SK海力士股价两日暴跌逾20% AI交易有退潮之兆",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihtvuk5379190.shtml",
-      "date": "2026-07-14 12:47",
-      "summary": "SK海力士周二在首尔延续猛烈跌势，两天来的跌幅超过 20%；全球AI硬件股遭遇抛售，加剧市场对今年芯片股惊人升势“涨得太快、走得太远”的疑虑。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "中国建筑国际：附属与中建嘉和联合竞买位于中国福州市的地块",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-14/doc-inihtvtz7438257.shtml",
-      "date": "2026-07-14 12:43",
-      "summary": "中国建筑国际（03311）发布公告，于2026年7月14日，莆田海悦（本公司的间接全资附属公司）及中建嘉和订立联合竞买协议，据此，莆田海悦及中建嘉和同意分别以80%和20%的出资...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "兴业证券：光大环境维持“增持”评级 垃圾焚烧龙头现金流改善显著",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-07-14/doc-inihtvtz7436784.shtml",
-      "date": "2026-07-14 12:42",
-      "summary": "兴业证券发布研报称，维持光大环境（00257）“增持”评级。该行预计2026-2028年归母净利润分别为42.2、44.7、46.7亿港元，同比+7.6%、+5.9%、+4.4%...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "广发证券：腾讯控股维持“买入”评级 合理价值为668.49港元/股",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-07-14/doc-inihtvuh8598701.shtml",
-      "date": "2026-07-14 12:42",
-      "summary": "广发证券发布研报称，腾讯控股（00700）广告和游戏业务带动主营业务的经营杠杆持续提升，预计26-27年收入达到8255亿元/9042亿元，同比增长9.8%/9...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "顶层设计文件出炉 今后五年住房消费发力方向明确！",
-      "link": "https://finance.sina.com.cn/roll/2026-07-14/doc-inihuaah5261425.shtml",
-      "date": "2026-07-14 12:42",
-      "summary": "21世纪经济报道记者 张敏 7月13日，国务院正式批复并发布《扩大消费“十五五”规划》（以下简称《规划》）。《规划》提出，到2030年，消费市场总体规模持续扩大...",
+      "title": "14秒20cm垂直涨停！创新药龙头签下40亿首付大单",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuhki8032754.shtml",
+      "date": "2026-07-14 15:51",
+      "summary": "记者丨季媛媛 编辑丨张伟贤 7月14日午后，A股创新药概念异动拉升。迪哲医药直线拉升，仅用14秒，封“20cm”涨停，最新市值262亿元。",
       "source": "21世纪经济报道",
       "category": "a-stock"
     },
     {
-      "title": "IDC称华为和苹果进一步领跑中国手机市场 芯片涨价加剧马太效应",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihtvuk5369492.shtml",
-      "date": "2026-07-14 12:33",
-      "summary": "国际市场研究机构IDC的数据显示，在截至6月的季度，华为技术有限公司和苹果公司进一步扩大了在中国智能手机市场的领先地位。面对价格上涨压力...",
+      "title": "全线爆发！两大概念板块，涨停潮",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuhke5261318.shtml",
+      "date": "2026-07-14 15:48",
+      "summary": "午后全线爆发。 今日（7月14日），A股盘中全线触底反弹，截至收盘，上证指数涨超1%，3900点失而复得；创业板指午后发力反攻，大涨逾3%并收复3800点；深证成指、北证50...",
+      "source": "证券时报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美“星舰”拟于本周四进行第13次试飞 首次搭载实用版“星链”卫星",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhka8481559.shtml",
+      "date": "2026-07-14 15:48",
+      "summary": "SpaceX研发的“星舰”重型运载火箭及超重型助推器预计最快于美东时间本周四（16日）傍晚5点45分（北京时间17日早6点45分）开展第13次不入轨亚轨道飞行测试。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "特朗普加大威胁之际 伊朗油轮关闭应答器通过霍尔木兹海峡",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihtvuk5367228.shtml",
-      "date": "2026-07-14 12:30",
-      "summary": "过去几天，伊朗油轮一直在以隐蔽方式通过霍尔木兹海峡。随着美伊紧张局势升级，美国称将重新封锁伊朗港口。 据汇编的船舶追踪数据显示，过去一周...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "印度要求国有银行增加外币存款",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihtvuc4199751.shtml",
-      "date": "2026-07-14 12:25",
-      "summary": "印度政府要求国有银行加大力度，从3500万海外印裔群体中吸纳外币存款，以此扩充国家对外储备、提振持续走弱的卢比。 一份声明显示...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "600829，3分钟，从下跌到涨停",
-      "link": "https://finance.sina.com.cn/wm/2026-07-14/doc-inihtvuh8594907.shtml",
-      "date": "2026-07-14 12:25",
-      "summary": "7月14日，A股主要指数冲高回落，截至午间收盘，上证指数跌0.66%，深证成指跌0.42%，创业板指跌0.29%，科创50指数跌3.45%。全市场成交16353亿元...",
-      "source": "上海证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "30家多变6家！润华保险拟挥别新三板，保险中介再撤退",
-      "link": "https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihtvuh8589972.shtml",
-      "date": "2026-07-14 12:24",
-      "summary": "界面新闻记者 | 曾令俊 又一家保险中介公司即将告别新三板舞台。 近日，润华保险（839373.NQ）发布公告称，公司已于2026年7月7日召开临时股东大会...",
-      "source": "界面",
-      "category": "a-stock"
-    },
-    {
-      "title": "日本20年期国债拍卖需求强于12个月平均水平",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihtvuh8586047.shtml",
-      "date": "2026-07-14 12:22",
-      "summary": "周二日本20年期国债拍卖需求强于12个月平均水平，高收益率支撑了买盘。 此次发行的投标倍数为4.52，高于上次的2.97，以及过去12个月的平均值3.54。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "韩元扩大涨幅 升至5月以来最强水平",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihtvuk5362179.shtml",
-      "date": "2026-07-14 12:21",
-      "summary": "韩元升至两个月来的最强水平，受SK海力士ADR相关美元资金流入当地外汇市场的预期提振。 美元/韩元上涨幅度一度达0.7%，至1486.20。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "沃什听证会首秀或迎诸多“拷问”：通胀、反应函数、利率、独立性等等",
-      "link": "https://finance.sina.com.cn/roll/2026-07-14/doc-inihuaah5251188.shtml",
-      "date": "2026-07-14 12:21",
-      "summary": "金十数据 面对今夜议员们的盘问，华尔街不太指望这位拒绝提供任何展望的美联储新掌门人给出明确回复，只求他给出对经济的看法。 7月2日，美联储主席沃什曾公开表示...",
-      "source": "滚动播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "算力硬件H1进出口增长56.6%！创业板50ETF华安(159949)半日成交15.88亿领跑 机构：新一轮上涨动能正在积蓄",
-      "link": "https://finance.sina.com.cn/money/fund/original/2026-07-14/doc-inihtvtz7417778.shtml",
-      "date": "2026-07-14 12:18",
-      "summary": "7月14日，市场冲高回落，三大股指半日收跌，科创50跌超3%，创业板指下跌0.29%。在此背景下，创业板50ETF华安（159949）逆市上涨0.11%，报1.775元，换手率7.77%...",
+      "title": "60万亿消费蓝图落地，消费板块的戴维斯双击还有多远？",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-14/doc-inihuhke5257334.shtml",
+      "date": "2026-07-14 15:47",
+      "summary": "7月13日，国务院正式批复《扩大消费“十五五”规划》。这是中国历史上首份专门针对消费领域制定的国家级五年专项规划，信号意义不言自明。",
       "source": "新浪基金",
       "category": "a-stock"
     },
     {
-      "title": "兴业证券：小菜园维持“增持”评级 派息率水平行业领先",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-07-14/doc-inihtvtz7417636.shtml",
-      "date": "2026-07-14 12:18",
-      "summary": "兴业证券发布研报称，维持小菜园（00999）“增持”评级。该行预计公司2026/2027年营业收入为54.56/56.25亿元，同比增长2.1%/3.1%；净利润为5.8/6.0亿元，同比下降18...",
-      "source": "新浪港股",
+      "title": "富国基金“双十”主动权益基金增至21只，数量居行业第2",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-14/doc-inihuhke5256587.shtml",
+      "date": "2026-07-14 15:47",
+      "summary": "2026年二季度以来，A股市场在AI产业加速落地与地缘格局重塑的双重驱动下，结构性行情持续深化。在权益市场波动加大的背景下，相比短期爆发...",
+      "source": "新浪基金",
       "category": "a-stock"
     },
     {
-      "title": "韩国执政党寻求放宽融资规定，SK海力士有望从中受益",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihtvtz7402265.shtml",
-      "date": "2026-07-14 12:01",
-      "summary": "韩国执政党正寻求放宽限制，以便芯片制造商SK海力士能更轻松地与外部投资者共同设立合资工厂。此举是政府力图将韩国打造为人工智能（AI）强国的举措之一。",
+      "title": "美联储理事沃勒促政策决策保持审慎 警告仍保留加息选项",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhke5255529.shtml",
+      "date": "2026-07-14 15:46",
+      "summary": "美联储理事克里斯托弗·沃勒（Christopher Waller）13日在纽约发表讲话时表示，美联储在应对通胀问题时应保持审慎，避免因过度吸取历史教训而仓促调整利率...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "石油股午前多数上扬 中国石油涨超3%中海油涨超2%",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-14/doc-inihtvuc4177560.shtml",
-      "date": "2026-07-14 12:00",
-      "summary": "石油股午前多数上扬，截至发稿，中国石油（00857）上涨3.24%，报9.55港元；中海油（00883）上涨2.24%，报22.78港元；昆仑能源（00135）上涨1.66%，报6...",
-      "source": "新浪港股",
+      "title": "伊媒：伊朗在格什姆岛附近海域救起20余名船员",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuhkh1249970.shtml",
+      "date": "2026-07-14 15:45",
+      "summary": "新华社德黑兰7月14日电（记者沙达提 陈霄）据伊朗法尔斯通讯社14日报道，一艘散货船与另一艘船舶当天在格什姆岛北部海域相撞，伊朗方面成功救起20余名船员。",
+      "source": "新华社",
       "category": "a-stock"
     },
     {
-      "title": "四环医药午前涨超8% 四环医药渼颜空间冻妍临床研究成果荣登国际SCI期刊",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-14/doc-inihtvuh8569642.shtml",
-      "date": "2026-07-14 11:58",
-      "summary": "四环医药（00460）早盘涨超12%，截至发稿，股价上涨8.33%，现报0.91港元，成交额5561.75万港元。 近日，由四环医药渼颜空间牵头，携手全国多家公立医院与头部医美机构共同...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "软银孙正义认为核聚变将是满足未来AI发展能源需求的关键",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihtvuk5345523.shtml",
-      "date": "2026-07-14 11:56",
-      "summary": "软银集团创始人孙正义表示，在不久的将来，核聚变技术将为满足人工智能（AI）数据中心日益增长的电力需求提供最切实的解决方案。",
+      "title": "成本压力与竞争加剧 德国大众汽车拟追加裁员5万人",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhkh1243437.shtml",
+      "date": "2026-07-14 15:44",
+      "summary": "德国最大汽车制造商大众集团（Volkswagen）日前在一份内部员工备忘录中发出预警，为应对与行业对手竞争中的不利地位，集团可能需要在全球范围内追加裁员5万人。",
       "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "国内规模最大ETF再次易主！银华日利ETF登顶",
+      "link": "https://finance.sina.com.cn/money/fund/jjgsgd/2026-07-14/doc-inihuhke5260787.shtml",
+      "date": "2026-07-14 15:44",
+      "summary": "来源：中国基金报 【导读】国内规模最大ETF再次易主，银华日利ETF登顶 中国基金报记者 若晖 7月13日，A股市场风云突变，上证指数重挫2.06%，一部分避险资金涌入货币ETF...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "债市周游记：美伊局势升温，债市窄幅震荡",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-14/doc-inihuhkh1241116.shtml",
+      "date": "2026-07-14 15:43",
+      "summary": "",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "【国泰第一时间20260713】外围因素影响，A股缩量调整",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-14/doc-inihuhki8014585.shtml",
+      "date": "2026-07-14 15:40",
+      "summary": "2026年7月13日，A股缩量调整，沪指跌逾2%险守3900点，创业板指跌逾3%，科技成长题材尽数回调，市场近4700股下跌。截止收盘，沪指报3913.79点，跌2.06%；深成指报14522...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "英伟达与三菱重工拟在AI数据中心技术领域展开合作",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhki8014512.shtml",
+      "date": "2026-07-14 15:40",
+      "summary": "据报道，三菱重工和英伟达正考虑在人工智能（AI）数据中心技术领域展开合作。 双方正研究将三菱重工的冷却系统和能源管理技术整合到英伟达相关设施之中。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "泰周刊：地缘再起波澜，中期仍看结构性机会",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-14/doc-inihuhki8013391.shtml",
+      "date": "2026-07-14 15:39",
+      "summary": "左右滑动查看更多 未来A股市场展望 市场研判 国内方面，核心CPI走低。具体数据来看，6月核心CPI环比为-0.1%，低于历史同期均值，同比回落至1.0%，连续两个月走低。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "印尼矿商低价高税陷困局！镍矿供应收缩，沪镍库存下降",
+      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-14/doc-inihuhke5247081.shtml",
+      "date": "2026-07-14 15:38",
+      "summary": "（来源：长江镍业网） 印尼镍矿市价倒挂基准价，中小矿商陷入低价高税困境。这一信号迅速传导至供应预期，全球最大镍矿国的供给变量再成市场焦点，扰动情绪短线升温。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "近两百名经济学家与科技领袖联名预警人工智能潜在冲击",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhki8011476.shtml",
+      "date": "2026-07-14 15:38",
+      "summary": "由全球近200名顶尖经济学家、研究人员和科技界领袖联合签署的一份名为《我们必须立即行动》的公开信于13日发表。公开信警告称，人工智能（AI）技术的发展速度和对全球经济...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "印尼矿价倒挂VS现货反涨1200！镍市定价错位暗藏何种信号",
+      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-14/doc-inihuhkh1235306.shtml",
+      "date": "2026-07-14 15:38",
+      "summary": "（来源：长江镍业网） 印尼镍矿市价倒挂基准价，中小矿商深陷低价高税困境，经营空间被双向挤压。而国内长江现货1#镍今日均价却报130050元/吨，单日涨1200元。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "镍价回升背后，需求承接力成最大悬念",
+      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-14/doc-inihuhke5246667.shtml",
+      "date": "2026-07-14 15:38",
+      "summary": "（来源：长江镍业网） 长江现货1#镍今日均价报130050元/吨，单日涨1200元；沪镍期货最新价格129330元/吨，涨630元。价格齐升，但驱动逻辑却暗藏冲突，多空各执一端。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "库存周减2525吨、现货涨1200！镍市基差结构透露什么信号",
+      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-14/doc-inihuhki8011111.shtml",
+      "date": "2026-07-14 15:38",
+      "summary": "（来源：长江镍业网） 沪镍库存截至7月10日当周为99097吨，单周减少2525吨，去库节奏延续。与此同时，长江现货1#镍均价报130050元/吨，涨1200元。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "镍价涨1200，矿商却叫苦？一文拆解镍产业链利润去了哪里",
+      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-14/doc-inihuhka8468547.shtml",
+      "date": "2026-07-14 15:37",
+      "summary": "（来源：长江镍业网） 长江现货1#镍今日均价报130050元/吨，涨1200元，电解镍端回暖。但据CCMN平台7月14日报道，印尼镍矿市价倒挂基准价，中小矿商反陷低价高税困境。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "日本国债上涨 片山皋月讲话提振投资者信心",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhki8009569.shtml",
+      "date": "2026-07-14 15:36",
+      "summary": "周二日本国债走高，日本财务大臣片山皋月发表的讲话提振了投资者对该国主权债务的信心，20年期国债拍卖吸引了强劲的投资者需求。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "江苏盱眙珠江村镇银行被罚0.91万元：违反反假货币业务管理规定",
+      "link": "https://finance.sina.com.cn/jryx/fd/2026-07-14/doc-inihuhka8467362.shtml",
+      "date": "2026-07-14 15:34",
+      "summary": "7月14日金融一线消息，中国人民银行淮安市分行行政处罚决定信息公示表显示，江苏盱眙珠江村镇银行股份有限公司因违反反假货币业务管理规定，被警告并罚款9100元。",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "交通银行三明分行被罚28.5万元：违反金融统计管理规定、未按规定报送统计报表",
+      "link": "https://finance.sina.com.cn/jryx/fd/2026-07-14/doc-inihuhke5241807.shtml",
+      "date": "2026-07-14 15:33",
+      "summary": "7月14日金融一线消息，中国人民银行三明市分行行政处罚决定信息公示表显示，交通银行股份有限公司三明分行因违反金融统计管理规定，未按规定报送统计报表，被罚款28...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "千亿存储龙头，“深V”反转",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuhka8467667.shtml",
+      "date": "2026-07-14 15:33",
+      "summary": "7月14日午后，A股市场探底回升，集体收涨。截至收盘，沪指涨超1.3%，深证成指涨超2.7%，创业板指涨超3.4%，科创综指涨0.8%。沪深两市成交额约2.7万亿元...",
+      "source": "上海证券报",
+      "category": "a-stock"
+    },
+    {
+      "title": "保收入破解养殖困局 新工具护航稳产稳收——大商所首单生猪“保险+期货”收入保险项目落地青岛",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-14/doc-inihuhkh1229540.shtml",
+      "date": "2026-07-14 15:33",
+      "summary": "为更好落实国家关于强化生猪产能综合调控的有关部署，助力生猪产业稳定发展，保障养殖主体合理收益，2026年大商所继续开展基于期货市场的“农民收入保障计划”专项工作...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "韩国考虑将刑事责任最低年龄下调至13周岁",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhix4117366.shtml",
+      "date": "2026-07-14 15:32",
+      "summary": "韩国性别平等家族部周二表示，政府正考虑将刑事责任最低年龄从现行 14 周岁下调 1 周岁，不过最终方案需在进一步征集意见后敲定。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "拓宽全球资本渠道 三星电子据悉初步探讨赴美发行ADR可能性",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhiv7339682.shtml",
+      "date": "2026-07-14 15:30",
+      "summary": "全球半导体与消费电子巨头三星电子正处于探讨发行美国存托凭证（ADR）可能性的早期阶段，意在通过进入美国资本市场来拓宽融资渠道并重塑公司估值。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "日本日经指数收涨 受逢低买入和韩国KOSPI指数反弹提振",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhiv7339488.shtml",
+      "date": "2026-07-14 15:30",
+      "summary": "周二，受逢低买盘支撑以及科技股占主导的韩国股市带来的利好影响，日本日经平均指数上涨。 基准日经225指数上涨0.74%，收于67，743.50点，扭转了早盘一度下跌1...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "午后A股暴力拉升，沪指3887点→3967点！原因找到了",
+      "link": "https://finance.sina.com.cn/roll/2026-07-14/doc-inihuhkh1229500.shtml",
+      "date": "2026-07-14 15:30",
+      "summary": "每经记者|肖芮冬每经编辑|赵云 7月14日，市场探底回升，三大指数集体收涨。截至收盘，沪指涨1.36%，深成指涨2.77%，创业板指涨3.43%。",
+      "source": "每日经济新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "黎巴嫩贝鲁特港口发生火灾",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuhix4115558.shtml",
+      "date": "2026-07-14 15:27",
+      "summary": "新华社贝鲁特7月14日电 据外媒14日报道，黎巴嫩贝鲁特港口的集装箱堆场发生火灾，现场浓烟滚滚。（完）",
+      "source": "新华社",
+      "category": "a-stock"
+    },
+    {
+      "title": "SK海力士在首尔汇市抛售美元 推动韩元汇率强劲反弹",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhke5235815.shtml",
+      "date": "2026-07-14 15:27",
+      "summary": "受韩国半导体巨头SK海力士公司（SK Hynix）在外汇市场大规模抛售美元影响，韩元对美元汇率14日盘中强劲反弹。截至14日交易时段，美元对韩元汇率下跌0.3%至1492.95。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美联邦取消新能源车税收优惠 加州出台地方补贴政策针锋相对",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhiv7332761.shtml",
+      "date": "2026-07-14 15:25",
+      "summary": "美国加利福尼亚州州长加文·纽森（Gavin Newsom）13日签署了SB 168号法案，正式启动加州新一轮零排放汽车（ZEV）即时补贴计划。分析人士指出...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "外交部：奉劝有关国家不要沦为美方散布虚假信息帮凶",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuhiv7336505.shtml",
+      "date": "2026-07-14 15:24",
+      "summary": "外交部发言人林剑14日在例行记者会上答问时表示，中方一贯反对并依法打击黑客活动，同时反对出于政治目的散布网络安全的虚假信息。",
+      "source": "新华社",
+      "category": "a-stock"
+    },
+    {
+      "title": "外交部：中方对海湾地区军事冲突再起深表关切",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuhka8458193.shtml",
+      "date": "2026-07-14 15:22",
+      "summary": "外交部发言人林剑14日在例行记者会上答问时表示，中方对海湾地区军事冲突再起深表关切，呼吁相关各方顺应国际和地区求和平稳定的强烈呼声，保持理性克制...",
+      "source": "新华社",
+      "category": "a-stock"
+    },
+    {
+      "title": "中天证券换帅：辽宁金控原总经理张远军履新董事长",
+      "link": "https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihuhka8455929.shtml",
+      "date": "2026-07-14 15:22",
+      "summary": "7月14日，澎湃新闻记者获悉，中天证券股份有限公司（下称“中天证券”）已完成换帅。原董事长李安卸任，辽宁金融控股集团有限公司（下称“辽宁金控集团”）原总经理张远军履新...",
+      "source": "澎湃新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "美国或六年来首现环比“负CPI”？但今晚的重点不在这……",
+      "link": "https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihuhke5231103.shtml",
+      "date": "2026-07-14 15:19",
+      "summary": "财联社7月14日讯（编辑 潇湘）今晚，全球市场的目光将再度聚焦于一份至关重要的美国经济数据上——美国劳工统计局将于北京时间20点半公布6月CPI报告。",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "A股收评 | A股探底回升！三大指数集体收涨 科技股领衔反攻 反弹原因浮现",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuhka8454667.shtml",
+      "date": "2026-07-14 15:16",
+      "summary": "来源：智通财经网 7月14日，A股深V反弹，三大指数集体收涨，市场逾4200股飘红，全天成交2.7万亿，较上个交易日缩量1138亿。截至收盘，沪指涨1.36%，深证成指涨2.77%...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "特朗普推出霍尔木兹海峡通行费，海运成本或将翻倍",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhiv7318055.shtml",
+      "date": "2026-07-14 15:13",
+      "summary": "航运企业经营者与物流领域专家表示，特朗普总统计划对途经霍尔木兹海峡的船只征收通行费，此举将大幅抬升这条关键航道的原油及其他货物运输成本。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "午后，突发！A50直线飙涨，亚太集体拉升！两大利好突袭",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuhke5224702.shtml",
+      "date": "2026-07-14 15:08",
+      "summary": "午后的亚太市场，迎来上涨一波流！ 7月14日下午A股开盘之后，韩国KOSPI指数上演“深V”反弹，持续拉升，一度涨超1%，此前一度跌超5%，三星电子涨超4%。",
+      "source": "券商中国",
+      "category": "a-stock"
+    },
+    {
+      "title": "特朗普霍尔木兹海峡收费方案再度引发市场对原油供应风险的关注",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuhka8437490.shtml",
+      "date": "2026-07-14 15:07",
+      "summary": "特朗普计划对所有途经霍尔木兹海峡的货运征收 20% 通行费，这一举措或将打破全球原油供应过剩格局；若美伊冲突再度升级、这条关键航道被迫关停...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "收评：创业板指探底回升涨超3% PCB概念等大涨",
+      "link": "https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihuhiv7309821.shtml",
+      "date": "2026-07-14 15:04",
+      "summary": "人民财讯7月14日电，今日三大指数早盘走弱，午后集体走高。截至收盘，沪指涨1.36%，深证成指涨2.77%，创业板指涨3.43%。盘面上，PCB概念掀涨停潮，生益科技...",
+      "source": "证券时报网",
       "category": "a-stock"
     }
   ]
