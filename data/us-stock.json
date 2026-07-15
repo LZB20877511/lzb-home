@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-15T18:46:00.815367+08:00",
+  "updated": "2026-07-15T18:57:32.854869+08:00",
   "source": "美股聚合",
-  "count": 52,
+  "count": 53,
   "items": [
     {
       "title": "U.S. launches fresh wave of strikes on Iran, as analysts warn conflict risks becoming 'forever war'",
       "link": "https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "Fighting in the Middle East has intensified in recent days, but could escalate further if Iran fails to cooperate, President Donald Trump said.",
       "source": "CNBC",
       "category": "us-stock"
@@ -14,7 +14,7 @@
     {
       "title": "PayPal jumps 16% in premarket on report of Stripe, Advent $53 billion takeover offer",
       "link": "https://www.cnbc.com/2026/07/15/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion-reuters.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "Stripe and Advent International have reportedly made a joint offer to acquire PayPal Holdings Inc for $60.50 per share, in a deal that would value the payments company at more than $53 billion.",
       "source": "CNBC",
       "category": "us-stock"
@@ -22,7 +22,7 @@
     {
       "title": "ASML rises 4% after hiking sales forecast for second time this year on strong AI chip demand",
       "link": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "ASML on Wednesday raised its guidance for a second time this year as its customers continue to ramp up their production capacity of AI chips.",
       "source": "CNBC",
       "category": "us-stock"
@@ -30,15 +30,23 @@
     {
       "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
       "link": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "IBM just had its worst day ever. Oppenheimer thinks investors should stay away from the stock",
+      "link": "https://www.cnbc.com/2026/07/15/ibm-just-had-its-worst-day-ever-heres-how-oppenheimer-rates-it.html",
+      "date": "2026-07-15 18:57",
+      "summary": "The investment firm downgraded IBM to perform from outperform.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
       "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.",
       "source": "CNBC",
       "category": "us-stock"
@@ -46,7 +54,7 @@
     {
       "title": "New York becomes first U.S. state to impose AI data center ban",
       "link": "https://www.cnbc.com/2026/07/14/new-york-ai-data-center-ban.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "New York became the first state to ban construction of 'hyperscale' AI data centers, for one year, after Gov. Kathy Hochul signed an executive order Tuesday.",
       "source": "CNBC",
       "category": "us-stock"
@@ -54,7 +62,7 @@
     {
       "title": "Lucid dismisses report that it is weighing filing for bankruptcy or going private after shares plunge",
       "link": "https://www.cnbc.com/2026/07/14/lucid-stock-lcid-bankruptcy-report.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "The report said Lucid was considering options that could include going private or filing for bankruptcy protection.",
       "source": "CNBC",
       "category": "us-stock"
@@ -62,7 +70,7 @@
     {
       "title": "Current and former employees sue Meta, alleging discrimination in using AI to conduct layoffs",
       "link": "https://www.cnbc.com/2026/07/14/meta-lawsuit-layoffs-ai.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "The lawsuit filed by current and former Meta employees underscores rising concerns about AI's impact on jobs and people with disabilities in the workforce.",
       "source": "CNBC",
       "category": "us-stock"
@@ -70,7 +78,7 @@
     {
       "title": "Jim Cramer says concerns about AI market froth are overblown. Here's why",
       "link": "https://www.cnbc.com/2026/07/14/jim-cramer-concerns-ai-market-froth-overblown.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "CNBC's Jim Cramer said today's stock market is far less concerning than it was during the dot-com bubble.",
       "source": "CNBC",
       "category": "us-stock"
@@ -78,39 +86,39 @@
     {
       "title": "Warren Buffett is accelerating his charitable donations with aim to give away Berkshire wealth by 2034",
       "link": "https://www.cnbc.com/2026/07/14/warren-buffett-is-accelerating-his-charitable-donations-with-aim-to-give-away-berkshire-wealth-by-2034.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "Warren Buffett is speeding up the pace of his annual donations of Berkshire Hathaway shares to four family foundations, giving them a total of almost $6 billion now.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Why Europe is suddenly betting big on drones",
-      "link": "https://www.cnbc.com/2026/07/15/drones-defense-europe-autonomous-weapons.html",
-      "date": "2026-07-15 18:45",
-      "summary": "Drones and autonomous systems are moving from niche battlefield tools to a core part of modern warfare.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Apple in talks with startup that shrinks AI models to run on an iPhone",
       "link": "https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "PrismML says its compressed version of Alibabas Qwen model uses up to 15 times less memory, potentially advancing Apples AI push.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Midnight social media curfew and limits to infinite scrolling proposed for older UK teens",
-      "link": "https://www.cnbc.com/2026/07/15/social-media-ban-uk-midnight-curfews-infinite-scroll-teens.html",
-      "date": "2026-07-15 18:45",
-      "summary": "The U.K. government has proposed new measures to protect older teens on social media, including a midnight curfew and a limit to infinite scrolling.",
+      "title": "Renewed Hormuz hostilities drive ECB rates rethin amid extremely volatile outlook",
+      "link": "https://www.cnbc.com/2026/07/15/ecb-interest-rates-outlook-iran-war-hormuz.html",
+      "date": "2026-07-15 18:57",
+      "summary": "Several consecutive days of strikes exchanged between the U.S. and Iran have cast uncertainty on the European Central Bank's interest rate decision next week.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Why Europe is suddenly betting big on drones",
+      "link": "https://www.cnbc.com/2026/07/15/drones-defense-europe-autonomous-weapons.html",
+      "date": "2026-07-15 18:57",
+      "summary": "Drones and autonomous systems are moving from niche battlefield tools to a core part of modern warfare.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Heres the inflation breakdown for June 2026  in one chart",
       "link": "https://www.cnbc.com/2026/07/14/inflation-cpi-june-2026-in-one-chart.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "The consumer price index rose 3.5% in June from a year earlier, a deceleration after several months of upward moves.",
       "source": "CNBC",
       "category": "us-stock"
@@ -118,7 +126,7 @@
     {
       "title": "Johnson & Johnson has a chance to show it's more than just a rotation winner",
       "link": "https://www.cnbc.com/2026/07/14/johnson-johnson-has-a-chance-to-show-its-more-than-just-a-rotation-winner.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "The healthcare giant's second-quarter earnings will shine the spotlight on its exciting new products and pipeline.",
       "source": "CNBC",
       "category": "us-stock"
@@ -126,7 +134,7 @@
     {
       "title": "Zipline adds ex-Tesla, Uber, Waymo execs to make drone delivery mainstream across U.S.",
       "link": "https://www.cnbc.com/2026/07/14/zipline-drone-delivery-tesla-uber-waymo-executives.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "Zipline is growing its drone delivery business in the U.S., and has hired former Tesla, Uber Eats and Waymo executives to help it scale up in new markets.",
       "source": "CNBC",
       "category": "us-stock"
@@ -134,7 +142,7 @@
     {
       "title": "Home prices hit a new record high  these 3 strategies can help you save",
       "link": "https://www.cnbc.com/select/how-to-save-on-buying-a-house/",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "Choosing specific lenders and loan types, plus improving your credit, can help you save.",
       "source": "CNBC",
       "category": "us-stock"
@@ -142,7 +150,7 @@
     {
       "title": "U.S. trade official says 'very few' Nvidia H200 AI chips have been shipped to China",
       "link": "https://www.cnbc.com/2026/07/14/nvidia-h200-ai-chips-china.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "The remark is a sign that H200 shipments to China have restarted, potentially boosting Nvidia's sales even higher.",
       "source": "CNBC",
       "category": "us-stock"
@@ -150,7 +158,7 @@
     {
       "title": "Paramount still plans to close WBD merger by end of September despite lawsuit",
       "link": "https://www.cnbc.com/2026/07/14/paramount-wbd-merger-lawsuit.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "Paramount is still planning for its acquisition of Warner Bros. Discovery to close by late September despite lawsuit challenge from state attorneys general.",
       "source": "CNBC",
       "category": "us-stock"
@@ -158,7 +166,7 @@
     {
       "title": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
       "link": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "That second-quarter growth came below Beijing's full-year growth target range of 4.5% to 5%, the least ambitious goal in decades.",
       "source": "CNBC",
       "category": "us-stock"
@@ -166,7 +174,7 @@
     {
       "title": "SK Hynix South Korean shares jump 8% as Asia tech stocks rally",
       "link": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "SK Hynix led a broad rally in Asian technology shares on Wednesday, tracking a rebound in U.S. semiconductor shares after a sharp selloff earlier this week.",
       "source": "CNBC",
       "category": "us-stock"
@@ -174,7 +182,7 @@
     {
       "title": "IBM stock craters 25%, the worst day on record, after company issues second-quarter earnings warning",
       "link": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "The CEO blamed the shortfall on weakness in the software and infrastructure business because clients shifted money toward hardware purchases.",
       "source": "CNBC",
       "category": "us-stock"
@@ -182,7 +190,7 @@
     {
       "title": "Elon Musk likely broke the law by giving voters $1 million, Wisconsin board says",
       "link": "https://www.cnbc.com/2026/07/14/elon-musk-likely-broke-the-law-by-giving-voters-1-million-wisconsin-board-says.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "Elon Musk likely broke Wisconsin law when he handed out $1 million checks to voters in the 2025 state Supreme Court election, a bipartisan panel found.",
       "source": "CNBC",
       "category": "us-stock"
@@ -190,15 +198,23 @@
     {
       "title": "Wednesday's big stock stories: Whats likely to move the market in the next trading session",
       "link": "https://www.cnbc.com/2026/07/14/wednesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "Stocks closed higher on Tuesday, helped by signs of easing inflation, which boosted investor hopes that the Federal Reserve can hold off on rate hikes for the moment.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
+      "title": "Luxury stocks rally on Richemont  sales beat — but the sector still needs China, says analyst",
+      "link": "https://www.marketwatch.com/story/luxury-stocks-rally-on-richemont-sales-beat-but-the-sector-still-needs-china-says-analyst-75450032?mod=mw_rss_topstories",
+      "date": "2026-07-15 18:57",
+      "summary": "The luxury company that owns Cartier reported a 20% increase in sales year-on-year, boosting its stock.",
+      "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
       "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
       "link": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "“I’ve just been ignoring their attempts.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -206,7 +222,7 @@
     {
       "title": "‘They cut off online access’: My mother’s bank balance plummeted after her death. What’s going on?",
       "link": "https://www.marketwatch.com/story/they-cut-off-online-access-my-mothers-bank-balance-plummeted-after-her-death-whats-going-on-8e8f3aa2?mod=mw_rss_topstories",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "“Since her death, her bank balance fell to $9,000 from $16,000.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -214,7 +230,7 @@
     {
       "title": "It’s boom and bust in the hedge-fund world as both liquidations and new launches spike",
       "link": "https://www.marketwatch.com/story/its-boom-and-bust-in-the-hedge-fund-world-as-both-liquidations-and-new-launches-spike-0c99b896?mod=mw_rss_topstories",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "The number of hedge-fund liquidations reached a two-year high in the first quarter, a period which also saw a boom in new launches.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -222,7 +238,7 @@
     {
       "title": "Why the huge premium on SK Hynix’s U.S. listing may prove short-lived.",
       "link": "https://www.marketwatch.com/story/why-the-huge-premium-on-sk-hynixs-u-s-listing-may-prove-short-lived-582045f2?mod=mw_rss_topstories",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "If the Korean depository allows conversion, then the ADR premium on SK Hynix may contract.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -230,7 +246,7 @@
     {
       "title": "Stripe and Advent reportedly team up to bid for battered PayPal. Michael Burry says the offer isn’t enough.",
       "link": "https://www.marketwatch.com/story/a-53-billion-lifeline-stripe-and-advent-reportedly-team-up-to-bid-for-battered-paypal-3bc6fcc2?mod=mw_rss_topstories",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "PayPal, the struggling payments processor, rallied in premarket trade on Wednesday on a report that rival Stripe is teaming up with private-equity group Advent International on a bid.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -238,7 +254,7 @@
     {
       "title": "ASML is scrambling to build more capacity after blockbuster beat-and-raise quarter",
       "link": "https://www.marketwatch.com/story/asml-is-scrambling-to-build-more-capacity-after-blockbuster-beat-and-raise-quarter-89e2febb?mod=mw_rss_topstories",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "Shares in the Dutch company climbed 6% in pre-market trading after it lifted its outlook by up to 19% for 2026.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -246,16 +262,8 @@
     {
       "title": "Still struggling to find a buyer, actress Aubrey Plaza cuts price of $5 million L.A. home",
       "link": "https://www.marketwatch.com/story/still-struggling-to-find-a-buyer-actress-aubrey-plaza-cuts-price-of-5-million-l-a-home-2907691c?mod=mw_rss_topstories",
-      "date": "2026-07-15 18:45",
+      "date": "2026-07-15 18:57",
       "summary": "Aubrey Plaza has lowered the price of her Spanish-style California compound by nearly a half-million dollars—less than two months after she relisted the property at a drastically reduced ask.",
-      "source": "MarketWatch",
-      "category": "us-stock"
-    },
-    {
-      "title": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump",
-      "link": "https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories",
-      "date": "2026-07-15 18:45",
-      "summary": "Americans got some relief at the gas pump in recent weeks, enough to slow down inflation. That might not last long as the U.S. and Iran continue to vie for control of the Strait of Hormuz.",
       "source": "MarketWatch",
       "category": "us-stock"
     },
