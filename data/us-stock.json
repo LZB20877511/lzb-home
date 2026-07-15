@@ -1,68 +1,172 @@
 {
-  "updated": "2026-07-15T16:02:33.539564+08:00",
+  "updated": "2026-07-15T18:46:00.815367+08:00",
   "source": "美股聚合",
-  "count": 50,
+  "count": 52,
   "items": [
     {
-      "title": "ASML jumps over 7% after hiking sales forecast for second time this year on strong AI chip demand",
+      "title": "U.S. launches fresh wave of strikes on Iran, as analysts warn conflict risks becoming 'forever war'",
+      "link": "https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html",
+      "date": "2026-07-15 18:45",
+      "summary": "Fighting in the Middle East has intensified in recent days, but could escalate further if Iran fails to cooperate, President Donald Trump said.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "PayPal jumps 16% in premarket on report of Stripe, Advent $53 billion takeover offer",
+      "link": "https://www.cnbc.com/2026/07/15/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion-reuters.html",
+      "date": "2026-07-15 18:45",
+      "summary": "Stripe and Advent International have reportedly made a joint offer to acquire PayPal Holdings Inc for $60.50 per share, in a deal that would value the payments company at more than $53 billion.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "ASML rises 4% after hiking sales forecast for second time this year on strong AI chip demand",
       "link": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html",
-      "date": "2026-07-15 16:02",
+      "date": "2026-07-15 18:45",
       "summary": "ASML on Wednesday raised its guidance for a second time this year as its customers continue to ramp up their production capacity of AI chips.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports",
-      "link": "https://www.cnbc.com/2026/07/15/oil-prices-today-brent-wti-hormuz-blockade.html",
-      "date": "2026-07-15 16:02",
-      "summary": "Oil prices rose Wednesday after U.S. forces struck Tehran and Washington reinstated its naval blockade of Iranian ports near the Strait of Hormuz.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Stripe, Advent offer to buy PayPal for more than $53 billion: Reuters",
-      "link": "https://www.cnbc.com/2026/07/15/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion-reuters.html",
-      "date": "2026-07-15 16:02",
-      "summary": "Stripe and Advent International have made a joint offer to acquire PayPal Holdings Inc for $60.50 per share, in a deal that would value the payments company at more than $53 billion.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
-      "link": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html",
-      "date": "2026-07-15 16:02",
-      "summary": "That second-quarter growth came below Beijing's full-year growth target range of 4.5% to 5%, the least ambitious goal in decades.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Why Europe is suddenly betting big on drones",
-      "link": "https://www.cnbc.com/2026/07/15/drones-defense-europe-autonomous-weapons.html",
-      "date": "2026-07-15 16:02",
-      "summary": "Drones and autonomous systems are moving from niche battlefield tools to a core part of modern warfare.",
+      "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
+      "link": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
+      "date": "2026-07-15 18:45",
+      "summary": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
       "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-      "date": "2026-07-15 16:02",
+      "date": "2026-07-15 18:45",
       "summary": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "U.S. strikes Iranian missile sites, defense systems and reinstates port blockade",
-      "link": "https://www.cnbc.com/2026/07/14/iran-strikes-hormuz-strait-blockade-trump-tolls.html",
-      "date": "2026-07-15 16:02",
-      "summary": "President Donald Trump has said the U.S.-Iran ceasefire is over following multiple flare-ups of hostilities in the region.",
+      "title": "New York becomes first U.S. state to impose AI data center ban",
+      "link": "https://www.cnbc.com/2026/07/14/new-york-ai-data-center-ban.html",
+      "date": "2026-07-15 18:45",
+      "summary": "New York became the first state to ban construction of 'hyperscale' AI data centers, for one year, after Gov. Kathy Hochul signed an executive order Tuesday.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "SK Hynix South Korean shares jump 11% as Asia tech stocks rally",
+      "title": "Lucid dismisses report that it is weighing filing for bankruptcy or going private after shares plunge",
+      "link": "https://www.cnbc.com/2026/07/14/lucid-stock-lcid-bankruptcy-report.html",
+      "date": "2026-07-15 18:45",
+      "summary": "The report said Lucid was considering options that could include going private or filing for bankruptcy protection.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Current and former employees sue Meta, alleging discrimination in using AI to conduct layoffs",
+      "link": "https://www.cnbc.com/2026/07/14/meta-lawsuit-layoffs-ai.html",
+      "date": "2026-07-15 18:45",
+      "summary": "The lawsuit filed by current and former Meta employees underscores rising concerns about AI's impact on jobs and people with disabilities in the workforce.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Jim Cramer says concerns about AI market froth are overblown. Here's why",
+      "link": "https://www.cnbc.com/2026/07/14/jim-cramer-concerns-ai-market-froth-overblown.html",
+      "date": "2026-07-15 18:45",
+      "summary": "CNBC's Jim Cramer said today's stock market is far less concerning than it was during the dot-com bubble.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Warren Buffett is accelerating his charitable donations with aim to give away Berkshire wealth by 2034",
+      "link": "https://www.cnbc.com/2026/07/14/warren-buffett-is-accelerating-his-charitable-donations-with-aim-to-give-away-berkshire-wealth-by-2034.html",
+      "date": "2026-07-15 18:45",
+      "summary": "Warren Buffett is speeding up the pace of his annual donations of Berkshire Hathaway shares to four family foundations, giving them a total of almost $6 billion now.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Why Europe is suddenly betting big on drones",
+      "link": "https://www.cnbc.com/2026/07/15/drones-defense-europe-autonomous-weapons.html",
+      "date": "2026-07-15 18:45",
+      "summary": "Drones and autonomous systems are moving from niche battlefield tools to a core part of modern warfare.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Apple in talks with startup that shrinks AI models to run on an iPhone",
+      "link": "https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html",
+      "date": "2026-07-15 18:45",
+      "summary": "PrismML says its compressed version of Alibabas Qwen model uses up to 15 times less memory, potentially advancing Apples AI push.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Midnight social media curfew and limits to infinite scrolling proposed for older UK teens",
+      "link": "https://www.cnbc.com/2026/07/15/social-media-ban-uk-midnight-curfews-infinite-scroll-teens.html",
+      "date": "2026-07-15 18:45",
+      "summary": "The U.K. government has proposed new measures to protect older teens on social media, including a midnight curfew and a limit to infinite scrolling.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Heres the inflation breakdown for June 2026  in one chart",
+      "link": "https://www.cnbc.com/2026/07/14/inflation-cpi-june-2026-in-one-chart.html",
+      "date": "2026-07-15 18:45",
+      "summary": "The consumer price index rose 3.5% in June from a year earlier, a deceleration after several months of upward moves.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Johnson & Johnson has a chance to show it's more than just a rotation winner",
+      "link": "https://www.cnbc.com/2026/07/14/johnson-johnson-has-a-chance-to-show-its-more-than-just-a-rotation-winner.html",
+      "date": "2026-07-15 18:45",
+      "summary": "The healthcare giant's second-quarter earnings will shine the spotlight on its exciting new products and pipeline.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Zipline adds ex-Tesla, Uber, Waymo execs to make drone delivery mainstream across U.S.",
+      "link": "https://www.cnbc.com/2026/07/14/zipline-drone-delivery-tesla-uber-waymo-executives.html",
+      "date": "2026-07-15 18:45",
+      "summary": "Zipline is growing its drone delivery business in the U.S., and has hired former Tesla, Uber Eats and Waymo executives to help it scale up in new markets.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Home prices hit a new record high  these 3 strategies can help you save",
+      "link": "https://www.cnbc.com/select/how-to-save-on-buying-a-house/",
+      "date": "2026-07-15 18:45",
+      "summary": "Choosing specific lenders and loan types, plus improving your credit, can help you save.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "U.S. trade official says 'very few' Nvidia H200 AI chips have been shipped to China",
+      "link": "https://www.cnbc.com/2026/07/14/nvidia-h200-ai-chips-china.html",
+      "date": "2026-07-15 18:45",
+      "summary": "The remark is a sign that H200 shipments to China have restarted, potentially boosting Nvidia's sales even higher.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Paramount still plans to close WBD merger by end of September despite lawsuit",
+      "link": "https://www.cnbc.com/2026/07/14/paramount-wbd-merger-lawsuit.html",
+      "date": "2026-07-15 18:45",
+      "summary": "Paramount is still planning for its acquisition of Warner Bros. Discovery to close by late September despite lawsuit challenge from state attorneys general.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
+      "link": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html",
+      "date": "2026-07-15 18:45",
+      "summary": "That second-quarter growth came below Beijing's full-year growth target range of 4.5% to 5%, the least ambitious goal in decades.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "SK Hynix South Korean shares jump 8% as Asia tech stocks rally",
       "link": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
-      "date": "2026-07-15 16:02",
+      "date": "2026-07-15 18:45",
       "summary": "SK Hynix led a broad rally in Asian technology shares on Wednesday, tracking a rebound in U.S. semiconductor shares after a sharp selloff earlier this week.",
       "source": "CNBC",
       "category": "us-stock"
@@ -70,336 +174,248 @@
     {
       "title": "IBM stock craters 25%, the worst day on record, after company issues second-quarter earnings warning",
       "link": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html",
-      "date": "2026-07-15 16:02",
+      "date": "2026-07-15 18:45",
       "summary": "The CEO blamed the shortfall on weakness in the software and infrastructure business because clients shifted money toward hardware purchases.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Jim Cramer says concerns about AI market froth are overblown. Here's why",
-      "link": "https://www.cnbc.com/2026/07/14/jim-cramer-concerns-ai-market-froth-overblown.html",
-      "date": "2026-07-15 16:02",
-      "summary": "CNBC's Jim Cramer said today's stock market is far less concerning than it was during the dot-com bubble.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Heres the inflation breakdown for June 2026  in one chart",
-      "link": "https://www.cnbc.com/2026/07/14/inflation-cpi-june-2026-in-one-chart.html",
-      "date": "2026-07-15 16:02",
-      "summary": "The consumer price index rose 3.5% in June from a year earlier, a deceleration after several months of upward moves.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
-      "link": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-      "date": "2026-07-15 16:02",
-      "summary": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Current and former employees sue Meta, alleging discrimination in using AI to conduct layoffs",
-      "link": "https://www.cnbc.com/2026/07/14/meta-lawsuit-layoffs-ai.html",
-      "date": "2026-07-15 16:02",
-      "summary": "The lawsuit filed by current and former Meta employees underscores rising concerns about AI's impact on jobs and people with disabilities in the workforce.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "SK Hynix options begin trading. But another group of stocks is stealing its thunder",
-      "link": "https://www.cnbc.com/2026/07/14/sk-hynix-options-begin-trading-but-another-group-of-stocks-is-stealing-its-thunder.html",
-      "date": "2026-07-15 16:02",
-      "summary": "One explanation for the lack of notable call-buying is that the surge in single-stock ETFs and leveraged funds stole a big chunk of the speculative limelight.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Barclays believes SK Hynix's U.S. shares can double. Here's why",
-      "link": "https://www.cnbc.com/2026/07/14/barclays-believes-sk-hynixs-us-shares-can-double-heres-why.html",
-      "date": "2026-07-15 16:02",
-      "summary": "The memory shortage will allow price increases that will boost revenue, Barclays says.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Elon Musk likely broke the law by giving voters $1 million, Wisconsin board says",
       "link": "https://www.cnbc.com/2026/07/14/elon-musk-likely-broke-the-law-by-giving-voters-1-million-wisconsin-board-says.html",
-      "date": "2026-07-15 16:02",
+      "date": "2026-07-15 18:45",
       "summary": "Elon Musk likely broke Wisconsin law when he handed out $1 million checks to voters in the 2025 state Supreme Court election, a bipartisan panel found.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Johnson & Johnson has a chance to show it's more than just a rotation winner",
-      "link": "https://www.cnbc.com/2026/07/14/johnson-johnson-has-a-chance-to-show-its-more-than-just-a-rotation-winner.html",
-      "date": "2026-07-15 16:02",
-      "summary": "The healthcare giant's second-quarter earnings will shine the spotlight on its exciting new products and pipeline.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "New York becomes first U.S. state to impose AI data center ban",
-      "link": "https://www.cnbc.com/2026/07/14/new-york-ai-data-center-ban.html",
-      "date": "2026-07-15 16:02",
-      "summary": "New York became the first state to ban construction of 'hyperscale' AI data centers, for one year, after Gov. Kathy Hochul signed an executive order Tuesday.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Wednesday's big stock stories: Whats likely to move the market in the next trading session",
       "link": "https://www.cnbc.com/2026/07/14/wednesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
-      "date": "2026-07-15 16:02",
+      "date": "2026-07-15 18:45",
       "summary": "Stocks closed higher on Tuesday, helped by signs of easing inflation, which boosted investor hopes that the Federal Reserve can hold off on rate hikes for the moment.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Lucid dismisses report that it is weighing filing for bankruptcy or going private after shares plunge",
-      "link": "https://www.cnbc.com/2026/07/14/lucid-stock-lcid-bankruptcy-report.html",
-      "date": "2026-07-15 16:02",
-      "summary": "The report said Lucid was considering options that could include going private or filing for bankruptcy protection.",
-      "source": "CNBC",
+      "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
+      "link": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
+      "date": "2026-07-15 18:45",
+      "summary": "“I’ve just been ignoring their attempts.”",
+      "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "Zipline adds ex-Tesla, Uber, Waymo execs to make drone delivery mainstream across U.S.",
-      "link": "https://www.cnbc.com/2026/07/14/zipline-drone-delivery-tesla-uber-waymo-executives.html",
-      "date": "2026-07-15 16:02",
-      "summary": "Zipline is growing its drone delivery business in the U.S., and has hired former Tesla, Uber Eats and Waymo executives to help it scale up in new markets.",
-      "source": "CNBC",
+      "title": "‘They cut off online access’: My mother’s bank balance plummeted after her death. What’s going on?",
+      "link": "https://www.marketwatch.com/story/they-cut-off-online-access-my-mothers-bank-balance-plummeted-after-her-death-whats-going-on-8e8f3aa2?mod=mw_rss_topstories",
+      "date": "2026-07-15 18:45",
+      "summary": "“Since her death, her bank balance fell to $9,000 from $16,000.”",
+      "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "Oil prices rise as U.S. launches new Iran airstrikes, while Trump abandons Strait of Hormuz fee",
-      "link": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
-      "date": "2026-07-15 16:02",
-      "summary": "Oil prices rose on Tuesday after U.S. President Donald Trump announced plans to impose shipping fees in the Strait of Hormuz.",
-      "source": "CNBC",
+      "title": "It’s boom and bust in the hedge-fund world as both liquidations and new launches spike",
+      "link": "https://www.marketwatch.com/story/its-boom-and-bust-in-the-hedge-fund-world-as-both-liquidations-and-new-launches-spike-0c99b896?mod=mw_rss_topstories",
+      "date": "2026-07-15 18:45",
+      "summary": "The number of hedge-fund liquidations reached a two-year high in the first quarter, a period which also saw a boom in new launches.",
+      "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "Cybersecurity stocks rally on AI spending change comments from IBM's Krishna",
-      "link": "https://www.cnbc.com/2026/07/14/cybersecurity-stocks-ai-spending-mythos.html",
-      "date": "2026-07-15 16:02",
-      "summary": "IBM CEO Arvind Krishna told CNBC's Sara Eisen that some major deals were put on hold toward the end of the quarter as businesses rethink spending.",
-      "source": "CNBC",
+      "title": "Why the huge premium on SK Hynix’s U.S. listing may prove short-lived.",
+      "link": "https://www.marketwatch.com/story/why-the-huge-premium-on-sk-hynixs-u-s-listing-may-prove-short-lived-582045f2?mod=mw_rss_topstories",
+      "date": "2026-07-15 18:45",
+      "summary": "If the Korean depository allows conversion, then the ADR premium on SK Hynix may contract.",
+      "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "U.S. trade official says 'very few' Nvidia H200 AI chips have been shipped to China",
-      "link": "https://www.cnbc.com/2026/07/14/nvidia-h200-ai-chips-china.html",
-      "date": "2026-07-15 16:02",
-      "summary": "The remark is a sign that H200 shipments to China have restarted, potentially boosting Nvidia's sales even higher.",
-      "source": "CNBC",
+      "title": "Stripe and Advent reportedly team up to bid for battered PayPal. Michael Burry says the offer isn’t enough.",
+      "link": "https://www.marketwatch.com/story/a-53-billion-lifeline-stripe-and-advent-reportedly-team-up-to-bid-for-battered-paypal-3bc6fcc2?mod=mw_rss_topstories",
+      "date": "2026-07-15 18:45",
+      "summary": "PayPal, the struggling payments processor, rallied in premarket trade on Wednesday on a report that rival Stripe is teaming up with private-equity group Advent International on a bid.",
+      "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "ASML is scrambling to build more capacity after blockbuster beat-and-raise quarter",
+      "link": "https://www.marketwatch.com/story/asml-is-scrambling-to-build-more-capacity-after-blockbuster-beat-and-raise-quarter-89e2febb?mod=mw_rss_topstories",
+      "date": "2026-07-15 18:45",
+      "summary": "Shares in the Dutch company climbed 6% in pre-market trading after it lifted its outlook by up to 19% for 2026.",
+      "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "Still struggling to find a buyer, actress Aubrey Plaza cuts price of $5 million L.A. home",
+      "link": "https://www.marketwatch.com/story/still-struggling-to-find-a-buyer-actress-aubrey-plaza-cuts-price-of-5-million-l-a-home-2907691c?mod=mw_rss_topstories",
+      "date": "2026-07-15 18:45",
+      "summary": "Aubrey Plaza has lowered the price of her Spanish-style California compound by nearly a half-million dollars—less than two months after she relisted the property at a drastically reduced ask.",
+      "source": "MarketWatch",
       "category": "us-stock"
     },
     {
       "title": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump",
       "link": "https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories",
-      "date": "2026-07-15 16:02",
+      "date": "2026-07-15 18:45",
       "summary": "Americans got some relief at the gas pump in recent weeks, enough to slow down inflation. That might not last long as the U.S. and Iran continue to vie for control of the Strait of Hormuz.",
       "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "This overlooked index is a better investment than the S&P 500",
-      "link": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
-      "date": "2026-07-15 16:02",
-      "summary": "We did the math over a 30-year period, and it’s not even close.",
-      "source": "MarketWatch",
-      "category": "us-stock"
-    },
-    {
-      "title": "Your monthly Netflix bill is up 29% in just over a year. It’s time for Washington to step in.",
-      "link": "https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories",
-      "date": "2026-07-15 16:02",
-      "summary": "Netflix is still a Wall Street favorite — and a target for government regulators",
-      "source": "MarketWatch",
-      "category": "us-stock"
-    },
-    {
-      "title": "What IBM’s profit warning means: Hardware is ‘eating everyone’s lunch’",
-      "link": "https://www.marketwatch.com/story/what-ibms-profit-warning-means-hardware-is-eating-everyones-lunch-c6878824?mod=mw_rss_topstories",
-      "date": "2026-07-15 16:02",
-      "summary": "The company said the shortfall in its software and infrastructure business was tied to clients spending on memory ahead of price hikes.",
-      "source": "MarketWatch",
-      "category": "us-stock"
-    },
-    {
-      "title": "Taco Bell reportedly being investigated by health officials, as cyclosporiasis outbreak spreads",
-      "link": "https://www.marketwatch.com/story/officials-are-reportedly-looking-into-taco-bell-as-source-of-parasite-outbreak-remains-elusive-3ead0a1f?mod=mw_rss_topstories",
-      "date": "2026-07-15 16:02",
-      "summary": "Shares of Taco Bell parent Yum Brands were down nearly 4% on Tuesday.",
-      "source": "MarketWatch",
-      "category": "us-stock"
-    },
-    {
-      "title": "Wall Street has set a sky-high bar for companies to clear this earnings season. They just might pull it off.",
-      "link": "https://www.marketwatch.com/story/wall-street-has-set-a-sky-high-bar-for-companies-to-clear-this-earnings-season-they-just-might-pull-it-off-45731862?mod=mw_rss_topstories",
-      "date": "2026-07-15 16:02",
-      "summary": "Analysts have set a sky-high bar for second-quarter earnings. However, Piper Sandler thinks corporate America can still clear it.",
-      "source": "MarketWatch",
-      "category": "us-stock"
-    },
-    {
-      "title": "Your stock portfolio is tied to the Japanese yen — and a looming intervention is flashing a major warning sign",
-      "link": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
-      "date": "2026-07-15 16:02",
-      "summary": "What the link between the yen and U.S. stocks means for your portfolio.",
-      "source": "MarketWatch",
-      "category": "us-stock"
-    },
-    {
-      "title": "Missed Out On The SpaceX IPO? Buy These Industrial Giants Instead.",
-      "link": "https://www.fool.com/investing/2026/07/15/missed-out-on-the-spacex-ipo-buy-these-industrial/?.tsrc=rss",
-      "date": "2026-07-15 07:25",
-      "summary": "Investors can gain exposure to the space boom through established defense contractors benefiting from Golden Dome spending without relying on SpaceX alone.",
+      "title": "Dow Jones Futures: Oil Prices Rise, ASML Jumps On Earnings As AI Stocks Must Do This",
+      "link": "https://finance.yahoo.com/m/ff2fea6d-f6fc-389f-b0c6-62b745afe36d/dow-jones-futures%3A-oil-prices.html?.tsrc=rss",
+      "date": "2026-07-15 10:35",
+      "summary": "ASML jumped early Wednesday, leading tech futures, as the Nasdaq and AI stocks still face key resistance. Oil prices rose.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Why Rocket Lab Stock Jumped 46% in the First Half of 2026 and Why It Could Rocket Even Higher",
-      "link": "https://www.fool.com/investing/2026/07/15/why-rocket-lab-stock-jumped-46-in-the-first-half-o/?.tsrc=rss",
-      "date": "2026-07-15 07:22",
-      "summary": "The company is fulfilling its ambitions to become an \"end-to-end space company.\"",
+      "title": "With a Nearly 7% Dividend Yield, Is Verizon Stock a Buy on SpaceX Fears?",
+      "link": "https://www.fool.com/investing/2026/07/15/with-a-nearly-7-dividend-yield-is-verizon-stock-a/?.tsrc=rss",
+      "date": "2026-07-15 10:35",
+      "summary": "Verizon shares have dipped on fears that SpaceX could compete against it in the mobile space.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Nokia defines the next era of radio with the industrys first AI-native RAN platform",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nokia-defines-next-era-radio-070000449.html?.tsrc=rss",
-      "date": "2026-07-15 07:00",
-      "summary": "Nokia defines the next era of radio with the industrys first AI-native RAN platform Nokia launches the industrys first commercial AI-RAN platform, turning AI-RAN from vision into reality and providing",
+      "title": "Social Buzz: Wallstreetbets Stocks Mostly Advancing Pre-Bell Wednesday; ASML Holding, Nebius Group to Open Higher",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-103335979.html?.tsrc=rss",
+      "date": "2026-07-15 10:33",
+      "summary": "The most-talked-about stocks in the Reddit subforum Wallstreetbets were mostly higher hours before W",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Wall Street Says This Artificial Intelligence (AI) Stock Is Overvalued. Here's Why I Disagree",
-      "link": "https://www.fool.com/investing/2026/07/15/wall-street-says-this-artificial-intelligence-ai-s/?.tsrc=rss",
-      "date": "2026-07-15 06:50",
-      "summary": "The stock can continue beating the market.",
+      "title": "Money Is Suddenly Rotating Into Financial Stocks. Here's What's Driving It -- and Whether the Move Lasts.",
+      "link": "https://www.fool.com/investing/2026/07/15/money-is-suddenly-rotating-into-financial-stocks-h/?.tsrc=rss",
+      "date": "2026-07-15 10:20",
+      "summary": "As long as the economy remains reasonably healthy, this is an ideal backdrop for companies in the money business.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Want to Buy Tesla? 3 Reasons to Buy This Luxury Automaker's Stock Instead.",
-      "link": "https://www.fool.com/investing/2026/07/15/want-to-buy-tesla-3-reasons-to-buy-this-luxury-aut/?.tsrc=rss",
-      "date": "2026-07-15 06:25",
-      "summary": "Tesla is driving head-on into a more uncertain future, and if investors aren't prepared to accept that risk, this luxury automaker might be just the company to check out instead.",
+      "title": "This Is the Most Expensive Stock Market in 26 Years. Should Investors Be Worried?",
+      "link": "https://www.fool.com/investing/2026/07/15/this-is-the-most-expensive-stock-market-in-26-year/?.tsrc=rss",
+      "date": "2026-07-15 10:10",
+      "summary": "Today's market is now the second-most expensive in history.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Cathie Wood of Ark Invest Thinks Bitcoin Has Finally Bottomed Out. If History Is Any Guide, This Is What Happens Next.",
-      "link": "https://www.fool.com/investing/2026/07/15/cathie-wood-of-ark-invest-thinks-bitcoin-has-final/?.tsrc=rss",
-      "date": "2026-07-15 05:35",
-      "summary": "Wood's predictions for the coin's price are known for being ambitious.",
+      "title": "STMicroelectronics (ENXTPA:STMPA) Could Be 7% Undervalued On Its FocalPoint Deal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stmicroelectronics-enxtpa-stmpa-could-7-100908387.html?.tsrc=rss",
+      "date": "2026-07-15 10:09",
+      "summary": "FocalPoints new commercial agreement with STMicroelectronics (ENXTPA:STMPA) moves their S-GNSS Auto and Teseo collaboration into a full offering, giving investors fresh context for assessing the stock",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "2 Beaten-Down GLP-1 Stocks to Buy on the Dip",
-      "link": "https://www.fool.com/investing/2026/07/15/2-beaten-down-glp-1-stocks-to-buy-on-the-dip/?.tsrc=rss",
-      "date": "2026-07-15 05:20",
-      "summary": "Don't wait until clinical milestones send their share prices soaring.",
+      "title": "Canadian startup that raised US$75 billion wants to show chip companies can build in Canada",
+      "link": "https://financialpost.com/technology/canadian-startup-wants-to-show-chip-companies-can-build-in-canada?.tsrc=rss",
+      "date": "2026-07-15 10:00",
+      "summary": "'You need to develop the talent, you need to persevere and you have to have a lot of patience so that you can do this'",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "FOMO Is Driving Options Prices Higher. How to Use It to Your Advantage.",
-      "link": "https://finance.yahoo.com/m/2cb9856e-b3a4-3f8a-9b60-7cd8ec6193db/fomo-is-driving-options.html?.tsrc=rss",
-      "date": "2026-07-15 05:15",
-      "summary": "Many call buyers likely have no idea that the implied volatility of calls is so high that stocks must make huge moves for them to profit.",
+      "title": "How Meta Platforms (META) Is Strengthening Its AI Infrastructure With Custom Chips and Massive Computing Expansion",
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-strengthening-ai-100011718.html?.tsrc=rss",
+      "date": "2026-07-15 10:00",
+      "summary": "Meta Platforms, Inc. (NASDAQ:META) is one of the high-growth wide-moat stocks to buy. On July 9, Reuters reported that Meta plans to begin manufacturing its in-house AI chip, code-named Iris, in Septe",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Prediction: Down 4% in a Month, This ETF Will Still Be the Best-Performing Tech ETF This Year",
-      "link": "https://www.fool.com/investing/2026/07/15/prediction-down-4-in-a-month-this-etf-will-still/?.tsrc=rss",
-      "date": "2026-07-15 05:05",
-      "summary": "Semiconductor stocks still have plenty of runway in front of them.",
+      "title": "Walden Robotics Launches with $300 Million to Put General-Purpose Robots to Work Today",
+      "link": "https://finance.yahoo.com/technology/ai/articles/walden-robotics-launches-300-million-100000118.html?.tsrc=rss",
+      "date": "2026-07-15 10:00",
+      "summary": "CAMBRIDGE, Mass., July 15, 2026--Walden Robotics, a full-stack Physical AI company building and deploying general-purpose robots that continuously learn and improve while performing real work, launche",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "SK Hynix, Samsung Shares Soar Amid Chip Rebound; Samsung Denies US Listing Plans",
-      "link": "https://stocktwits.com/news-articles/markets/equity/sk-hynix-samsung-shares-soar-amid-chip-rebound-samsung-denies-us-listing-plans/cZZ2reFR7AT?.tsrc=rss",
-      "date": "2026-07-15 04:55",
-      "summary": "The gains come after weeks of volatility due to shifting views on memory durability and the recent escalation in the U.S.-Iran war.",
+      "title": "Bitcoin ETFs Are Seeing Massive Outflows, but the Price of HYPE Keeps Rising. Here's Why I'm Bullish on Hyperliquid.",
+      "link": "https://www.fool.com/investing/2026/07/15/bitcoin-etfs-are-seeing-massive-outflows-but-the-p/?.tsrc=rss",
+      "date": "2026-07-15 10:00",
+      "summary": "Is Hyperliquid a financial services juggernaut in the making?",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Tesla (TSLA) Stock Looks Expensive Following Its 81% Five Year Gain",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-looks-expensive-043501446.html?.tsrc=rss",
-      "date": "2026-07-15 04:35",
-      "summary": "Tesla stock has delivered an 81.4% gain over the past 5 years, yet current valuation checks flag it as expensive rather than a clear bargain, creating a tension for anyone trying to square the long te",
+      "title": "The Vanguard S&P 500 ETF Is a Great Investment. But Is It Safe?",
+      "link": "https://www.fool.com/investing/2026/07/15/the-vanguard-sp-500-etf-is-a-great-investment-but/?.tsrc=rss",
+      "date": "2026-07-15 09:56",
+      "summary": "Before you put your money into it, know what you're getting into.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Goldman Sachs Says the Crowd Is Wrong on This Beaten-Down Medical Robotics Giant",
-      "link": "https://www.fool.com/investing/2026/07/15/goldman-sachs-says-the-crowd-is-wrong-on-this-beat/?.tsrc=rss",
-      "date": "2026-07-15 04:35",
-      "summary": "And Goldman Sachs may be right.",
+      "title": "The Stock Market Just Flashed a Clear Warning Sign. Here's What History Says Comes Next.",
+      "link": "https://www.fool.com/investing/2026/07/15/the-stock-market-just-flashed-a-clear-warning-sign/?.tsrc=rss",
+      "date": "2026-07-15 09:50",
+      "summary": "A rarely seen surge in margin debt is a heads-up for Wall Street.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "TSLA Stock Climbs Overnight: SPAC King Chamath Palihapitiya Sees Obvious Logic In Tesla-SpaceX Merger",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-chamath-palihapitiya-tesla-spacex-merger/cZZ2A2xR7AG?.tsrc=rss",
-      "date": "2026-07-15 04:12",
-      "summary": "The investor said a combined company could use one balance sheet and capital structure to fund Elon Musks broader ambitions.",
+      "title": "Can Shiba Inu Reach $1 by 2027? The Answer Will Blow Your Mind.",
+      "link": "https://www.fool.com/investing/2026/07/15/can-shiba-inu-reach-1-by-2027-the-answer-blow-mind/?.tsrc=rss",
+      "date": "2026-07-15 09:41",
+      "summary": "Shiba Inu delivered one of the biggest annual returns in the history of finance in 2021.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "OpenAI's First Hardware Product Is An AI Speaker? Report Reveals Details Amid Apple Lawsuit",
-      "link": "https://stocktwits.com/news-articles/markets/equity/open-ai-s-first-hardware-product-is-an-ai-speaker-report-reveals-details-amid-apple-lawsuit/cZZ2YwyR7qy?.tsrc=rss",
-      "date": "2026-07-15 03:27",
-      "summary": "The product is expected to be OpenAIs first physical AI device and a crucial milestone as the company moves forward with its IPO plans.",
+      "title": "Can Penguin Solutions Be the Next 10X Stock?",
+      "link": "https://www.fool.com/investing/2026/07/15/can-penguin-solutions-be-the-next-10x-stock/?.tsrc=rss",
+      "date": "2026-07-15 09:38",
+      "summary": "Demand is soaring for its memory products.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Why Goldman Sachs Stock Jumped Today",
-      "link": "https://www.fool.com/investing/2026/07/14/why-goldman-sachs-stock-is-up-today/?.tsrc=rss",
-      "date": "2026-07-15 03:20",
-      "summary": "Corporate dealmaking is booming.",
+      "title": "Hyperscale and Enterprise AI Demand Bodes Well For Equinix (EQIX)",
+      "link": "https://finance.yahoo.com/technology/ai/articles/hyperscale-enterprise-ai-demand-bodes-093731473.html?.tsrc=rss",
+      "date": "2026-07-15 09:37",
+      "summary": "Equinix Inc. (NASDAQ:EQIX) is one of the 10 oversold NASDAQ stocks to invest in right now. On July 1, Barclays increased its target price for Equinix Inc. (NASDAQ:EQIX) from $1,109 to $1,130, which no",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Dow Jones Futures: Goldman, CrowdStrike Jump, But AI Stocks Need To Do This",
-      "link": "https://finance.yahoo.com/m/ff2fea6d-f6fc-389f-b0c6-62b745afe36d/dow-jones-futures%3A-goldman%2C.html?.tsrc=rss",
-      "date": "2026-07-15 02:55",
-      "summary": "The Nasdaq and AI stocks rallied, but still face key resistance. Goldman and CrowdStrike make big bullish moves.",
+      "title": "Nvidia vs Cerebras: Which Is the Better Discount AI Buy Now?",
+      "link": "https://www.fool.com/investing/2026/07/15/nvidia-vs-cerebras-which-is-the-better-discount-ai/?.tsrc=rss",
+      "date": "2026-07-15 09:30",
+      "summary": "These companies are fueling the AI revolution.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Bank of America sees Nvidias next $20 billion business",
-      "link": "https://www.thestreet.com/investing/bank-of-america-sees-vera-cpu-nvidia-20-billion-business?.tsrc=rss",
-      "date": "2026-07-15 02:47",
-      "summary": "Nvidia (NVDA) stock investors have been fed a familiar playbook. More robust accelerators, higher rack prices, and another wave of hyperscaler spending were expected to propel Nvidia stock's valuation",
+      "title": "Nike May Soon Be Booted From the Dow Jones Industrial Average, and This Trillion-Dollar Stock That's Rallied 6,100,000% Is the Ideal Replacement",
+      "link": "https://www.fool.com/investing/2026/07/15/nike-booted-from-dow-jones-brkb-ideal-replacement/?.tsrc=rss",
+      "date": "2026-07-15 09:26",
+      "summary": "The perfect stock to replace Nike has its proverbial fingers in several sectors and industries.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Dow, S&P 500, Nasdaq Futures Edge Higher On Cooling Inflation Signs, Strong Big Bank Earnings: IBM, APLD, SKYH, NBIS in Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-higher-on-cooling-inflation-signs-strong-big-bank-earnings/cZZ28svR7qU?.tsrc=rss",
-      "date": "2026-07-15 02:46",
-      "summary": "According to data from the Bureau of Labor Statistics (BLS), the Consumer Price Index (CPI) for June rose 3.5% year-on-year, below market expectations.",
+      "title": "Prediction: This Under-the-Radar Dividend Stock Is Going to Skyrocket After Aug. 4",
+      "link": "https://www.fool.com/investing/2026/07/15/prediction-this-under-the-radar-dividend-stock-is/?.tsrc=rss",
+      "date": "2026-07-15 09:25",
+      "summary": "This stock has a 4.24% yield and projected 82% upside.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Michael Burry's biggest moneymaker isn't a stock",
-      "link": "https://www.thestreet.com/investing/michael-burrys-biggest-moneymaker-isnt-a-stock?.tsrc=rss",
-      "date": "2026-07-15 02:33",
-      "summary": "There is a version of getting rich on Wall Street that has nothing to do with being right about a stock. You can spend a career building a reputation and then, one day, discover the reputation itself ",
+      "title": "Is Silo Pharma, Inc. (SILO) Stock an AI Opportunity After NVIDIA Partnership Boosts QwikAgents Platform?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/silo-pharma-inc-silo-stock-092239330.html?.tsrc=rss",
+      "date": "2026-07-15 09:22",
+      "summary": "We recently compiled a list of the 7 Best Psychedelic Stocks to Buy According to Analysts. Silo Pharma, Inc. (NASDAQ:SILO) is one of the best psychedelic stocks on our list. SILO reported on July 7 th",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Federal Reserve Signals Good News for Crypto: 2 Coins Worth Buying Now",
+      "link": "https://www.fool.com/investing/2026/07/15/federal-reserve-signals-good-news-for-crypto-2-coi/?.tsrc=rss",
+      "date": "2026-07-15 09:20",
+      "summary": "The Federal Reserve might not be hiking interest rates soon after all.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     }
