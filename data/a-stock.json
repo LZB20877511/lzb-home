@@ -1,245 +1,261 @@
 {
-  "updated": "2026-07-17T00:20:29.860704+08:00",
+  "updated": "2026-07-17T06:54:32.531575+08:00",
   "source": "A股聚合",
-  "count": 30,
+  "count": 32,
   "items": [
     {
-      "title": "美国银行CEO加入华尔街高管之列 警示Mythos等AI模型风险",
-      "link": "https://finance.sina.com.cn/world/2026-07-17/doc-inihzrts4331745.shtml",
-      "date": "2026-07-17 00:19",
-      "summary": "美国银行首席执行官Brian Moynihan加入华尔街高管行列，指出Anthropic PBC的Mythos等人工智能模型正引发严重关切。 “需要投入的工作量发生巨大变化...",
+      "title": "公募机构看好A股市场结构性机会",
+      "link": "https://finance.sina.com.cn/jjxw/2026-07-17/doc-iniiaaiq1384705.shtml",
+      "date": "2026-07-17 06:43",
+      "summary": "本报记者昌校宇 7月份以来，全球股票市场出现较为明显的波动，A股市场亦经历了一定幅度的调整，这也引发了投资者对后市走向的广泛关注。",
+      "source": "证券日报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美军在阿曼湾登临检查一艘船只",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaaiq1344867.shtml",
+      "date": "2026-07-17 05:57",
+      "summary": "美国中央司令部在社交平台发文称，美国海军陆战队周四在阿曼湾对M/T Wen Yao号实施登船查验。 美国中央司令部表示，截至周四，美军已使三艘试图规避对伊封锁的商船改道...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "Airnow：纽约市空气质量目前“非常不健康”",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaaik7463413.shtml",
+      "date": "2026-07-17 05:50",
+      "summary": "美国环境保护局的airnow.gov的监测数据显示，纽约市全部或部分地区的空气质量指数已达到“非常不健康”的水平。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "7月17日隔夜要闻：美股收跌科技股领跌 油价下跌 镍价上涨 金价走低 白宫称伊朗仍在与美国对话",
+      "link": "https://finance.sina.com.cn/world/2026-07-17/doc-iniiaain4238329.shtml",
+      "date": "2026-07-17 05:41",
+      "summary": "市场 7月17日收盘：美股收跌科技股领跌，芯片股再遭抛售 7月17日热门中概股涨跌不一 小鹏汽车涨2%，台积电跌2.25% 7月17日美股成交额前20：谷歌推迟发布Gemini旗舰模型...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "关闭信号的船只和阿曼海域转运显示霍尔木兹海峡通行仍在继续",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaain4225886.shtml",
+      "date": "2026-07-17 05:29",
+      "summary": "几艘油轮被发现正在阿曼海岸附近进行船对船转运，显示在伊朗近期发动袭击后，船只仍在继续通过霍尔木兹海峡，再将货物转装至其他船只。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美国股市：科技股拖累大盘走低 台积电业绩重燃AI支出担忧",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaaik7448017.shtml",
+      "date": "2026-07-17 05:27",
+      "summary": "科技股拖累美国主要股指走低，此前台积电公布的业绩重新引发市场对人工智能支出的担忧。 纳斯达克100指数在纽约收跌1.6%，标普500指数下跌0.5%。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "特朗普将在讲话中谈及委内瑞拉选举",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaain4223794.shtml",
+      "date": "2026-07-17 05:26",
+      "summary": "两名知情人士称，美国总统特朗普准备在周四晚间讲话中谈及委内瑞拉前总统尼古拉斯·马杜罗涉嫌操纵本国选举的阴谋。 政府官员认为...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "大宗商品综述：油价下跌 镍价上涨 金价走低",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaaiq1283401.shtml",
+      "date": "2026-07-17 04:56",
+      "summary": "由于交易员在获利回吐和对中东石油供应的担忧之间寻求平衡，原油价格周四下跌，不过本周累计仍上涨。镍价升至三周高点，因为主要生产国印尼的采矿政策前景存在不确定性。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美国债市：美债维持小幅跌势 油价走势震荡",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaaik7425615.shtml",
+      "date": "2026-07-17 04:54",
+      "summary": "美国国债走势全天受到油价先涨后跌的影响，最终各期限收益率日内小幅上升。国债在早盘受油价上涨影响承压下跌，但随着交易员在获利回吐和对中东石油供应的担忧之间寻求平衡...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "7月17日美股成交额前20：谷歌推迟发布Gemini旗舰模型",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaaik7424382.shtml",
+      "date": "2026-07-17 04:50",
+      "summary": "周四美股成交额第1名美光科技收跌5.65%，成交391.2亿美元。周四美股存储股下挫，美光市值跌破1万亿美元。 第2名英伟达收跌2.4%，成交250.58亿美元。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美军袭击伊朗已致多人死伤",
+      "link": "https://finance.sina.com.cn/jjxw/2026-07-17/doc-iniiaain4204565.shtml",
+      "date": "2026-07-17 04:46",
+      "summary": "总台记者当地时间16日获悉，美军对伊朗阿巴斯港居民区的袭击已造成1人死亡、8人受伤。此外，位于伊朗南部霍尔木兹甘省哈米尔港的大桥当晚也遭到美军袭击。",
+      "source": "央视",
+      "category": "a-stock"
+    },
+    {
+      "title": "7月17日外盘头条：美国对伊朗发动新一轮打击 苹果拟对iPad mini进行升级 堪萨斯城联储行长称美国通胀过热",
+      "link": "https://finance.sina.com.cn/world/2026-07-17/doc-iniiaaiq1279026.shtml",
+      "date": "2026-07-17 04:34",
+      "summary": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美国对伊朗发动新一轮打击 霍尔木兹海峡航运量骤降 2、达拉斯联储行长洛根支持“适度”加息 3...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "拓展特色品类 各地补贴分层惠民撬动万亿消费",
+      "link": "https://finance.sina.com.cn/jjxw/2026-07-17/doc-iniiaair8041850.shtml",
+      "date": "2026-07-17 04:33",
+      "summary": "国家统计局数据显示，2026年上半年社会商品和服务零售总额同比增长2.7%，居民消费支出同步改善，上半年全国居民人均消费支出14836元，名义同比增长3.7%。",
+      "source": "央视",
+      "category": "a-stock"
+    },
+    {
+      "title": "巴西外长：美国加征关税毫无理由 是“出于政治动机”",
+      "link": "https://finance.sina.com.cn/jjxw/2026-07-17/doc-iniiaain4215148.shtml",
+      "date": "2026-07-17 04:31",
+      "summary": "△巴西外交部大楼（资料图）当地时间16日，巴西外长维埃拉在新闻发布会上表示，美国对部分巴西进口商品加征25%关税的行为没有任何现实依据，而是“出于政治动机”。",
+      "source": "央视",
+      "category": "a-stock"
+    },
+    {
+      "title": "7月17日热门中概股涨跌不一 小鹏汽车涨2%，台积电跌2.25%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzn7540541.shtml",
+      "date": "2026-07-17 04:17",
+      "summary": "7月17日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收高1.79%。 上涨个股（按市值从高到低）：拼多多涨1.10%，网易涨0.44%，京东涨1.37%，百度涨1.20%，中华电信涨1...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "7月17日收盘：美股收跌科技股领跌，芯片股再遭抛售",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzt8152115.shtml",
+      "date": "2026-07-17 04:08",
+      "summary": "北京时间7月17日凌晨，美股周四收跌，纳指下跌超过380点。芯片股的大规模抛售盖过了一连串稳健的财报利好。 道指跌105.67点，跌幅为0.20%，报52552.97点；纳指跌387.28点...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "原油：油价下跌 投资者获利回吐遏制了涨势",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzt8151347.shtml",
+      "date": "2026-07-17 04:07",
+      "summary": "由于交易员在获利回吐和对中东石油供应的担忧之间寻求平衡，原油价格周四下跌，不过本周累计仍上涨。 全球基准的布伦特原油结算价高于每桶84美元...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
       "title": "苹果拟对iPad mini进行五年来最大规模升级 今年秋季发布新品",
       "link": "https://finance.sina.com.cn/world/2026-07-17/doc-inihzrtv8087829.shtml",
-      "date": "2026-07-17 00:01",
+      "date": "2026-07-17 04:00",
       "summary": "苹果公司准备对iPad mini进行五年来最大规模升级，为这款深受旅行人士和科技爱好者欢迎的产品注入新活力。 据知情人士透露，代号为J510的新款iPad...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "午盘：美股涨跌不一 半导体板块拖累纳指下跌",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7675920.shtml",
-      "date": "2026-07-16 23:59",
-      "summary": "北京时间7月17日凌晨，美股周四午盘涨跌不一。半导体板块表现疲软，拖累纳指走低。交易员正在评估企业盈利是否足以支撑人工智能交易进一步上涨...",
+      "title": "达拉斯联储行长洛根支持“适度”加息",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzs1362293.shtml",
+      "date": "2026-07-17 03:52",
+      "summary": "达拉斯联邦储备银行行长洛里·洛根周四表示，本周公布的利好通胀数据还不够好，她呼吁适度提高利率，以打赢这场美联储已持续输掉五年的抗通胀之战。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "洛克希德·马丁获105亿美元合同，为美军特种作战司令部提供后勤保障",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmw1438287.shtml",
-      "date": "2026-07-16 23:54",
-      "summary": "美国国防部与洛克希德·马丁公司7月16日宣布，洛马公司已获得美国特种作战司令部一份为期12年、最高价值105亿美元的合同，负责为美军特种作战部队提供下一代全球后勤与维护...",
+      "title": "据传Gemini 3.5 Pro AI模型延迟 Alphabet股价下跌4.7%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzs1360539.shtml",
+      "date": "2026-07-17 03:49",
+      "summary": "Alphabet股价因一则报道称公司推迟发布其旗舰人工智能模型Gemini 3.5 Pro而下跌。 该股最新下跌4.7%。Alphabet的下跌拖累了主要股指，使其在周四下午跌至日内低点。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "Tetra Tech获美国环保署2500万美元水质监测合同",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7670778.shtml",
-      "date": "2026-07-16 23:49",
-      "summary": "Tetra Tech（纳斯达克代码：TTEK）近日宣布，美国环境保护署下属的水资源办公室标准与健康保护部已向其授予一份为期五年、价值2500万美元的合同，用于提供高端技术服务...",
+      "title": "Roblox因年龄验证冲击遭集体诉讼，首席原告申请截止8月7日",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzq4302983.shtml",
+      "date": "2026-07-17 03:47",
+      "summary": "在线游戏平台Roblox Corporation（纽约证券交易所代码：RBLX）正面临证券欺诈集体诉讼。投资者申请担任首席原告的截止日期为2026年8月7日。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "Truist下调Lululemon评级",
-      "link": "https://finance.sina.com.cn/world/2026-07-16/doc-inihzmmu4446682.shtml",
-      "date": "2026-07-16 23:48",
-      "summary": "Truist将Lululemon的评级从“持有”下调至“卖出”，并将目标价从115美元下调至94美元，这意味着约有20%的下行空间。 Truist分析师约瑟夫·奇韦洛（Joseph Civello）表示...",
+      "title": "美国对伊朗发动新一轮打击 霍尔木兹海峡航运量骤降",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzs1356879.shtml",
+      "date": "2026-07-17 03:45",
+      "summary": "美国周四对伊朗发动新一轮打击，此前已连续数日空袭伊朗，眼下中东地区的敌对行动持续升级，霍尔木兹海峡航运量急剧下滑。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "Roblox推出\"Build\"工具，降低游戏创作门槛",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7667540.shtml",
-      "date": "2026-07-16 23:44",
-      "summary": "Roblox公司近日宣布推出名为“Build”的全新移动端创作工具，允许用户通过简单的文字描述，在Roblox应用程序内直接生成可玩的游戏雏形。",
+      "title": "临床数据披露引发专利与安全双重危机，Erasca遭投资者集体诉讼",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzt8130537.shtml",
+      "date": "2026-07-17 03:43",
+      "summary": "肿瘤药物研发公司Erasca， Inc．（纳斯达克代码：ERAS）因在其主打候选药物ERAS-0015的临床前数据对比中涉嫌误导投资者，正面临证券欺诈集体诉讼。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "Genesis Energy宣布季度现金分配，同比增长逾两成",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7666656.shtml",
-      "date": "2026-07-16 23:42",
-      "summary": "Genesis Energy， L.P．（纽约证券交易所代码：GEL）宣布，其普通合伙人的董事会已批准2026年第二季度的季度现金分配。普通单位持有人将获得每单位0.20美元的季度分配...",
+      "title": "Embecta面临证券欺诈集体诉讼 财报暴雷曾导致股价单日暴跌57.8%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzs1352215.shtml",
+      "date": "2026-07-17 03:40",
+      "summary": "医疗设备公司Embecta Corp．（纳斯达克代码：EMBC）因涉嫌在财报指引上误导投资者，正面临证券欺诈集体诉讼。投资者申请担任首席原告的截止日期为2026年8月17日。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "RBC Bearings将于7月31日召开2027财年第一季度财报电话会",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8202763.shtml",
-      "date": "2026-07-16 23:40",
-      "summary": "RBC Bearings Incorporated（纽约证券交易所代码：RBC）宣布，将于7月31日（周五）股市开盘前公布2027财年第一季度财务业绩。公司管理层将于当日美国东部时间上午11：00举...",
+      "title": "IPO文件被指隐瞒门店蚕食风险，Black Rock Coffee遭投资者集体诉讼",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzq4297442.shtml",
+      "date": "2026-07-17 03:36",
+      "summary": "连锁咖啡品牌Black Rock Coffee Bar， Inc．（纳斯达克代码：BRCB）因被指在其2025年9月的IPO文件及后续披露中隐瞒新开门店对现有门店收入的“销售转移”效应...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "Kaplan与CAIA协会合作，提升金融从业者另类投资教育",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7662035.shtml",
-      "date": "2026-07-16 23:34",
-      "summary": "全球教育机构Kaplan与另类投资教育与认证领域领先机构CAIA协会宣布建立合作伙伴关系，旨在帮助更多金融从业者获得CAIA.nxt证书和微证书。",
+      "title": "旗舰煤矿增产承诺落空，Peabody Energy遭投资者集体诉讼",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzs1346893.shtml",
+      "date": "2026-07-17 03:34",
+      "summary": "美国最大冶金煤生产商之一Peabody Energy Corporation（纽约证券交易所代码：BTU）正因旗舰煤矿Centurion的严重投产延误而面临多起证券欺诈集体诉讼。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "研究报告显示GitLab Duo Agent Platform可带来400%投资回报率",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8197113.shtml",
-      "date": "2026-07-16 23:32",
-      "summary": "GitLab Inc．日前发布由Forrester Consulting独立完成的Total Economic Impact研究报告，结果显示，使用GitLab Duo Agent Platform的组织可在三年内实现400%的投资回报率...",
+      "title": "会计差错致股价重挫，Hub Group遭投资者集体诉讼",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzn7518891.shtml",
+      "date": "2026-07-17 03:32",
+      "summary": "供应链解决方案提供商Hub Group， Inc．（纳斯达克代码：HUBG）因连续披露重大会计差错，正面临多起证券欺诈集体诉讼。投资者申请担任首席原告的截止日期为2026年8月28日。...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "通用磨坊旗下Totino's推出全新口味，将粉丝创意\"零食改造\"带入现实",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmw1418015.shtml",
-      "date": "2026-07-16 23:28",
-      "summary": "通用磨坊旗下品牌Totino‘s宣布推出全新Pizza Rolls和Ultimate Pizza系列产品，将粉丝们喜爱的创意搭配和零食改造灵感变为现实，进一步丰富冷冻食品区的选择。",
+      "title": "谷歌据悉推迟发布Gemini 3.5 Pro 因持续提升模型编程能力",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzs1344436.shtml",
+      "date": "2026-07-17 03:31",
+      "summary": "知情人士透露，谷歌最强旗舰AI模型Gemini 3.5 Pro的发布时间已较原计划推迟数月，因为该公司投入了更多时间提升模型能力，尤其是编程能力。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "Wipro公布2026财年第一季度业绩，净利润同比微增0.6%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7651071.shtml",
-      "date": "2026-07-16 23:16",
-      "summary": "印度IT服务巨头Wipro于7月16日公布了截至2026年6月30日的第一季度财报。公司当季实现合并净利润335.2亿卢比，较去年同期的333.0亿卢比增长0.6%，但环比下降4.3%。",
+      "title": "Photronics遭集体诉讼，首席原告申请截止日期为9月4日",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzq4294739.shtml",
+      "date": "2026-07-17 03:30",
+      "summary": "全球光掩模制造商Photronics， Inc．（纳斯达克代码：PLAB）因涉嫌证券欺诈，正面临股东集体诉讼。多家股东权益律师事务所已提醒投资者...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "Newegg北美独家发售AMD锐龙7 7700X3D",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8183653.shtml",
-      "date": "2026-07-16 23:16",
-      "summary": "Newegg宣布，即日起在北美独家推出AMD锐龙7 7700X3D处理器。该产品于7月16日正式开售，建议零售价329美元。 新品发布正值内存价格因AI计算需求激增而普遍上涨的时期...",
+      "title": "做空报告指控渠道填塞，Gildan股价暴跌18%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzs1341327.shtml",
+      "date": "2026-07-17 03:28",
+      "summary": "服装制造商Gildan Activewear Inc．（纽约证券交易所代码：GIL）股价在7月16日暴跌逾18%，市值蒸发约21.5亿美元。此前，做空机构Jehoshaphat...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "美国6月成屋签约销量小幅下滑，高房贷利率与房价令楼市行情疲软",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8183626.shtml",
-      "date": "2026-07-16 23:16",
-      "summary": "2026 年已过半，美国房地产市场表现如何？ 房屋签约成交量 6 月出现下滑，创纪录的房价与居高不下的抵押贷款利率，正在抑制房产买卖交易活跃度。",
+      "title": "Galaxy Digital推出机构级金库管理服务Galaxy Curator",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzq4292823.shtml",
+      "date": "2026-07-17 03:26",
+      "summary": "加密货币金融服务公司Galaxy Digital（纳斯达克代码：GLXY）7月16日宣布推出机构级金库管理业务“Galaxy Curator”，帮助机构客户在不自行搭建去中心化金融（DeFi）基础设施...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "Cinemark将于7月30日召开第二季度财报电话会议",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8181798.shtml",
-      "date": "2026-07-16 23:13",
-      "summary": "影院放映公司Cinemark Holdings， Inc．（纽约证券交易所代码：CNK）宣布，将于7月30日（周四）股市开盘前公布2026年第二季度运营业绩...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "上周美国首次申领失业救济金人数降至20.8万人，裁员规模处于历史低位",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmw1404818.shtml",
-      "date": "2026-07-16 23:13",
-      "summary": "美国当周初请失业金人数下降，劳动力市场保持稳定 上周美国首次申领失业救济金人数出现下降，反映劳动力市场持续保持平稳。 美国劳工部周四公布，截至 7 月 11 日的一周...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "Belden连续第四年荣获“最佳职场”认证",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7647835.shtml",
-      "date": "2026-07-16 23:11",
-      "summary": "全球领先的专业网络解决方案供应商Belden Inc．宣布，公司已连续第四年获得Great Place To Work认证。这项权威荣誉完全基于在职员工对在Belden工作体验的真实评价...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "Belden将于7月30日发布第二季度财报",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmu4423925.shtml",
-      "date": "2026-07-16 23:10",
-      "summary": "全球领先的专业网络解决方案供应商Belden Inc．（纽约证券交易所代码：BDC）宣布，将于7月30日（周四）美股开盘前公布截至2026年6月28日的第二季度财务业绩。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "ISG报告：AI推动敏捷供应链平台崛起",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8176142.shtml",
-      "date": "2026-07-16 23:08",
-      "summary": "全球AI技术研究与咨询公司Information Services Group发布的最新研究指出，企业正加速采用人工智能驱动的供应链规划平台，以应对日益频繁的中断风险和快速变化的市场环境。...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "海飞丝借2026年美国体操经典赛正式启动与美国体操协会合作",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7641818.shtml",
-      "date": "2026-07-16 23:03",
-      "summary": "宝洁旗下品牌海飞丝作为美国体操协会（USAG）官方洗发水，将于7月17日至18日在康涅狄格州哈特福德举行的2026年美国体操经典赛上正式启动双方合作。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "GeneDx因收购Fabric Genomics披露问题面临证券集体诉讼",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8169546.shtml",
-      "date": "2026-07-16 23:00",
-      "summary": "股东权利律师事务所Robbins LLP提醒GeneDx Holdings Corp．（纳斯达克代码：WGS）的投资者，一项代表在2025年4月16日至2026年5月4日期间购买该公司普通股的投资者提起的证...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美方不认可加拿大妥协 美加贸易谈判难破局",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7639754.shtml",
-      "date": "2026-07-16 23:00",
-      "summary": "加拿大总理马克·卡尼因美加贸易谈判陷入停滞而在国内面临日益增大的批评压力，而特朗普政府的最新表态表明，加方做出的让步并未对华盛顿产生多大推动作用。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "Halper Sadeh律所对AtaiBeckley收购案发起股东公平性调查",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8167766.shtml",
-      "date": "2026-07-16 22:58",
-      "summary": "投资者权利律师事务所Halper Sadeh LLC宣布，正在对AtaiBeckley Inc．（纳斯达克代码：ATAI）与礼来公司的合并交易展开调查，以评估AtaiBeckley董事会是否在交易中履行了对...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "Voyager Technologies携手Geisinger拓展微重力医疗研究",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7637379.shtml",
-      "date": "2026-07-16 22:56",
-      "summary": "Voyager Technologies（纽约证券交易所代码：VOYG）宣布与美国大型医疗系统Geisinger达成合作，后者成为其Voyager空间技术与进步研究所的首个主要临床与生命科学合作伙伴。...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "逆势涨停！知名游资席位，现身龙虎榜",
-      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzmms7656979.shtml",
-      "date": "2026-07-16 22:55",
-      "summary": "7月16日，A股脑机接口及AI医疗概念股盘中拉升，塞力医疗、润达医疗、创新医疗等多股涨停。 盘后龙虎榜数据显示，知名游资“炒股养家”常用席位华鑫证券上海宛平南路营业部...",
-      "source": "中国证券报-中证网",
-      "category": "a-stock"
-    },
-    {
-      "title": "AI算力大单！688521，又新签订单超64亿元",
-      "link": "https://finance.sina.com.cn/wm/2026-07-16/doc-inihzmmw1392450.shtml",
-      "date": "2026-07-16 22:54",
-      "summary": "AI ASIC（AI专用芯片）龙头，再传新利好。 7月16日晚间，芯原股份（688521）披露，公司今年新签订单进一步增长，4月30日至7月16日合计新签订单达到64.13亿元。",
-      "source": "上海证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美股早盘受芯片股拖累走低 台积电利好失灵引发不安",
-      "link": "https://finance.sina.com.cn/world/2026-07-16/doc-inihzmms7634701.shtml",
-      "date": "2026-07-16 22:51",
-      "summary": "芯片制造商遭遇抛售，拖累美国股市早盘下跌。市场担心，巨额人工智能投资能否支撑高企估值；与此同时，油价上涨推高债券收益率，也令市场承压。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "SBA Communications定于8月3日发布第二季度财报",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7632629.shtml",
-      "date": "2026-07-16 22:48",
-      "summary": "SBA Communications Corporation（纳斯达克代码：SBAC）宣布，将于8月3日（周一）美股收盘后公布2026年第二季度财务业绩。公司将于当日美国东部时间下午5：00举行电话会议...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "Energy Vault任命贝莱德资深专家Nitin Dahiya为首席财务官",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7631816.shtml",
-      "date": "2026-07-16 22:47",
-      "summary": "Energy Vault Holdings， Inc．宣布任命Nitin Dahiya为首席财务官。Dahiya来自全球最大资产管理公司贝莱德，拥有超过二十年的机构投资、企业融资和资本市场经验。",
+      "title": "KeyBank基金会拨款30万美元，助力全美青少年金融普惠教育",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzq4291878.shtml",
+      "date": "2026-07-17 03:24",
+      "summary": "KeyBank基金会宣布向全国性非营利组织Cities for Financial Empowerment Fund（CFE基金）提供30万美元赠款，用于支持其“青少年银行互联”计划的全国扩张。",
       "source": "环球市场播报",
       "category": "a-stock"
     }
