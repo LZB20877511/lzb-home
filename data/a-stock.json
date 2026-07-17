@@ -1,8 +1,48 @@
 {
-  "updated": "2026-07-18T06:45:02.445726+08:00",
+  "updated": "2026-07-18T07:50:00.986964+08:00",
   "source": "A股聚合",
-  "count": 33,
+  "count": 32,
   "items": [
+    {
+      "title": "efferies纽约办公室人员疏散 因Papillon餐厅起火",
+      "link": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqh7245814.shtml",
+      "date": "2026-07-18 07:12",
+      "summary": "Jefferies Financial Group Inc．曼哈顿办公室周五疏散人员，原因是Papillon餐厅发生火灾。 纽约市消防局发言人表示，周五清晨接到报警，称该餐厅发生火灾...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "7月18日隔夜要闻：美股道指跌逾400点 美国再度打击伊朗 油价单周涨幅创4月份以来最大 SpaceX股价持续下挫",
+      "link": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqk4005353.shtml",
+      "date": "2026-07-18 06:49",
+      "summary": "市场 7月18日收盘：美股道指跌逾400点 三大股指本周均录得跌幅 7月18日美股成交额前20：传Meta向Anthropic租赁算力 价值最高可达100亿美元 7月18日热门中概股普跌...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "南方地区出现新冠波峰",
+      "link": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniiemqh7252874.shtml",
+      "date": "2026-07-18 06:46",
+      "summary": "进入7月，南方一些医院的发热门诊里，新冠感染者又多了起来。 中国疾控中心（以下简称“中疾控”）7月16日发布的数据显示，7月6日—7月12日全国哨点医院门急诊流感样病例中...",
+      "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
+    {
+      "title": "中东地区军事冲突持续 国际油价17日上涨超4%",
+      "link": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiemqh7229245.shtml",
+      "date": "2026-07-18 06:35",
+      "summary": "由于中东地区军事冲突持续，国际原油期货价格17日盘中震荡走高，收盘时涨幅超4%，纽约原油期货主力合约价格在过去一个月来首次站上每桶80美元。",
+      "source": "央视",
+      "category": "a-stock"
+    },
+    {
+      "title": "专家：政策拖累汇率 日元对美元汇率或将创新低",
+      "link": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiemqk3993484.shtml",
+      "date": "2026-07-18 06:31",
+      "summary": "转自：央视新闻 据英国方面17日消息，RSM咨询公司专家乔·布鲁苏埃拉斯表示，在日本政府刺激经济计划开始显现成效、推动日元汇率企稳反转之前，日元大概率会继续走弱...",
+      "source": "央视",
+      "category": "a-stock"
+    },
     {
       "title": "美国再度打击伊朗 油价单周涨幅创4月份以来最大",
       "link": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqh7203060.shtml",
@@ -172,6 +212,14 @@
       "category": "a-stock"
     },
     {
+      "title": "伊朗最高领袖军事顾问：美伊谅解备忘录已名存实亡",
+      "link": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiefhr8295420.shtml",
+      "date": "2026-07-18 04:51",
+      "summary": "当地时间17日，伊朗最高领袖军事顾问穆赫辛·雷扎伊表示，美国违反了美伊谅解备忘录的条款，如今这份备忘录已名存实亡。",
+      "source": "央视",
+      "category": "a-stock"
+    },
+    {
       "title": "7月18日美股成交额前20：传Meta向Anthropic租赁算力 价值最高可达100亿美元",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniiefhn4044907.shtml",
       "date": "2026-07-18 04:50",
@@ -208,62 +256,6 @@
       "link": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiefhr8307176.shtml",
       "date": "2026-07-18 04:00",
       "summary": "美国中央司令部在X平台发文称，美军在“美国东部时间今天下午3时对伊朗发动了连续第七个晚上的打击”，旨在削弱伊朗的军事能力。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "Meta据悉洽谈出租算力给Anthropic 价值最高可达100亿美元",
-      "link": "https://finance.sina.com.cn/world/2026-07-18/doc-iniicyyq4113606.shtml",
-      "date": "2026-07-18 04:00",
-      "summary": "据知情人士透露，Meta 正与Anthropic PBC展开初步磋商，拟向后者出租其数据中心算力。 知情人士表示，双方谈判仍处于初期阶段，计划最终仍可能发生变化。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美军称对伊朗发动新一轮打击",
-      "link": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiefhk7240223.shtml",
-      "date": "2026-07-18 03:54",
-      "summary": "△美国中央司令部（资料图）当地时间7月17日，美国中央司令部表示，美军于美东时间当天下午3时对伊朗启动新一轮打击，这是美军连续第七晚发动空袭。",
-      "source": "央视",
-      "category": "a-stock"
-    },
-    {
-      "title": "美军称重启对伊朗海上封锁三天内拦截6艘船只",
-      "link": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiefhk7256977.shtml",
-      "date": "2026-07-18 03:53",
-      "summary": "当地时间7月17日，美国中央司令部表示，美军正在严格执行针对伊朗的海上封锁，并保持高度警戒。美国中央司令部称，自14日恢复对伊朗实施海上封锁的三天内...",
-      "source": "央视",
-      "category": "a-stock"
-    },
-    {
-      "title": "波音与空客角力，竞逐SMBC百架窄体机大单",
-      "link": "https://finance.sina.com.cn/world/mzjj/2026-07-18/doc-iniiefhq1441039.shtml",
-      "date": "2026-07-18 03:33",
-      "summary": "随着2026年范堡罗国际航展临近，全球两大飞机制造商波音与空客在窄体机市场的争夺战再度升级。据知情人士透露，双方正同时与飞机租赁巨头SMBC Aviation...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "加拿大野火殃及美国空气 特朗普称将以关税追偿损失",
-      "link": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiemqp8223214.shtml",
-      "date": "2026-07-18 03:27",
-      "summary": "△美国总统特朗普（资料图）美国总统特朗普当地时间17日在社交媒体发文指责加拿大维护森林不善，称加森林野火殃及美国空气质量，类似情况每年发生...",
-      "source": "央视",
-      "category": "a-stock"
-    },
-    {
-      "title": "特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权",
-      "link": "https://finance.sina.com.cn/world/2026-07-18/doc-iniicyyn7339942.shtml",
-      "date": "2026-07-18 03:15",
-      "summary": "美国总统特朗普的媒体公司计划让交易员和投资者付费，以实时访问Truth Social社交媒体平台上“排名最高”帐户发布的帖子。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美伊战争恐在伯纳姆上任首周升级 英国研判特朗普对伊威胁并非空话",
-      "link": "https://finance.sina.com.cn/world/2026-07-18/doc-iniicyyt8326252.shtml",
-      "date": "2026-07-18 03:09",
-      "summary": "英国候任首相安迪·伯纳姆将会接到英国官员的评估，即美伊战争在他上任首周可能存在升级的风险，这可能在伯纳姆上任之初便打乱他的施政安排。",
       "source": "环球市场播报",
       "category": "a-stock"
     }
