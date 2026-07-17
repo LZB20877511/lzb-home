@@ -1,12 +1,132 @@
 {
-  "updated": "2026-07-17T18:43:55.271425+08:00",
+  "updated": "2026-07-17T18:53:54.728987+08:00",
   "source": "个股公告",
   "count": 30,
   "items": [
     {
+      "title": "侨银股份:2026年第四次临时股东会决议公告",
+      "link": "https://data.eastmoney.com/notices/detail/002973/20260718/AN202607171827061496.html",
+      "date": "2026-07-17 18:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002973",
+      "stock_name": "侨银股份"
+    },
+    {
+      "title": "侨银股份:北京市中伦(广州)律师事务所关于侨银城市管理股份有限公司2026年第四次临时股东会的法律意见书",
+      "link": "https://data.eastmoney.com/notices/detail/002973/20260718/AN202607171827061497.html",
+      "date": "2026-07-17 18:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002973",
+      "stock_name": "侨银股份"
+    },
+    {
+      "title": "侨银股份:关于公司向银行申请综合授信额度的公告",
+      "link": "https://data.eastmoney.com/notices/detail/002973/20260718/AN202607171827061498.html",
+      "date": "2026-07-17 18:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002973",
+      "stock_name": "侨银股份"
+    },
+    {
+      "title": "华懋科技:2026-058华懋科技关于董事增持公司股份的公告",
+      "link": "https://data.eastmoney.com/notices/detail/113677/20260718/AN202607171827061364.html",
+      "date": "2026-07-17 18:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "113677",
+      "stock_name": "华懋转债"
+    },
+    {
+      "title": "华懋科技:申港证券关于华懋科技不提前赎回华懋转债的核查意见",
+      "link": "https://data.eastmoney.com/notices/detail/603306/20260718/AN202607171827061365.html",
+      "date": "2026-07-17 18:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603306",
+      "stock_name": "华懋科技"
+    },
+    {
+      "title": "华懋科技:2026-057华懋科技关于不提前赎回“华懋转债”的公告",
+      "link": "https://data.eastmoney.com/notices/detail/603306/20260718/AN202607171827061366.html",
+      "date": "2026-07-17 18:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "603306",
+      "stock_name": "华懋科技"
+    },
+    {
+      "title": "光华科技:关于2026年限制性股票激励计划首次授予登记完成的公告",
+      "link": "https://data.eastmoney.com/notices/detail/002741/20260718/AN202607171827061361.html",
+      "date": "2026-07-17 18:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002741",
+      "stock_name": "光华科技"
+    },
+    {
+      "title": "振邦智能:关于限制性股票回购注销完成暨股份变动的公告",
+      "link": "https://data.eastmoney.com/notices/detail/003028/20260718/AN202607171827061362.html",
+      "date": "2026-07-17 18:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "003028",
+      "stock_name": "振邦智能"
+    },
+    {
+      "title": "牧原股份:关于2026年度第四期科技创新债券(乡村振兴)发行结果的公告",
+      "link": "https://data.eastmoney.com/notices/detail/002714/20260718/AN202607171827061337.html",
+      "date": "2026-07-17 18:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "002714",
+      "stock_name": "牧原股份"
+    },
+    {
+      "title": "海航控股:关于购买40架飞机的公告",
+      "link": "https://data.eastmoney.com/notices/detail/600221/20260718/AN202607171827061334.html",
+      "date": "2026-07-17 18:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "600221",
+      "stock_name": "海航控股"
+    },
+    {
+      "title": "*ST美丽:关于重大诉讼的公告",
+      "link": "https://data.eastmoney.com/notices/detail/000010/20260718/AN202607171827061276.html",
+      "date": "2026-07-17 18:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "000010",
+      "stock_name": "*ST美丽"
+    },
+    {
+      "title": "涪陵电力:涪陵电力关于控股股东筹划国有股份划转的提示性公告",
+      "link": "https://data.eastmoney.com/notices/detail/600452/20260718/AN202607171827061274.html",
+      "date": "2026-07-17 18:53",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "600452",
+      "stock_name": "涪陵电力"
+    },
+    {
       "title": "劲旅环境:股票交易异常波动公告",
       "link": "https://data.eastmoney.com/notices/detail/001230/20260718/AN202607171827061269.html",
-      "date": "2026-07-17 18:43",
+      "date": "2026-07-17 18:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -16,7 +136,7 @@
     {
       "title": "中铝国际:中铝国际工程股份有限公司2026年第二季度主要经营数据公告",
       "link": "https://data.eastmoney.com/notices/detail/601068/20260718/AN202607171827061254.html",
-      "date": "2026-07-17 18:43",
+      "date": "2026-07-17 18:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -26,7 +146,7 @@
     {
       "title": "*ST华鹏:北京市通商律师事务所关于山东华鹏2026年第二次临时股东会的法律意见书",
       "link": "https://data.eastmoney.com/notices/detail/603021/20260718/AN202607171827061255.html",
-      "date": "2026-07-17 18:43",
+      "date": "2026-07-17 18:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -36,7 +156,7 @@
     {
       "title": "*ST华鹏:山东华鹏2026年第二次临时股东会决议公告",
       "link": "https://data.eastmoney.com/notices/detail/603021/20260718/AN202607171827061256.html",
-      "date": "2026-07-17 18:43",
+      "date": "2026-07-17 18:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -46,7 +166,7 @@
     {
       "title": "永辉超市:永辉超市股份有限公司关于完成工商变更登记并换发营业执照的公告",
       "link": "https://data.eastmoney.com/notices/detail/601933/20260718/AN202607171827061226.html",
-      "date": "2026-07-17 18:43",
+      "date": "2026-07-17 18:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -56,7 +176,7 @@
     {
       "title": "永辉超市:永辉超市股份有限公司章程(2026年7月备案)",
       "link": "https://data.eastmoney.com/notices/detail/601933/20260718/AN202607171827061227.html",
-      "date": "2026-07-17 18:43",
+      "date": "2026-07-17 18:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -66,7 +186,7 @@
     {
       "title": "*ST英飞:关于公司股票交易被叠加实施其他风险警示的公告",
       "link": "https://data.eastmoney.com/notices/detail/002528/20260718/AN202607171827061204.html",
-      "date": "2026-07-17 18:43",
+      "date": "2026-07-17 18:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -76,7 +196,7 @@
     {
       "title": "*ST西发:关于普通破产债权确认纠纷诉讼(2026)藏01民初39号案件的公告",
       "link": "https://data.eastmoney.com/notices/detail/000752/20260718/AN202607171827061172.html",
-      "date": "2026-07-17 18:43",
+      "date": "2026-07-17 18:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -86,7 +206,7 @@
     {
       "title": "中天精装:关于持股5%以上股东部分股份质押的公告",
       "link": "https://data.eastmoney.com/notices/detail/002989/20260718/AN202607171827061174.html",
-      "date": "2026-07-17 18:43",
+      "date": "2026-07-17 18:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -96,7 +216,7 @@
     {
       "title": "光洋股份:关于签署战略合作框架协议的自愿性信息披露公告",
       "link": "https://data.eastmoney.com/notices/detail/002708/20260718/AN202607171827061175.html",
-      "date": "2026-07-17 18:43",
+      "date": "2026-07-17 18:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -106,7 +226,7 @@
     {
       "title": "*ST华西:关于公司累计诉讼、仲裁事项的公告",
       "link": "https://data.eastmoney.com/notices/detail/002630/20260718/AN202607171827061173.html",
-      "date": "2026-07-17 18:43",
+      "date": "2026-07-17 18:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -116,7 +236,7 @@
     {
       "title": "*ST英飞:关于公司及相关当事人收到《行政处罚事先告知书》的公告",
       "link": "https://data.eastmoney.com/notices/detail/002528/20260718/AN202607171827061177.html",
-      "date": "2026-07-17 18:43",
+      "date": "2026-07-17 18:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -126,7 +246,7 @@
     {
       "title": "建投能源:关于公司2026年度第一期中期票据发行完成的公告",
       "link": "https://data.eastmoney.com/notices/detail/000600/20260718/AN202607171827061178.html",
-      "date": "2026-07-17 18:43",
+      "date": "2026-07-17 18:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -136,7 +256,7 @@
     {
       "title": "*ST华西:关于重大诉讼的进展公告",
       "link": "https://data.eastmoney.com/notices/detail/002630/20260718/AN202607171827061176.html",
-      "date": "2026-07-17 18:43",
+      "date": "2026-07-17 18:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -146,7 +266,7 @@
     {
       "title": "大有能源:希格玛会计师事务所关于河南大有能源股份有限公司2025年年度报告的信息披露监管问询函的回复",
       "link": "https://data.eastmoney.com/notices/detail/600403/20260718/AN202607171827061158.html",
-      "date": "2026-07-17 18:43",
+      "date": "2026-07-17 18:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -156,7 +276,7 @@
     {
       "title": "大有能源:河南大有能源股份有限公司关于回复上海证券交易所问询函的公告",
       "link": "https://data.eastmoney.com/notices/detail/600403/20260718/AN202607171827061160.html",
-      "date": "2026-07-17 18:43",
+      "date": "2026-07-17 18:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -166,7 +286,7 @@
     {
       "title": "大有能源:河南大有能源股份有限公司独立董事关于公司2025年年度报告信息披露监管问询函所涉问题的独立意见",
       "link": "https://data.eastmoney.com/notices/detail/600403/20260718/AN202607171827061159.html",
-      "date": "2026-07-17 18:43",
+      "date": "2026-07-17 18:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -176,132 +296,12 @@
     {
       "title": "宏盛华源:宏盛华源关于国家电网项目预中标的提示性公告",
       "link": "https://data.eastmoney.com/notices/detail/601096/20260718/AN202607171827061141.html",
-      "date": "2026-07-17 18:43",
+      "date": "2026-07-17 18:53",
       "summary": "",
       "source": "公告API",
       "category": "announce",
       "stock_code": "601096",
       "stock_name": "宏盛华源"
-    },
-    {
-      "title": "博瑞医药:关于2025年年度报告的信息披露监管问询函的回复公告",
-      "link": "https://data.eastmoney.com/notices/detail/688166/20260718/AN202607171827061126.html",
-      "date": "2026-07-17 18:43",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688166",
-      "stock_name": "博瑞医药"
-    },
-    {
-      "title": "博瑞医药:公证天业会计师事务所(特殊普通合伙)关于对博瑞生物医药(苏州)股份有限公司2025年年度报告的信息披露监管问询函的回复",
-      "link": "https://data.eastmoney.com/notices/detail/688166/20260718/AN202607171827061127.html",
-      "date": "2026-07-17 18:43",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688166",
-      "stock_name": "博瑞医药"
-    },
-    {
-      "title": "沃格光电:江西沃格光电集团股份有限公司关于担保实施的进展公告",
-      "link": "https://data.eastmoney.com/notices/detail/603773/20260718/AN202607171827061095.html",
-      "date": "2026-07-17 18:43",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "603773",
-      "stock_name": "沃格光电"
-    },
-    {
-      "title": "欧晶科技:关于变更签字注册会计师的公告",
-      "link": "https://data.eastmoney.com/notices/detail/001269/20260718/AN202607171827061088.html",
-      "date": "2026-07-17 18:43",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "001269",
-      "stock_name": "欧晶科技"
-    },
-    {
-      "title": "欧晶科技:关于部分募集资金专户完成销户的公告",
-      "link": "https://data.eastmoney.com/notices/detail/001269/20260718/AN202607171827061087.html",
-      "date": "2026-07-17 18:43",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "001269",
-      "stock_name": "欧晶科技"
-    },
-    {
-      "title": "云南旅游:关于董事会换届选举的提示性公告",
-      "link": "https://data.eastmoney.com/notices/detail/002059/20260718/AN202607171827061085.html",
-      "date": "2026-07-17 18:43",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002059",
-      "stock_name": "云南旅游"
-    },
-    {
-      "title": "奥精医疗:自愿披露关于公司产品在泰国获得注册证的公告",
-      "link": "https://data.eastmoney.com/notices/detail/688613/20260718/AN202607171827061064.html",
-      "date": "2026-07-17 18:43",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688613",
-      "stock_name": "奥精医疗"
-    },
-    {
-      "title": "太极实业:关于累计诉讼、仲裁事项的公告",
-      "link": "https://data.eastmoney.com/notices/detail/600667/20260718/AN202607171827061062.html",
-      "date": "2026-07-17 18:43",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "600667",
-      "stock_name": "太极实业"
-    },
-    {
-      "title": "太极实业:股票交易异常波动公告",
-      "link": "https://data.eastmoney.com/notices/detail/600667/20260718/AN202607171827061063.html",
-      "date": "2026-07-17 18:43",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "600667",
-      "stock_name": "太极实业"
-    },
-    {
-      "title": "潍柴动力:潍柴动力股份有限公司2026年第六次临时董事会会议决议公告",
-      "link": "https://data.eastmoney.com/notices/detail/000338/20260718/AN202607171827061035.html",
-      "date": "2026-07-17 18:43",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "000338",
-      "stock_name": "潍柴动力"
-    },
-    {
-      "title": "潍柴动力:潍柴动力股份有限公司关于变更董事会秘书的公告",
-      "link": "https://data.eastmoney.com/notices/detail/000338/20260718/AN202607171827061033.html",
-      "date": "2026-07-17 18:43",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "000338",
-      "stock_name": "潍柴动力"
-    },
-    {
-      "title": "江南化工:关于2026年第一次临时股东会决议的公告",
-      "link": "https://data.eastmoney.com/notices/detail/002226/20260718/AN202607171827061039.html",
-      "date": "2026-07-17 18:43",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "002226",
-      "stock_name": "江南化工"
     }
   ]
 }
