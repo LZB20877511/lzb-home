@@ -14,9 +14,6 @@ import time
 from datetime import datetime, timezone, timedelta
 from html import unescape
 
-# 北京时间 (UTC+8)
-CST = timezone(timedelta(hours=8))
-
 # ============ 配置 ============
 OUTPUT_DIR = "data"
 MAX_PER_SOURCE = 30
@@ -44,6 +41,13 @@ US_SOURCES = [
     {"name":"CNBC","url":"https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114","cat":"us-stock","type":"rss"},
     {"name":"MarketWatch","url":"https://feeds.marketwatch.com/marketwatch/topstories","cat":"us-stock","type":"rss"},
     {"name":"Reuters","url":"https://rsshub.app/reuters/world","cat":"us-stock","type":"rss"},
+]
+
+KR_SOURCES = [
+    # 谷歌新闻（中文）：韩国股市 / 三星电子 / SK海力士 / KOSPI 综合
+    {"name":"谷歌新闻-韩股(中)","url":"https://news.google.com/rss/search?q="+e("韩国股市")+"+OR+"+e("三星电子")+"+OR+"+e("SK海力士")+"+OR+"+e("KOSPI")+"&hl=zh-CN&gl=CN&ceid=CN:zh-Hans","cat":"kr-stock","type":"rss"},
+    # Yahoo Finance：韩国龙头个股（三星/海力士/LG新能源/现代/Naver/KOSPI指数），英文、半导体链最相关
+    {"name":"Yahoo-韩股","url":"https://feeds.finance.yahoo.com/rss/2.0/headline?s=005930.KS,000660.KS,373220.KS,005380.KS,035420.KS&region=US&lang=en-US","cat":"kr-stock","type":"rss"},
 ]
 
 POLICY_SOURCES = [
@@ -140,9 +144,9 @@ def parse_sina(text, src):
             ctime_str = str(n.get("ctime", ""))
             if ctime_str:
                 ctime = int(ctime_str)
-                dt = datetime.fromtimestamp(ctime, tz=CST) if ctime > 1000000000 else datetime.now(CST)
+                dt = datetime.fromtimestamp(ctime) if ctime > 1000000000 else datetime.now()
             else:
-                dt = datetime.now(CST)
+                dt = datetime.now()
             desc = (n.get("intro") or n.get("summary") or "").strip()
             source = n.get("media_name") or src["name"]
 
@@ -181,7 +185,7 @@ def parse_json(text, src):
             if not link and art_code:
                 notice_date = (n.get("notice_date") or "").replace("-", "").split()[0]
                 if not notice_date or len(notice_date) < 8:
-                    notice_date = datetime.now(CST).strftime("%Y%m%d")
+                    notice_date = datetime.now().strftime("%Y%m%d")
                 link = f"https://data.eastmoney.com/notices/detail/{{code}}/{notice_date}/{art_code}.html"
                 # 先占位，等拿到 stock_code 后替换
             t = (n.get("show_time") or n.get("date") or n.get("noticedate") or "")
@@ -223,7 +227,7 @@ def parse_xml(text, src):
     """解析XML（RSS/Atom）"""
     items = []
     try:
-        text = re.sub(r'[^\x09\x0A\x0D\x20-\x7E\x80-\xFF\u4e00-\u9fff\u3000-\u303f\uff00-\uffef]', '', text)
+        text = re.sub(r'[^\x09\x0A\x0D\x20-\x7E\x80-\xFF\u4e00-\u9fff\u3000-\u303f\uff00-\uffef\u1100-\u11ff\u3130-\u318f\uac00-\ud7af]', '', text)
         root = ET.fromstring(text)
         ns = {"atom": "http://www.w3.org/2005/Atom"}
 
@@ -269,13 +273,13 @@ def parse_xml(text, src):
 
 
 def parse_date(s):
-    if not s: return datetime.now(CST).strftime("%Y-%m-%d %H:%M")
+    if not s: return datetime.now().strftime("%Y-%m-%d %H:%M")
     # 东方财富格式: 2026-06-21 14:30:00
     for fmt in ["%Y-%m-%d %H:%M:%S","%Y-%m-%dT%H:%M:%S%z","%Y-%m-%dT%H:%M:%SZ",
                 "%a, %d %b %Y %H:%M:%S %z","%Y-%m-%d %H:%M","%Y-%m-%d","%Y/%m/%d %H:%M"]:
         try: return datetime.strptime(str(s).strip(), fmt).strftime("%Y-%m-%d %H:%M")
         except: pass
-    return datetime.now(CST).strftime("%Y-%m-%d %H:%M")
+    return datetime.now().strftime("%Y-%m-%d %H:%M")
 
 
 def strip_html(s):
@@ -302,6 +306,14 @@ US_NOISE_KEYWORDS = [
     'fashion', 'beauty',
 ]
 
+KR_NOISE_KEYWORDS = [
+    'k-pop', 'k-drama', 'kdrama', 'bts', 'blackpink',
+    'recipe', 'cooking', 'travel', 'tourism', 'k-beauty', 'cosmetics',
+    'vacation', 'resort', 'hotel', 'fitness', 'wellness',
+    'entertainment', 'celebrity', 'sports', 'world cup',
+    'weather', 'earthquake',
+]
+
 def is_noise(item):
     """判断是否为噪声或无关内容"""
     title = (item.get("title") or "").lower()
@@ -312,6 +324,12 @@ def is_noise(item):
     # 美股噪声过滤
     if cat == "us-stock":
         for kw in US_NOISE_KEYWORDS:
+            if kw in text:
+                return True
+
+    # 韩股噪声过滤（娱乐/旅游/生活类非股市内容）
+    if cat == "kr-stock":
+        for kw in KR_NOISE_KEYWORDS:
             if kw in text:
                 return True
 
@@ -353,7 +371,7 @@ def save(items, filename, label):
         print(f"    🧹 过滤噪声 {noise_count} 条")
     items.sort(key=lambda x: x.get("date", ""), reverse=True)
     items = dedup(items)
-    data = {"updated": datetime.now(CST).isoformat(),
+    data = {"updated": datetime.now(timezone(timedelta(hours=8))).isoformat(),
             "source": label, "count": len(items), "items": items}
     path = os.path.join(OUTPUT_DIR, filename)
     with open(path, "w", encoding="utf-8") as f:
@@ -363,11 +381,12 @@ def save(items, filename, label):
 
 def main():
     print("=" * 50)
-    print(f"  财经采集器 v2  {datetime.now(CST):%Y-%m-%d %H:%M}")
+    print(f"  财经采集器 v2  {datetime.now():%Y-%m-%d %H:%M}")
     print("=" * 50)
 
     a = scrape(A_SOURCES)
     us = scrape(US_SOURCES)
+    kr = scrape(KR_SOURCES)
     policy = scrape(POLICY_SOURCES)
     macro = scrape(MACRO_SOURCES)
     capital = scrape(CAPITAL_SOURCES)
@@ -378,9 +397,10 @@ def main():
     a_all = a + policy + macro + capital + dragon + margin
     save(a_all, "a-stock.json", "A股聚合")
     save(us, "us-stock.json", "美股聚合")
+    save(kr, "kr-stock.json", "韩股要闻")
     save(announce, "announce.json", "个股公告")
 
-    print(f"\n✅ A股相关:{len(a_all)}  美股:{len(us)}  公告:{len(announce)}  合计:{len(a_all)+len(us)+len(announce)}")
+    print(f"\n✅ A股相关:{len(a_all)}  美股:{len(us)}  韩股:{len(kr)}  公告:{len(announce)}  合计:{len(a_all)+len(us)+len(kr)+len(announce)}")
     print("📝 部署: cp data/*.json 到仓库 → git push")
 
     # 自动生成AI可读摘要页
