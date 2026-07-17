@@ -1,373 +1,325 @@
 {
-  "updated": "2026-07-17T16:03:52.247457+08:00",
+  "updated": "2026-07-17T18:43:55.268489+08:00",
   "source": "A股聚合",
-  "count": 46,
+  "count": 40,
   "items": [
     {
-      "title": "M4Markets:汽油价格压力牵动油市",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-17/doc-iniiccva1382764.shtml",
-      "date": "2026-07-17 16:02",
-      "summary": "7月17日，美国汽油价格可能继续上行，能源市场对终端消费和通胀压力的关注升温，机构表示，成品油价格变化会影响居民成本，也会改变交易者对原油需求韧性的判断。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "英国石油与康菲石油据悉将宣布数十亿美元伊拉克投资计划",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiccva1382732.shtml",
-      "date": "2026-07-17 16:02",
-      "summary": "据了解相关计划的消息人士称，英国石油公司和康菲石油公司将于周五宣布在伊拉克进行数十亿美元的新投资，此举意在扶持伊拉克能源产业...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "多队球衣热销断货 耐克库存不足错失世界杯商机 分析师直指经营漏洞",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiccuy4118840.shtml",
-      "date": "2026-07-17 16:02",
-      "summary": "耐克偏偏在美国男足世界杯球衣最该补货热销的关键时期库存告急。如今虽然完成补货，却已然错过了球队本届世界杯征程带来的销售窗口期。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "工银瑞信基金：全阵布局 攻守有道",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-07-17/doc-iniiccvc8157580.shtml",
-      "date": "2026-07-17 16:00",
-      "summary": "",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "Moneta Markets外汇:黄金等待政策信号确认",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-17/doc-iniiccuy4117326.shtml",
-      "date": "2026-07-17 16:00",
-      "summary": "7月17日，美联储政策路径和主权黄金需求再次成为市场焦点，黄金在高位区间保持敏感波动，Moneta Markets外汇表示，投资者正在评估利率维持高位与长期配置需求之间的拉扯。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "CPT Markets:液化气出口带来增长预期",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-17/doc-iniiccvc8154559.shtml",
-      "date": "2026-07-17 15:57",
-      "summary": "7月17日，液化天然气出口被研究机构视为长期经济增长动力之一，能源贸易和基础设施投资再次受到关注，CPT Markets表示，出口扩张会影响天然气需求、港口投资和产业链就业。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "M4Markets:炼厂利润影响能源节奏",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-17/doc-iniiaxpa4244311.shtml",
-      "date": "2026-07-17 15:55",
-      "summary": "7月17日，美国炼厂利润升至高位，燃料供应紧张的担忧继续影响能源市场，机构表示，成品油利润变化会牵动炼厂开工和原油采购，也会改变市场对需求韧性的判断。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "微软正在研发一款类Mythos人工智能漏洞检测工具",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaxpe1507019.shtml",
-      "date": "2026-07-17 15:55",
-      "summary": "微软正准备推出一款全新AI安全产品，内部项目代号为“感知计划”，意在抢占企业持续增长的网络安全防护开支市场。据一名熟知该项目规划的知情人士透露...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "欧盟勒令谷歌向AI竞争对手开放安卓系统底层权限",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaxny7467387.shtml",
-      "date": "2026-07-17 15:55",
-      "summary": "欧盟监管机构于当地时间7月16日向美国科技巨头谷歌公司发布强制令，要求其必须解除针对竞争对手人工智能（AI）服务接入安卓（Android）智能手机系统的多项限制。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "OEXN:原油库存下降支撑油价",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-17/doc-iniiaxpf8281274.shtml",
-      "date": "2026-07-17 15:53",
-      "summary": "7月17日，美国原油库存下降推动市场重新评估供需平衡，油价在波动环境中获得支撑，OEXN表示，库存收缩说明现货端仍有消化能力，也提升了交易者对短线供应韧性的关注。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "华夏基金蔡靖：从资金过境到资本沉淀，东升西落是长期趋势",
-      "link": "https://finance.sina.com.cn/roll/2026-07-17/doc-iniiaxpe1507350.shtml",
-      "date": "2026-07-17 15:53",
-      "summary": "7月16日，由新浪财经主办的“2026新浪全球资本峰会”在中国香港隆重举行。本次峰会以“立足香港，放眼世界”为主题，汇聚全球政、商、学、研各界领军人物...",
-      "source": "新浪证券",
-      "category": "a-stock"
-    },
-    {
-      "title": "千余代表共赴金城之约——2026中国国际黄金大会在兰州开幕",
-      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-07-17/doc-iniiaxpe1503770.shtml",
-      "date": "2026-07-17 15:52",
-      "summary": "7月16日，2026中国国际黄金大会暨甘肃黄金产业高质量发展大会在甘肃省兰州市开幕。此次大会以“黄金赋能西部，丝路共创未来”为主题，由中国黄金协会主办，金川集团...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "Mega安汇:金价企稳观察央行预期",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-17/doc-iniiaxpa4241115.shtml",
-      "date": "2026-07-17 15:51",
-      "summary": "7月17日，加拿大央行维持利率不变后，黄金价格保持稳定，市场继续观察全球主要央行政策节奏，Mega安汇表示，利率路径不确定仍是贵金属交易的核心变量之一。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "FPG财盛国际:电力需求新高推升投资",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-17/doc-iniiaxny7461884.shtml",
-      "date": "2026-07-17 15:49",
-      "summary": "7月17日，AI数据中心扩张推动美国电力需求升至新高，能源基础设施投资逻辑继续强化，FPG财盛国际表示，算力增长正在把电力供应、输电网络和储能能力推到市场中心。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "美国6月份零售销售环比增长0.2% 不及市场预期",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaxpa4238487.shtml",
-      "date": "2026-07-17 15:49",
-      "summary": "美国商务部于当地时间7月16日公布的最新数据显示，尽管受到世界杯足球赛吸引全球游客以及各大电商促销活动的拉动，美国6月份零售销售额仅环比增长0.2%...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美30年期房贷利率升至近一年来最高水平 购房者观望情绪犹存",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaxny7460717.shtml",
-      "date": "2026-07-17 15:48",
-      "summary": "在美国通胀放缓与中东局势紧张的交织影响下，美国住房金融巨头房地美（Freddie Mac）于当地时间7月16日公布最新数据显示，本周美国主流30年期固定抵押贷款平均利率已攀升至...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "ZFX山海证券:金价受零售数据扰动",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-17/doc-iniiaxpa4236948.shtml",
-      "date": "2026-07-17 15:47",
-      "summary": "7月17日，美国零售销售数据好于预期后，黄金价格承压运行，市场重新评估经济韧性对利率路径的影响，ZFX山海证券表示，消费数据稳健会削弱降息交易的确定性。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "美联储主席沃什在国会听证会重申抗通胀决心 坚称将维护货币政策独立性",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaxny7459753.shtml",
-      "date": "2026-07-17 15:47",
-      "summary": "美东时间7月14日以及15日，美联储新任主席凯文·沃什（Kevin Warsh）接连出席美国国会众议院和参议院听证会。面对议员就通胀前景、人工智能（AI）对就业的冲击以及央行独立...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "《甲醇期货十问》甲醇从哪儿来？煤、气、焦炉气，谁是成本之王？",
-      "link": "https://finance.sina.com.cn/money/future/2026-07-17/doc-iniiaxpa4240311.shtml",
-      "date": "2026-07-17 15:46",
-      "summary": "广发期货研究 甲醇从哪儿来？煤、气、焦炉气，谁是成本之王？ 同样一瓶甲醇，生产成本可以相差好几倍，关键在于它是从什么“变”出来的，不同“出身”决定了不同的价格。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "NCE平台:炼厂利润刷新纪录",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-17/doc-iniiaxny7458397.shtml",
-      "date": "2026-07-17 15:46",
-      "summary": "7月17日，美国炼厂利润刷新纪录，燃料短缺担忧继续推高成品油市场关注度，NCE平台表示，炼厂端利润变化会影响原油采购节奏，也会影响能源通胀预期。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "深圳被清退的小贷：一家属于佳兆业，一家备案50个贷款小程序",
-      "link": "https://finance.sina.com.cn/money/bank/guangjiao/2026-07-17/doc-iniiaxpe1499766.shtml",
-      "date": "2026-07-17 15:45",
-      "summary": "来源 ：新经济观察团 7月16日，深圳地方金融管理局发布《关于撤销“失联”“空壳”小额贷款公司（第二批）业务资质的公告》，撤销了8家“失联”“空壳”小额贷款公司业务资质。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "Mega安汇:黄金回调后等待配置时机",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-17/doc-iniiaxny7456548.shtml",
-      "date": "2026-07-17 15:44",
-      "summary": "7月17日，部分机构认为黄金价格仍可能进一步回落，但中长期配置价值并未消失，Mega安汇表示，市场正在等待更合适的入场区间，短线调整反而让分批配置思路受到关注。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "核能初创企业Valar Atomics实现发电关键突破，洽谈融资估值达60亿美元",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaxny7455845.shtml",
-      "date": "2026-07-17 15:43",
-      "summary": "据一位熟悉该交易的知情人士透露，成立仅三年、主营可供应数据中心及各类工业设施电力的小型核反应堆企业Valar Atomics，正洽谈一轮10亿美元融资，投前估值约50亿美元。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "EasyMarkets易信:黄金回调不改矿股线索",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-07-17/doc-iniiaxpf8268230.shtml",
-      "date": "2026-07-17 15:42",
-      "summary": "7月17日，黄金回调后，矿业股的相对表现继续受到机构关注，EasyMarkets易信表示，金价短线波动并不必然改变矿企估值逻辑，市场更重视成本控制和现金流韧性。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "修文江海村镇银行被罚25.4万元：违反信用信息采集、提供、查询及相关管理规定",
-      "link": "https://finance.sina.com.cn/jryx/fd/2026-07-17/doc-iniiaxpf8267160.shtml",
-      "date": "2026-07-17 15:41",
-      "summary": "7月17日金融一线消息，中国人民银行贵州省分行行政处罚信息公开表显示，修文江海村镇银行股份有限公司因违反信用信息采集、提供、查询及相关管理规定，被罚款25.4万元。",
+      "title": "天津市吉信保险代理被罚20万元：虚挂保险代理业务套费等",
+      "link": "https://finance.sina.com.cn/jryx/fd/2026-07-17/doc-iniickay1423502.shtml",
+      "date": "2026-07-17 18:41",
+      "summary": "7月17日金融一线消息，国家金融监督管理总局天津监管局行政处罚信息公开表显示，天津市吉信保险代理有限公司因虚挂保险代理业务套费、给予投保人保险合同约定以外的利益...",
       "source": "金融一线",
       "category": "a-stock"
     },
     {
-      "title": "美国防承包商将斥资30亿美元在德克萨斯州建造全美最大自主化造船厂",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaxpe1488977.shtml",
-      "date": "2026-07-17 15:39",
-      "summary": "美国德克萨斯州州长格雷格·阿博特于当地时间7月16日宣布，总部位于该州奥斯汀的国防承包商Saronic Technologies已选定德克萨斯州布朗斯维尔港...",
+      "title": "宁夏银行天津北辰支行被罚30万元：贷款风险分类不准确",
+      "link": "https://finance.sina.com.cn/jryx/fd/2026-07-17/doc-iniickaw4126478.shtml",
+      "date": "2026-07-17 18:40",
+      "summary": "7月17日金融一线消息，国家金融监督管理总局天津监管局行政处罚信息公开表显示，宁夏银行股份有限公司天津北辰支行因贷款风险分类不准确，被罚款30万元。",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "中国人寿财险云南省分公司原党委书记、总经理张志方被查",
+      "link": "https://finance.sina.com.cn/money/insurance/bxyx/2026-07-17/doc-iniickay1413860.shtml",
+      "date": "2026-07-17 18:33",
+      "summary": "中国人寿财产保险股份有限公司云南省分公司原党委书记、总经理张志方接受纪律审查和监察调查 中央纪委国家监委网站讯据中央纪委国家监委驻中国人寿纪检监察组...",
+      "source": "中央纪委国家监委",
+      "category": "a-stock"
+    },
+    {
+      "title": "奈飞第三季度营收指引不及预期，股价盘前暴跌超9%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniickaz8188598.shtml",
+      "date": "2026-07-17 18:33",
+      "summary": "奈飞盘前交易阶段大跌超 9%，核心诱因是公司给出的第三季度业绩指引不及市场预期，平台用户观看活跃度数据也未能打消华尔街的担忧。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "美伊冲突升级之际 美防长却鲜对战局发声",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaxny7451167.shtml",
-      "date": "2026-07-17 15:38",
-      "summary": "周三，美国国防部长皮特・赫格塞思宣布推出一项针对美军士兵睾酮水平检测的计划。而在周一，国防部新成立专项工作组，专门追查并起诉泄露政府涉密信息的人员。",
+      "title": "历史规律或许能解释英伟达股价估值偏低的原因",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniickaz8184183.shtml",
+      "date": "2026-07-17 18:28",
+      "summary": "作者：威尔・希利 从表面数据来看，英伟达（纳斯达克：NVDA）当前股价估值令人费解。公司最新季度营收同比大涨 85%，但当前市盈率仅 32 倍...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "中方驳斥特朗普“中国干预美国大选”论调：无稽之谈",
-      "link": "https://finance.sina.com.cn/jjxw/2026-07-17/doc-iniiaxpa4230486.shtml",
-      "date": "2026-07-17 15:38",
-      "summary": "针对美国总统特朗普在讲话中抛出“中国干预美国大选”论调，外交部发言人林剑17日在例行记者会上表示，美方的有关说法纯属无中生有、恶意抹黑，早已被证明是无稽之谈。",
-      "source": "央视",
-      "category": "a-stock"
-    },
-    {
-      "title": "特朗普媒体科技集团拟向金融机构出售“ Truth Social”数据提速访问服务",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaxny7451028.shtml",
-      "date": "2026-07-17 15:38",
-      "summary": "美国特朗普媒体科技集团（TMTG）于当地时间7月16日宣布，将于今年8月1日起推出一项全新的商业数据供料服务，旨在向华尔街金融机构付费提供高速度...",
+      "title": "美伊军事冲突持续升级 关键基础设施遭袭引发国际社会广泛担忧",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniickaw4112551.shtml",
+      "date": "2026-07-17 18:24",
+      "summary": "美伊两国在海湾地区的军事冲突已连续进入第六天。据多家媒体7月16日报道，美伊双方日前进一步扩大了交火范围，多处非军事目标及关键基础设施遭到突袭。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "A股科技股重挫，半导体、CPO、PCB批量跌停，长光华芯20cm跌停",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-17/doc-iniiaxny7451587.shtml",
-      "date": "2026-07-17 15:37",
-      "summary": "7月17日，A股市场集体震荡调整，沪指失守3800点，深成指跌超5%，创业板指跌逾7%，科创综指跌超8%，科创50指数跌超7%。沪深两市成交额2.65万亿元...",
-      "source": "21世纪经济报道",
+      "title": "百利食品IPO：产品结构高度集中业绩增速持续下滑 家族控股超八成、产能闲置仍募资大举扩产 专利诉讼未决",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-07-17/doc-iniickaz8173789.shtml",
+      "date": "2026-07-17 18:19",
+      "summary": "出品：新浪财经上市公司研究院 作者：cici 2026年7月3日，广东百利食品股份有限公司（下称“百利食品”）顺利通过北京证券交易所上市委员会审议，距离正式挂牌仅一步之遥。",
+      "source": "新浪证券",
       "category": "a-stock"
     },
     {
-      "title": "32亿拿下大通证券控股权！国海证券的“东北梦”能成吗？",
-      "link": "https://finance.sina.com.cn/stock/quanshang/2026-07-17/doc-iniiaxpe1489345.shtml",
-      "date": "2026-07-17 15:37",
-      "summary": "作者 |刘银平 编辑 | 付影 来源 | 独角金融 7月17日14点，大通证券51.59%股份第三次拍卖落槌，以32亿元成交。根据京东拍卖平台出具的《网络竞价结果确认书》...",
+      "title": "美伊冲突升级致供电设施受损 伊朗能源部呼吁居民错峰节电以应对极端高温",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniickaz8170949.shtml",
+      "date": "2026-07-17 18:16",
+      "summary": "美伊地缘冲突升级以及多地供电设施遭到袭击影响，加之近期持续蔓延的极端高温天气，伊朗电力供应面临严峻挑战。为此，伊朗能源部公开发布呼吁...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "ETF周报：A股调整 宽基ETF逆势吸金近千亿",
+      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-17/doc-iniickay1393558.shtml",
+      "date": "2026-07-17 18:15",
+      "summary": "本周（7月13日-7月17日），A股市场迎来剧烈震荡。受外围市场情绪波动、AI板块估值回调、交易拥挤及中报业绩分化等多重因素共振影响，主要宽基指数全线大幅下挫。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "巴菲特这句箴言，将深刻影响华尔街未来数年",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniickaw4104288.shtml",
+      "date": "2026-07-17 18:14",
+      "summary": "作者：肖恩・威廉姆斯 12 月 31 日，当代最负盛名的投资大亨、亿万富翁沃伦・巴菲特正式卸下执掌数十年的工作重担。在长达半个多世纪担任伯克希尔・哈撒韦（纽交所：BRKA/B...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "A股资金流向曝光！这三大板块获资金流入",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-17/doc-iniickay1394532.shtml",
+      "date": "2026-07-17 18:13",
+      "summary": "本周A股资金流向曝光。 7月17日（周五），A股市场整体大幅调整，截至收盘，上证指数下跌3.05%，深证成指下跌5.4%，创业板指下跌7.15%，科创综指下跌8.13%。",
+      "source": "证券时报",
+      "category": "a-stock"
+    },
+    {
+      "title": "光大期货0715热点追踪：抛储靴子落地！棉花涨势要变？",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-17/doc-iniiccuy4229592.shtml",
+      "date": "2026-07-17 18:08",
+      "summary": "光大期货0715热点追踪：抛储靴子落地！棉花涨势要变？",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "美批准首款口服降胆固醇创新药 改变传统针剂治疗模式",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaxpe1485153.shtml",
-      "date": "2026-07-17 15:35",
-      "summary": "国食品和药物管理局（FDA）于美东时间7月16日正式批准美国默沙东公司（Merck）研发的口服降胆固醇新药Lipfendra（通用名：enlicitide）上市。",
+      "title": "“全线暴跌”：分析师解读科技股遭抛售、亚洲股市集体下挫",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiccvc8292985.shtml",
+      "date": "2026-07-17 18:08",
+      "summary": "副标题：从泡沫到产能瓶颈，华尔街当前如何看待人工智能赛道 受全球科技股抛售潮加剧拖累，亚洲股市周五大幅跳水，日股、台股核心股指最大跌幅达 6%。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "沪深300ETF华泰柏瑞规模重回第一，今日又放量",
-      "link": "https://finance.sina.com.cn/wm/2026-07-17/doc-iniiaxpa4228396.shtml",
-      "date": "2026-07-17 15:35",
-      "summary": "在近期的震荡行情中，大量资金借道ETF入市。7月16日，股票型ETF净流入近400亿元，宽基ETF大幅“吸金”，沪深300ETF华泰柏瑞净流入62.3亿元，规模升至935.53亿元...",
-      "source": "上海证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "Stripe联手安宏资本拟530亿美元收购PayPal 竞购战一触即发或引发SpaceX介入",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaxpa4224266.shtml",
-      "date": "2026-07-17 15:34",
-      "summary": "全球数字支付领域迎来重大行业震动。据多家媒体披露，在线支付巨头Stripe已与知名私募股权投资机构安宏资本（Advent）达成战略结盟...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "特朗普抨击纽约州州长出台的数据中心建设禁令",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaxpf8259889.shtml",
-      "date": "2026-07-17 15:34",
-      "summary": "美国总统唐纳德・特朗普猛烈抨击纽约州州长凯西・霍楚尔出台全美首个数据中心建设暂缓令，称这项政策 “糟糕至极”，会重创纽约州经济。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "张忆东：当前A股港股整体安全，无需过度恐慌，健康可持续慢牛格局确立",
-      "link": "https://finance.sina.com.cn/roll/2026-07-17/doc-iniiaxpf8267673.shtml",
-      "date": "2026-07-17 15:33",
-      "summary": "7月16日，新浪财经2026全球资本峰会举行，海通国际执行委员会委员、首席经济学家及股票研究部主管张忆东表示，随着AI赛道持续爆发，科技板块在A港...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "张忆东：传统宏观分析框架失效 无法指引当前市场投资",
-      "link": "https://finance.sina.com.cn/roll/2026-07-17/doc-iniiaxpa4223192.shtml",
-      "date": "2026-07-17 15:30",
-      "summary": "7月16日，新浪财经2026全球资本峰会举行，海通国际执行委员会委员、首席经济学家及股票研究部主管张忆东表示，当下传统宏观分析已无法适配市场节奏...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "沪指跌3.05%，创指跌7.15%：电力、银行板块逆势走强",
-      "link": "https://finance.sina.com.cn/jjxw/2026-07-17/doc-iniiaxpe1480668.shtml",
-      "date": "2026-07-17 15:30",
-      "summary": "A股三大股指7月17日集体低开。早盘两市低开低走，午前反抽未果。午后低位宽幅震荡，尾盘跌幅再度扩大。 从盘面上看，半导体、算力硬件产业链大幅下挫，CPO、存储器、PCB...",
+      "title": "3年财务信息披露不准确，新洋丰收湖北证监局警示函",
+      "link": "https://finance.sina.com.cn/jjxw/2026-07-17/doc-iniiccuw7452700.shtml",
+      "date": "2026-07-17 18:08",
+      "summary": "7月17日，磷复肥龙头企业新洋丰农业科技股份有限公司（新洋丰，000902.SZ）发布公告，因收入确认依据不充分，公司及相关人员收到湖北证监局警示函。",
       "source": "澎湃新闻",
       "category": "a-stock"
     },
     {
-      "title": "知原药业撤A转港：流量成本反噬盈利增长空间 营销内卷、合规与债务三重枷锁缠身",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-07-17/doc-iniiaxpf8255437.shtml",
-      "date": "2026-07-17 15:29",
-      "summary": "继2024年10月主动撤回A股主板上市申请后，江苏知原药业股份有限公司（下称“知原药业”）于2026年7月正式向港交所递交招股书，开启第二次资本市场冲击。",
-      "source": "新浪证券",
-      "category": "a-stock"
-    },
-    {
-      "title": "张忆东：一年内AI应用端迎突破性发展，两大细分方向确定性高",
-      "link": "https://finance.sina.com.cn/roll/2026-07-17/doc-iniiaxpf8256812.shtml",
-      "date": "2026-07-17 15:28",
-      "summary": "7月16日，新浪财经2026全球资本峰会举行，海通国际执行委员会委员、首席经济学家及股票研究部主管张忆东表示，对于当前AI行业现状，可定性为阶段性“青黄不接”...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "首份国家级消费专项规划释放新机遇，乐信旗下分期乐商城以科技助力消费提质扩容",
-      "link": "https://finance.sina.com.cn/stock/enterprise/us/2026-07-17/doc-iniiaxpa4218976.shtml",
-      "date": "2026-07-17 15:27",
-      "summary": "日前，《扩大消费“十五五”规划》正式公布，这是消费领域第一份国家级专项规划，为未来五年持续扩大内需、大力提振消费标出“任务书”、“路线图”。",
-      "source": "新浪证券",
-      "category": "a-stock"
-    },
-    {
-      "title": "明宇制药二闯港交所：核心管线全线扎堆红海 巨额优先股负债压顶 合规问题遭监管追问",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-07-17/doc-iniiaxny7442055.shtml",
-      "date": "2026-07-17 15:27",
-      "summary": "近日，明宇制药再次向港交所递交上市申请，拟以18A章规则登陆港股主板。资料显示，明宇制药由恒瑞医药前副总经理曹国庆创立的生物科技公司，成立仅八年便估值达到39...",
-      "source": "新浪证券",
-      "category": "a-stock"
-    },
-    {
-      "title": "中国造船大局，这座苏中重镇正被“重估”",
-      "link": "https://finance.sina.com.cn/stock/2026-07-17/doc-iniiaxny7447937.shtml",
-      "date": "2026-07-17 15:26",
-      "summary": "来源：城市进化论 瞄准千亿产业，补上“关键拼图” 依托全球造船产业复苏浪潮，我国造船产业正迎来确定性上行机遇。 今年上半年，我国货物贸易进出口首次突破25万亿元...",
+      "title": "两大股份行私人银行部同迎女将！中信零售老将赵彤玮领衔，民生80后刘怡眉内部提拔",
+      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-07-17/doc-iniiccuy4230968.shtml",
+      "date": "2026-07-17 18:07",
+      "summary": "来源：行长要鉴 中信银行与民生银行于近期先后敲定新任私行部负责人人选，且两家新任干部均为金融女将。 两大股份行私人银行换帅，女性高管走上前台！",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "SpaceX股价跌破发行价 空头大举加仓做空头寸升至近三成",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaxpa4217928.shtml",
-      "date": "2026-07-17 15:26",
-      "summary": "SpaceX在美股市场正面临空头的大规模集中狙击。金融数据公司S3 Partners发布的最新数据显示，随着SpaceX股价持续走低并跌破首次公开募股（IPO）发行价...",
+      "title": "601010，公司及控股股东被证监会立案调查！",
+      "link": "https://finance.sina.com.cn/stock/s/2026-07-17/doc-iniiccuw7454187.shtml",
+      "date": "2026-07-17 18:03",
+      "summary": "ST文峰：公司及控股股东因涉嫌信披违规被证监会立案调查。 ST文峰（601010）7月17日公告，公司及控股股东文峰集团于7月17日收到证监会下发的《立案告知书》...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "美企高管上半年抛售自家股票近780亿美元 内部交易释放市场谨慎信号",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiccuw7448260.shtml",
+      "date": "2026-07-17 18:02",
+      "summary": "相关金融数据公司最新统计显示，2026年上半年，美国企业高管及内部人士大举减持自家公司股票，抛售规模创下20多年来的历史次高水平。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "风格策略全曝光！18只主动ETF获证监会接收",
-      "link": "https://finance.sina.com.cn/jjxw/2026-07-17/doc-iniiaxpe1480081.shtml",
-      "date": "2026-07-17 15:26",
-      "summary": "来源：中国基金报 【导读】首批18只主动ETF刚刚上报 中国基金报记者 闫军 方丽 18只主动ETF产品名单出炉！ 7月17日上午，证监会网站显示，18只主动ETF已经上报...",
+      "title": "主动ETF拟任基金经理信息流出？业内人士：还不是最终版本",
+      "link": "https://finance.sina.com.cn/jjxw/2026-07-17/doc-iniiccva1508479.shtml",
+      "date": "2026-07-17 18:00",
+      "summary": "人民财讯7月17日电，7月17日下午，业内传出18只新上报的首批主动ETF的拟任基金经理和托管人等信息。业内人士对证券时报透露，拟任基金经理相关信息大概率来自渠道机构...",
+      "source": "证券时报网",
+      "category": "a-stock"
+    },
+    {
+      "title": "世界杯决赛来袭，有银行推出球迷员工“延迟上班”福利",
+      "link": "https://finance.sina.com.cn/roll/2026-07-17/doc-iniiccva1510965.shtml",
+      "date": "2026-07-17 17:59",
+      "summary": "21世纪经济报道记者 边万莉 7月20日（周一）凌晨3点，2026年美加墨世界杯决赛将迎来巅峰对决！当大多数人还在担心周一迟到的时候，别人家的公司早已安排上了“延迟打卡”。",
+      "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
+    {
+      "title": "A股上半年“股王”，半年报出炉",
+      "link": "https://finance.sina.com.cn/jjxw/2026-07-17/doc-iniiccva1506367.shtml",
+      "date": "2026-07-17 17:55",
+      "summary": "7月17日，中船特气（688146.SH）发布2026年半年度报告，公司实现营业收入19.04亿元，同比增长83.13%；归属于上市公司股东的净利润3.48亿元，同比增长95.63%。",
+      "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
+    {
+      "title": "实控人离婚、公司买单——丽人丽妆内控崩塌始末",
+      "link": "https://finance.sina.com.cn/stock/aigcy/2026-07-17/doc-iniiccuw7442385.shtml",
+      "date": "2026-07-17 17:55",
+      "summary": "近日，美妆品牌运营上市公司丽人丽妆（605136.SH）公告披露，因存在实控人资金占用、违规对外担保、关联交易披露缺失等三大违规，被上海证监局责令改正...",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "九台农商行20亿元二级资本债将正常付息",
+      "link": "https://finance.sina.com.cn/roll/2026-07-17/doc-iniiccvc8282491.shtml",
+      "date": "2026-07-17 17:54",
+      "summary": "21世纪经济报道记者 金石磊 近日，吉林九台农村商业银行股份有限公司（下称“九台农商行”）在中国货币网发布公告称，2021年二级资本债券（代码：2121033）将于7月22日付息...",
+      "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
+    {
+      "title": "丁晨：下一个十年 香港超级联系人优势将持续赋能ETF行业腾飞",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-07-17/doc-iniiccuy4218986.shtml",
+      "date": "2026-07-17 17:52",
+      "summary": "7月16日，新浪财经2026全球资本峰会举行，南方东英行政总裁丁晨表示，香港依托独特优势，搭建起ETF通、大湾区理财通、债券通、中沙跨境联通等多维互联互通体系...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "业绩两连降，东莞银行高管带头过“紧日子”，薪酬降幅超30％",
+      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-07-17/doc-iniiccuw7440838.shtml",
+      "date": "2026-07-17 17:51",
+      "summary": "华夏时报记者 李明会 北京报道 上市筹备十八载，日前东莞银行再度更新招股说明书。 招股书显示，2023年以来该行营业收入、净利润连续两年回落，经营盈利持续承压。",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "汇禾医疗IPO：营收暴涨仍深陷亏损 产能闲置仍豪掷4.3亿扩产",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-07-17/doc-iniiaxpa4217241.shtml",
-      "date": "2026-07-17 15:26",
-      "summary": "近日，上海汇禾医疗科技股份有限公司（以下简称“汇禾医疗”）科创板IPO申请获上交所受理，公司拟采用第五套上市标准，募集资金11.1亿元。",
+      "title": "六成营收依赖奇瑞、三年分红2亿——莫森泰克IPO的“独立性”拷问",
+      "link": "https://finance.sina.com.cn/stock/aigcy/2026-07-17/doc-iniiccuy4214828.shtml",
+      "date": "2026-07-17 17:50",
+      "summary": "2026年7月15日，芜湖莫森泰克汽车科技股份有限公司北交所IPO上会。这家主要从事汽车天窗、玻璃升降器研发制造的企业，IPO之路却横亘着一道难以回避的硬伤——对第一大客户奇...",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "从30多家到只剩6家，大批保险中介退出新三板",
+      "link": "https://finance.sina.com.cn/money/insurance/bxdt/2026-07-17/doc-iniiccuw7440545.shtml",
+      "date": "2026-07-17 17:49",
+      "summary": "来源：险联社 “巅峰时期，新三板扎堆挂牌的保险中介，足足有30多家，可短短几年过去，只剩下6家。” 2026年7月，润华保险正式敲定退市，退出新三板。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "WAIC直击：这回咱骑上机器马了",
+      "link": "https://finance.sina.com.cn/hy/hyjz/2026-07-17/doc-iniiccuw7438474.shtml",
+      "date": "2026-07-17 17:49",
+      "summary": "7月17日，国产四足机器马亮相2026世界人工智能大会（WAIC），越野代步神器来了。",
+      "source": "智客星球",
+      "category": "a-stock"
+    },
+    {
+      "title": "丁晨：南方东英两倍做多海力士ETF推出仅8个月规模就达到1300亿港币，为港交所ETF市场历史性突破",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-07-17/doc-iniiccva1498805.shtml",
+      "date": "2026-07-17 17:48",
+      "summary": "7月16日，新浪财经2026全球资本峰会举行，南方东英行政总裁丁晨表示，南方东英推出的全球首个SK海力士两倍杠杆产品（产品代码：7709），上市仅8个月...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "三跌停封单仍超4亿！ST天际13万股东“想跑跑不掉”",
+      "link": "https://finance.sina.com.cn/stock/aigcy/2026-07-17/doc-iniiccuw7435708.shtml",
+      "date": "2026-07-17 17:47",
+      "summary": "从55.98元到14.38元，曾涨近9倍的“锂电黑马”财务造假现形记 7月17日9点26分，ST天际（002759.SZ）再度开盘一字跌停，报14.38元，封单仍高达34.45万手，折合4.95亿元。",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "南方东英丁晨：香港ETF成交占比十年大幅攀升 从6.2%跃升至17%",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-07-17/doc-iniiccuw7436082.shtml",
+      "date": "2026-07-17 17:43",
+      "summary": "7月16日，新浪财经2026全球资本峰会举行，南方东英行政总裁丁晨表示，香港ETF市场十年实现跨越式增长，2016年ETF成交额仅占港交所总成交的6.2%...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "伊朗称美军最新空袭击中民用设施，伊方将打击范围扩大至叙利亚、巴林",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiccuy4208859.shtml",
+      "date": "2026-07-17 17:42",
+      "summary": "核心要点 美国中央司令部表示，已连续第六晚对伊朗实施空袭，打击数十处军事目标。 伊朗方面称美军本轮袭击损毁民用基础设施，并宣称已打击叙利亚、巴林境内美军。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "南方东英丁晨：香港资管超五成资金来自国际 国际化属性凸显",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-07-17/doc-iniiccvc8265936.shtml",
+      "date": "2026-07-17 17:40",
+      "summary": "7月16日，新浪财经2026全球资本峰会举行，南方东英行政总裁丁晨表示，数据显示，香港资管行业54%的管理资金源自国际投资者，外资占比过半...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "情况不妙！黄金失守4000 ，纳指跌至关键支撑",
+      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-07-17/doc-iniiccuw7429604.shtml",
+      "date": "2026-07-17 17:40",
+      "summary": "撰文：嘉盛集团资深分析师Jerry Chen 美国与伊朗的冲突已经持续一周，双方在获得霍尔木兹海峡的主动权之前似乎都没有退让的意思。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "全球最大橄榄油企业称市场已“彻底”迈入全新阶段",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiccvc8260211.shtml",
+      "date": "2026-07-17 17:37",
+      "summary": "核心要点 全球橄榄油龙头企业表示，此前史无前例的剧烈波动行情已彻底落幕，市场走向平稳。 迪奥莱奥（Deoleo）首席执行官克里斯托瓦尔・巴尔德斯透露...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "游族网络归母净利暴增近5倍 扣非却不足2500万 主业疲软靠炒股撑起上半年业绩",
+      "link": "https://finance.sina.com.cn/stock/aigcy/2026-07-17/doc-iniiccvc8258486.shtml",
+      "date": "2026-07-17 17:35",
+      "summary": "2026年7月14日晚，游族网络（002174.SZ）发布半年度业绩预告，预计上半年归母净利润达2亿至3亿元，同比增长298.76%至498.14%。然而，扣非净利润仅1600万至2400万元...",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "半年扣非净利润亏超1.8亿 《异环》14亿流水为何救不了完美世界财报？",
+      "link": "https://finance.sina.com.cn/stock/aigcy/2026-07-17/doc-iniiccuw7425042.shtml",
+      "date": "2026-07-17 17:34",
+      "summary": "2026年7月14日晚间，完美世界（002624.SZ）披露了一份让市场愕然的半年度业绩预告：上半年归母净利润预计亏损8000万元至1.2亿元，而上年同期盈利5.03亿元...",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "慈文传媒影视剧业务营收下滑叠加坏账计提增加 上半年亏损扩大 2.9亿在手订单能否扭转困局？",
+      "link": "https://finance.sina.com.cn/stock/aigcy/2026-07-17/doc-iniiccvc8256793.shtml",
+      "date": "2026-07-17 17:33",
+      "summary": "2026年7月14日晚间，慈文传媒（002343.SZ）发布半年度业绩预告，预计上半年归母净利润亏损2500万元至3700万元，上年同期亏损2308...",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "美伊冲突加剧，霍尔木兹海峡原油供应风险升温，国际油价上涨",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiccuw7424316.shtml",
+      "date": "2026-07-17 17:33",
+      "summary": "核心要点 美伊对峙持续升级，投资者评估地缘供应风险，周五油价走高。 伊朗政府表态：若特朗普政府落实打击伊朗核心设施的计划，伊朗将对中东地区基础设施实施报复打击。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "欢瑞世纪再陷“增量不增利”困局 净亏损扩大18倍背后 信用减值成放大镜",
+      "link": "https://finance.sina.com.cn/stock/aigcy/2026-07-17/doc-iniiccuw7423450.shtml",
+      "date": "2026-07-17 17:32",
+      "summary": "2026年7月14日晚间，欢瑞世纪（000892.SZ）披露半年度业绩预告，预计2026年上半年营业收入约2.45亿元，同比增长23.71%；但归母净利润亏损约1.25亿元，而上年同期亏损仅639...",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "票房降四成、观影人次降三成 五家院线公司半年报集体“沦陷” 下一个《哪吒2》何时到来？",
+      "link": "https://finance.sina.com.cn/stock/aigcy/2026-07-17/doc-iniiccuy4199471.shtml",
+      "date": "2026-07-17 17:32",
+      "summary": "2026年7月中旬，随着横店影视、儒意电影、文投控股、金逸影视、博纳影业五家A股影视公司相继披露2026年半年度业绩预告，中国电影行业正经历一场前所未有的集体失速。",
       "source": "新浪证券",
       "category": "a-stock"
     }
