@@ -30,7 +30,7 @@ jobs:
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git add data/a-stock.json data/us-stock.json data/announce.json finance-summary.html
+          git add data/a-stock.json data/us-stock.json data/kr-stock.json data/announce.json finance-summary.html
           git diff --cached --quiet || git commit -m "自动更新: $(TZ='Asia/Shanghai' date '+%m/%d %H:%M')"
           git push
 
