@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-18T22:48:23.742729+08:00",
+  "updated": "2026-07-18T23:53:00.886625+08:00",
   "source": "美股聚合",
-  "count": 53,
+  "count": 54,
   "items": [
     {
       "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
       "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
       "source": "CNBC",
       "category": "us-stock"
@@ -14,7 +14,7 @@
     {
       "title": "World Cup audience stayed bipartisan despite Trump's prominent role, CNBC survey finds",
       "link": "https://www.cnbc.com/2026/07/18/world-cup-viewership-trump-democrats-republicans-poll.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "Nearly half of registered voters watched the 2026 World Cup, with income and education shaping viewership more than party affiliation, the survey found.",
       "source": "CNBC",
       "category": "us-stock"
@@ -22,15 +22,23 @@
     {
       "title": "U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping",
       "link": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "U.S. Central Command says it continues to enforce a naval blockade against Iran, while Kuwait and Bahrain say they have intercepted more Iranian projectiles.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Two unexpected revelations in Warren Buffett's CNBC interview",
+      "link": "https://www.cnbc.com/2026/07/18/two-unexpected-revelations-in-warren-buffetts-cnbc-interview.html",
+      "date": "2026-07-18 23:52",
+      "summary": "Warren Buffett tells CNBC that Bill Gates' ties to Jeffrey Epstein didn't drive his termination of donations.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "These are the most oversold stocks after a rough week on Wall Street",
       "link": "https://www.cnbc.com/2026/07/18/these-are-the-most-oversold-stocks-after-a-rough-week-on-wall-street.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "The major averages posted weekly losses, but a few tech stocks  such as Oracle and IBM  sold off especially hard.",
       "source": "CNBC",
       "category": "us-stock"
@@ -38,7 +46,7 @@
     {
       "title": "How are prediction markets taxed? The IRS hasnt provided guidance yet",
       "link": "https://www.cnbc.com/2026/07/18/how-are-prediction-markets-taxed-the-irs-hasnt-provided-guidance-yet.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "Experts say the lack of federal guidance makes it's unclear on how prediction markets winnings should be reported and levied.",
       "source": "CNBC",
       "category": "us-stock"
@@ -46,7 +54,7 @@
     {
       "title": "Trump Media pitched $100,000 monthly fee for fastest feed of U.S. president's posts, sources say",
       "link": "https://www.cnbc.com/2026/07/18/trump-media-pitched-100000/month-fee-for-fastest-feed-of-trump-posts.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "Trump Media & Technology Group has in recent weeks also pitched a discounted plan of $60,000 per month if the firms sign up for a three-year plan.",
       "source": "CNBC",
       "category": "us-stock"
@@ -54,7 +62,7 @@
     {
       "title": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs",
       "link": "https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "The smoke coming from active wildfires in Canada has led to unhealthy air quality in swaths of the U.S., which could affect the World Cup final in New Jersey.",
       "source": "CNBC",
       "category": "us-stock"
@@ -62,23 +70,15 @@
     {
       "title": "The White House is dictating access to frontier AI models, shifting power from tech giants, sources say",
       "link": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "The Trump administration is taking steps to control who gets access to the latest frontier models, people familiar with the matter told CNBC.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Scam victims can owe taxes on stolen money. A bill in Congress could offer relief",
-      "link": "https://www.cnbc.com/2026/07/18/scam-victims-irs-tax-stolen-money.html",
-      "date": "2026-07-18 22:48",
-      "summary": "A bill in the House would restore a pre-2018 rule that generally allowed a tax deduction for theft losses and would add other relief for fraud victims.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Democratic socialists top MAGA candidates among voters in CNBC's All-America poll",
       "link": "https://www.cnbc.com/2026/07/17/democratic-socialists-top-maga-candidates-all-america-poll.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "The survey's findings come as democratic socialist candidates win Democratic primaries following the 2025 election of New York City Mayor Zohran Mamdani.",
       "source": "CNBC",
       "category": "us-stock"
@@ -86,31 +86,39 @@
     {
       "title": "California's billionaire tax: What's at risk for the biggest state economy in America",
       "link": "https://www.cnbc.com/2026/07/17/california-billionaire-tax.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "California's billionaire tax would generate quick revenue, but Norway's example shows the longer-term economic impact of targeting the wealthy is unclear.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
-      "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
-      "date": "2026-07-18 22:48",
-      "summary": "Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes targeting retailers and banks.",
+      "title": "Scam victims can owe taxes on stolen money. A bill in Congress could offer relief",
+      "link": "https://www.cnbc.com/2026/07/18/scam-victims-irs-tax-stolen-money.html",
+      "date": "2026-07-18 23:52",
+      "summary": "A bill in the House would restore a pre-2018 rule that generally allowed a tax deduction for theft losses and would add other relief for fraud victims.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Tesla's charts point to a decline ahead, says Carter Worth",
       "link": "https://www.cnbc.com/2026/07/17/teslas-charts-point-to-a-decline-ahead-says-carter-worth.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "The technical analyst breaks down where he sees Tesla shares going.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
+      "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
+      "date": "2026-07-18 23:52",
+      "summary": "Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes targeting retailers and banks.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Epstein victims blast Trump attorney general nominee Todd Blanche after meeting",
       "link": "https://www.cnbc.com/2026/07/17/epstein-victims-todd-blanche-doj-trump-tillis.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "\"Todd Blanche treated the meeting as a mere 'check-the-box' exercise intended to secure votes for his confirmation,\" said Epstein survivor Dani Bensky.",
       "source": "CNBC",
       "category": "us-stock"
@@ -118,7 +126,7 @@
     {
       "title": "27-year-old locksmith spent $7,000 on tools, works around the clock in NYC: 'I'd never held a screwdriver in my life' before starting",
       "link": "https://www.cnbc.com/2026/07/18/how-27-year-old-left-her-job-to-start-locksmith-girl-of-nyc.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "Yona Sahar, founder of Locksmith Girl of NYC, spent two years learning the trade. Now, she runs her own business while working around the clock.",
       "source": "CNBC",
       "category": "us-stock"
@@ -126,23 +134,15 @@
     {
       "title": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds",
       "link": "https://www.cnbc.com/2026/07/17/economic-outlook-is-worsening-and-trump-is-getting-blamed-cnbc-survey-finds.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "The public is as depressed about the economy as it has been since the years just after the pandemic, according to the All-America Economic Survey.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Leather jacket worn by Nvidia CEO goes for just under $1 million at Sotheby's auction",
-      "link": "https://www.cnbc.com/2026/07/17/leather-jacket-worn-by-nvidia-ceo-goes-for-just-under-1-million-at-sothebys-auction-.html",
-      "date": "2026-07-18 22:48",
-      "summary": "The high price for the garment is a sign that collectors are looking to bid on artifacts and collectibles from the artificial intelligence boom.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Meta's latest move in the AI talent war  plus Cramer's 4 quick hits on the market",
       "link": "https://www.cnbc.com/2026/07/17/metas-latest-move-in-the-ai-talent-war-plus-cramers-4-quick-hits.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "source": "CNBC",
       "category": "us-stock"
@@ -150,15 +150,23 @@
     {
       "title": "Looking for a high CD rate? Newtek's new 4.30% APY offer is available for a limited time",
       "link": "https://www.cnbc.com/select/newtek-bank-limited-time-13-month-cd/",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "Newtek Bank's new 13-month CD offers a competitive APY for a limited time. Here's how it stacks up.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Leather jacket worn by Nvidia CEO goes for just under $1 million at Sotheby's auction",
+      "link": "https://www.cnbc.com/2026/07/17/leather-jacket-worn-by-nvidia-ceo-goes-for-just-under-1-million-at-sothebys-auction-.html",
+      "date": "2026-07-18 23:52",
+      "summary": "The high price for the garment is a sign that collectors are looking to bid on artifacts and collectibles from the artificial intelligence boom.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "S&P 500 closes lower, Nasdaq falls more than 1% as chip stocks suffer: Live updates",
       "link": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "The moves come after a decline in chipmakers dragged the broader market lower and the U.S. continued to strike Iran overnight.",
       "source": "CNBC",
       "category": "us-stock"
@@ -166,7 +174,7 @@
     {
       "title": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift",
       "link": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "It's the latest AI model from China to close the performance gap with leading U.S. AI labs.",
       "source": "CNBC",
       "category": "us-stock"
@@ -174,7 +182,7 @@
     {
       "title": "Ukrainian drone attacks kill seven warehouse workers in Russia, spark fire at Moscow region oil depot",
       "link": "https://www.cnbc.com/2026/07/18/ukrainian-drone-attacks-kill-seven-warehouse-workers-in-russia.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "Russian governors say Ukrainian drones struck two online retail warehouses. Ukrainian President Zelenskyy says Kyiv hit military logistics facilities.",
       "source": "CNBC",
       "category": "us-stock"
@@ -182,7 +190,7 @@
     {
       "title": "FAA lets Boeing sign off on 737 Max, 787 airworthiness certificates again",
       "link": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "The move is a vote of confidence in Boeing from the U.S. government.",
       "source": "CNBC",
       "category": "us-stock"
@@ -190,7 +198,7 @@
     {
       "title": "Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz",
       "link": "https://www.cnbc.com/2026/07/17/iran-war-iraq-syria-oil-pipeline-strait-hormuz.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "Iraqi Prime Minister Ali al-Zaidi is visiting the U.S. this week. He met with President Donald Trump at the White House on Tuesday.",
       "source": "CNBC",
       "category": "us-stock"
@@ -198,23 +206,39 @@
     {
       "title": "SpaceX stock has cratered nearly 23% since the company joined the Nasdaq-100",
       "link": "https://www.cnbc.com/2026/07/17/spacex-stock-starship-test-flight-aborted.html",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "SpaceX's stock plunged further on Friday, a day after it aborted a test flight for its Starship rocket at the last second.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Anthropic in early talks with Meta to acquire compute power",
-      "link": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
-      "date": "2026-07-18 22:48",
-      "summary": "The talks come weeks after Anthropic announced a similar deal with Elon Musk's SpaceX to use the computing capacity at its Colossus 1 data center",
-      "source": "CNBC",
+      "title": "Is SpaceX’s stock a bust because it fell below $135? Look what happened after Meta’s IPO.",
+      "link": "https://www.marketwatch.com/story/is-spacexs-stock-a-bust-because-it-fell-below-135-look-what-happened-after-metas-ipo-baed7e68?mod=mw_rss_topstories",
+      "date": "2026-07-18 23:52",
+      "summary": "Close to half of major IPOs sink below their offering price — and stay there for several years. Here’s why SpaceX is no different.",
+      "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "Your stock portfolio is tied to the Japanese yen — and a looming intervention is flashing a major warning sign",
+      "link": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
+      "date": "2026-07-18 23:52",
+      "summary": "What the link between the yen and U.S. stocks means for your portfolio.",
+      "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "Here’s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S.",
+      "link": "https://www.marketwatch.com/story/heres-the-net-worth-you-need-to-start-getting-ahead-in-your-20s-30s-40s-and-beyond-in-the-u-s-520c8d72?mod=mw_rss_topstories",
+      "date": "2026-07-18 23:52",
+      "summary": "About three-fourths of Americans lack the wealth needed to prosper in today’s economy, according to a new benchmark developed by the Aspen Institute.",
+      "source": "MarketWatch",
       "category": "us-stock"
     },
     {
       "title": "Small-cap outperformance is persisting — and these 15 quality stocks pay rich dividends",
       "link": "https://www.marketwatch.com/story/small-cap-outperformance-is-persisting-and-these-15-quality-stocks-pay-rich-dividends-5a814386?mod=mw_rss_topstories",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "Think large caps are still the best bet? The data say you are looking in the wrong place.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -222,7 +246,7 @@
     {
       "title": "Look on the bright side: Energy companies are booming",
       "link": "https://www.marketwatch.com/story/look-on-the-bright-side-energy-companies-are-booming-546164fb?mod=mw_rss_topstories",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "You can’t beat them. Maybe you should join them.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -230,7 +254,7 @@
     {
       "title": "Billionaires are loading up on these superior stocks. Why it pays to follow their money.",
       "link": "https://www.marketwatch.com/story/billionaires-are-loading-up-on-these-superior-stocks-why-it-pays-to-follow-their-money-9120c242?mod=mw_rss_topstories",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "The second quarter was a six-year best for U.S. stocks — here are the three sectors poised to lead the next leg higher.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -238,7 +262,7 @@
     {
       "title": "This overlooked index is a better investment than the S&P 500",
       "link": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "We did the math over a 30-year period, and it’s not even close.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -246,25 +270,129 @@
     {
       "title": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?",
       "link": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
-      "date": "2026-07-18 22:48",
+      "date": "2026-07-18 23:52",
       "summary": "“He is now no longer able to think clearly or communicate his wishes.”",
       "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
-      "link": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
-      "date": "2026-07-18 22:48",
-      "summary": "“I’m also considering working with a credit-counseling agency or enrolling in a hardship program.”",
-      "source": "MarketWatch",
+      "title": "This \"Hands-Off\" ETF Could Be Your Ticket to Becoming a Millionaire",
+      "link": "https://www.fool.com/investing/2026/07/18/this-etf-could-be-your-ticket-to-becoming-a-millio/?.tsrc=rss",
+      "date": "2026-07-18 15:38",
+      "summary": "It's a simple, hands-off way to invest for the long haul.",
+      "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "How a homegrown Chinese chip maker became the memory industry’s biggest wild card",
-      "link": "https://www.marketwatch.com/story/how-a-homegrown-chinese-chip-maker-became-the-memory-industrys-biggest-wild-card-c3f603af?mod=mw_rss_topstories",
-      "date": "2026-07-18 22:48",
-      "summary": "As ChangXin Memory Technologies gears up for a breakout public listing, the chip maker is eyeing the turf held by Micron, SK Hynix and Samsung.",
-      "source": "MarketWatch",
+      "title": "Plug Power Wins a 50-Megawatt Order in Australia. Here's What It Means for the Hydrogen Stock.",
+      "link": "https://www.fool.com/investing/2026/07/18/plug-power-wins-a-50-megawatt-order-in-australia/?.tsrc=rss",
+      "date": "2026-07-18 15:20",
+      "summary": "Plug Power continues to gain market adoption of its PEM electrolyzers.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Tesla face 3 major headwinds heading into earnings report",
+      "link": "https://www.thestreet.com/investing/tesla-headwinds-earnings-deutsche-bank?.tsrc=rss",
+      "date": "2026-07-18 15:17",
+      "summary": "Earlier this month, Tesla investors got some much-needed good news when the electric vehicle maker reported that it delivered more than 480,000 vehicles in the second quarter. The 25% year-over-year i",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "International ETF Outpacing the S&P 500 This Year Is Worth a Closer Look",
+      "link": "https://www.fool.com/investing/2026/07/18/international-etf-outpacing-sp-500-this-year/?.tsrc=rss",
+      "date": "2026-07-18 15:05",
+      "summary": "It's a good idea for investors to look outside the U.S. for investment opportunities.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Why CoreWeave Stock Keeps Falling",
+      "link": "https://www.fool.com/investing/2026/07/18/why-coreweave-stock-keeps-falling/?.tsrc=rss",
+      "date": "2026-07-18 14:57",
+      "summary": "The AI cloud provider's slide has less to do with demand than with what its growth costs.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "4 Covered Call ETFs to Buy in 2026: Skip XYLDs 0.60% Fee for Cheaper Alternatives",
+      "link": "https://247wallst.com/investing/2026/07/18/4-covered-call-etfs-to-buy-in-2026-skip-xylds-0-60-fee-for-cheaper-alternatives/?.tsrc=rss",
+      "date": "2026-07-18 14:55",
+      "summary": "XYLD has a loyal following and a 10% yield, but a growing roster of covered call ETFs undercuts its fee while offering features it simply cannot match. Before committing capital, knowing exactly where",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "The 3 Energy Stocks I'd Buy With My Next $1,000",
+      "link": "https://www.fool.com/investing/2026/07/18/the-3-energy-stocks-id-buy-with-my-next-1000/?.tsrc=rss",
+      "date": "2026-07-18 14:50",
+      "summary": "These energy companies are capitalizing on the surge in AI power demand.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Here's Why CoreWeave Stock Tanked This Week",
+      "link": "https://www.fool.com/investing/2026/07/18/heres-why-coreweave-stock-tanked-this-week/?.tsrc=rss",
+      "date": "2026-07-18 14:47",
+      "summary": "CoreWeave may be looking to reduce risk on memory pricing.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Buy Any Month, Always Hedged: The ETF Built for Investors Who Bail at Every Dip",
+      "link": "https://247wallst.com/investing/etf/2026/07/18/buy-any-month-always-hedged-the-etf-built-for-investors-who-bail-at-every-dip/?.tsrc=rss",
+      "date": "2026-07-18 14:32",
+      "summary": "A $10 billion ETF was built specifically for the investor who sells at every dip and buys back too late, and the way it solves that problem reveals something uncomfortable about how most people actual",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Price Prediction: Tesla Poised for 12% Rally as Profit Margins Improve",
+      "link": "https://247wallst.com/investing/2026/07/18/price-prediction-tesla-poised-for-12-rally-as-profit-margins-improve/?.tsrc=rss",
+      "date": "2026-07-18 14:30",
+      "summary": "Tesla has pulled back sharply from its December highs, leaving investors to weigh a stock priced for perfection against a wave of catalysts that could rewrite the bull case entirely.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "The S&P 500 Is Becoming a Tech Index in Disguise  But That May Not Be the Risk Investors Think",
+      "link": "https://247wallst.com/investing/2026/07/18/the-sp-500-is-becoming-a-tech-index-in-disguise-but-that-may-not-be-the-risk-investors-think/?.tsrc=rss",
+      "date": "2026-07-18 14:21",
+      "summary": "Tech giants now control nearly half the S&P 500, surpassing even dot-com bubble levels, and the AI spending race is raising uncomfortable questions about what happens when a handful of companies drive",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "The Misunderstood Truth About AI Demand Has Me Buying Meta Over and Over",
+      "link": "https://247wallst.com/investing/2026/07/18/the-misunderstood-truth-about-ai-demand-has-me-buying-meta-over-and-over/?.tsrc=rss",
+      "date": "2026-07-18 14:11",
+      "summary": "When Meta's CFO admitted the company keeps underestimating its own compute needs, most investors saw a red flag. One analyst saw the opposite, and has been loading up on shares ever since.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Palantir (NasdaqGS:PLTR) Teams Up With Nvidia On Sovereign AI For Governments",
+      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nasdaqgs-pltr-teams-nvidia-140914270.html?.tsrc=rss",
+      "date": "2026-07-18 14:09",
+      "summary": "Palantir Technologies (NasdaqGS:PLTR) announced a new partnership with Nvidia to deploy sovereign AI solutions for government agencies. The collaboration will use Nvidia's open AI model Nemotron as a ",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Is SpaceX Your Ticket to Becoming a Millionaire?",
+      "link": "https://www.fool.com/investing/2026/07/18/is-spacex-your-ticket-to-becoming-a-millionaire/?.tsrc=rss",
+      "date": "2026-07-18 14:05",
+      "summary": "Analysts are projecting immense growth for the newly public company. Could it mint new millionaires?",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Down 7% While the S&P Sank 19%: Inside INCM's Defense",
+      "link": "https://www.trefis.com/articles/607744/down-7-while-the-sp-sank-19-inside-incms-defense/2026-07-18?.tsrc=rss",
+      "date": "2026-07-18 14:03",
+      "summary": "True diversification goes beyond owning different stocks to holding assets that behave differently when the market drops.",
+      "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
@@ -284,6 +412,14 @@
       "category": "us-stock"
     },
     {
+      "title": "Gene Munster Says New Siri AI Makes It Feel 'Like Having a New Phone,' Ming-Chi Kuo Says Stock Rally Was Expected as Apple Stock Touches Record High",
+      "link": "https://finance.yahoo.com/technology/ai/articles/gene-munster-says-siri-ai-133021829.html?.tsrc=rss",
+      "date": "2026-07-18 13:30",
+      "summary": "On Wednesday, Apple Inc. shares surged to a record high after investors welcomed the companys new Siri AI beta and progress on Apple Intelligence, with prominent analysts Gene Munster and Ming-Chi Kuo",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
       "title": "Amazons $25 Billion Bond Sale Created 3 More Reasons for Me to Keep Buying",
       "link": "https://247wallst.com/investing/2026/07/18/amazons-25-billion-bond-sale-created-3-more-reasons-for-me-to-keep-buying/?.tsrc=rss",
       "date": "2026-07-18 13:26",
@@ -296,134 +432,6 @@
       "link": "https://finance.yahoo.com/news/this-weeks-ai-winners-and-losers-131654035.html?.tsrc=rss",
       "date": "2026-07-18 13:16",
       "summary": "Yahoo Finance's AI winners and losers include TSMC, Moonshot AI, IBM, and the chip industry.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "TSMC: Stock to Avoid or Incredible Buying Opportunity? (NYSE: TSM)",
-      "link": "https://www.fool.com/investing/2026/07/18/tsmc-stock-to-avoid-or-incredible-buying-opportuni/?.tsrc=rss",
-      "date": "2026-07-18 13:11",
-      "summary": "TSMC expects strong revenue growth, but it's also spending heavily to build new foundry capacity.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "SMH ETF Is A Sharper Bet Than Its Name Suggests",
-      "link": "https://www.trefis.com/articles/607739/smh-etf-is-a-sharper-bet-than-its-name-suggests/2026-07-18?.tsrc=rss",
-      "date": "2026-07-18 13:10",
-      "summary": "A fund's label tells you the category, but the real story is in how the weight is actually distributed among its holdings.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "I Keep Buying Nvidia Because Bears Keep Shouting This False Narrative",
-      "link": "https://247wallst.com/investing/2026/07/18/i-keep-buying-nvidia-because-bears-keep-shouting-this-false-narrative/?.tsrc=rss",
-      "date": "2026-07-18 13:10",
-      "summary": "Bears keep recycling the same China narrative about Nvidia, but each earnings report dismantles it faster than they can rebuild it. Here is why the loudest argument against the stock keeps pushing me ",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Best Dividend Stock to Buy Now and Hold Forever",
-      "link": "https://www.fool.com/investing/2026/07/18/best-dividend-stock-to-buy-now-and-hold-forever/?.tsrc=rss",
-      "date": "2026-07-18 13:05",
-      "summary": "The integrated energy giant is still an evergreen income investment.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Federal Realty Trust Just Declared Its 58th Straight Annual Dividend Increase. Here's How Much $10,000 Invested Pays Annually.",
-      "link": "https://www.fool.com/investing/2026/07/18/federal-realty-trust-dividend-increase-yield/?.tsrc=rss",
-      "date": "2026-07-18 13:03",
-      "summary": "The Dividend King consistently raises its dividend and also pays a high yield.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "ROBO's Dip History Offers A Cautious Green Light",
-      "link": "https://www.trefis.com/articles/607735/robos-dip-history-offers-a-cautious-green-light/2026-07-18?.tsrc=rss",
-      "date": "2026-07-18 13:02",
-      "summary": "The robotics and automation fund is down, and its own record suggests a rebound is more common than not, but the ride has rarely been smooth.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Rambus Gains Momentum on Rising AI Memory Bandwidth Needs",
-      "link": "https://247wallst.com/investing/2026/07/18/rambus-gains-momentum-on-rising-ai-memory-bandwidth-needs/?.tsrc=rss",
-      "date": "2026-07-18 13:00",
-      "summary": "After a violent June rally sent Rambus shares soaring and a brutal July pullback erased nearly a third of those gains, the memory interface specialist sits at a crossroads between AI-driven growth and",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "3 Drone Defense Stocks to Buy in July",
-      "link": "https://247wallst.com/investing/2026/07/18/3-drone-defense-stocks-to-buy-in-july/?.tsrc=rss",
-      "date": "2026-07-18 13:00",
-      "summary": "The Pentagon just earmarked tens of billions for drone dominance, yet the purest military UAV plays have cratered in July, creating the kind of entry window that tends to close fast once appropriation",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "This Indicator Has Called Every Recession Over the Last 60 Years -- What It's Saying Now",
-      "link": "https://www.fool.com/investing/2026/07/18/indicator-recession-60-years-treasury-yield/?.tsrc=rss",
-      "date": "2026-07-18 12:50",
-      "summary": "The Treasury bond market has historically offered an effective signal right before the onset of a recession.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "A Fat 13% Yield From the Russell 2000? Meet the Covered-Call Fund Betting Against Big Tech",
-      "link": "https://247wallst.com/investing/etf/2026/07/18/a-fat-13-yield-from-the-russell-2000-meet-the-covered-call-fund-betting-against-big-tech/?.tsrc=rss",
-      "date": "2026-07-18 12:45",
-      "summary": "A covered-call ETF built on small caps instead of Big Tech is dangling a 13% yield, but the tradeoffs hiding behind that number could make or break your portfolio depending on how you hold it.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
-      "link": "https://finance.yahoo.com/m/6c8dacfc-1037-32fc-a343-353600ff0076/dow-jones-futures%3A-google%2C.html?.tsrc=rss",
-      "date": "2026-07-18 12:43",
-      "summary": "Google earnings and capex guidance will be key for battered AI stocks. Tesla, Intel, GE Vernova also will report.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "This Dividend ETF Yields 3.2% and Is Beating the Nasdaq-100 This Year",
-      "link": "https://www.fool.com/investing/2026/07/18/this-dividend-etf-yields-319-and-is-beating-the-na/?.tsrc=rss",
-      "date": "2026-07-18 12:43",
-      "summary": "A portfolio of dividend payers with decade-long track records is outrunning the AI-heavy growth indexes.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "3 Stocks Under $50 Worth Buying in July",
-      "link": "https://247wallst.com/investing/2026/07/18/3-stocks-under-50-worth-buying-in-july/?.tsrc=rss",
-      "date": "2026-07-18 12:30",
-      "summary": "Three stocks under $50 are posting double-digit revenue growth while Wall Street's biggest names trade at prices that shut out smaller investors. One is a digital bank, one a global finance compounder",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "5 Top Dividend Stocks Yielding 5% or More to Buy Right Now for Passive Income",
-      "link": "https://www.fool.com/investing/2026/07/18/5-top-dividend-stocks-yielding-5-or-more-to-buy-ri/?.tsrc=rss",
-      "date": "2026-07-18 12:20",
-      "summary": "These stocks pay high-yielding, steadily rising dividends.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Bloom Energys AI Data Center Growth Story Is Starting to Crack",
-      "link": "https://247wallst.com/investing/2026/07/18/bloom-energys-ai-data-center-growth-story-is-starting-to-crack/?.tsrc=rss",
-      "date": "2026-07-18 12:14",
-      "summary": "Bloom Energy soared on the AI data center boom, but a high-profile project rejection in New Mexico and a spreading wave of community opposition are raising questions about whether the company's bigges",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Prediction: The Most Important Stock in the Dow Jones Will Issue a 4-for-1 Stock Split Before the End of 2026",
-      "link": "https://www.fool.com/investing/2026/07/18/predict-most-important-dow-jones-stock-split/?.tsrc=rss",
-      "date": "2026-07-18 12:05",
-      "summary": "Goldman Sachs has never issued a stock split, but its soaring stock price has the Dow off balance.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     }
