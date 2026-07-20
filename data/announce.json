@@ -1,12 +1,102 @@
 {
-  "updated": "2026-07-20T11:50:01.703984+08:00",
+  "updated": "2026-07-20T12:35:36.441311+08:00",
   "source": "个股公告",
   "count": 30,
   "items": [
     {
+      "title": "恒力石化:恒力石化关于第五期以集中竞价交易方式回购股份的回购报告书",
+      "link": "https://data.eastmoney.com/notices/detail/600346/20260720/AN202607201827135618.html",
+      "date": "2026-07-20 12:35",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "600346",
+      "stock_name": "恒力石化"
+    },
+    {
+      "title": "恒力石化:恒力石化第十届董事会第六次会议决议公告",
+      "link": "https://data.eastmoney.com/notices/detail/600346/20260720/AN202607201827135619.html",
+      "date": "2026-07-20 12:35",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "600346",
+      "stock_name": "恒力石化"
+    },
+    {
+      "title": "三峡能源:中国三峡新能源(集团)股份有限公司关于控股股东增持股份计划公告",
+      "link": "https://data.eastmoney.com/notices/detail/600905/20260720/AN202607201827135500.html",
+      "date": "2026-07-20 12:35",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "600905",
+      "stock_name": "三峡能源"
+    },
+    {
+      "title": "小商品城:关于公司董事长提议制定2026年中期利润分配方案的提示性公告",
+      "link": "https://data.eastmoney.com/notices/detail/600415/20260720/AN202607201827135449.html",
+      "date": "2026-07-20 12:35",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "600415",
+      "stock_name": "小商品城"
+    },
+    {
+      "title": "上汽集团:上汽集团关于收到控股股东承诺函的公告",
+      "link": "https://data.eastmoney.com/notices/detail/600104/20260720/AN202607201827135325.html",
+      "date": "2026-07-20 12:35",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "600104",
+      "stock_name": "上汽集团"
+    },
+    {
+      "title": "红塔证券:红塔证券股份有限公司关于董事长提议回购公司部分股份的提示性公告",
+      "link": "https://data.eastmoney.com/notices/detail/601236/20260720/AN202607201827135324.html",
+      "date": "2026-07-20 12:35",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "601236",
+      "stock_name": "红塔证券"
+    },
+    {
+      "title": "中国太保:中国太保关于坚定支持资本市场发展与提升股东回报的公告",
+      "link": "https://data.eastmoney.com/notices/detail/601601/20260720/AN202607201827135281.html",
+      "date": "2026-07-20 12:35",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "601601",
+      "stock_name": "中国太保"
+    },
+    {
+      "title": "华域汽车:华域汽车关于收到控股股东承诺函的公告",
+      "link": "https://data.eastmoney.com/notices/detail/600741/20260720/AN202607201827135292.html",
+      "date": "2026-07-20 12:35",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "600741",
+      "stock_name": "华域汽车"
+    },
+    {
+      "title": "海尔智家:海尔智家股份有限公司关于以集中竞价交易方式回购A股股份的进展公告",
+      "link": "https://data.eastmoney.com/notices/detail/600690/20260720/AN202607201827134843.html",
+      "date": "2026-07-20 12:35",
+      "summary": "",
+      "source": "公告API",
+      "category": "announce",
+      "stock_code": "600690",
+      "stock_name": "海尔智家"
+    },
+    {
       "title": "华东医药:关于公司董事长提议实施2026年中期利润分配方案的公告",
       "link": "https://data.eastmoney.com/notices/detail/000963/20260720/AN202607201827134841.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -16,7 +106,7 @@
     {
       "title": "巨化股份:巨化股份关于公司董事长提议实施2026年中期利润分配方案的提示性公告",
       "link": "https://data.eastmoney.com/notices/detail/600160/20260720/AN202607201827134718.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -26,7 +116,7 @@
     {
       "title": "西子洁能:关于筹划发行H股股票并在香港联合交易所有限公司上市的提示性公告",
       "link": "https://data.eastmoney.com/notices/detail/002534/20260720/AN202607201827134712.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -36,7 +126,7 @@
     {
       "title": "上海机场:上海机场关于收到控股股东提议提升2026年度中期现金分红比例的公告",
       "link": "https://data.eastmoney.com/notices/detail/600009/20260720/AN202607201827134679.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -46,7 +136,7 @@
     {
       "title": "正泰电器:正泰电器关于收到控股股东2026年度中期分红提议的公告",
       "link": "https://data.eastmoney.com/notices/detail/601877/20260720/AN202607201827134640.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -56,7 +146,7 @@
     {
       "title": "璞泰来:上海璞泰来新能源科技集团股份有限公司2026年半年度业绩预告暨自愿性披露公告",
       "link": "https://data.eastmoney.com/notices/detail/603659/20260720/AN202607201827134631.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -66,7 +156,7 @@
     {
       "title": "大中矿业:关于股份回购进展情况的公告",
       "link": "https://data.eastmoney.com/notices/detail/001203/20260720/AN202607201827130088.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -76,7 +166,7 @@
     {
       "title": "国投电力:国投电力控股股份有限公司关于控股股东增持公司股份计划的公告",
       "link": "https://data.eastmoney.com/notices/detail/600886/20260720/AN202607201827130084.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -86,7 +176,7 @@
     {
       "title": "申能股份:申能股份有限公司关于向不特定对象发行可转换公司债券的进展公告",
       "link": "https://data.eastmoney.com/notices/detail/600642/20260720/AN202607201827129911.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -96,7 +186,7 @@
     {
       "title": "海康威视:关于公司董事长提议实施2026年中期利润分配方案的提示性公告",
       "link": "https://data.eastmoney.com/notices/detail/002415/20260720/AN202607201827129785.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -106,7 +196,7 @@
     {
       "title": "思源电气:思源电气股份有限公司计划对下属子公司增资并扩建产能的提示性公告",
       "link": "https://data.eastmoney.com/notices/detail/002028/20260720/AN202607201827125933.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -116,7 +206,7 @@
     {
       "title": "中煤能源:中国中煤能源股份有限公司关于控股股东增持公司股份计划的公告",
       "link": "https://data.eastmoney.com/notices/detail/601898/20260720/AN202607201827125725.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -126,7 +216,7 @@
     {
       "title": "中国中车:中国中车控股股东增持股份计划公告",
       "link": "https://data.eastmoney.com/notices/detail/601766/20260720/AN202607201827125233.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -136,7 +226,7 @@
     {
       "title": "中国神华:中国神华关于公司近期运营情况的公告",
       "link": "https://data.eastmoney.com/notices/detail/601088/20260720/AN202607201827125170.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -146,7 +236,7 @@
     {
       "title": "国电南瑞:国电南瑞关于董事长提议回购公司部分股份的提示性公告",
       "link": "https://data.eastmoney.com/notices/detail/600406/20260720/AN202607201827125103.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -156,7 +246,7 @@
     {
       "title": "中国铝业:中国铝业关于控股股东及其一致行动人增持公司股份计划的公告",
       "link": "https://data.eastmoney.com/notices/detail/601600/20260720/AN202607201827124917.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -166,7 +256,7 @@
     {
       "title": "国电电力:国电电力关于公司经营情况等相关事项的公告",
       "link": "https://data.eastmoney.com/notices/detail/600795/20260720/AN202607201827124908.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -176,7 +266,7 @@
     {
       "title": "龙源电力:龙源电力关于公司经营情况等相关事项的公告",
       "link": "https://data.eastmoney.com/notices/detail/001289/20260720/AN202607201827124810.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -186,7 +276,7 @@
     {
       "title": "中国石化:关于以集中竞价交易方式回购A股股份的进展公告",
       "link": "https://data.eastmoney.com/notices/detail/600028/20260720/AN202607201827123191.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -196,7 +286,7 @@
     {
       "title": "领益智造:关于回购公司股份的进展公告",
       "link": "https://data.eastmoney.com/notices/detail/002600/20260720/AN202607201827122833.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
@@ -206,102 +296,12 @@
     {
       "title": "富创精密:2026年半年度业绩预告的自愿性披露公告",
       "link": "https://data.eastmoney.com/notices/detail/688409/20260720/AN202607191827116604.html",
-      "date": "2026-07-20 11:50",
+      "date": "2026-07-20 12:35",
       "summary": "",
       "source": "公告API",
       "category": "announce",
       "stock_code": "688409",
       "stock_name": "富创精密"
-    },
-    {
-      "title": "传音控股:传音控股2026年半年度业绩预增的自愿性披露公告",
-      "link": "https://data.eastmoney.com/notices/detail/688036/20260720/AN202607191827116066.html",
-      "date": "2026-07-20 11:50",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688036",
-      "stock_name": "传音控股"
-    },
-    {
-      "title": "美的集团:关于以集中竞价交易方式回购A股股份进展情况的公告",
-      "link": "https://data.eastmoney.com/notices/detail/000333/20260720/AN202607191827115615.html",
-      "date": "2026-07-20 11:50",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "000333",
-      "stock_name": "美的集团"
-    },
-    {
-      "title": "美迪西:2026年半年度业绩预增公告",
-      "link": "https://data.eastmoney.com/notices/detail/688202/20260720/AN202607191827115347.html",
-      "date": "2026-07-20 11:50",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688202",
-      "stock_name": "美迪西"
-    },
-    {
-      "title": "宏华数科:杭州宏华数码科技股份有限公司关于以集中竞价交易方式回购公司股份的进展公告",
-      "link": "https://data.eastmoney.com/notices/detail/688789/20260720/AN202607191827115323.html",
-      "date": "2026-07-20 11:50",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688789",
-      "stock_name": "宏华数科"
-    },
-    {
-      "title": "国联民生:国联民生证券股份有限公司关于筹划回购公司A股股份的提示性公告",
-      "link": "https://data.eastmoney.com/notices/detail/601456/20260720/AN202607191827114450.html",
-      "date": "2026-07-20 11:50",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "601456",
-      "stock_name": "国联民生"
-    },
-    {
-      "title": "嘉泽新能:嘉泽新能源股份有限公司关于回购股份进展公告",
-      "link": "https://data.eastmoney.com/notices/detail/113039/20260720/AN202607191827110197.html",
-      "date": "2026-07-20 11:50",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "113039",
-      "stock_name": "嘉泽转债"
-    },
-    {
-      "title": "江淮汽车:江淮汽车关于以集中竞价交易方式回购公司股份进展公告",
-      "link": "https://data.eastmoney.com/notices/detail/600418/20260720/AN202607191827110064.html",
-      "date": "2026-07-20 11:50",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "600418",
-      "stock_name": "江淮汽车"
-    },
-    {
-      "title": "荣昌生物:荣昌生物关于2026年第一次以集中竞价交易方式回购公司股份的预案",
-      "link": "https://data.eastmoney.com/notices/detail/688331/20260720/AN202607191827109995.html",
-      "date": "2026-07-20 11:50",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688331",
-      "stock_name": "荣昌生物"
-    },
-    {
-      "title": "荣昌生物:荣昌生物第三届董事会第二次会议决议公告",
-      "link": "https://data.eastmoney.com/notices/detail/688331/20260720/AN202607191827109996.html",
-      "date": "2026-07-20 11:50",
-      "summary": "",
-      "source": "公告API",
-      "category": "announce",
-      "stock_code": "688331",
-      "stock_name": "荣昌生物"
     }
   ]
 }
