@@ -1,237 +1,245 @@
 {
-  "updated": "2026-07-22T07:53:52.939678+08:00",
+  "updated": "2026-07-22T10:14:59.467362+08:00",
   "source": "韩股要闻",
-  "count": 48,
+  "count": 49,
   "items": [
     {
-      "title": "韩国股市反弹 杠杆交易引发的抛售潮开始缓解 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3c0VSU3FjV0FOLUZMUmFBQTkwZVhaX1BTVXRfZFlHT3VqeEtNOHlBVG9CWlA5dFpsOHd1SGF3M2EtSVRraVoxQ3F5U0kzV1k4ODlVT3MtczlWNmhGaVJydA?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "韩国股市反弹 杠杆交易引发的抛售潮开始缓解  东方财富",
+      "title": "两大存储芯片巨头，开盘飙涨，韩国股市熔断 - 凤凰网财经",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Wb3hKNVBLMFNrUHliaHkwZVJieGxOVjRtdHNHYzNaOUNSdmtSSDk5eXctaVFpWXZrSWkzWXFUV0ZodXJKdmUxRTNrXzg2NU05?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "两大存储芯片巨头，开盘飙涨，韩国股市熔断  凤凰网财经",
+      "source": "谷歌新闻-韩股(中)",
+      "category": "kr-stock"
+    },
+    {
+      "title": "韩国KOSPI指数涨超5% - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QV2Vjd1l4ZU5LNFhKWTl4Yl9KWGhCc3ZvdV82VnhnZG1yb2VKM1RaNDdKR080R1FHdFJOcnBlekFEME9tbWdwWmZBTEt3eFp4QmRMT1E5QnEtNzNscWNIbw?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "韩国KOSPI指数涨超5%  东方财富",
+      "source": "谷歌新闻-韩股(中)",
+      "category": "kr-stock"
+    },
+    {
+      "title": "SK海力士否认收购英特尔俄亥俄州芯片工厂 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UZjIwRkZXOWdTeDlqZUhXeUxUOVBMblVvYURHWXRtVDBBaVNFR19CeXl2RXdJcFJqXzFpX1NNRjBXaGprTDhMdy1FM3FJeHRnN2k3ZFkxVmRmLUdVcWtxS2ZR?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "SK海力士否认收购英特尔俄亥俄州芯片工厂  观点网",
+      "source": "谷歌新闻-韩股(中)",
+      "category": "kr-stock"
+    },
+    {
+      "title": "韩股一开盘就熔断！海力士涨超8％，三星电子涨6% - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSE9icU9qaTRkMDRnUUgtY0dWR0tGdWp6M1R1UnlMN0RkZ3VWRG1UeldVZ3JVc2JhaE1KeXVfdVRFOWJOTnVVblVIeHNlUmpkN3dvbXdFdk5vQ3Q5bHZOZXctUC02VDY2V0VpeEEwdVNjUnRleEFkLWx1blVSM09TLWxLRzhkRDNCYkhWTg?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "韩股一开盘就熔断！海力士涨超8％，三星电子涨6%  21财经",
+      "source": "谷歌新闻-韩股(中)",
+      "category": "kr-stock"
+    },
+    {
+      "title": "财联社7月22日电，韩国KOSPI指数涨超5%，现报7097.59点。SK海力士涨逾8%，三星电子涨5.6%。 - 财联社",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01ZjU4NklZeXlIZnRuc2FGR2lCSU9Qa1FsMktqay1TNDRRTWdHajVRQlBUMzZmV3M4dWVYOGVHZHBCMnd0SDdZdA?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "财联社7月22日电，韩国KOSPI指数涨超5%，现报7097.59点。SK海力士涨逾8%，三星电子涨5.6%。  财联社",
+      "source": "谷歌新闻-韩股(中)",
+      "category": "kr-stock"
+    },
+    {
+      "title": "集体大涨！韩国股市涨到熔断，SK海力士涨超8%，三星电子涨超5%！日本股市涨超1000点丨日韩股市 - 每日经济新闻",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiblF0S2RON0t6eDROMnQ1TVVacnBVWnZwX0tHSnNJQlVURXlWazJBUjg4eUlYdGVYRXRnVi1jRmtyVFVHbmZPcHo4UDI5aUpoVTBHWkZEdk1sbVVtT0ltT3NrVVVzZw?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "集体大涨！韩国股市涨到熔断，SK海力士涨超8%，三星电子涨超5%！日本股市涨超1000点丨日韩股市  每日经济新闻",
+      "source": "谷歌新闻-韩股(中)",
+      "category": "kr-stock"
+    },
+    {
+      "title": "SK海力士2026财年第二季度财报电话会议 - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeTk1YnY5b3p3QndPMl9INXlQOVlpdEF2dnVQWDhSakZibE1xU24xaGkzMHpXRUNLMVZGV0Y4cDIxQ3B0Q2t4SzExR1RtOHAyeWtQanA5ZEQ5dUR5N1RYYnp2STNFX2pVR2tvQTgxbVhTNTlCQTZpNkxYcTNIOHltN3Bsak4wRkhoeVRGZWdjTHU4aTU2VGpyOWNKSXZEMzA1RHZ2eg?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "SK海力士2026财年第二季度财报电话会议  Moomoo",
+      "source": "谷歌新闻-韩股(中)",
+      "category": "kr-stock"
+    },
+    {
+      "title": "韩国股市，涨到熔断！日本股市涨超1000点 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5leTZOMG1GMGV2MTVhUW1GU19mVnpUYld6SjlPNzlsTmEwZ1k1QnNLY09ZcW1yeXV0YTladWNCTW5KbEktVnBVTUVxUkpXVHV3NllUa3dENGhKUVktVnZQc3FfY195VkJqU3JMc2tHRXpfbl9HcUE?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "韩国股市，涨到熔断！日本股市涨超1000点  新浪网",
       "source": "谷歌新闻-韩股(中)",
       "category": "kr-stock"
     },
     {
       "title": "反弹还是反转？韩股大涨3.56%！存储双雄联袂飙升：三星涨超6%，SK海力士涨逾4% - cb.com.cn",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBicEg2U1NPSVRGNWVhR180U2xScHJPeWJic19rSGM0T2hJMW5RQWFETTFhdGZaeEsxU3dKQndpUkRNbm5UNE5CbDJXU2ctaTdjQTRpVGVXS2JjV2VRUU1IaFJR?oc=5",
-      "date": "2026-07-22 07:53",
+      "date": "2026-07-22 10:14",
       "summary": "反弹还是反转？韩股大涨3.56%！存储双雄联袂飙升：三星涨超6%，SK海力士涨逾4%  cb.com.cn",
       "source": "谷歌新闻-韩股(中)",
       "category": "kr-stock"
     },
     {
-      "title": "韩股去杠杆已近尾声？融资余额降至近三个月新低 - 财联社",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04TTZmX2dhOEs3OGlZVkZOTWFPVjZuVk9ka08yTzlvR0liZl9Qbjk3OTZhVDdKZ1o4cGhESmxZbmdBYU9PRXBFRQ?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "韩股去杠杆已近尾声？融资余额降至近三个月新低  财联社",
+      "title": "亚太股市集体冲高，韩股涨幅扩大至6%、SK海力士涨7%，日股涨超1% - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wR3hrenBtaFFUZ2xZWFM2Qkc4aUxfc3loRnNJNVhweXVHZFZCVGdxUGRrODNFRlRGRmF2SmRINk14Q0g3VjRweTJlNWN5cFBPanJR?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "亚太股市集体冲高，韩股涨幅扩大至6%、SK海力士涨7%，日股涨超1%  华尔街见闻",
+      "source": "谷歌新闻-韩股(中)",
+      "category": "kr-stock"
+    },
+    {
+      "title": "两大存储芯片巨头，开盘飙涨，韩国股市熔断(行情)-更新中 - 中财网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96eUJJalZ6eUZWdmRVaGlGSWhNbmswcndKRkQ1LVZUYWd3SGVKU3NZb1p4UmN2MzE4aFZ1b2hrZXdHR3VmdkVpSURCaHEyVUxOWDZjdU1n?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "两大存储芯片巨头，开盘飙涨，韩国股市熔断(行情)-更新中  中财网",
+      "source": "谷歌新闻-韩股(中)",
+      "category": "kr-stock"
+    },
+    {
+      "title": "7月22日国际晨讯｜韩国KOSPI指数站上7000点 美股AI交易大反攻 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVZZS2RabVJSalp4NmxYTUludlY1ZmFiWUZmaVkwRzVCWlpZbVZwQjJ6RUNHMDE2Zk12eFpYbWxXeU9LN1N3TnNzbU5QbFUwaTJoUFdDMzFhcHJLeUpDMzNKSkJEeTRiOEJ3S3dQSjFLdXA2WHhIQks0RWloTGs5UzdUZnZXMGFVVXc2ZA?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "7月22日国际晨讯｜韩国KOSPI指数站上7000点 美股AI交易大反攻  Sohu",
+      "source": "谷歌新闻-韩股(中)",
+      "category": "kr-stock"
+    },
+    {
+      "title": "逐渐脱离基本面！强监管下，韩国股市史诗极牛市结束了？ - 第一财经",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yYlU0blFBeS00eGpiZTRGUWhNNTNGenUtUmYtckxmM3VGZkxqVDROcHdrUDBUVTltNmx3QXg0RzkxQk81Zl9ja1dRZWdYam5qcWlz?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "逐渐脱离基本面！强监管下，韩国股市史诗极牛市结束了？  第一财经",
+      "source": "谷歌新闻-韩股(中)",
+      "category": "kr-stock"
+    },
+    {
+      "title": "韩国KOSPI指数开盘上涨4.5% - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41MHdWN1FnUl9NZ3ZXZVhZdlJqZmVOLVl4cXl0WTFuVVZaeGhOVDFuNjBGZHBWSS05Z245VmFUUFNyY01RQlF0WVYtWnlMY1hzWkxNMS1LMW9WOV90X1AyNA?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "韩国KOSPI指数开盘上涨4.5%  东方财富",
+      "source": "谷歌新闻-韩股(中)",
+      "category": "kr-stock"
+    },
+    {
+      "title": "熔断，韩国股市暴涨 - 凤凰网财经",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NY3BncnY2S1ZVZklxY2VMZnczSTFRTkwxdG1USVZaOUZZdVN3Yi01a09qdFM2YXFWRW41Z2dmSHRtekJjY2lSRGtONkF4b1lN?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "熔断，韩国股市暴涨  凤凰网财经",
       "source": "谷歌新闻-韩股(中)",
       "category": "kr-stock"
     },
     {
       "title": "摩根大通：韩股去杠杆过程已过半，KOSPI仍看到12500点 - 华尔街见闻",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oZUVZQ1p6N0ZVX2VObUI3cDI4cXNUN0ZKcGY1MFVnSEozaEo4LVFMN2NJWXgyangzSWxFbHl0cVBDZGMxSTBZU3Utam4wQWNqN3BZ?oc=5",
-      "date": "2026-07-22 07:53",
+      "date": "2026-07-22 10:14",
       "summary": "摩根大通：韩股去杠杆过程已过半，KOSPI仍看到12500点  华尔街见闻",
       "source": "谷歌新闻-韩股(中)",
       "category": "kr-stock"
     },
     {
-      "title": "美国眼红了？美方喊话三星电子、SK海力士分享超额利润 - 第一财经",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93SzVPaTVXUTAyMlFpUjNYRGZXSHhnZzlxdTVqVURSNVlkak9obmZWaUVLU1BCbGJybUc5b0E1WTVlUDBDdGtuenJRU2FwWVZXMldR?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "美国眼红了？美方喊话三星电子、SK海力士分享超额利润  第一财经",
+      "title": "韩国股市反弹 杠杆交易引发的抛售潮开始缓解 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3c0VSU3FjV0FOLUZMUmFBQTkwZVhaX1BTVXRfZFlHT3VqeEtNOHlBVG9CWlA5dFpsOHd1SGF3M2EtSVRraVoxQ3F5U0kzV1k4ODlVT3MtczlWNmhGaVJydA?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "韩国股市反弹 杠杆交易引发的抛售潮开始缓解  东方财富",
       "source": "谷歌新闻-韩股(中)",
       "category": "kr-stock"
     },
     {
-      "title": "韩国股市崩跌之后，机会来了？花旗仍押注韩国牛市：10000点目标未变-市场参考 - 金十数据",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VdTAtVFN6V3B2RVUzNFBULTN6TG1lSGt4clp3MlBDcUtCcFJaUXdqV2hnTmtjbktweDd2SzJlUlZSZEM3TkZOWjFBRHJrdnc?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "韩国股市崩跌之后，机会来了？花旗仍押注韩国牛市：10000点目标未变-市场参考  金十数据",
+      "title": "AI交易大反攻！日韩股市双双大涨 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MRXlSZHl5b2R5SUZpUlF3VXdGb3RPNGVvelpRaVN3U1lxNmVIUWhqSXJCNzE3dHp1LURQaWdkcExoUUNvNWRVUEktVzVYZjZkSXJWaG9uWXcybnphaHVYQm8tcW1mQQ?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "AI交易大反攻！日韩股市双双大涨  东方财富",
       "source": "谷歌新闻-韩股(中)",
       "category": "kr-stock"
     },
     {
-      "title": "美股盘前：闪迪涨7%，SK海力士涨6%，美光科技涨5%，西部数据涨5%，希捷科技涨5% - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeXlMUFdFUGx2dHdwdm5CeXV6TmpHSk5Ja3hVTVRrQ3hEZDhLRTc3aWxPZWdGcGNENEZHa2tDQnJjV3QzQ2JfeXBXRjYxWW1PRDdTRmV1T21DaklsTXdibWRoWlBhWlhraTVsZ1FWdi1HaUxhTUoyVVdISjJTc3NNODFWNDBzY044ckY1Xw?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "美股盘前：闪迪涨7%，SK海力士涨6%，美光科技涨5%，西部数据涨5%，希捷科技涨5%  21财经",
+      "title": "异动速递丨韩股一开盘就熔断！海力士涨超8％，三星电子涨6% - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd3QtVGJHYmtZLTFSV3pqcXRWZkF6cHpGS1VYZG1ZeDF2QTlLSFZ4UE91ak9oUHptb0VVZ0NUSnlkTU84NlA3aF94UzJhdU9fWUI4UlFmV1o1cFpvaWNVVWdSVjdJeWdfbkxsMlBuRXg5MW9FT3I3Mi1GeXhZdVZDVk1vWm9DVGZTTHJKdg?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "异动速递丨韩股一开盘就熔断！海力士涨超8％，三星电子涨6%  21财经",
       "source": "谷歌新闻-韩股(中)",
       "category": "kr-stock"
     },
     {
-      "title": "韩国股市，不到4天熔断一次（附长图） - 凤凰网财经",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJNkZfU0ZHTHV1cFc3SHhnSnl2ajgzMks2VktiNUZXbWt3MFNKY3hkUW9sREMzT0FKRFRBNGZIU1ZrN0d1MkFqV2Y5b2NFaldw?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "韩国股市，不到4天熔断一次（附长图）  凤凰网财经",
-      "source": "谷歌新闻-韩股(中)",
-      "category": "kr-stock"
-    },
-    {
-      "title": "美股跌0.6%的时候KOSPI跌去28%：韩国股市到底怎么了？ - chinese.joins.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMWTZfeVVrRVg1YllzTjJKV3JuR1l0VnY2TEVPQmcxazFQUl9SX2l2a0o0cWJtNUZMdXJyWk4tWEx2blZPOTJOSEt6OUxMR0ltNERIdzY3LVlVZm5vS21kRjhfN3NGVTdlNDk3aw?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "美股跌0.6%的时候KOSPI跌去28%：韩国股市到底怎么了？  chinese.joins.com",
-      "source": "谷歌新闻-韩股(中)",
-      "category": "kr-stock"
-    },
-    {
-      "title": "HBM供应短缺与技术性抛售对美光（MU）和SK海力士（SKHY）意味着什么 - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONmpLZkZBa213Y3JUdnlPUVFRSE1Pd09uSllBVzJReGMyZzVtUVVGVXZVTWh4VUNUY0JTQUdwVURjdENRS1FjYWMwQmZxUUNHeGFvTXcycnFSRUdnaFNBVjYtcjVZVUVhUy1PeV9Idm1JRVpMcEVFT2FBTGx1eWo5cHdiU3RYb016Y2VfZU14cG84dkxGWTFPOTh0WHRLUTc1akhIU0lMd3BaeFlSVUY5cmp3?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "HBM供应短缺与技术性抛售对美光（MU）和SK海力士（SKHY）意味着什么  Moomoo",
-      "source": "谷歌新闻-韩股(中)",
-      "category": "kr-stock"
-    },
-    {
-      "title": "高开低走，韩国股市继续下跌，三星电子、SK海力士股价震荡！日本股市涨超500点丨日韩股市 - 每日经济新闻",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1INlNnb1BqRlNuSVJObzVyZ0Vvc0hlSjJ4b1dsQ3N5eWplQ2kzV05pREt6UVlTMkdnMThjb1JIT2pTS09Yb2NmNUxxMkFJVWswUEtuY2tVZG1lTk1uZ19sQUU4NnZQQQ?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "高开低走，韩国股市继续下跌，三星电子、SK海力士股价震荡！日本股市涨超500点丨日韩股市  每日经济新闻",
-      "source": "谷歌新闻-韩股(中)",
-      "category": "kr-stock"
-    },
-    {
-      "title": "韩股反弹涨超2%，三星电子涨超3%，日经225涨超900点 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUDdMU0JWMkRpVFpGSmFMTENSUllSbDRPSjJMWWJCREs4TEstOHZ0X3d1Tko0UElWLURUTDZNTWZTbldGMDNNbkszSlFsVEFqTnRFTFlkaFpFVmVPUkhGUFo3NTc3SlQwOXJFNGlEbUVodVpVZWdBS01MeVU3emk5aXVvRUptZkRMRkRrUQ?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "韩股反弹涨超2%，三星电子涨超3%，日经225涨超900点  21财经",
-      "source": "谷歌新闻-韩股(中)",
-      "category": "kr-stock"
-    },
-    {
-      "title": "依旧上看10000点！韩股Kospi暴跌三成后，花旗、大摩：底部到了 - 华尔街见闻",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03dUxOQnBERTMtS2szQ3hqeDFUc3JhUWVHYmZqeGRqdGV3UVhJY2ExR3Ytc2JxVDdraTFlWjBwem1fYkJpSjFUNDdPTFdtd3hhSDBr?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "依旧上看10000点！韩股Kospi暴跌三成后，花旗、大摩：底部到了  华尔街见闻",
-      "source": "谷歌新闻-韩股(中)",
-      "category": "kr-stock"
-    },
-    {
-      "title": "【独家】SK海力士将收购美国英特尔俄亥俄工厂 - chinese.joins.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqOVJHSEhPRHk2MjVWZTdXMFJCRG5BTHI4MTZYdXMyYXdhVmdKRzBNRnFHMzM2bURscmxuLUJWS3J4QTRlY2IybjZpZ2QxNUpRdXZpNlpVSWpJcEJMZEFRX1U3RDBwRWZlWjRJRQ?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "【独家】SK海力士将收购美国英特尔俄亥俄工厂  chinese.joins.com",
+      "title": "摩根士丹利\"KOSPI已接近底部，并非熊市\"维持目标位9000点 - chinese.joins.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5senh5ZFU0Zl9fVXpMb204NlAzOFdNRVNfUTVLRGJxbGVQLVp4Z2F5bU1NalZ2NFBoLVY1QWZJQmxNbm85ajFZczUtcEZGbzY5VWlpeFdrNE5DLUV6QktyTF9vWlY4cmVMSHB4QQ?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "摩根士丹利\"KOSPI已接近底部，并非熊市\"维持目标位9000点  chinese.joins.com",
       "source": "谷歌新闻-韩股(中)",
       "category": "kr-stock"
     },
     {
       "title": "韩国KOSPI指数跌幅扩大至5% SK海力士跌逾5% - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FM3NzQTZyMVBFUlVKeVlManVfdFZkNGYzR3RwNWM5Tnd0REhfU3I5T3RVN1d2TGpfdlJySEZTbmU5MmxKQUtXd3JkeDlkc1VhV003UmF5VXk5OG5YU0wzaQ?oc=5",
-      "date": "2026-07-22 07:53",
+      "date": "2026-07-22 10:14",
       "summary": "韩国KOSPI指数跌幅扩大至5% SK海力士跌逾5%  东方财富",
       "source": "谷歌新闻-韩股(中)",
       "category": "kr-stock"
     },
     {
-      "title": "韩国交易所启动高频交易调研，KOSPI暴跌后监管收紧信号释放 - 华尔街见闻",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zTXJDWVYxU1RBcEd5VF9wbDFGR1h5TjdKT2o3Q2h6LXcxb2F3V3l1WUc5ajJTR1l1T2VZZTRUeG5vMGFPSUQ0ZE16amN5ZWh3S0tZ?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "韩国交易所启动高频交易调研，KOSPI暴跌后监管收紧信号释放  华尔街见闻",
+      "title": "美国眼红了？美方喊话三星电子、SK海力士分享超额利润 - 第一财经",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93SzVPaTVXUTAyMlFpUjNYRGZXSHhnZzlxdTVqVURSNVlkak9obmZWaUVLU1BCbGJybUc5b0E1WTVlUDBDdGtuenJRU2FwWVZXMldR?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "美国眼红了？美方喊话三星电子、SK海力士分享超额利润  第一财经",
       "source": "谷歌新闻-韩股(中)",
       "category": "kr-stock"
     },
     {
       "title": "开盘跳水！三星、SK海力士大跌 - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qWElMNWRjSm5fOW5pbmE0eTZOa3g4eWtkTVdPc0hZOW9DZlhRaEF1eDlBVmFjY0xmMll5eXJGeHRoaW9kQ3M3RE8ySXBOTjU2MTVBcnRsdkRDTXMtWjhLVg?oc=5",
-      "date": "2026-07-22 07:53",
+      "date": "2026-07-22 10:14",
       "summary": "开盘跳水！三星、SK海力士大跌  东方财富",
       "source": "谷歌新闻-韩股(中)",
       "category": "kr-stock"
     },
     {
-      "title": "SK海力士美股盘前涨超4% - 新京报",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lNkZqTGF6TEx4UGNLRmpDT21lSDNGUkJXdFBLRWNyWWJtcnMyTmF5MUFlVVNHTjZBLUUwaXRwNFJYcWFkWHVlMW1EUzZBNHVyTDB3UE12b3FYZFVVR21QNWNEWVA?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "SK海力士美股盘前涨超4%  新京报",
+      "title": "SK海力士股价盘中重返200万韩元 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNzFYOUNjY0NCTUJHUGVxSmRiQjFGaTVCV0dOX19CY19zZlVzcDVES3lVMG9NUVNhMGxDUWViZ3dfR3RqeFlwbXVaUGd5dlJ4dGFoRXBKal9PR3hwNmZMN1FzRmtzLS1ISllDRDZJbDhkVDV5amtOaGR2SHBDbldGWFRXanl3Q2RZM0ZlVw?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "SK海力士股价盘中重返200万韩元  Sohu",
       "source": "谷歌新闻-韩股(中)",
       "category": "kr-stock"
     },
     {
-      "title": "韩国交易所对韩国KOSPI指数启动程序式暂停交易 - 中国基金报",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xTjNreHJrZ0tURWF2Ml84TVlfZnoybU1IeWIyVW83cHJhZll2azRTaG12LUJGT0ZWeUVhMk5PWVNRTEhJTWJBdUliS2szcElqbENXZHZPdlpNdmFLQ2U5VDdtWVBmYlNSRWdzcXFiR0FCbDFsdTd1bnNR?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "韩国交易所对韩国KOSPI指数启动程序式暂停交易  中国基金报",
+      "title": "高开低走，韩国股市继续下跌，三星电子、SK海力士股价震荡！日本股市涨超500点丨日韩股市 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6ZnpfWFZZUnVhQ2NsNXFGRXlSTXFVN1dTbER2NENHZVc1d1lnd20zaFdPYUFmS2UzejBMZmxPZG5OLTZNa0FCWHhxdXl1OWZSMGw2SGhTUVpDUUJFaVJIX25WSVZUdw?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "高开低走，韩国股市继续下跌，三星电子、SK海力士股价震荡！日本股市涨超500点丨日韩股市  东方财富",
       "source": "谷歌新闻-韩股(中)",
       "category": "kr-stock"
     },
     {
-      "title": "美股存储芯片大涨：闪迪涨超10%，SK海力士、美光涨超8%！中概股龙头多数下跌；比特币重回6.6万美元，概念股集体冲高｜美股开盘 - 每日经济新闻",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PUU4wMzdPWEtCMXMxaXJQNWZiUG5YUkRwc251dGRqcVdqVC1INEZhNEhENW9GNGhKOGlEb2tJampCOW5XUF9jTXdWQ3VfZHhfRFJoV1pVVEhuVDM3WjVQbEJObUtVQQ?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "美股存储芯片大涨：闪迪涨超10%，SK海力士、美光涨超8%！中概股龙头多数下跌；比特币重回6.6万美元，概念股集体冲高｜美股开盘  每日经济新闻",
+      "title": "【快讯】KOSPI急涨逾5%，盘中收复7000点 - chinese.joins.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41VXJQa0NUNUZ2Tzlvem5INDhaRnFqT0xxZlRjdTFBWExWNHg5M2VBX3k3M3NBQzBPdEQyMFd4U0RFei0yQkxLaXdYeFA4QVVQZFNuQkJlVWh6M1Q2RW1VVUFfeGVweWlnWDF3SA?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "【快讯】KOSPI急涨逾5%，盘中收复7000点  chinese.joins.com",
       "source": "谷歌新闻-韩股(中)",
       "category": "kr-stock"
     },
     {
-      "title": "韩国KOSPI指数跌幅扩大至超4% - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MWnFsclNwY1EtVXA2M2ZKY3AxQ1psVjc2UmYyOW9kS2hEcHNfNEZEa0ZoSk45M09UNDJHR19DOUYwYUNocmV1cHRJY3Vad0pPazN1V2x0WFdmOXpVRDFXcw?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "韩国KOSPI指数跌幅扩大至超4%  东方财富",
+      "title": "集体飙涨！韩国股市大涨6%，日本股市涨超1000点 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbHMtcUpQcjJxbUJldjE1NmlqSDRCMlpNS2Ytd190azhwSzJzc3YxVUlfdnBvWWZNYVg4TDlKQUZVMjR6WkszeHlZYlRYeXlUT3huX3Z2ZFF6Y0RJLTVOamFUM3VBOHNFYkNsdlROV0VYVGZmMkNKZlNtWlNBZE9zOEloakdNcmRE?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "集体飙涨！韩国股市大涨6%，日本股市涨超1000点  Sohu",
       "source": "谷歌新闻-韩股(中)",
       "category": "kr-stock"
     },
     {
-      "title": "三星电子成立机器人部门RX 加速研发及商业化 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GZkdSZVZaSE1ncTlfM3JJU1F0RTVkd0VHTmEzMVdINzZodWhFWGptWEltLTRBMXZNSlRhbUxLYzlMMXFHSXFKUGY5d1dJYzdzR3gxSkh2ZVVZRnRaTmE5VjBB?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "三星电子成立机器人部门RX 加速研发及商业化  观点网",
+      "title": "韩股反弹之路开启？连续第二日涨至熔断，存储双雄爆发 港美股资讯 - hstong.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FX2cxU3ptTnk2TVFodjNvU21oSWRBamdPQ0s3aFctZlcxZEhpVmxUQTU3bThRSWxXNHhWZERxd3EtS1oxN3QxZ3VjT29kQ3RWQkpUWENzY2QwVGRNaVlpWlFn?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "韩股反弹之路开启？连续第二日涨至熔断，存储双雄爆发 港美股资讯  hstong.com",
       "source": "谷歌新闻-韩股(中)",
       "category": "kr-stock"
     },
     {
-      "title": "韩国KOSPI指数再度跌超4% - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TdlpLSzBsUlQydmJIRHozRE9JQ1A1Y0l1WXM5UnZpS00ySUJRRTZmZ1Y1U3hwbzlaZW5fYm9nVHBYekVOVlpWcm9EaWJWRDFrTFlobDlGbjhWUHhkLXpiSQ?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "韩国KOSPI指数再度跌超4%  东方财富",
+      "title": "据报SK海力士洽谈收购英特尔俄亥俄州芯片园区 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMb0lLamNnS2gyc0dhM2ZkcjJrNTVuQWtKV285SDFnRnF3UW1PRGNPcGZ1STN0cFdVVWNxbVhYT2J2U01uMXdJQ2VKQ1RQV2d4MWFkVU5RUEUtMGVwV2R6T254MktGbXBfWXZ6RHlR?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "据报SK海力士洽谈收购英特尔俄亥俄州芯片园区  新浪网",
       "source": "谷歌新闻-韩股(中)",
       "category": "kr-stock"
     },
     {
-      "title": "韩国KOSPI指数开盘下跌2.6% - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11VENocDRiemp0dFZybHhxMHFUaHBsblNBUWJyYzJSek9MNTgtZ00yMkxxS1JITHdMdzI4RU5OUUpyX2d4Y1BTS0NXS0loYmxhMElVZDRDa2YybVBZV3h5bw?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "韩国KOSPI指数开盘下跌2.6%  东方财富",
-      "source": "谷歌新闻-韩股(中)",
-      "category": "kr-stock"
-    },
-    {
-      "title": "财联社7月21日电，韩国KOSPI指数日内涨超3%，现报6713.35点。SK海力士涨3.6%，三星电子涨5.5%。 - 财联社",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtSW5TOUR6eWptUkJSaW1TQ2lEWWJ2R01aT18tdDQ2QVprZFpRbnZUT1ZTZGFDRTVBcHVJLXg0cldicEdiR05TTw?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "财联社7月21日电，韩国KOSPI指数日内涨超3%，现报6713.35点。SK海力士涨3.6%，三星电子涨5.5%。  财联社",
-      "source": "谷歌新闻-韩股(中)",
-      "category": "kr-stock"
-    },
-    {
-      "title": "从跌超1%到涨超3%！韩国股市上演绝地大反攻 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdy1Wb29jcWVLeEhQaUhTRzItaGE1bVh4TU5tTUtDUDhsVkJXQm1xUEU1a2VrVzZhZEMwZlR2VGhHZXBSVWdMSDQ2LXNHdVpkX0Y4a0VNVEROTlh2NElldTBueHBvNmNDa1lJN1gxYTNwSmxCZ2toUjZRbHVGYVhwNWdZMzE0ek1f?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "从跌超1%到涨超3%！韩国股市上演绝地大反攻  新浪财经",
-      "source": "谷歌新闻-韩股(中)",
-      "category": "kr-stock"
-    },
-    {
-      "title": "SK海力士交易员为人工智能周期剧烈波动做准备，市场波动率飙升至147%：期权市场热议 - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcl93RnJ6eWl6a0ctSVEwRHRJdVhoSGxNM093dlktVXpWTHZtVUk1WW1Kcl9hbmNrZzRZVzF0bURfZTNZcXNVSU5Dd3pTNzdudklsWmE1NkgtbTA1YnBxRFA5Z1pYS0FXNUtJdkZCaDZhVEZUM2ZTRThyTU9fVFB1ZnpwZzhhR0VhX0ZCUi05TnpkWTZnQXJpRy1QcE8tTmRHdDl0VVV5VHo1MTR3UVZpbkI0WlRSVXFO?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "SK海力士交易员为人工智能周期剧烈波动做准备，市场波动率飙升至147%：期权市场热议  Moomoo",
-      "source": "谷歌新闻-韩股(中)",
-      "category": "kr-stock"
-    },
-    {
-      "title": "SK海力士美股盘前涨超7% - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iVHl0S051MnlGVmNxVDBncTdORlJJeDFpdWptSTJiZ1dqZ1l5Q2dBcGE5MFZTd3M4aXpPaGJoTVVqbnhQMV9mVmdrUmYtMGFBZ2h0MFNYZS1CV252bnp5cA?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "SK海力士美股盘前涨超7%  东方财富",
-      "source": "谷歌新闻-韩股(中)",
-      "category": "kr-stock"
-    },
-    {
-      "title": "韩国股市快速拉升，日本股市休市一日 - 中国基金报",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KMDRRZDV4RzdfZEtCM2QtRUlJUk14Yy1hd2RNNUlTZ19uekFkb0dXQUdPbFpWelJNOUU0ZEtpRU5ET2VqSm9TdzQtZmdsMmUyZVpncG0zc3pyVTRrMDExbktvUkROMi10MnpFdGR4ckJPb2dlRUF2dkl3?oc=5",
-      "date": "2026-07-22 07:53",
-      "summary": "韩国股市快速拉升，日本股市休市一日  中国基金报",
+      "title": "【独家】SK海力士将收购美国英特尔俄亥俄工厂 - chinese.joins.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqOVJHSEhPRHk2MjVWZTdXMFJCRG5BTHI4MTZYdXMyYXdhVmdKRzBNRnFHMzM2bURscmxuLUJWS3J4QTRlY2IybjZpZ2QxNUpRdXZpNlpVSWpJcEJMZEFRX1U3RDBwRWZlWjRJRQ?oc=5",
+      "date": "2026-07-22 10:14",
+      "summary": "【独家】SK海力士将收购美国英特尔俄亥俄工厂  chinese.joins.com",
       "source": "谷歌新闻-韩股(中)",
       "category": "kr-stock"
     },
@@ -256,6 +264,22 @@
       "link": "https://www.fool.com/investing/2026/07/21/prediction-this-artificial-intelligence-ai-chip-st/?.tsrc=rss",
       "date": "2026-07-21 19:25",
       "summary": "SK Hynix recently completed a $26.5 billion secondary listing on the Nasdaq.",
+      "source": "Yahoo-韩股",
+      "category": "kr-stock"
+    },
+    {
+      "title": "AI Spending, Inflation, and 3 More Reasons Why Tech Is Hurting",
+      "link": "https://finance.yahoo.com/m/f169ef10-8a0a-30d6-96e6-e259aa8c8ff4/ai-spending%2C-inflation%2C-and-3.html?.tsrc=rss",
+      "date": "2026-07-21 18:59",
+      "summary": "Tech has been dropping for over a month under the weight of a host of worries.  No, this agonizingly slow, tortured drawdown is because of five issuesall of which have been talked about plenty, but th",
+      "source": "Yahoo-韩股",
+      "category": "kr-stock"
+    },
+    {
+      "title": "Wedbush Believes Increased Guidance From ASML Bodes Well for SK Hynix. How to Play SKHY Stock Here.",
+      "link": "https://www.barchart.com/story/news/3389102/wedbush-believes-increased-guidance-from-asml-bodes-well-for-sk-hynix-how-to-play-skhy-stock-here?.tsrc=rss",
+      "date": "2026-07-21 18:23",
+      "summary": "Analysts believe the raised revenue outlook is good news for memory chipmakers.",
       "source": "Yahoo-韩股",
       "category": "kr-stock"
     },
@@ -368,22 +392,6 @@
       "link": "https://www.fool.com/investing/2026/07/21/unwinding-margin-can-turn-sk-hynix-into-a-generati/?.tsrc=rss",
       "date": "2026-07-21 12:11",
       "summary": "Leveraged bets on the memory giant are falling apart, but that hasn't affected the company's fundamentals.",
-      "source": "Yahoo-韩股",
-      "category": "kr-stock"
-    },
-    {
-      "title": "Targa Telematics partners with Hyundai  on fleet operators data",
-      "link": "https://www.just-auto.com/news/targa-telematics-partners-with-hyundai-on-fleet-operators-data/?.tsrc=rss",
-      "date": "2026-07-21 11:55",
-      "summary": "Aim is to enhance data solutions for fleet operators of Hyundai vehicles across Europe.",
-      "source": "Yahoo-韩股",
-      "category": "kr-stock"
-    },
-    {
-      "title": "Markets News, July 21, 2026: Major Indexes Rise to Snap 3-Day Losing Streak as Chip, Memory Stocks Soar",
-      "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-07212026-12023428?.tsrc=rss",
-      "date": "2026-07-21 10:45",
-      "summary": "Major stock indexes closed higher Tuesday following three consecutive sessions of losses, as tech stocks powered gains. Meanwhile, WTI oil prices rose to their highest level in more than five weeks.",
       "source": "Yahoo-韩股",
       "category": "kr-stock"
     }
