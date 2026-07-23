@@ -1,84 +1,92 @@
 {
-  "updated": "2026-07-23T08:04:43.364251+08:00",
+  "updated": "2026-07-23T11:33:17.320363+08:00",
   "source": "美股聚合",
-  "count": 54,
+  "count": 56,
   "items": [
     {
-      "title": "Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike",
-      "link": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html",
-      "date": "2026-07-23 08:04",
-      "summary": "Google parent Alphabet reported second-quarter earnings after the bell on Wednesday.",
+      "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
+      "link": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+      "date": "2026-07-23 11:33",
+      "summary": "Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats",
+      "link": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+      "date": "2026-07-23 11:33",
+      "summary": "Oil prices rose after U.S. President Donald Trump threatened to bomb Iranian infrastructure in response to any attacks on ships transiting the Strait of Hormuz.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Tesla misses on earnings, as free cash flow turns negative and margins slide",
       "link": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "Tesla's earnings report lands in the midst of a slide in the company's stock price even as its core auto business is rebounding.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "IBM lowers full-year forecast after earnings warning",
-      "link": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
-      "date": "2026-07-23 08:04",
-      "summary": "IBM is now looking to improve productivity with artificial intelligence, including with a new coding tool called Bob.",
+      "title": "Why we're sticking with Alphabet despite an imperfect quarter and more AI spending",
+      "link": "https://www.cnbc.com/2026/07/22/why-were-sticking-with-alphabet-despite-an-imperfect-quarter-and-more-ai-spending.html",
+      "date": "2026-07-23 11:33",
+      "summary": "The market isn't in a forgiving mood, but we're not in a hurry to leave this stock behind.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Oil prices rise after Rubio says Iran is not serious about a deal",
-      "link": "https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html",
-      "date": "2026-07-23 08:04",
-      "summary": "The U.S. has launched strikes against Iran for 11 consecutive days, citing a need to \"degrade Iran's ability to threaten commercial shipping.\"",
+      "title": "Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike",
+      "link": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html",
+      "date": "2026-07-23 11:33",
+      "summary": "Google parent Alphabet reported second-quarter earnings after the bell on Wednesday.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Stocks making the biggest moves after hours: Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow & more",
-      "link": "https://www.cnbc.com/2026/07/22/stocks-making-the-biggest-moves-after-hours-googl-tsla-ibm-lvs.html",
-      "date": "2026-07-23 08:04",
-      "summary": "These are the stocks posting the largest moves in after hours trading.",
+      "title": "Inside India newsletter: Skyroot rocket puts India alongside U.S., China in private orbital launch",
+      "link": "https://www.cnbc.com/2026/07/23/india-skyroot-rocket-us-china-spacex.html",
+      "date": "2026-07-23 11:33",
+      "summary": "Indian startup Skyroot joins Chinese and American private companies in the race to launch satellites in low orbit.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Biotech remains compelling even after major comeback. Heres what investors say",
       "link": "https://www.cnbc.com/2026/07/22/biotech-remains-compelling-even-after-major-comeback-heres-what-investors-say-.html",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "The healthcare subsector has quietly become one of the most attractive opportunities this year.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "IBM lowers full-year forecast after earnings warning",
+      "link": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
+      "date": "2026-07-23 11:33",
+      "summary": "IBM is now looking to improve productivity with artificial intelligence, including with a new coding tool called Bob.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "U.S. signs nuclear power agreement with Saudi Arabia",
       "link": "https://www.cnbc.com/2026/07/22/trump-saudi-arabia-nuclear-power.html",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "The agreement will provide U.S. companies with access to Saudi Arabia's nuclear energy program, the Department of Energy said.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "OpenAI cyber models broke out of training environment to hack Hugging Face",
-      "link": "https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html",
-      "date": "2026-07-23 08:04",
-      "summary": "The incident is unique because it was \"driven, end to end, by an autonomous AI agent system,\" according to Hugging Face.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Trump vows to bomb Iran's bridges, power plants if it shoots at ships in Hormuz Strait",
-      "link": "https://www.cnbc.com/2026/07/22/us-iran-war-trump-hormuz-.html",
-      "date": "2026-07-23 08:04",
-      "summary": "He issued his threat after U.S. Central Command hit Iranian targets for an 11th straight night.",
+      "title": "Chip firm priced as China's most valuable company before its IPO brings scrutiny to crypto platform",
+      "link": "https://www.cnbc.com/2026/07/23/chip-firm-priced-as-most-valuable-china-firm-pre-ipo-on-crypto-site.html",
+      "date": "2026-07-23 11:33",
+      "summary": "The outsized premium was due in part to offshore investors who, locked out of the highly anticipated listings, turned to crypto for a parallel market.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Analysis: Iran war energy shock hits the U.S. economy as gas and diesel prices climb",
       "link": "https://www.cnbc.com/2026/07/22/iran-war-energy-markets-gas-diesel-prices-us-economy-analysis.html",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "A new asymmetry in the market means fuel prices won't fall quickly even if the shooting in the Iran war and Strait of Hormuz stops.",
       "source": "CNBC",
       "category": "us-stock"
@@ -86,47 +94,79 @@
     {
       "title": "U.S. Secret Service official: 'Threat environment is the highest we've ever seen'",
       "link": "https://www.cnbc.com/2026/07/22/secret-service-threat-trump-white-house-drones.html",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "The Secret Service has seen a 40% increase this year in cases involving threats to protectees, including President Donald Trump.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says",
-      "link": "https://www.cnbc.com/2026/07/22/houthis-red-sea-bab-el-mandeb-saudi-oil-iran.html",
-      "date": "2026-07-23 08:04",
-      "summary": "Attacks on ships transiting the Bab el-Mandeb threaten to cut off millions of barrels per day of Saudi crude oil exports.",
+      "title": "OpenAI cyber models broke out of training environment to hack Hugging Face",
+      "link": "https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html",
+      "date": "2026-07-23 11:33",
+      "summary": "The incident is unique because it was \"driven, end to end, by an autonomous AI agent system,\" according to Hugging Face.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Out-of-favor utilities could be the next beneficiaries of the AI trade  and they pay dividends, Wells Fargo says",
       "link": "https://www.cnbc.com/2026/07/22/utilities-that-could-be-the-next-beneficiaries-of-ai-trade.html",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "A few overlooked names in the utilities sector could be poised for gains, the bank said.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
-      "link": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
-      "date": "2026-07-23 08:04",
-      "summary": "He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
+      "title": "Trump vows to bomb Iran's bridges, power plants if it shoots at ships in Hormuz Strait",
+      "link": "https://www.cnbc.com/2026/07/22/us-iran-war-trump-hormuz-.html",
+      "date": "2026-07-23 11:33",
+      "summary": "He issued his threat after U.S. Central Command hit Iranian targets for an 11th straight night.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Alphabet will post earnings after the bell. What the charts show ahead of the report",
       "link": "https://www.cnbc.com/2026/07/22/alphabet-will-post-earnings-after-the-bell-what-the-charts-show-ahead-of-the-report.html",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "Frank Cappelleri of CappThesis breaks down the technicals in this megacap stock ahead of earnings.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says",
+      "link": "https://www.cnbc.com/2026/07/22/houthis-red-sea-bab-el-mandeb-saudi-oil-iran.html",
+      "date": "2026-07-23 11:33",
+      "summary": "Attacks on ships transiting the Bab el-Mandeb threaten to cut off millions of barrels per day of Saudi crude oil exports.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "ServiceNow CEO defends the company's relevancy, touting a kill switch for rogue AI agents",
+      "link": "https://www.cnbc.com/2026/07/22/servicenow-ceo-kill-switch-rogue-ai.html",
+      "date": "2026-07-23 11:33",
+      "summary": "ServiceNow CEO Bill McDermott said the company is becoming increasingly important as businesses deploy more autonomous AI agents.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
+      "link": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
+      "date": "2026-07-23 11:33",
+      "summary": "He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "J&J gets a big win on its new robotic surgical system  plus, a flood of earnings",
+      "link": "https://www.cnbc.com/2026/07/22/jj-gets-a-big-win-on-its-new-robotic-surgical-system-plus-a-flood-of-earnings.html",
+      "date": "2026-07-23 11:33",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Senate crypto bill would ban federal officials  including presidents  from issuing digital assets",
       "link": "https://www.cnbc.com/2026/07/22/senate-crypto-bill-would-ban-federal-officials-from-issuing-digital-assets.html",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "A new version of the Clarity Act would impose the first limits on federal officials sponsoring or issuing cryptocurrency.",
       "source": "CNBC",
       "category": "us-stock"
@@ -134,7 +174,7 @@
     {
       "title": "EU antitrust regulators clear Paramount-WBD merger as it faces challenge by U.S. states",
       "link": "https://www.cnbc.com/2026/07/22/european-commission-paramount-wbd-approval.html",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "European regulators signed off on Paramount's proposed acquisition of Warner Bros. Discovery.",
       "source": "CNBC",
       "category": "us-stock"
@@ -142,7 +182,7 @@
     {
       "title": "Senate panel advances China auto bill that could bar Mercedes-Benz from U.S.",
       "link": "https://www.cnbc.com/2026/07/22/ted-cruz-china-auto-bill-mercedes-benz-gm.html",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "Mercedes-Benzs largest individual shareholder is Chinese state-owned BAIC. Cruz warned the bill could hurt Mercedes and accused GM of backing it.",
       "source": "CNBC",
       "category": "us-stock"
@@ -150,23 +190,15 @@
     {
       "title": "Amazon cuts some jobs in its artificial general intelligence unit",
       "link": "https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "Amazon's AGI unit has released a set of AI models, called Nova, and also includes groups working on silicon and quantum computing.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "J&J gets a big win on its new robotic surgical system  plus, a flood of earnings",
-      "link": "https://www.cnbc.com/2026/07/22/jj-gets-a-big-win-on-its-new-robotic-surgical-system-plus-a-flood-of-earnings.html",
-      "date": "2026-07-23 08:04",
-      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "House advances bill barring sitting Congress members from buying stocks",
       "link": "https://www.cnbc.com/2026/07/22/house-congressional-stock-trading.html",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "The House on Wednesday advanced a bill that would bar members of Congress from purchasing additional stocks while in office.",
       "source": "CNBC",
       "category": "us-stock"
@@ -174,7 +206,7 @@
     {
       "title": "Ex-Google recruiter: Ask this 'insightful' question in an interview and I'll want to hire you 'on the spot'",
       "link": "https://www.cnbc.com/2026/07/22/ex-google-recruiter-the-no-1-question-that-makes-me-want-to-hire-someone-on-the-spot.html",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "Former Google recruiter Farah Sharghi reveals the question that makes job candidates stand out to her the most.",
       "source": "CNBC",
       "category": "us-stock"
@@ -182,7 +214,7 @@
     {
       "title": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
       "link": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "In five public appearances, Warsh has used the phrase \"family fight\" 13 times, returning to \"first principles\" 11 times and \"inflation is a choice\" for the Fed six times.",
       "source": "CNBC",
       "category": "us-stock"
@@ -190,39 +222,39 @@
     {
       "title": "Under-the-radar beverage name captures trader's attention",
       "link": "https://www.cnbc.com/2026/07/22/under-the-radar-beverage-name-captures-traders-attention.html",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "Michael Khouw breaks down how he's trading this stock ahead of earnings.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Reddit stock sinks on report it may not renew Google AI content deal",
-      "link": "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
-      "date": "2026-07-23 08:04",
-      "summary": "Google's AI summaries have reduced traffic to websites from the search results page and Reddit is reconsidering the benefits of the deal, the Journal said.",
-      "source": "CNBC",
+      "title": "The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies",
+      "link": "https://www.marketwatch.com/story/the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intensifies-58f268e8?mod=mw_rss_topstories",
+      "date": "2026-07-23 11:33",
+      "summary": "Treasury yields are approaching the highest levels seen since the Iran war started in February as oil prices rise",
+      "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "Sen. Wyden introduces bill to curb Trump's tariff powers",
-      "link": "https://www.cnbc.com/2026/07/22/trump-tariffs-wyden-bill-congress.html",
-      "date": "2026-07-23 08:04",
-      "summary": "Sen. Ron Wyden said Trump has \"abused every trade authority at his disposal\" and called his new tariffs on Canadian goods a \"shakedown.\"",
-      "source": "CNBC",
+      "title": "ServiceNow’s stock rises as earnings show momentum in cybersecurity",
+      "link": "https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038?mod=mw_rss_topstories",
+      "date": "2026-07-23 11:33",
+      "summary": "Against a gloomy backdrop for software sentiment, ServiceNow just topped revenue expectations.",
+      "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "Samsung ups prices as it launches new foldable smartphones ahead of expected Apple debut",
-      "link": "https://www.cnbc.com/2026/07/22/samsung-galaxy-z-fold8-ultra-z-fold8-z-flip8-launch.html",
-      "date": "2026-07-23 08:04",
-      "summary": "Samsung launched the Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8.",
-      "source": "CNBC",
+      "title": "IBM just cut its outlook, but not by as much as investors feared",
+      "link": "https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a?mod=mw_rss_topstories",
+      "date": "2026-07-23 11:33",
+      "summary": "IBM’s official earnings report comes after a bruising profit warning last week.",
+      "source": "MarketWatch",
       "category": "us-stock"
     },
     {
       "title": "‘I have a $2,000 deductible’: I reported a cracked windshield on my Hertz rental car. Can they charge me?",
       "link": "https://www.marketwatch.com/story/i-have-a-2-000-deductible-i-reported-a-cracked-windshield-on-my-hertz-rental-car-can-they-charge-me-1e07d28a?mod=mw_rss_topstories",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "“I never heard a rock hit the windshield.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -230,39 +262,23 @@
     {
       "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
       "link": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "“I asked why the limit was so low, but they couldn’t give me an explanation.”",
-      "source": "MarketWatch",
-      "category": "us-stock"
-    },
-    {
-      "title": "IBM just cut its outlook, but not by as much as investors feared",
-      "link": "https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a?mod=mw_rss_topstories",
-      "date": "2026-07-23 08:04",
-      "summary": "IBM’s official earnings report comes after a bruising profit warning last week.",
       "source": "MarketWatch",
       "category": "us-stock"
     },
     {
       "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
       "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "The hottest tech trades of 2026 just got slammed — smart investors are buying anyway.",
-      "source": "MarketWatch",
-      "category": "us-stock"
-    },
-    {
-      "title": "ServiceNow’s stock rises as earnings show momentum in cybersecurity",
-      "link": "https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038?mod=mw_rss_topstories",
-      "date": "2026-07-23 08:04",
-      "summary": "Against a gloomy backdrop for software sentiment, ServiceNow just topped revenue expectations.",
       "source": "MarketWatch",
       "category": "us-stock"
     },
     {
       "title": "The Treasury market touches a worrying milestone not seen since 2007",
       "link": "https://www.marketwatch.com/story/the-treasury-market-is-on-the-verge-of-a-worrying-milestone-not-seen-since-2007-81158082?mod=mw_rss_topstories",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "There are a host of challenges at work as the ‘long’ 30-year Treasury yield logs its longest stretch above 5% in 19 years",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -270,168 +286,168 @@
     {
       "title": "Global oil prices settle at 6-week high after topping $95 a barrel, as hopes dim for de-escalation of Iran war",
       "link": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
-      "date": "2026-07-23 08:04",
+      "date": "2026-07-23 11:33",
       "summary": "Oil prices settled at six-week highs on Wednesday after the U.S. struck Iran for the 11th night in a row and President Donald Trump warned that the U.S. will bomb Iranian bridges and power plants if T",
       "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "Brent Sullivan: Why 351 Exchange ETFs Are Now Everywhere",
-      "link": "http://www.etf.com/sections/etf-basics/brent-sullivan-why-351-exchange-etfs-are-now-everywhere?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
-      "date": "2026-07-22 23:53",
-      "summary": "Sensational, pearl-clutching headlines about the IRS tax shenanigans and risk of 351 exchanges dominate most media coverage of this increasingly popular form of ETF conversion. While the risk of bad a",
+      "title": "Exclusive-Intel, AMD sign long-term server CPU deals with Chinese clients as prices surge, sources say",
+      "link": "https://finance.yahoo.com/technology/articles/exclusive-intel-amd-sign-long-032439242.html?.tsrc=rss",
+      "date": "2026-07-23 03:24",
+      "summary": "U.S. chipmaking giants Intel and Advanced Micro Devices are signing longer-term purchase commitments with Chinese server customers for data-centre processors as prices surge, two people familiar with ",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Dow Jones Futures: Google, Tesla Fall On Earnings, Capex",
+      "title": "SpaceX Just Erased $1 Trillion in Value. Heres Why the Worst Could Be Yet to Come.",
+      "link": "https://247wallst.com/investing/2026/07/22/spacex-just-erased-1-trillion-in-value-heres-why-the-worst-could-be-yet-to-come/?.tsrc=rss",
+      "date": "2026-07-23 03:06",
+      "summary": "SpaceX burned through tens of billions in market value before August even arrived, and the calendar just flagged a supply event that has options traders positioned at a ratio that rarely ends well for",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Dow Jones Futures: Google, Tesla Fall On Earnings, Capital Spending",
       "link": "https://finance.yahoo.com/m/092ff924-f233-311d-95de-ed11a4dabc57/dow-jones-futures%3A-google%2C.html?.tsrc=rss",
-      "date": "2026-07-22 23:35",
-      "summary": "Futures fell as Google and Tesla fell retreated on earnings and heavy capital spending. Some AI hardware plays rose.",
+      "date": "2026-07-23 03:06",
+      "summary": "Futures edged higher. Google and Tesla retreated on earnings and heavy capital spending, but AI hardware plays rose.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "TSLA Stock Continues Slide After Musk Says A Little Less Capital Efficient Is Acceptable  Warns Of Rising Capex for Next 2-3 Years",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-continues-slide-after-musk-says-a-little-less-capital-efficient-is-acceptable-warns-of-rising-capex-for-next-2-3-years/cZZmxv0R7Dv?.tsrc=rss",
-      "date": "2026-07-22 23:24",
-      "summary": "For FY6, the company expects capex to be more than $25 billion, marking a huge jump from the $8.5 billion recorded in 2025.",
+      "title": "Elon Musk's Tesla Held on to Bitcoin Stockpile in Q2 Despite $112 Million in Paper Losses",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/elon-musks-tesla-held-bitcoin-024402257.html?.tsrc=rss",
+      "date": "2026-07-23 02:44",
+      "summary": "Tesla Inc. (NASDAQ:TSLA) recorded paper losses on its Bitcoin (CRYPTO: BTC) holdings for the third straight quarter, but did not sell any, according to its earnings release on Wednesday. Tesla Takes B",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Tesla-SpaceX merger? Musk cites 'more and more overlap'",
-      "link": "https://finance.yahoo.com/video/tesla-spacex-merger-musk-cites-more-and-more-overlap-232240873.html?.tsrc=rss",
-      "date": "2026-07-22 23:22",
-      "summary": "Elon Musk addresses shareholder questions about a potential merger between Tesla (TSLA) and SpaceX (SPCX), noting their growing operational overlap before deferring to Tesla's General Counsel, who hig",
+      "title": "Donald Trump's Iran Blockade Announcement Sent Oil Prices Surging and the Dow Falling",
+      "link": "https://www.fool.com/investing/2026/07/22/donald-trumps-iran-blockade-announcement-sent-oil/?.tsrc=rss",
+      "date": "2026-07-23 02:35",
+      "summary": "The conflict in the Middle East is raging again, which highlights an important fact that energy investors ignore at their own risk.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "S&P 500, Nasdaq close lower ahead of technology earnings",
-      "link": "https://finance.yahoo.com/video/p-500-nasdaq-close-lower-231736518.html?.tsrc=rss",
-      "date": "2026-07-22 23:17",
-      "summary": "STORY: U.S. stocks ended lower on Wednesday, with Dow virtually flat, the S&P 500 dipping fractionally, while the Nasdaq lost more than half a percent.Investors eagerly awaited earnings results after ",
+      "title": "Dell Technologies (DELL) Climbs 9.3% on Booming Demand for Nvidia-Powered AI Servers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-climbs-9-022911228.html?.tsrc=rss",
+      "date": "2026-07-23 02:29",
+      "summary": "Dell Technologies (NYSE:DELL) surged by 9.32 percent on Wednesday to finish at $441.80 apiece as investors drew encouragement from the surging demand for AI servers using Nvidia chips. The stock ralli",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Tesla Holds Bitcoin Position Steady as Digital Asset Loss Reaches $112M",
-      "link": "https://www.cryptoprowl.com/releases/tesla-holds-bitcoin-position-steady-as-digital-asset-loss-reaches-112m-6228?.tsrc=rss",
-      "date": "2026-07-22 23:17",
-      "summary": "Tesla Inc. (NASDAQ: $TSLA) kept its Bitcoin treasury unchanged at 11,509 BTC in the second quarter, extending a hol...",
+      "title": "Why Oatly Stock Jumped Today",
+      "link": "https://www.fool.com/investing/2026/07/22/why-oatly-stock-otly-is-up-today/?.tsrc=rss",
+      "date": "2026-07-23 02:25",
+      "summary": "The plant-based beverage maker is progressing toward profitability.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Prediction: Ferrari Is a Better Buy Than Ford for the Next Decade",
-      "link": "https://www.fool.com/investing/2026/07/22/prediction-ferrari-better-buy-ford-next-decade/?.tsrc=rss",
-      "date": "2026-07-22 23:10",
-      "summary": "The choice is clear for investors who want a better shot at outperforming the market in the long run.",
+      "title": "Analysts Say This Robotics Stock Could Be One of 2026s Biggest Industrial Winners",
+      "link": "https://247wallst.com/investing/2026/07/22/this-is-the-no-1-robotics-stock-to-buy-in-2026/?.tsrc=rss",
+      "date": "2026-07-23 02:12",
+      "summary": "Regal Rexnord has surged 53% this year on the back of a massive data center backlog and an emerging humanoid robotics play, but stretched valuations, negative free cash flow, and a brand-new CEO raise",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Tesla Q2 Earnings Call Highlights",
-      "link": "https://www.marketbeat.com/instant-alerts/tesla-q2-earnings-call-highlights-2026-07-22/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "date": "2026-07-22 23:05",
-      "summary": "Tesla (NASDAQ:TSLA) executives used the companys second-quarter 2026 earnings webcast to highlight record quarterly deliveries, rising interest in Full Self-Driving, rapid energy storage growth and a ",
+      "title": "X Energy (XE) Looks Pricey Even After The Prometheus Project Win",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/x-energy-xe-looks-pricey-020806133.html?.tsrc=rss",
+      "date": "2026-07-23 02:08",
+      "summary": "X-Energy (XE) is drawing fresh attention after being named a Tier 1 partner in the AI focused Prometheus nuclear research project, alongside Idaho National Laboratory, NVIDIA and AWS. See our latest a",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Tesla Earnings Miss Despite Strong EV Sales; Elon Musk Preaches Robotaxi Caution",
-      "link": "https://finance.yahoo.com/m/03bdc1bf-cbd4-30f6-a4de-b09b46ac50fb/tesla-earnings-miss-despite.html?.tsrc=rss",
-      "date": "2026-07-22 23:05",
-      "summary": "Tesla earnings fell short, while the EV giant burned cash. Elon Musk stressed caution about the robotaxi rollout on the conference call. TSLA stock fell.",
+      "title": "Nasdaq, S&P 500, Dow Futures Edge Higher, Brushing Off Fresh US-Iran Clashes As Earnings Take Center Stage: TSLA, NOW, GOOGL, NOK In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-s-and-p-500-dow-futures-edge-higher-brushing-off-fresh-us-iran-clashes-as-earnings-take-center-stage-tsla-now-googl-nok-in-focus/cZZnIS5R7Dz?.tsrc=rss",
+      "date": "2026-07-23 01:52",
+      "summary": "Earnings dominated the narrative in the U.S. markets on Wednesday, with Alphabet, Tesla, and IBM reporting Q2 results.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Teslas profits slide despite growing revenue as it pivots to robotics and AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-profits-slide-despite-growing-210124784.html?.tsrc=rss",
-      "date": "2026-07-22 23:00",
-      "summary": "Shares in Elon Musk company fall more 3% in after-hours trading, as earnings per share miss Wall Street expectations",
+      "title": "Are SpaceX Bulls Deluding Themselves? This Wall Street Analyst Might Convince You So",
+      "link": "https://www.fool.com/investing/2026/07/22/are-spacex-bulls-deluding-themselves-this-wall-str/?.tsrc=rss",
+      "date": "2026-07-23 01:50",
+      "summary": "One SpaceX bull doesn't expect positive cash flow for nearly a decade.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Nvidia Just Revealed It Owns 9.3% of Nebius. The Stock Jumped Nearly 19% on Tuesday -- Here's What Nvidia Is Actually Buying.",
-      "link": "https://www.fool.com/investing/2026/07/22/nvidia-just-revealed-it-owns-93-of-nebius-the-stoc/?.tsrc=rss",
-      "date": "2026-07-22 22:57",
-      "summary": "A passive stake disclosure sent the AI cloud provider soaring. The fine print matters.",
+      "title": "Apple Is Reportedly Launching a Device-Leasing Program With Klarna on July 28. Here's What It Means for iPhone Revenue.",
+      "link": "https://www.fool.com/investing/2026/07/22/apple-is-reportedly-launching-a-device-leasing-pro/?.tsrc=rss",
+      "date": "2026-07-23 01:34",
+      "summary": "Leasing could change how the iPhone maker's biggest revenue line behaves.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "S&P 500, Nasdaq End Lower, Futures Extend Declines As Attention Shifts To Tech Earnings, Geopolitics   TSLA, GOOGL, PSKY, RDDT, AMZN In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-futures-extend-declines-as-attention-shifts-to-tech-earnings-geopolitics/cZZmDGrR7DH?.tsrc=rss",
-      "date": "2026-07-22 22:53",
-      "summary": "Alphabet hiked its 2026 capex spending outlook in its earnings call shortly after market close.",
+      "title": "Musk keeps Tesla-SpaceX merger speculation alive, cites growing overlap",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/musk-keeps-tesla-spacex-merger-011328678.html?.tsrc=rss",
+      "date": "2026-07-23 01:13",
+      "summary": "Tesla CEO Elon Musk on Wednesday left the door open to the EV maker merging with his other trillion-dollar-plus-valued firm SpaceX, declining to dismiss the possibility and citing growing overlap betw",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Other Call Highlights, Including a SpaceX Merger Question",
-      "link": "https://finance.yahoo.com/m/02c11418-60be-39fa-8483-cc18e044f6c2/other-call-highlights%2C.html?.tsrc=rss",
-      "date": "2026-07-22 22:51",
-      "summary": "Many topics came up, including questions about a potential merger with Elon Musk's other trillion-dollar company, SpaceX.  Tesla robo-taxis are running version 15 of the company's Full Self Driving, o",
+      "title": "X Energy (XE) Joins Project Prometheus As Founding Partner In AI Nuclear Push",
+      "link": "https://finance.yahoo.com/technology/ai/articles/x-energy-xe-joins-project-010948944.html?.tsrc=rss",
+      "date": "2026-07-23 01:09",
+      "summary": "X-Energy (NasdaqGS:XE) has been named a founding member of Project Prometheus, a new AI-driven partnership focused on advanced nuclear deployment. The company joins Tier 1 partners including Idaho Nat",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "This 1 Momentum ETF Is Still Beating the S&P 500 With Lower Drawdowns",
-      "link": "https://247wallst.com/investing/etf/2026/07/22/this-1-momentum-etf-is-still-beating-the-sp-500-with-lower-drawdowns/?.tsrc=rss",
-      "date": "2026-07-22 22:50",
-      "summary": "Most ETFs that chase outperformance get crushed when the market turns, yet one momentum fund keeps defying that logic cycle after cycle. The explanation behind how it sidesteps the worst downturns whi",
+      "title": "Alphabet Just Delivered 82% Cloud Growth. Why It Wasn't Enough",
+      "link": "https://www.fool.com/investing/2026/07/22/alphabet-just-tripled-profit-in-this-ai-centric-ca/?.tsrc=rss",
+      "date": "2026-07-23 00:37",
+      "summary": "The Google Cloud business is booming.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Will SpaceX buy Tesla? Musk is not revealing his plans",
-      "link": "https://www.cnn.com/2026/07/22/business/will-spacex-buy-tesla?.tsrc=rss",
-      "date": "2026-07-22 22:47",
-      "summary": "Elon Musk is now a trillionaire. Is his next big move a merger between Tesla and SpaceX into a $3 trillion behemoth?",
+      "title": "Where Will Solana Be in 3 Years?",
+      "link": "https://www.fool.com/investing/2026/07/22/where-will-solana-be-in-3-years/?.tsrc=rss",
+      "date": "2026-07-23 00:31",
+      "summary": "The biggest prize at stake is the market for tokenized stocks.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Why Constellation Energy Stock Blasted Higher on Wednesday",
-      "link": "https://www.fool.com/investing/2026/07/22/why-constellation-energy-stock-blasted-higher-on-w/?.tsrc=rss",
-      "date": "2026-07-22 22:34",
-      "summary": "The U.S. nuclear industry got a boost from a new government pact with Saudi Arabia.",
+      "title": "Alibaba Group Holding (BABA) Joins Apple Intelligence In China, Is The Stock Still Undervalued?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-group-holding-baba-joins-001630752.html?.tsrc=rss",
+      "date": "2026-07-23 00:16",
+      "summary": "Alibaba Group Holding (BABA) is back in the spotlight after confirming its Qwen large language model will power Apple Intelligence features on Apple devices in China, following regulatory approval tha",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Big Afternoon for Q2 Earnings: GOOGL, TSLA & More",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/big-afternoon-q2-earnings-googl-223300625.html?.tsrc=rss",
-      "date": "2026-07-22 22:33",
-      "summary": "Tech firms are showing that while the AI trade continues its upward surge, it's coming with a high price tag.",
+      "title": "Did AI-Euphoria and Volatile Options Pricing Just Shift Marvell Technology's (MRVL) Investment Narrative?",
+      "link": "https://finance.yahoo.com/markets/options/articles/did-ai-euphoria-volatile-options-001600472.html?.tsrc=rss",
+      "date": "2026-07-23 00:16",
+      "summary": "In recent months, Marvell Technology has been at the center of renewed AI-chip enthusiasm, buoyed by sector-wide optimism, accelerating AI-related bookings, and high-profile endorsements such as Nvidi",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Chasing Yield Is a Trap. These 3 Dividend ETFs Pay You Without the Risk",
-      "link": "https://247wallst.com/investing/etf/2026/07/22/chasing-yield-is-a-trap-these-3-dividend-etfs-pay-you-without-the-risk/?.tsrc=rss",
-      "date": "2026-07-22 22:32",
-      "summary": "A fat dividend yield can feel like found money, but experienced investors know it sometimes signals a stock in freefall. Three ETFs take a smarter approach to passive income, and the tradeoffs between",
+      "title": "Tesla shares fall as Musk touts ambitious -- and costly -- plans",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-shares-dip-profit-misses-210534033.html?.tsrc=rss",
+      "date": "2026-07-23 00:11",
+      "summary": "Tesla reported weaker-than-expected quarterly profits on Wednesday despite increased auto sales, depressing shares in after-hours trading amid questions over massive capital spending plans.Tesla share",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Elon Musk Says If You Value Tesla as Just an Auto Company, Fundamentally, Its Just the Wrong Framework  More Like A Dozen Technology Startups",
-      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-value-tesla-223126682.html?.tsrc=rss",
-      "date": "2026-07-22 22:31",
-      "summary": "Trying to fit some companies into familiar categories can be like trying to describe a smartphone as just a telephone. Tesla CEO Elon Musk says thats exactly the mistake many investors make when they ",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Why AT&T Stock Rallied Today",
-      "link": "https://www.fool.com/investing/2026/07/22/why-att-stock-is-up-today/?.tsrc=rss",
-      "date": "2026-07-22 22:17",
-      "summary": "SpaceX-related fears appear to be overblown.",
+      "title": "SPCX Gains After Hours Ahead Of Upcoming Starship Test Flight Tesla Books $1B SpaceX Gain",
+      "link": "https://stocktwits.com/news-articles/markets/equity/spcx-gains-after-hours-ahead-of-upcoming-starship-test-flight-tesla-books-1-b-space-x-gain/cZZndtYR7Dx?.tsrc=rss",
+      "date": "2026-07-23 00:10",
+      "summary": "The $1-billion unrealized gain on SpaceX holdings provided a notable boost to Teslas reported net income for the second quarter.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     }
