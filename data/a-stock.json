@@ -1,246 +1,294 @@
 {
-  "updated": "2026-07-27T08:00:14.591772+08:00",
+  "updated": "2026-07-27T11:50:10.255237+08:00",
   "source": "A股聚合",
-  "count": 30,
+  "count": 36,
   "items": [
     {
-      "title": "视频|携程天价罚单落地，为何大众纷纷拍手叫好？",
-      "link": "https://finance.sina.com.cn/stock/relnews/2026-07-27/doc-inikevrp3253687.shtml",
-      "date": "2026-07-27 07:59",
+      "title": "不同集团午前上涨8% 公司与上纬新材达成五年战略合作",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-27/doc-inikfhfp0749989.shtml",
+      "date": "2026-07-27 11:48",
+      "summary": "不同集团（06090）午前涨超8%，截至发稿，股价上涨8.44%，报43.92港元，成交额3495.25万港元。 WAIC 2026期间，不同集团旗下创造不同控股与科创板上市公司上纬新材（688585...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "迈越科技午前上涨10% 拟折让约19.17%配股最高净筹约9600万港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-27/doc-inikfhfi3184612.shtml",
+      "date": "2026-07-27 11:47",
+      "summary": "迈越科技（02501）盘中涨超25%，截至发稿，股价上涨10%，现报1.32港元，成交额795.37万港元。 迈越科技发布公告，于2026年7月25日，公司与配售代理订立配售协议...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "龙蟠科技午前涨逾9% 机构认为锂电板块超跌明显看好板块反弹",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-27/doc-inikfhfk9961047.shtml",
+      "date": "2026-07-27 11:46",
+      "summary": "龙蟠科技（02465）盘中涨超9%，截至发稿，股价上涨8.55%，现报10.41港元，成交额1.10亿港元。 大东时代智库针对37家主流电池企业及上下游供应链调研显示...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "创金合信基金高层大调整：钱龙海退休 “85后”青美平措接任董事长 徐娇、黄先智分任督察长与董秘",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-07-27/doc-inikfhfp0742858.shtml",
+      "date": "2026-07-27 11:40",
+      "summary": "近日，创金合信基金发布董事长及高管变更公告 ，董事长钱龙海退休离任，离任日期2026-07-24。新任青美平措为董事长。同时，督察长、董事会秘书 梁绍锋任期届满离任...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "韩国央行：2024年芯片制造产值占韩国GDP超一成",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikfhfi3180092.shtml",
+      "date": "2026-07-27 11:40",
+      "summary": "韩国央行周一发布报告称，ChatGPT问世后人工智能基础设施需求持续攀升，带动2024年韩国芯片制造行业产值占全国制造业总产值比重突破10%。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "博彩股午前继续走高 新濠国际发展涨逾6%美高梅中国涨逾5%",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-27/doc-inikfhfe8456428.shtml",
+      "date": "2026-07-27 11:37",
+      "summary": "博彩股午前继续走高 ，新濠国际发展（00200）上涨6.49%，报3.61港元；美高梅中国（02282）上涨4.78%，报10.97港元；银河娱乐（00027）上涨4.81%，报33...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "大金重工午前涨超8% KING系列实现标准化批量建造",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-27/doc-inikfhfi3172354.shtml",
+      "date": "2026-07-27 11:32",
+      "summary": "大金重工（01081）午前涨超8%，截至发稿，股价上涨8.23%，现报35.50港元，成交额5248.26万港元。 据大金重工消息，近日，大金重工自主研发...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "东阳光药午前涨近5% 近日获控股股东拟增持约3.0亿至6.0亿港元公司股份",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-27/doc-inikfhfk9947508.shtml",
+      "date": "2026-07-27 11:30",
+      "summary": "东阳光药（06887）午前涨近5%，截至发稿，股价上涨4.73%，现报34.56港元，成交额806.48万港元。 7月20日，东阳光药发布公告，董事会获公司控股股东兼非执行董事张寓帅先生...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "微创心通-B午前涨超14% 两款核心产品在欧澳获批上市",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-27/doc-inikfhfp0728005.shtml",
+      "date": "2026-07-27 11:26",
+      "summary": "微创心通-B（02160）午前涨超14%，截至发稿，股价上涨14.29%，报1.20港元，成交额196.71万港元。 7月25日，微创心通宣布，近日，公司研发的AnchorMan®/锚王™左心耳封堵器及...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "天齐锂业午前上涨2% 拟战略投资认购欣旺达动力新增股份",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-27/doc-inikfhfk9944199.shtml",
+      "date": "2026-07-27 11:25",
+      "summary": "天齐锂业（09696）盘中涨近3%，截至发稿，股价上涨2%，现报33.60港元，成交额7578.06万港元。 7月24日，天齐锂业发布公告，根据公司战略发展需要...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "日本央行慢半拍 交易员料10年期日债收益率上看3%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikfhfe8444305.shtml",
+      "date": "2026-07-27 11:24",
+      "summary": "日本公债（JGB）收益率周一随美债收益率小幅走低，但10年期JGB迈向3%的态势正在自我强化。尽管近期市场臆测不断，但债券交易员不相信日本央行将加快升息步伐。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "友谊时光午前涨超6% 预计中期纯利同比增长约67%至82%",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-27/doc-inikfhfp0724884.shtml",
+      "date": "2026-07-27 11:23",
+      "summary": "友谊时光（06820）早盘涨超6%，截至发稿，股价上涨6.58%，现报0.405港元。 友谊时光发布盈喜，预计上半年纯利6800万至7400万元，同比增长约67%至82%...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "精锋医疗-B午前涨超4% 投资元昊动力布局“AI+手术机器人”具身智能领域应用",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-27/doc-inikfhfe8440751.shtml",
+      "date": "2026-07-27 11:21",
+      "summary": "精锋医疗-B（02675）午前涨超4%，截至发稿，股价上涨4.14%，现报39.72港元，成交额280.02万港元。 7月24日，精锋医疗-B发布公告，本公司董事会（董事会）欣然宣布完成对本...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "韩国6月外币存款规模连续第三个月走高",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikfhfe8439741.shtml",
+      "date": "2026-07-27 11:20",
+      "summary": "韩国央行周一公布数据，受美元储蓄增加带动，6月韩国外币存款规模连续第三个月走高。 韩国银行数据显示，6月末本国居民外币存款余额达1133.33亿美元，较上月增加10...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美联储决策从“主席引导”转向“委员博弈”，达成共识难度拉满",
+      "link": "https://finance.sina.com.cn/money/forex/whqqscgd/2026-07-27/doc-inikfhfp0716452.shtml",
+      "date": "2026-07-27 11:12",
+      "summary": "文章来源：金十数据 美国国债市场正在向美联储主席沃什释放明确信号：仅靠强硬表态对抗通胀，可能不足以稳定市场预期。 7月以来，美伊冲突再度升级...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "金鹰基金：超跌修复后量能回落 市场进入高波动再平衡",
+      "link": "https://finance.sina.com.cn/money/fund/jjsy/2026-07-27/doc-inikfhfi3156266.shtml",
+      "date": "2026-07-27 11:11",
+      "summary": "上周A股整体呈现“先调整、后修复、再分化”的走势。周一，市场延续风险释放，低估值权重和防御板块相对占优，科技方向继续出清。周二，在政策稳市信号...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "打新打中长鑫的年轻人，人均百万持仓？",
+      "link": "https://finance.sina.com.cn/stock/relnews/2026-07-27/doc-inikfhfi3162910.shtml",
+      "date": "2026-07-27 11:05",
+      "summary": "来源 每日人物 万众期待的长鑫科技今日敲钟登陆科创板，开盘报价49.5元/股，较发行价大涨471%，市值破3万亿元，一路超过工商银行、宁德时代、贵州茅台等标志性股王...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "机构投资组合经理：多重逆风压制行情，但应适度长期配置黄金",
+      "link": "https://finance.sina.com.cn/money/forex/forexroll/2026-07-27/doc-inikfhfk9940478.shtml",
+      "date": "2026-07-27 11:04",
+      "summary": "汇通财经APP讯——黄金周一（7月27日）亚市早盘一度上涨约1.5%至4100美元/盎司上方，最高触及4115.89美元/盎司，但短期下行风险凸显，目前小幅回落至4095美元附近...",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "长鑫科技敲钟上市，现场视频来了",
+      "link": "https://finance.sina.com.cn/stock/relnews/2026-07-27/doc-inikfhfe8420104.shtml",
+      "date": "2026-07-27 10:59",
       "summary": "",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "四大证券报头版头条内容精华摘要_2026年7月27日_财经新闻",
-      "link": "https://finance.sina.com.cn/stock/y/2026-07-27/doc-inikevrt0765520.shtml",
-      "date": "2026-07-27 07:56",
-      "summary": "7月27日（星期一），今日报刊头条主要内容精华如下：  中国证券报 A股8月轮动修复概率高 六大机构最新研判 临近7月底，中东地缘冲突再起波澜，国际原油价格反弹...",
-      "source": "股市直击",
-      "category": "a-stock"
-    },
-    {
-      "title": "周末美国和伊朗暂停交火 亚市早盘金价上涨",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikevrt0762395.shtml",
-      "date": "2026-07-27 07:54",
-      "summary": "亚洲交易时段金价上涨。现货黄金上涨1.0%，至每盎司4，093.89美元。Kudo.com的Konstantinos Chrysikos在一封电子邮件中表示，随着油价回落...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "德康农牧拟发行1亿美元零息可转换债券 初始转换价溢价约5%",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-27/doc-inikevrt0761421.shtml",
-      "date": "2026-07-27 07:53",
-      "summary": "德康农牧（02419）公布，于2026年7月24日（交易时段后），公司与经办人订立认购协议，该公司拟发行于2027年到期的1亿美元零息可转换债券，债券初始转换价为每股H股54...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "通天酒业拟折让约18.99%配股 最多净筹约838万港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-27/doc-inikevrt0760234.shtml",
-      "date": "2026-07-27 07:52",
-      "summary": "通天酒业（00389）公布，于2026年7月26日，该公司拟透过配售代理配售最多6031.236万股配售股份，价格为每股配售股份0.145港元，较2026年7月24日收市价折让约18.99%。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "华泰证券：等待A股“超级周”的方向选择",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-27/doc-inikevrk8483381.shtml",
-      "date": "2026-07-27 07:49",
-      "summary": "华泰睿思 核心观点 上周市场缩量反弹，我们跟踪的A股情绪指数周一回落至6%后企稳，阶段性底部形成的概率上升。我们认为，公募中报显示AI 行情交易和仓位拥挤度均处于高位...",
+      "title": "长鑫科技暴涨471.59%！至少237名千万富翁诞生，合肥国资浮盈破万亿",
+      "link": "https://finance.sina.com.cn/stock/relnews/2026-07-27/doc-inikfhfe8421819.shtml",
+      "date": "2026-07-27 10:55",
+      "summary": "来源| 凤凰网财经凤凰《AI研究院》 今日，国产DRAM龙头长鑫科技（688825）正式登陆科创板，开盘以3.2万亿市值超越工商银行成为A股总市值“一哥”。",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "迈越科技拟折让约19.17%配股最高净筹约9600万港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-27/doc-inikevrk8474671.shtml",
-      "date": "2026-07-27 07:48",
-      "summary": "迈越科技（02501）公布，于2026年7月25日，公司与配售代理订立配售协议，公司拟透过配售代理向不少于六名承配人配售最多1亿股配售股份，每股配售股份0.97港元...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "江西生物：稳定价格期间结束 超额配股权失效",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-27/doc-inikevrr0022752.shtml",
-      "date": "2026-07-27 07:47",
-      "summary": "江西生物（06915）公布，有关全球发售的稳定价格期间于2026年7月25日（即于递交香港公开发售申请截止日期后第30日）结束。整体协调人于稳定价格期间并无行使超额配股权...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "中联发展控股： Ganic Synergy与 Brightray Veridian PTE 订立预制AIDC模组采购服务合约",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-27/doc-inikevrp3245256.shtml",
-      "date": "2026-07-27 07:46",
-      "summary": "中联发展控股（00264）公布，于2026年7月26日，公司非全资合营公司的全资附属 Ganic Synergy与 Brightray Veridian PTE.LTD． 订立预制 AIDC 模组采购服务合约...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "随着对伊朗冲突升温的担忧缓解，日经指数或将上涨",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikevrt0753297.shtml",
-      "date": "2026-07-27 07:45",
-      "summary": "随着对伊朗冲突升温的担忧暂时缓解，日本股市可能上涨。新加坡交易所的日经指数期货上涨1.2%，至65460点。 在美国总统特朗普暂停对伊朗军事行动的重大升级后...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "地平线机器人-W授出约9060.83万股奖励股份",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-27/doc-inikevrt0753048.shtml",
-      "date": "2026-07-27 07:44",
-      "summary": "地平线机器人-W（09660）公布，于2026年7月26日，公司根据首次公开发售后股份激励计划的条款向1，202 名承授人授出相当于90，608，252股相关B类普通股的奖励...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "康方生物授出360.35万份购股权及164.85万个受限制股份单位",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-27/doc-inikevrt0751047.shtml",
-      "date": "2026-07-27 07:42",
-      "summary": "康方生物（09926）公布，于2026年7月24日，公司根据购股权计划向167名承授人授出360.35万份购股权，每份购股权行使价为99.5港元。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "理想汽车-W于7月24日斥资324.96万美元回购53.4万股",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-27/doc-inikevrt0750090.shtml",
-      "date": "2026-07-27 07:41",
-      "summary": "理想汽车-W（02015）发布公告，于2026年7月24日斥资324.96万美元回购53.4万股。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "知乎-W于7月24日斥资13.9万美元回购13.16万股",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-27/doc-inikevrp3241573.shtml",
-      "date": "2026-07-27 07:40",
-      "summary": "知乎-W（02390）发布公告，于2026年7月24日斥资13.9万美元回购13.16万股。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "金价上涨 中东战事暂停缓解通胀担忧",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikevrp3241512.shtml",
-      "date": "2026-07-27 07:40",
-      "summary": "周末美伊冲突暂停，缓解了石油供应风险和通胀担忧，金价随之走高。 金价在早盘交易中一度上涨1.1%，接近每盎司4100美元。 美国在没有任何解释或声明的情况下...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "刚刚，油价暴跌！胡塞武装袭击3艘沙特油轮！伊美持续信息交流！伊朗最高领袖表态！美军因伊朗战事伤亡642人",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-27/doc-inikevrp3242368.shtml",
-      "date": "2026-07-27 07:39",
-      "summary": "来源：期货日报 各位粉丝，早上好！ 新的交易周来了，国际油价暴跌。虽然胡塞武装宣称对沙特目标发动了袭击，但上周末美国暂停对伊朗空袭减轻了中东地区能源供应风险。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "重磅定调！电网设备迎超级机遇，机构扎堆调研且融资客提前埋伏名单出炉",
-      "link": "https://finance.sina.com.cn/stock/relnews/2026-07-27/doc-inikevrk8468733.shtml",
-      "date": "2026-07-27 07:39",
-      "summary": "国家电网上半年固定资产投资加速。 据国家电网，今年上半年，国家电网完成固定资产投资超3100亿元，同比增长12.6%。其中，15项特高压工程和37座抽水蓄能电站加快建设。",
-      "source": "数据宝",
-      "category": "a-stock"
-    },
-    {
-      "title": "英伟达以10亿美元投资获得Naver的4.5%股份",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikevrp3239261.shtml",
-      "date": "2026-07-27 07:36",
-      "summary": "据Naver的声明，按照此前宣布的10亿美元战略投资协议，英伟达将获得Naver的4.5%股份。Naver股票在韩国盘前交易中一度飙升22%。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "希音在香港上市前提交的文件中披露收入增速放缓",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikevrr0015256.shtml",
-      "date": "2026-07-27 07:35",
-      "summary": "快时尚零售商希音（Shein）公布其盈利能力走软，收入增长放缓。该公司在计划于香港进行首次公开募股（IPO）之前，首次向投资者详细披露了其财务状况。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "油价大跌 美国暂停对伊朗打击缓解地区紧张局势",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikevrt0742264.shtml",
-      "date": "2026-07-27 07:32",
-      "summary": "⁠⁠油价本周开盘大跌，尽管胡塞武装宣称对沙特目标发动了袭击，但周末美国暂停对伊朗空袭缓解了中东地区能源供应风险。 全球基准布伦特原油在开盘后几分钟内跌逾7%...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "长鑫科技今日上市 市值有望冲击4万亿？市场能否保持平稳运行",
-      "link": "https://finance.sina.com.cn/stock/newstock/zxdt/2026-07-27/doc-inikevrt0739399.shtml",
-      "date": "2026-07-27 07:27",
-      "summary": "长鑫科技近日发布首次公开发行股票科创板上市公告书，公司股票将于7月27日在上海证券交易所科创板上市。作为年内A股最大的IPO，长鑫科技潜在打新收益成为市场焦点。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "英伟达正与OpenAI洽谈 拟为数据中心项目提供2500亿美元融资担保",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikevrt0737790.shtml",
-      "date": "2026-07-27 07:26",
-      "summary": "英伟达（NVDA）正就为OpenAI提供约2500亿美元的担保展开谈判，作为一项大规模数据中心项目的一部分，这将成为美国人工智能热潮中迄今最雄心勃勃的金融交易之一。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "黄金交易提醒：美伊突然停火！油价暴跌6%金价跳涨逾40美元，本周将迎美联储决议考验",
-      "link": "https://finance.sina.com.cn/money/forex/hbfx/2026-07-27/doc-inikevrr0010428.shtml",
-      "date": "2026-07-27 07:25",
-      "summary": "汇通财经APP讯——美伊军事对抗突然按下暂停键，全球市场瞬间掀起波澜。国际油价周一（7月27日）大幅低开，美原油一度暴跌逾6%至83.10美元/桶...",
+      "title": "中东停火+就业火爆：澳元在0.7000关口迎来双重利好",
+      "link": "https://finance.sina.com.cn/money/forex/hbfx/2026-07-27/doc-inikfhfi3149870.shtml",
+      "date": "2026-07-27 10:55",
+      "summary": "汇通财经APP讯——周一（7月27日）亚洲时段，澳元兑美元有望连续第二个交易日上涨，当前交投于0.7000附近，涨幅接近0.3%。美伊周末暂停相互袭击，原油价格大幅回落...",
       "source": "滚动播报",
       "category": "a-stock"
     },
     {
-      "title": "财经早报：乌克兰在里海袭击伊商船，A股重磅新规今起实施丨2026年7月27日",
-      "link": "https://finance.sina.com.cn/stock/y/2026-07-27/doc-inikevrp3242274.shtml",
-      "date": "2026-07-27 07:24",
-      "summary": "【重磅】股市利好消息频出！别错过反弹行情，立即开户跟进&gt;&gt; 【市场动态】  美军两晚未发动夜袭，伊朗军方：暂停对等打击 据央视新闻报道，当地时间26日...",
-      "source": "新浪证券",
+      "title": "一小时成交额破千亿！长鑫科技，盘中交易出现卡顿",
+      "link": "https://finance.sina.com.cn/wm/2026-07-27/doc-inikfhfk9923798.shtml",
+      "date": "2026-07-27 10:54",
+      "summary": "7月27日，N长鑫登陆科创板。有投资者反映，开盘不久时交易出现卡顿，无法交易，也不能撤单，不久后开始陆续恢复。 截至发稿，N长鑫报价48.68元/股。",
+      "source": "上海证券报",
       "category": "a-stock"
     },
     {
-      "title": "克里姆林宫：评论美乌商讨空中停火报道为时尚早",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikevrt0730844.shtml",
-      "date": "2026-07-27 07:18",
-      "summary": "克里姆林宫发言人佩斯科夫周日表示，对于有关美国和乌克兰正讨论可能暂停空中打击、作为结束战争努力一部分的报道，俄罗斯认为现在发表评论还为时过早。",
+      "title": "成交额破千亿！长鑫，创多项纪录！",
+      "link": "https://finance.sina.com.cn/wm/2026-07-27/doc-inikfhfe8416783.shtml",
+      "date": "2026-07-27 10:53",
+      "summary": "转自华夏时报 7月27日，N长鑫（688825）登陆科创板首小时震荡，开盘报49.50元，最高触及49.88元，盘中最低下探至38.11元，随后快速收复失地，并且盘中突破开盘价49.5元。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "国产GPU成功上天+星舰第13次试飞顺利完成！华宝基金通用航空ETF（159231）劲涨2.37%",
+      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-27/doc-inikfhfp0696046.shtml",
+      "date": "2026-07-27 10:53",
+      "summary": "7月27日，航空航天板块强势拉升，航天南湖大涨超7%，华力创通涨超6%，英搏尔涨超5%。一键布局商业航天+卫星导航+低空经济+大飞机的通用航空ETF华宝（159231）场内价格冲高2...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "脑机接口重大突破！三博脑科暴拉14%，医疗ETF华宝（512170）盘中冲高3%！场内唯一药ETF收复半年线",
+      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-27/doc-inikfhfi3141173.shtml",
+      "date": "2026-07-27 10:52",
+      "summary": "7月27日早盘，医药板块走强，主力资金大举涌入，截至发稿净买入医药生物超71亿元，在31个申万一级行业中高居第二位，仅次于电子。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "视频 | 影石科技董事长刘靖康发文祝贺长鑫科技上市",
+      "link": "https://finance.sina.com.cn/stock/csjzbj/2026-07-27/doc-inikfhfp0692370.shtml",
+      "date": "2026-07-27 10:50",
+      "summary": "文/新浪财经上海站 陈秀颖 7月27日，长鑫科技（688825）正式登陆上交所科创板。影石创新董事长刘靖康当天在朋友圈发文，祝贺长鑫科技成功上市。",
+      "source": "长三角资本局",
+      "category": "a-stock"
+    },
+    {
+      "title": "直线拉升！300753，20%涨停",
+      "link": "https://finance.sina.com.cn/wm/2026-07-27/doc-inikfhfk9917198.shtml",
+      "date": "2026-07-27 10:49",
+      "summary": "来源：中国基金报 【导读】A股脑机接口概念股集体飙涨，多只个股涨停 中国基金报记者 张舟 7月27日上午，A股创新药概念板块再度活跃，脑机接口概念股强势爆发...",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "本田将基于日产现有操作系统联合研发下一代车载系统",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikfhfi3134746.shtml",
+      "date": "2026-07-27 10:46",
+      "summary": "知情人士周日透露，本田汽车与日产汽车敲定合作，将以日产自研操作系统为基础，联合开发充当下一代汽车核心运算中枢的车载操作系统。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "沙特5月石油出口额同比大增19.5%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikevrk8447574.shtml",
-      "date": "2026-07-27 07:16",
-      "summary": "沙特统计局数据显示，该国5月石油出口额同比上涨19.5%，4月修正后同比增幅为11.2%。 石油出口额达708.91亿沙特里亚尔，4月修正数值为693.52亿里亚尔。",
+      "title": "高温催逼产区集中售粮，三季度玉米行情或持续走弱",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-27/doc-inikfhfk9908741.shtml",
+      "date": "2026-07-27 10:44",
+      "summary": "卓创资讯玉米分析师甄子涵 【导语】2026年7月国内玉米现货承压下行，供需宽松格局持续凸显。东北、华北贸易商库存同比偏高，高温加剧存粮风险...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "长鑫科技盘中出现卡顿、委托撤单失败，券商：交易量过大",
+      "link": "https://finance.sina.com.cn/stock/newstock/zxdt/2026-07-27/doc-inikfhfp0674616.shtml",
+      "date": "2026-07-27 10:34",
+      "summary": "7月27日，长鑫科技登陆科创板，首日市值即突破3.31万亿元，成为A股市值“一哥”。开盘不足1小时，有投资者发现，多家券商出现交易卡顿、委托失败、撤单失败等问题。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "韩国挂钩衍生品证券上半年销售额同比大增30%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikfhfi3122065.shtml",
+      "date": "2026-07-27 10:30",
+      "summary": "周一公布的数据显示，2026年上半年韩国挂钩衍生品证券（DLS）发行规模同比上涨约30%。 韩国证券存管院数据显示，1至6月该国DLS销售总额达15.8万亿韩元（折合107亿美元）...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "伊朗媒体：一油轮在霍尔木兹海峡偏离伊指定航线触雷",
-      "link": "https://finance.sina.com.cn/money/forex/forexroll/2026-07-27/doc-inikevrp3225470.shtml",
-      "date": "2026-07-27 07:14",
-      "summary": "新华社德黑兰7月26日电（记者陈霄沙达提）据伊朗法尔斯通讯社26日报道，一艘偏离伊朗指定航线的“违规油轮”在霍尔木兹海峡撞上水雷后发生爆炸。",
-      "source": "新华社",
+      "title": "微创机器人-B早盘涨逾7% 预计上半年净利润为2800万至4000万元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-27/doc-inikfhfi3121815.shtml",
+      "date": "2026-07-27 10:30",
+      "summary": "微创机器人-B（02252）早盘涨逾7%，截至发稿，股价上涨6.92%，现报21.62港元，成交额8297.36万港元。 微创机器人近期发布盈喜，预计上半年净利润为2800万至4000万元...",
+      "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "欧洲天然气价格一度跌8% 受美国暂停对伊朗空袭影响",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikevrt0726590.shtml",
-      "date": "2026-07-27 07:13",
-      "summary": "欧洲天然气价格出现逾一个月来最大跌幅，美国周末暂停了对伊朗的空袭。荷兰TTF天然气期货一度下跌8.3%，至每兆瓦时58.280欧元（66.39美元）...",
+      "title": "英伟达据报拟为OpenAI提供巨额担保 或加剧AI资本开支疑虑",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikfhfe8388928.shtml",
+      "date": "2026-07-27 10:29",
+      "summary": "报道称，英伟达正在商讨为OpenAI租赁数据中心提供2500亿美元担保。这进一步凸显出本周科技行业面临的一项考验：能否说服投资者相信...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "英国养老金机构拟设立10亿英镑科技成长基金",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikevrp3224137.shtml",
-      "date": "2026-07-27 07:13",
-      "summary": "英国多家养老金机构计划设立一支规模10亿英镑的专项基金，投资本国科创企业，以此引导更多养老储蓄资金流向本土企业、拉动经济增长。",
-      "source": "环球市场播报",
+      "title": "暴涨470%，长鑫科技不到1小时成交破1000亿元创纪录！盘中交易出现卡顿，券商：没有这么大交易量的新股",
+      "link": "https://finance.sina.com.cn/wm/2026-07-27/doc-inikfhfp0673213.shtml",
+      "date": "2026-07-27 10:28",
+      "summary": "7月27日，长鑫科技上市后暴涨，截至发稿涨超470%，成交额达1013亿元，超过2024年10月9日东方财富的900亿元成交额，创A股市场个股单日成交额成交新高...",
+      "source": "每日经济新闻",
       "category": "a-stock"
     },
     {
-      "title": "港交所新规生效 科技企业上市门槛再降低",
-      "link": "https://finance.sina.com.cn/jjxw/2026-07-27/doc-inikevrr0000782.shtml",
-      "date": "2026-07-27 07:12",
-      "summary": "人民财讯7月27日电，近日，港交所就有关提升港股上市机制竞争力的建议发布咨询总结，修订后的上市规则随即生效。今年以来，已有近100家企业在港股上市...",
-      "source": "证券时报",
+      "title": "科创芯片深V转涨，长鑫科技登陆科创板，首日市值登顶A股，被曝和字节签下70亿美元大单，产业景气逻辑未改",
+      "link": "https://finance.sina.com.cn/money/fund/etf/2026-07-27/doc-inikfhfk9894403.shtml",
+      "date": "2026-07-27 10:24",
+      "summary": "7月27日，国产DRAM存储芯片龙头企业长鑫科技正式在上交所科创板挂牌上市，早盘高开471%，总市值达3.31万亿元，超越工商银行成为目前A股总市值“一哥”。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "亚博科技控股早盘大涨逾17% 旗下TGX正式与港金所达成合作",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-27/doc-inikfhfe8382372.shtml",
+      "date": "2026-07-27 10:23",
+      "summary": "亚博科技控股（08729）早盘大涨逾17%，截至发稿，股价上涨16.90%，现报0.83港元，成交额1171.40万港元。 7月23日，亚博科技发布公告...",
+      "source": "新浪港股",
       "category": "a-stock"
     }
   ]
