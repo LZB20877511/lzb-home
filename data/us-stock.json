@@ -1,12 +1,20 @@
 {
-  "updated": "2026-07-27T06:57:06.460749+08:00",
+  "updated": "2026-07-27T08:00:14.593074+08:00",
   "source": "美股聚合",
-  "count": 51,
+  "count": 52,
   "items": [
+    {
+      "title": "Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds",
+      "link": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
+      "date": "2026-07-27 08:00",
+      "summary": "Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
     {
       "title": "Stock futures climb, oil prices fall as U.S. and Iran pause attacks: Live updates",
       "link": "https://www.cnbc.com/2026/07/26/stock-market-today-live-updates.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "The week ahead will have no shortage of challenges for the major averages.",
       "source": "CNBC",
       "category": "us-stock"
@@ -14,7 +22,7 @@
     {
       "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
       "link": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "The latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen, represent a widening of the Middle East conflict.",
       "source": "CNBC",
       "category": "us-stock"
@@ -22,31 +30,39 @@
     {
       "title": "How AI wealth could be distributed to all Americans",
       "link": "https://www.cnbc.com/2026/07/26/how-can-ai-wealth-be-shared-with-all-americans.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "AI riches are already concentrated among a handful of powerful companies, but there are plenty of new, some radical, ideas about how to spread the wealth.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "100 days until midterm election: DCCC Chair DelBene says Democrats have the momentum",
-      "link": "https://www.cnbc.com/2026/07/26/election-midterms-dccc-chair-delbene-democrats.html",
-      "date": "2026-07-27 06:56",
-      "summary": "Democrats see a path back to the U.S. House majority this November as President Donald Trump's approval dips.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "What more expensive corporate debt could mean for the AI buildout",
       "link": "https://www.cnbc.com/2026/07/26/what-more-expensive-corporate-debt-could-mean-for-the-ai-buildout.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "Wider credit spreads are coming, and they will pressurize heavily indebted segments of the tech sector.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Here's the tech stock to buy in a market losing patience with tech",
+      "link": "https://www.cnbc.com/2026/07/26/jim-cramer-heres-the-tech-stock-to-buy-in-a-market-losing-patience-with-tech.html",
+      "date": "2026-07-27 08:00",
+      "summary": "It's not the spend, it's the return.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "100 days until midterm election: DCCC Chair DelBene says Democrats have the momentum",
+      "link": "https://www.cnbc.com/2026/07/26/election-midterms-dccc-chair-delbene-democrats.html",
+      "date": "2026-07-27 08:00",
+      "summary": "Democrats see a path back to the U.S. House majority this November as President Donald Trump's approval dips.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Top Wall Street analysts back these 3 stocks for their long-term growth potential",
       "link": "https://www.cnbc.com/2026/07/26/top-analysts-back-these-3-stocks-for-their-long-term-growth-potential.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "Investors with a long-term horizon should look beyond the ongoing noise and focus on stocks that are well-positioned to generate strong returns.",
       "source": "CNBC",
       "category": "us-stock"
@@ -54,7 +70,7 @@
     {
       "title": "Cocoa prices are easing. So why is chocolate still so expensive?",
       "link": "https://www.cnbc.com/2026/07/26/cocoa-prices-chocolate-lindt-barry-callebaut-nestle.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "Chocolate firms look to win shoppers back with premium products and social media trends after poor weather conditions, tariffs, and the Iran war hit sales.",
       "source": "CNBC",
       "category": "us-stock"
@@ -62,15 +78,23 @@
     {
       "title": "Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot",
       "link": "https://www.cnbc.com/2026/07/25/trump-ai-data-center-backlash.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "Evangelicals, labor unions and anti-AI-data-center activists are part of a groundswell worrying about how fast technology is changing.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Some high-earning investors will soon owe taxes on years of deferred capital gains",
+      "link": "https://www.cnbc.com/2026/07/26/opportunity-zone-investors-face-deferred-capital-gains-tax-bill.html",
+      "date": "2026-07-27 08:00",
+      "summary": "A key incentive in place for current Opportunity Zone investors  deferring taxation of reinvested capital gains  will end on Dec. 31.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
       "link": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "Shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial.",
       "source": "CNBC",
       "category": "us-stock"
@@ -78,23 +102,15 @@
     {
       "title": "Buffett favors an estate tax, but like virtually all billionaires, he won't be paying it",
       "link": "https://www.cnbc.com/2026/07/25/buffett-favors-an-estate-tax-but-like-virtually-all-billionaires-he-wont-be-paying-it.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "Warren Buffett believes he and other very wealthy Americans are under-taxed but by giving his fortune to charity, he won't be paying billions in potential levies to the government.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Some high-earning investors will soon owe taxes on years of deferred capital gains",
-      "link": "https://www.cnbc.com/2026/07/26/opportunity-zone-investors-face-deferred-capital-gains-tax-bill.html",
-      "date": "2026-07-27 06:56",
-      "summary": "A key incentive in place for current Opportunity Zone investors  deferring taxation of reinvested capital gains  will end on Dec. 31.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Shein flags tariff hits after posting quarterly loss ahead of Hong Kong IPO",
       "link": "https://www.cnbc.com/2026/07/26/shein-reveals-key-financials-ahead-of-hong-kong-ipo.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "The retailer won approval from China for its Hong Kong listing on July 10, clearing the way for a listing after failed attempts in New York and London.",
       "source": "CNBC",
       "category": "us-stock"
@@ -102,15 +118,23 @@
     {
       "title": "New UK Prime Minister Burnham says he would be prepared to call out Trump",
       "link": "https://www.cnbc.com/2026/07/26/new-uk-prime-minister-burnham-says-he-would-be-prepared-to-call-out-trump.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "Burnham said he had a phone conversation with Trump on Monday when he officially took on the role, describing it as \"a good exchange\".",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Luxury retailers turn to outlets for growth. Analysts say these stocks can benefit",
+      "link": "https://www.cnbc.com/2026/07/26/luxury-retailers-turn-to-outlets-for-growth-analysts-say-these-stocks-can-benefit.html",
+      "date": "2026-07-27 08:00",
+      "summary": "Higher-end retailers are trying to drum up business by pouring money into their outlet operations and attracting more lower-end shoppers.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "U.S. appeals court rules Trump cannot implement mail-in voting order",
       "link": "https://www.cnbc.com/2026/07/25/us-appeals-court-rules-trump-cannot-implement-mail-in-voting-order.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "The 1st U.S. Circuit Court of Appeals rejected the request to lift an injunction several Democratic-led states secured from a lower-court judge.",
       "source": "CNBC",
       "category": "us-stock"
@@ -118,23 +142,23 @@
     {
       "title": "Does crypto make your portfolio less risky? Only if you do it right, experts say",
       "link": "https://www.cnbc.com/2026/07/25/crypto-diversified-investment-portfolio.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "There's a right way and a wrong way to use cryptocurrencies such as bitcoin for portfolio diversification, financial advisors and market analysts said.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Luxury retailers turn to outlets for growth. Analysts say these stocks can benefit",
-      "link": "https://www.cnbc.com/2026/07/26/luxury-retailers-turn-to-outlets-for-growth-analysts-say-these-stocks-can-benefit.html",
-      "date": "2026-07-27 06:56",
-      "summary": "Higher-end retailers are trying to drum up business by pouring money into their outlet operations and attracting more lower-end shoppers.",
+      "title": "Here are the 3 big things we're watching in the stock market in the week ahead",
+      "link": "https://www.cnbc.com/2026/07/26/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "date": "2026-07-27 08:00",
+      "summary": "It's a busy week filled with Big Tech earnings, a Fed meeting and inflation data.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
       "link": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.",
       "source": "CNBC",
       "category": "us-stock"
@@ -142,23 +166,15 @@
     {
       "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
       "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "President Donald Trump has renewed a flurry of tariffs, including slapping 25% duties on Brazilian imports and vowing 50% tariffs on goods from Canada.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Here are the 3 big things we're watching in the stock market in the week ahead",
-      "link": "https://www.cnbc.com/2026/07/26/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "date": "2026-07-27 06:56",
-      "summary": "It's a busy week filled with Big Tech earnings, a Fed meeting and inflation data.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "4 generations, 6 different visions of the American Dream: 'I'm optimistic because of our resilience'",
       "link": "https://www.cnbc.com/2026/07/26/how-different-generations-are-rewriting-the-american-dream-today.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "CNBC Make It asked notable voices in politics, finance and relationships on what it takes to achieve happiness and success in America today.",
       "source": "CNBC",
       "category": "us-stock"
@@ -166,7 +182,7 @@
     {
       "title": "Maine Democratic delegates choose Troy Jackson as new nominee to face U.S. Sen. Susan Collins",
       "link": "https://www.cnbc.com/2026/07/25/maine-democrats-are-meeting-to-pick-a-new-senate-nominee.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "Democrats see Maine as their best chance to flip a Senate seat this year because it is a competitive race in a state that President Donald Trump lost in 2024.",
       "source": "CNBC",
       "category": "us-stock"
@@ -174,7 +190,7 @@
     {
       "title": "Trump mixes jokes with barbs at press freedom dinner",
       "link": "https://www.cnbc.com/2026/07/25/trump-mixes-jokes-with-barbs-at-white-house-correspondents-dinner.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "The black-tie gathering was called off on April 25 after a man tried to force his way through a security checkpoint and fired a shotgun.",
       "source": "CNBC",
       "category": "us-stock"
@@ -182,7 +198,7 @@
     {
       "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
       "link": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "Nvidia is aggressively securing supply of high-bandwidth memory, an essential component for its GPUs and systems.",
       "source": "CNBC",
       "category": "us-stock"
@@ -190,7 +206,7 @@
     {
       "title": "Suspect in Berlin Pride attack shot dead by police",
       "link": "https://www.cnbc.com/2026/07/26/vehicle-mows-down-crowd-at-berlin-pride-festival-killing-one.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "Berlin police said overnight they had identified a suspect, naming him as Abdul B and publishing his picture.",
       "source": "CNBC",
       "category": "us-stock"
@@ -198,31 +214,15 @@
     {
       "title": "JPMorgan report finds dramatic jump in AI-themed ETFs  despite rough quarter",
       "link": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Blackstone, Brookfield and KKR sign $16 billion deal with Kuwait for oil pipeline network",
-      "link": "https://www.cnbc.com/2026/07/25/blackstone-brookfield-and-kkr-sign-16-billion-oil-deal-with-kuwait.html",
-      "date": "2026-07-27 06:56",
-      "summary": "Kuwait Oil will enter joint venture with the three global giants in a lease-and-leaseback structure for a 20.5-year period that includes a volume-based tariff.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
-      "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
-      "date": "2026-07-27 06:56",
-      "summary": "Trump on Truth Social railed against the European Union's new fine on Google and prior penalties against U.S. tech giants Apple, Meta and Amazon.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
       "link": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "U.S. stock-index futures rallied and oil prices tumbled on Sunday as the U.S. and Iran took a pause from fighting, and as Wall Street gears up for the Fed’s meeting and key earnings reports from Big T",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -230,7 +230,7 @@
     {
       "title": "‘It’s nothing personal’: Should I tell my 96-year-old stepmother that I don’t want her inheritance?",
       "link": "https://www.marketwatch.com/story/it-would-feel-like-a-burden-my-stepmother-96-owns-the-house-i-grew-up-in-is-it-wrong-to-tell-her-i-dont-want-to-inherit-it-9d5810c2?mod=mw_rss_topstories",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "“I would likely be the one responsible for dealing with the house.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -238,7 +238,7 @@
     {
       "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
       "link": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "Treasury yields and oil prices surged, and the dollar confirmed the breakout toward a longer-term uptrend, to push the S&P 500 below key chart support.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -246,7 +246,7 @@
     {
       "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
       "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -254,7 +254,7 @@
     {
       "title": "The S&P 500’s earnings growth has gone bonkers thanks to one company",
       "link": "https://www.marketwatch.com/story/the-s-p-500s-earnings-growth-has-gone-bonkers-thanks-to-one-company-1c45b2ba?mod=mw_rss_topstories",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "Markets are gearing up for the busiest week of second-quarter earnings season.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -262,16 +262,64 @@
     {
       "title": "The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates",
       "link": "https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories",
-      "date": "2026-07-27 06:56",
+      "date": "2026-07-27 08:00",
       "summary": "Rising Treasury yields show how “enormously worried” the market is about inflation — and whether the Fed will back up its tough talk with action",
       "source": "MarketWatch",
       "category": "us-stock"
     },
     {
+      "title": "GE Aerospace has a Backlog Worth $210 Billion. Here's Why I'm Still Not Buying",
+      "link": "https://www.fool.com/investing/2026/07/26/ge-aerospace-has-a-backlog-worth-210-billion-heres/?.tsrc=rss",
+      "date": "2026-07-26 23:35",
+      "summary": "GE Aerospace is performing very well as a business, and perhaps even better as a stock.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
       "title": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
       "link": "https://finance.yahoo.com/m/56d0a8cb-a014-3c28-a929-8720c9c346e7/dow-jones-futures-rise%2C-oil.html?.tsrc=rss",
-      "date": "2026-07-26 22:42",
+      "date": "2026-07-26 23:31",
       "summary": "U.S.-Iran attacks have paused amid deal hopes. Apple, Amazon, Meta lead an earnings wave. A Fed rate hike is on the table.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Why SLB Stock Surged This Past Week",
+      "link": "https://www.fool.com/investing/2026/07/26/why-slb-stock-surged-this-past-week/?.tsrc=rss",
+      "date": "2026-07-26 23:28",
+      "summary": "The world needs dependable energy, and the oil and gas services giant is helping its customers supply it.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "HSBC Just Started Covering SpaceX With a $115 Price Target. The Stock Closed Friday at $115.07.",
+      "link": "https://www.fool.com/investing/2026/07/26/hsbc-just-started-covering-spacex-with-a-115-price/?.tsrc=rss",
+      "date": "2026-07-26 23:28",
+      "summary": "A big bank just valued the rocket maker with a 2x Elon Musk premium baked in -- and still came up short of the IPO price.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Why This Leveraged S&P 500 ETF Can Lose Money Even When Stocks Rise",
+      "link": "https://247wallst.com/investing/etf/2026/07/26/why-this-leveraged-sp-500-etf-can-lose-money-even-when-stocks-rise/?.tsrc=rss",
+      "date": "2026-07-26 22:55",
+      "summary": "Leveraged ETFs promise amplified gains, but SPXL hides a counterintuitive flaw that can turn a rising market into a losing trade. Understanding what actually happens inside this fund each day changes ",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Microsoft and Meta Platforms Are Negative in 2026. Here's My Favorite One to Buy Now.",
+      "link": "https://www.fool.com/investing/2026/07/26/microsoft-and-meta-platforms-are-negative-in-2026/?.tsrc=rss",
+      "date": "2026-07-26 22:50",
+      "summary": "Both stocks are cheaper than the S&P 500.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Ross Gerber Questions Tesla's Optimus Bet: 'There's No Revenue Coming Anytime Soon'",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ross-gerber-questions-teslas-optimus-223020232.html?.tsrc=rss",
+      "date": "2026-07-26 22:30",
+      "summary": "Investor Ross Gerber of investment firm Gerber Kawasaki said Elon Musk could face a long road to turning Tesla Inc.s Optimus into a commercial success, saying humanoid robots remain difficult to build",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
@@ -368,46 +416,6 @@
       "link": "https://247wallst.com/investing/2026/07/26/is-equal-weighting-the-sp-500-worth-it-heres-what-the-data-says/?.tsrc=rss",
       "date": "2026-07-26 20:02",
       "summary": "Equal weighting the S&P 500 sounds like a clean fix for mega-cap concentration, but the strategy carries trade-offs that rarely get the attention they deserve, and the long-term numbers tell a story m",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "The Market May Be Focusing on the Wrong Metric at MercadoLibre",
-      "link": "https://www.fool.com/investing/2026/07/26/the-market-may-be-focusing-on-the-wrong-metric-at/?.tsrc=rss",
-      "date": "2026-07-26 20:01",
-      "summary": "MercadoLibre's narrowing margins have grabbed investors' attention, but they may not tell the full story.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Plug Power Stock Jumped 83% in the First 5 Months of 2026 Only to Give up 100% of the Gains. Here's What to Expect From the Hydrogen Stock the Rest of the Year.",
-      "link": "https://www.fool.com/investing/2026/07/26/plug-power-stock-jumped-expect-hydrogen/?.tsrc=rss",
-      "date": "2026-07-26 19:50",
-      "summary": "Plug Power shares have consistently struggled to hold onto their gains.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "3 Absurdly Cheap Dividend Stocks to Buy Before August",
-      "link": "https://www.fool.com/investing/2026/07/26/absurdly-cheap-dividend-stocks-buy-before-august/?.tsrc=rss",
-      "date": "2026-07-26 19:37",
-      "summary": "Far from \"yield traps,\" these high-yield dividend stocks represent good value at current prices.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Teva's Turnaround Is Working. Here's the 1 Thing That Could Send It Soaring Another 50%.",
-      "link": "https://www.fool.com/investing/2026/07/26/tevas-turnaround-is-working-heres-the-1-thing-that/?.tsrc=rss",
-      "date": "2026-07-26 19:05",
-      "summary": "The pharmaceutical company has a likely blockbuster drug as the flagship of its pipeline.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Buy These 2 Boring Industrial Infrastructure Stocks This Month",
-      "link": "https://www.fool.com/investing/2026/07/26/buy-these-2-boring-industrial-stocks-in-july/?.tsrc=rss",
-      "date": "2026-07-26 18:50",
-      "summary": "They're not the sort of names you brag about owning, but they'll certainly get the job done.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     }
