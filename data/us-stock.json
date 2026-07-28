@@ -1,12 +1,20 @@
 {
-  "updated": "2026-07-28T11:20:45.718540+08:00",
+  "updated": "2026-07-28T11:58:04.310327+08:00",
   "source": "美股聚合",
-  "count": 57,
+  "count": 58,
   "items": [
+    {
+      "title": "Oil prices drop more than 2% as a pause in U.S.-Iran hostilities raises de-escalation hopes",
+      "link": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html",
+      "date": "2026-07-28 11:57",
+      "summary": "Speaking to reporters aboard Air Force One on Monday en route to Michigan, Trump dismissed suggestions that the U.S. was running short on weapons.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
     {
       "title": "U.S. stock futures slip, South Korea's Kospi plunges over 8%: Live updates",
       "link": "https://www.cnbc.com/2026/07/27/stock-market-today-live-updates.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "S&P 500 futures drop. Investors are bracing for a big week of megacap earnings and a Federal Reserve meeting.",
       "source": "CNBC",
       "category": "us-stock"
@@ -14,15 +22,15 @@
     {
       "title": "Apple ends day as world's most valuable company, passing Nvidia",
       "link": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Shares of SK Hynix plunge 10% in Seoul as semiconductor sell-off deepens",
+      "title": "SK Hynix shares plunge 13% in Seoul as chip sell-off deepens",
       "link": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "South Korean semiconductor shares tumbled on Tuesday, extending a rout in chipmakers after another weak session on Wall Street.",
       "source": "CNBC",
       "category": "us-stock"
@@ -30,31 +38,31 @@
     {
       "title": "U.S. and Korean tech stocks are now tightly linked  and that could be a worry for investors",
       "link": "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "The 60-day correlation between the Kospi and Nasdaq 100 recently climbed to about 0.50, its highest level since 2021, according to data provided by Rayliant.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
-      "link": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
-      "date": "2026-07-28 11:20",
-      "summary": "A federal appeals court on Saturday kept the restrictions blocked in 23 states that sued, finding states must prepare for potentially disruptive election changes.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Big earnings and a Fed meeting: What NYSE insider Jay Woods is watching this week",
       "link": "https://www.cnbc.com/2026/07/27/big-earnings-and-a-fed-meetings-what-nyse-insider-jay-woods-is-watching-this-week.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "It's a big week on Wall Street with a Federal Reserve meeting and a barrage of earnings  any of which could sway the stock market, NYSE insider Jay Woods says.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
+      "link": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
+      "date": "2026-07-28 11:57",
+      "summary": "A federal appeals court on Saturday kept the restrictions blocked in 23 states that sued, finding states must prepare for potentially disruptive election changes.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
       "link": "https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "Critics have questioned why Anthropic didn't sign an industry letter last week in support of open-weight models.",
       "source": "CNBC",
       "category": "us-stock"
@@ -62,7 +70,7 @@
     {
       "title": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
       "link": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "Elon Musk's space company has wiped off more than $1.2 trillion in market cap since hitting a high of $225.64 per share in June.",
       "source": "CNBC",
       "category": "us-stock"
@@ -70,23 +78,15 @@
     {
       "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
       "link": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Steve Eisman is starting to have doubts about AI. The 'Big Short' investor just sold a key tech stock",
-      "link": "https://www.cnbc.com/2026/07/27/eisman-has-doubts-about-ai-big-short-investor-just-sold-key-tech-stock.html",
-      "date": "2026-07-28 11:20",
-      "summary": "Steve Eisman is warning that investors may be underestimating the risks if the AI boom fails to deliver on lofty expectations.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "From 'oil' to 'shock',  here's what Kalshi traders expect Fed Chairman Kevin Warsh will say this week",
       "link": "https://www.cnbc.com/2026/07/27/from-oil-to-shock-heres-what-kalshi-traders-expect-warsh-to-say.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "Kalshi traders are predicting Warsh will mention last week's supply shock at this week's Federal Reserve press conference.",
       "source": "CNBC",
       "category": "us-stock"
@@ -94,7 +94,7 @@
     {
       "title": "Trump backs 'fantastic' Warsh while calling for lower rates and citing 'bad intentions' of other Fed officials",
       "link": "https://www.cnbc.com/2026/07/27/trump-warsh-interest-rates.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "President Trump Monday voiced support for Federal Reserve Chairman Kevin Warsh while insisting that the U.S. should have the lowest interest rates in the world.",
       "source": "CNBC",
       "category": "us-stock"
@@ -102,7 +102,7 @@
     {
       "title": "Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble",
       "link": "https://www.cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "CNBC's Jim Cramer said reports of Nvidia backing OpenAI's data center expansion revived memories of the financing arrangements that preceded the dot-com crash.",
       "source": "CNBC",
       "category": "us-stock"
@@ -110,23 +110,23 @@
     {
       "title": "Yields are surging on these inflation-protected bonds. How they may fit into your portfolio",
       "link": "https://www.cnbc.com/2026/07/27/yields-are-surging-on-these-inflation-protected-bonds-how-to-use-them.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "Long-dated TIPS saw yields leap to multiyear highs last week, but investors have a few things to consider before they jump in.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "U.S. and Iran pause fighting, Trump dismisses concerns of dwindling stockpiles",
-      "link": "https://www.cnbc.com/2026/07/27/us-iran-war-trump-hormuz.html",
-      "date": "2026-07-28 11:20",
-      "summary": "A temporary pause to the U.S.-Iran conflict appeared to hold on Monday, after negotiations over a lasting peace faced fresh hurdles over the weekend.",
+      "title": "Steve Eisman is starting to have doubts about AI. The 'Big Short' investor just sold a key tech stock",
+      "link": "https://www.cnbc.com/2026/07/27/eisman-has-doubts-about-ai-big-short-investor-just-sold-key-tech-stock.html",
+      "date": "2026-07-28 11:57",
+      "summary": "Steve Eisman is warning that investors may be underestimating the risks if the AI boom fails to deliver on lofty expectations.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Stocks making the biggest moves after hours: Cadence Design Systems, Rambus, Welltower and more",
       "link": "https://www.cnbc.com/2026/07/27/stocks-making-the-biggest-moves-after-hours-cdns-rmbs-well.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "These are the stocks posting the largest moves in extended trading.",
       "source": "CNBC",
       "category": "us-stock"
@@ -134,7 +134,7 @@
     {
       "title": "CNBC's The China Connection newsletter: A U.S.-China debate that's becoming bigger than tariffs",
       "link": "https://www.cnbc.com/2026/07/27/cnbcs-the-china-connection-newsletter-a-us-china-debate-thats-becoming-bigger-than-tariffs.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "The AI race is heating up so fast this summer that it's reshaping national priorities in the U.S. and China.",
       "source": "CNBC",
       "category": "us-stock"
@@ -142,7 +142,7 @@
     {
       "title": "India's Gen Z forced Modi to listen, respond and act  exposing chinks in the ruling party's armor",
       "link": "https://www.cnbc.com/2026/07/27/india-cjp-modi-protest-genz-jobs.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "In a rare occurrence, Modi's government was forced to concede demands of Gen Z protesters, underscoring their rising influence in the country's polity.",
       "source": "CNBC",
       "category": "us-stock"
@@ -150,7 +150,7 @@
     {
       "title": "Tuesday's big stock stories: Whats likely to move the market in the next trading session",
       "link": "https://www.cnbc.com/2026/07/27/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "The Dow Industrials rose more than 260 points on Monday. Tune in to CNBC on Tuesday for Boeing CEO Kelly Ortberg and JetBlue CEO Joanna Geraghty.",
       "source": "CNBC",
       "category": "us-stock"
@@ -158,7 +158,7 @@
     {
       "title": "Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture",
       "link": "https://www.cnbc.com/2026/07/27/trump-says-us-has-sold-more-than-13-billion-of-venezuela-oil-.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "President Donald Trump said Monday the U.S. has sold more than $13 billion of Venezuelan oil since taking control of the South American nation's energy exports.",
       "source": "CNBC",
       "category": "us-stock"
@@ -166,7 +166,7 @@
     {
       "title": "Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
       "link": "https://www.cnbc.com/2026/07/27/nvidias-potential-250b-backstop-for-openai-is-another-strike-against-the-ai-trade.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "This is yet another sign that investors need to look beyond AI stocks.",
       "source": "CNBC",
       "category": "us-stock"
@@ -174,7 +174,7 @@
     {
       "title": "Netflix woes setting up for a Hollywood ending, says trader Mike Khouw",
       "link": "https://www.cnbc.com/2026/07/27/netflix-woes-setting-up-for-a-hollywood-ending-says-trader-mike-khouw.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "Netflix's stock price may have lost the plot, but its fundamental narrative remains intact.",
       "source": "CNBC",
       "category": "us-stock"
@@ -182,7 +182,7 @@
     {
       "title": "Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag",
       "link": "https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.",
       "source": "CNBC",
       "category": "us-stock"
@@ -190,7 +190,7 @@
     {
       "title": "Sen. McConnell still not cleared to go back to work as he recovers from fall, doctors say",
       "link": "https://www.cnbc.com/2026/07/27/mcconnell-fall-hospital-senate-recovery.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "McConnell's office shared a written statement from the senator apologizing for being unable to attend an annual Kentucky picnic and a physician's assessment.",
       "source": "CNBC",
       "category": "us-stock"
@@ -198,7 +198,7 @@
     {
       "title": "JetBlue overhauls fare options, from basic first to flexible economy. Here's what to know",
       "link": "https://www.cnbc.com/2026/07/27/jetblue-new-fare-options-basic-economy-first-class.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "JetBlue is doing away with its \"Core\" product and putting economy tickets under a new name.",
       "source": "CNBC",
       "category": "us-stock"
@@ -206,7 +206,7 @@
     {
       "title": "Spain and France wildfires force more than 300,000 to flee as Macron calls crisis meeting",
       "link": "https://www.cnbc.com/2026/07/27/wildfires-spain-france-bordeaux-heatwave.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "The impact of a gigantic wildfire ravaging France's Bordeaux region and Spain has been like a \"clap of thunder\" for the local economy, a minister said.",
       "source": "CNBC",
       "category": "us-stock"
@@ -214,7 +214,7 @@
     {
       "title": "Nvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans",
       "link": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "The backstop would let OpenAI raise debt for a data center campus in Pike County, Ohio, on the strength of Nvidia's credit.",
       "source": "CNBC",
       "category": "us-stock"
@@ -222,7 +222,7 @@
     {
       "title": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold",
       "link": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place.",
       "source": "CNBC",
       "category": "us-stock"
@@ -230,7 +230,7 @@
     {
       "title": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
       "link": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "Investors are fretting over a report that Nvidia could backstop an OpenAI data-center lease, in what would be the largest such arrangement yet.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -238,7 +238,7 @@
     {
       "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
       "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -246,7 +246,7 @@
     {
       "title": "‘It’s a high price to pay’: My adviser says I don’t need a withdrawal plan for my $2.3 million portfolio. Is he right?",
       "link": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "“His proposal involves a proprietary equity hedge strategy to manage $700,000 of my assets.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -254,7 +254,7 @@
     {
       "title": "‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?",
       "link": "https://www.marketwatch.com/story/i-feel-lucky-im-71-and-inherited-20-000-what-should-i-do-with-this-money-1ab90925?mod=mw_rss_topstories",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "“I have an IRA, a high-yield savings account, four CDs and checking and savings accounts.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -262,7 +262,7 @@
     {
       "title": "Stop snacking. Restricting eating for only 8 or 9 hours a day may keep your mind sharp.",
       "link": "https://www.marketwatch.com/story/stop-snacking-restricting-eating-for-only-8-or-9-hours-a-day-may-keep-your-mind-sharp-1dc7e495?mod=mw_rss_topstories",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "A new study found cognitive improvements for shorter durations of eating",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -270,7 +270,7 @@
     {
       "title": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom",
       "link": "https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "‘The money has to come from somewhere,’ says Bryce Doty at Sit, of pressure heavy AI-debt supply and the rest of the bond market",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -278,7 +278,7 @@
     {
       "title": "Big Tech is forcing consumers to pay for its AI boom. Voters are pushing back.",
       "link": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "State regulators are making Big Tech pay for its own grid build-out — leaving traditional utility stocks exposed to a political reckoning.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -286,7 +286,7 @@
     {
       "title": "He brought AI to Wall Street in 1994 — but won’t trust ChatGPT with his money",
       "link": "https://www.marketwatch.com/story/he-brought-ai-to-wall-street-in-1994-but-wont-trust-chatgpt-with-his-money-b8abc031?mod=mw_rss_topstories",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "Vasant Dhar built one of the first AI-driven hedge funds. Here’s what he wants investors to know about the technology.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -294,7 +294,7 @@
     {
       "title": "For 44 years, this investor held aces in the long-bond game. He just folded.",
       "link": "https://www.marketwatch.com/story/for-44-years-this-investor-held-aces-in-the-long-bond-game-he-just-folded-dcd39375?mod=mw_rss_topstories",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "Lacy Hunt’s about-face on long-term Treasurys marks the end of an era. Here’s what it means for your money.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -302,9 +302,25 @@
     {
       "title": "SpaceX’s stock falls to a new low despite a near-flawless Starship flight",
       "link": "https://www.marketwatch.com/story/spacexs-stock-falls-to-a-new-low-despite-a-near-flawless-starship-flight-034a99ab?mod=mw_rss_topstories",
-      "date": "2026-07-28 11:20",
+      "date": "2026-07-28 11:57",
       "summary": "SpaceX’s earnings report next week could unleash a further wave of selling, as some insiders will soon be able to unload shares.",
       "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "Why Nvidia Stock Fell Today",
+      "link": "https://www.fool.com/investing/2026/07/27/why-nvidia-stock-nvda-fell-today/?.tsrc=rss",
+      "date": "2026-07-28 03:38",
+      "summary": "Investors are growing uneasy with the semiconductor titan's financing deals with its customers.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Marvell Technology vs. UiPath: Which Tech Stock Is a Better Buy in 2026?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/07/27/marvell-technology-vs-uipath-which-tech-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+      "date": "2026-07-28 03:20",
+      "summary": "Marvell trades at a premium valuation with higher growth, while UiPath offers a cheaper entry point with a lower growth profile.",
+      "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
@@ -448,14 +464,6 @@
       "link": "https://www.fool.com/investing/2026/07/27/should-you-buy-sirius-xm-stock-before-july-30/?.tsrc=rss",
       "date": "2026-07-28 00:50",
       "summary": "A deal with YouTube could be bigger than anything Sirius reports on July 30.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Korean Stocks Sink as Chipmakers Plunge on Deepening AI Fatigue",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/korean-stocks-sink-chipmakers-plunge-004329960.html?.tsrc=rss",
-      "date": "2026-07-28 00:43",
-      "summary": "(Bloomberg) -- South Korean stocks plunged, dragged by the nations memory chipmaking powerhouses as investor sentiment continues to worsen on the artificial intelligence boom.Most Read from BloombergN",
       "source": "Yahoo Finance",
       "category": "us-stock"
     }
