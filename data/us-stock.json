@@ -1,84 +1,76 @@
 {
-  "updated": "2026-07-30T19:15:47.342287+08:00",
+  "updated": "2026-07-30T19:49:27.899072+08:00",
   "source": "美股聚合",
   "count": 53,
   "items": [
     {
       "title": "Iran says it will 'punish the aggressor today' after 'heavy wave' of U.S. strikes",
       "link": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html",
-      "date": "2026-07-30 19:15",
-      "summary": "Iran's Islamic Revolutionary Guard Corps threatened further escalation on Thursday after a wave of retaliatory U.S. strikes on the country overnight.",
+      "date": "2026-07-30 19:49",
+      "summary": "Iran's Revolutionary Guard threatened further escalation on Thursday after a wave of retaliatory U.S. strikes on the country overnight.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Meta tanks nearly 9%, Microsoft jumps 9% as the AI trade splits Big Tech",
       "link": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Analysts say Microsofts earnings may be a turning point for the struggling tech stock",
+      "link": "https://www.cnbc.com/2026/07/30/analysts-react-to-microsofts-earnings-results-.html",
+      "date": "2026-07-30 19:49",
+      "summary": "Wall Street generally liked Microsoft's earnings, with many firms raising their outlooks for shares.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Here are the five big takeaways from this week's Fed meeting",
       "link": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Microsoft aces earnings call, while Meta frustration grows: 'Do we just need to be a bit more patient?'",
-      "link": "https://www.cnbc.com/2026/07/29/microsoft-aces-earnings-call-while-meta-frustration-grows-do-we-just-need-to-be-a-bit-more-patient.html",
-      "date": "2026-07-30 19:15",
-      "summary": "Wall Street wants bang for its buck after massive capital expenditures",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting",
-      "link": "https://www.cnbc.com/2026/07/30/trump-iowa-farmers-agriculture.html",
-      "date": "2026-07-30 19:15",
-      "summary": "President Donald Trump has promised a \"golden age\" for agriculture, but farmers in Iowa and elsewhere are struggling with tariffs and the Iran war.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Loeffler's financial disclosure reveals husbands ties to exclusive Trump Jr.-backed private club",
       "link": "https://www.cnbc.com/2026/07/30/kelly-loeffler-husband-jeffrey-sprecher-executive-branch-club-donald-trump-jr.html",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "The Executive Branch club, where members include Trump administration officials, investors and business leaders, charges a $500,000 entry fee.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting",
+      "link": "https://www.cnbc.com/2026/07/30/trump-iowa-farmers-agriculture.html",
+      "date": "2026-07-30 19:49",
+      "summary": "President Donald Trump has promised a \"golden age\" for agriculture, but farmers in Iowa and elsewhere are struggling with tariffs and the Iran war.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep",
       "link": "https://www.cnbc.com/2026/07/29/zuckerberg-metas-ai-capacity-dilemma-what-to-sell-vs-what-to-keep.html",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "For investors anxious to hear more about Meta's plans to make money from its big AI spending, Mark Zuckerberg said there's a trade-off.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Starbucks stock jumps as coffee giant raises full-year outlook",
-      "link": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
-      "date": "2026-07-30 19:15",
-      "summary": "Starbucks posted its fourth straight quarter of same-store sales growth, as it continues a turnaround under CEO Brian Niccol.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "OpenAI CFO Sarah Friar tells employees that annualized revenue in July topped all of Q2",
-      "link": "https://www.cnbc.com/2026/07/29/openai-cfo-sarah-friar-tells-employees-arr-in-july-topped-all-of-q2.html",
-      "date": "2026-07-30 19:15",
-      "summary": "OpenAI is trying to reassure employees that the business is healthy as competition emerges from Anthropic as well as a host of open-source players.",
+      "title": "Oil prices move higher as Iran threatens response to latest U.S. strikes",
+      "link": "https://www.cnbc.com/2026/07/30/oil-prices-us-iran-war.html",
+      "date": "2026-07-30 19:49",
+      "summary": "Brent crude futures, the international benchmark, gained 1.5% to $92.10 a barrel. U.S. West Texas Intermediate futures advanced 0.9% to $85.23 per barrel.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged",
       "link": "https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "The Fed held interest rates steady, but long-term Treasury yields jumped. Investors are questioning whether he will act forcefully enough on inflation.",
       "source": "CNBC",
       "category": "us-stock"
@@ -86,15 +78,39 @@
     {
       "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
       "link": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Wealth managers face a new challenger: their clients AI chatbots",
+      "link": "https://www.cnbc.com/2026/07/30/wealth-managers-ai-chatbots.html",
+      "date": "2026-07-30 19:49",
+      "summary": "Large language models may give financial advisors a run for their money, but wealth management leaders say the human touch can't be replaced.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Starbucks stock jumps as coffee giant raises full-year outlook",
+      "link": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
+      "date": "2026-07-30 19:49",
+      "summary": "Starbucks posted its fourth straight quarter of same-store sales growth, as it continues a turnaround under CEO Brian Niccol.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "OpenAI CFO Sarah Friar tells employees that annualized revenue in July topped all of Q2",
+      "link": "https://www.cnbc.com/2026/07/29/openai-cfo-sarah-friar-tells-employees-arr-in-july-topped-all-of-q2.html",
+      "date": "2026-07-30 19:49",
+      "summary": "OpenAI is trying to reassure employees that the business is healthy as competition emerges from Anthropic as well as a host of open-source players.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Samsung says chip crunch will last until 2028 as quarterly profit soars",
       "link": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "Samsung Electronics extended its record run with second-quarter operating profit topping analysts' estimates.",
       "source": "CNBC",
       "category": "us-stock"
@@ -102,39 +118,15 @@
     {
       "title": "Senate Judiciary postpones Blanche AG nomination vote over Trump-IRS settlement concerns",
       "link": "https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "Sen. John Cornyn, R-Texas, says the DOJ has failed to satisfy his concerns about a deal to shield President Donald Trump and others from IRS tax audits.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Oil prices move higher as Iran threatens response to latest U.S. strikes",
-      "link": "https://www.cnbc.com/2026/07/30/oil-prices-us-iran-war.html",
-      "date": "2026-07-30 19:15",
-      "summary": "Brent crude futures, the international benchmark, gained 1.5% to $92.10 a barrel. U.S. West Texas Intermediate futures advanced 0.9% to $85.23 per barrel.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
-      "link": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
-      "date": "2026-07-30 19:15",
-      "summary": "Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Vertiv CEO addresses 17% stock plunge, disappointing quarter: This is a temporary issue",
-      "link": "https://www.cnbc.com/2026/07/29/vertiv-ceo-addresses-stock-plunge-disappointing-quarter.html",
-      "date": "2026-07-30 19:15",
-      "summary": "Vertiv CEO Gio Albertazzi said the company's revenue growth miss reflected temporary project timing and supply chain issues, not weakening demand.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Value stocks get a moment in the sun: 'Sell semis, buy ketchup'",
       "link": "https://www.cnbc.com/2026/07/29/value-stocks-get-a-moment-in-the-sun-sell-semis-buy-ketchup.html",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "Value has outperformed this year, as investors pivoted toward companies more exposed to the real economy.",
       "source": "CNBC",
       "category": "us-stock"
@@ -142,7 +134,7 @@
     {
       "title": "Jeep maker Stellantis swings to profit on rising demand in North America; shares fall 5%",
       "link": "https://www.cnbc.com/2026/07/30/stellantis-q2-earnings-autos-jeep.html",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "Auto giant Stellantis on Thursday swung to profit in the second quarter, boosted by rising demand in North America.",
       "source": "CNBC",
       "category": "us-stock"
@@ -150,7 +142,7 @@
     {
       "title": "The market is overreacting to Meta's earnings and guidance. Here's our plan",
       "link": "https://www.cnbc.com/2026/07/29/the-market-is-overreacting-to-metas-earnings-heres-our-plan-.html",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "Nothing we saw today changes changes our long-term thesis on the stock.",
       "source": "CNBC",
       "category": "us-stock"
@@ -158,7 +150,7 @@
     {
       "title": "SpaceX faces House Energy Committee demand to tour its AI data centers in Memphis",
       "link": "https://www.cnbc.com/2026/07/29/spacex-memphis-ai-data-centers-face-house-energy-committee-demands.html",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "The ranking member of the House Committee on Energy is demanding SpaceX records and a tour of its data centers and power plants in and around Memphis.",
       "source": "CNBC",
       "category": "us-stock"
@@ -166,15 +158,39 @@
     {
       "title": "How much does it cost to refinance? Plus, lenders that offer affordable options",
       "link": "https://www.cnbc.com/select/how-much-does-it-cost-to-refinance/",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "Refinancing isn't typically free, so here's how to make sure it's a good deal for you.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Bank of England holds UK interest rate steady at 3.75%  but policymakers see upside inflation risk",
+      "link": "https://www.cnbc.com/2026/07/30/interest-rates-inflation-bank-of-england.html",
+      "date": "2026-07-30 19:49",
+      "summary": "The Bank of England on Thursday held U.K. interest rates steady at 3.75%, in line with economists' expectations.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
+      "link": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
+      "date": "2026-07-30 19:49",
+      "summary": "Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Vertiv CEO addresses 17% stock plunge, disappointing quarter: This is a temporary issue",
+      "link": "https://www.cnbc.com/2026/07/29/vertiv-ceo-addresses-stock-plunge-disappointing-quarter.html",
+      "date": "2026-07-30 19:49",
+      "summary": "Vertiv CEO Gio Albertazzi said the company's revenue growth miss reflected temporary project timing and supply chain issues, not weakening demand.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Heres why Europes hot summers are becoming an expensive challenge",
       "link": "https://www.cnbc.com/2026/07/30/europe-heatwaves-economy-wildfires-summer.html",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "Record heatwaves are straining Western Europes infrastructure, businesses and budgets as wildfires and insurance costs rise.",
       "source": "CNBC",
       "category": "us-stock"
@@ -182,7 +198,7 @@
     {
       "title": "From Hormuz to the Black Sea: Maritime battlefields are shaping a new world order",
       "link": "https://www.cnbc.com/2026/07/30/strait-hormuz-drone-shipping-risks.html",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "Attacks near the Strait of Hormuz, Red Sea and Black Sea are pushing shipowners to reroute cargo and rethink global trade risks.",
       "source": "CNBC",
       "category": "us-stock"
@@ -190,7 +206,7 @@
     {
       "title": "Rolls-Royce hikes guidance as it benefits from both the defense boom and AI data center buildout",
       "link": "https://www.cnbc.com/2026/07/30/rolls-royce-earnings-q2-stock-defense-ai.html",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "Orders in the company's data center power business grew more than 50% in the first half of the year.",
       "source": "CNBC",
       "category": "us-stock"
@@ -198,7 +214,7 @@
     {
       "title": "Shell posts best quarterly profit in four years as Iran war boosts oil and gas prices",
       "link": "https://www.cnbc.com/2026/07/30/shell-2q-earnings-iran-war-oil.html",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "The bumper result comes as energy majors receive a profit boost from soaring fossil fuel prices amid the Iran war.",
       "source": "CNBC",
       "category": "us-stock"
@@ -206,39 +222,47 @@
     {
       "title": "Qualcomm to raise prices during memory crunch as chipmaker issues light earnings guidance",
       "link": "https://www.cnbc.com/2026/07/29/qualcomm-qcom-earnings-report-q3-2026-.html",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "\"Cost went up, prices are going to go up,\" Qualcomm CEO Cristiano Amon said in an interview.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "The U.S. wants Asia to use its AI  but China dominates cheaper models",
-      "link": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
-      "date": "2026-07-30 19:15",
-      "summary": "The world's largest continent is becoming the center of the artificial intelligence race between the U.S. and China.",
-      "source": "CNBC",
+      "title": "Wall Street just suffered a historic crash in highflying stocks. Why a quick tech rebound could be a trap.",
+      "link": "https://www.marketwatch.com/story/wall-street-just-suffered-a-historic-crash-in-high-flying-stocks-here-is-why-a-quick-tech-rebound-could-be-a-trap-c021318a?mod=mw_rss_topstories",
+      "date": "2026-07-30 19:49",
+      "summary": "A bounce may be coming for those momentum stocks that have been brought back to earth, which could open up another selloff, says BTIG’s Jonathan Krinsky.",
+      "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "Inside India newsletter: Meta's clout in the world's largest democracy is surging  inviting scrutiny",
-      "link": "https://www.cnbc.com/2026/07/30/india-meta-democracy-protest-boost-instagram-meta.html",
-      "date": "2026-07-30 19:15",
-      "summary": "Meta Platforms has strengthened its influence on India as Gen Z protesters widely relied on Instagram to raise their concerns against the Modi government.",
-      "source": "CNBC",
+      "title": "Nearly half of small-cap and midcap stocks are losing money",
+      "link": "https://www.marketwatch.com/story/nearly-half-of-small-cap-and-midcap-stocks-are-losing-money-ca851c98?mod=mw_rss_topstories",
+      "date": "2026-07-30 19:49",
+      "summary": "Wall Street is evolving into a winner-take-all contest.",
+      "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "China AI supplier Zhongji Innolight slips in Hong Kong debut after $6.8 billion IPO",
-      "link": "https://www.cnbc.com/2026/07/30/china-ai-supplier-zhongji-innolight-hong-kong-debut.html",
-      "date": "2026-07-30 19:15",
-      "summary": "Shares of Zhongji Innolight fell on Thursday after the Chinese optical transceiver maker made its trading debut on the Hong Kong Stock Exchange.",
-      "source": "CNBC",
+      "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
+      "link": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
+      "date": "2026-07-30 19:49",
+      "summary": "“I will file a complaint with the Better Business Bureau.”",
+      "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "Why you shouldn’t worry about the stock market’s break below its 50-day moving average",
+      "link": "https://www.marketwatch.com/story/why-you-shouldnt-worry-about-the-stock-markets-break-below-its-50-day-moving-average-4dfab87a?mod=mw_rss_topstories",
+      "date": "2026-07-30 19:49",
+      "summary": "Moving-average timing systems stopped working several decades ago.",
+      "source": "MarketWatch",
       "category": "us-stock"
     },
     {
       "title": "‘The View’ Host Joy Behar finally finds a buyer for $7 million Hamptons home after 2 years",
       "link": "https://www.marketwatch.com/story/the-view-host-joy-behar-finally-finds-a-buyer-for-7-million-hamptons-home-after-2-years-17c0652a?mod=mw_rss_topstories",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "“The View” host Joy Behar has found a buyer for her longtime Hamptons residence—nearly two years after the elegant dwelling was first brought to the market.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -246,41 +270,73 @@
     {
       "title": "Samsung delivers record-setting profits, but the shares still can’t catch a break from investors.",
       "link": "https://www.marketwatch.com/story/samsung-delivers-record-setting-profits-but-the-shares-still-cant-catch-a-break-from-investors-daefa19a?mod=mw_rss_topstories",
-      "date": "2026-07-30 19:15",
+      "date": "2026-07-30 19:49",
       "summary": "Although supply constraints are still severe and demand for its memory chips relentless, there is still skepticism among investors about the longevity of the AI capex boom and the threat of cheap chip",
       "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "Investors are overlooking healthcare stocks and should consider these top picks, says JPMorgan",
-      "link": "https://www.marketwatch.com/story/one-of-the-markets-most-durable-growth-sectors-has-been-passed-over-for-ai-says-jpmorgan-b726011c?mod=mw_rss_topstories",
-      "date": "2026-07-30 19:15",
-      "summary": "Eli Lilly, AbbVie and Danaher Corporation are among the bank’s top picks for stocks in the sector.",
-      "source": "MarketWatch",
+      "title": "This Old-School Sector Battles Semiconductor ETFs For Supremacy",
+      "link": "https://finance.yahoo.com/m/f22c5e31-4520-34c3-8d49-2e3a0b2b71dd/this-old-school-sector.html?.tsrc=rss",
+      "date": "2026-07-30 11:35",
+      "summary": "Given the huge rally in S&P 500 stocks like Sandisk  it's no surprise semiconductor ETFs are thriving. But they're getting competition from oil ETFs.",
+      "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Ford’s big-truck bet is paying off — and Wall Street is taking notice",
-      "link": "https://www.marketwatch.com/story/fords-big-truck-bet-is-paying-off-and-wall-street-is-taking-notice-6a1de0fb?mod=mw_rss_topstories",
-      "date": "2026-07-30 19:15",
-      "summary": "A turnaround story could be in the works at Ford, which gets less love than GM on Wall Street.",
-      "source": "MarketWatch",
+      "title": "Elon Musk hints at donating entire $1T fortune after shock 2036 prediction  why extreme deflation could be ahead",
+      "link": "https://finance.yahoo.com/economy/articles/elon-musk-hints-donating-entire-113500876.html?.tsrc=rss",
+      "date": "2026-07-30 11:35",
+      "summary": "Money wont matter in 2036.",
+      "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Why SoFi’s stock drops, even after its earnings beat expectations",
-      "link": "https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories",
-      "date": "2026-07-30 19:15",
-      "summary": "Investors were disappointed by the neobank’s restrained guidance.",
-      "source": "MarketWatch",
+      "title": "Prediction: Netflix Stock Won't Double by 2031",
+      "link": "https://www.fool.com/investing/2026/07/30/prediction-netflix-stock-wont-double-by-2031/?.tsrc=rss",
+      "date": "2026-07-30 11:26",
+      "summary": "Investors shouldn't automatically assume that winning returns are a foregone conclusion.",
+      "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Qualcomm’s stock falls as memory woes weigh on earnings",
-      "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-memory-woes-weigh-on-earnings-fc2b6317?mod=mw_rss_topstories",
-      "date": "2026-07-30 19:15",
-      "summary": "The chip company came up short on its bottom line.",
-      "source": "MarketWatch",
+      "title": "Kraft Heinz Is One of the Top Dividend Payers in Bill Gates' $33 Billion Foundation Portfolio, an Income Play Other Investors Can Study",
+      "link": "https://www.fool.com/investing/2026/07/30/kraft-heinz-is-one-of-the-top-dividend-payers-in-b/?.tsrc=rss",
+      "date": "2026-07-30 11:20",
+      "summary": "The Gates Foundation has been fairly devoted to Kraft Heinz, but not fully.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Better Mining Stock to Buy Before 2026 Ends: USA Rare Earth vs. Freeport-McMoRan",
+      "link": "https://www.fool.com/investing/2026/07/30/better-mining-stock-to-buy-before-2026-ends-hot-ti/?.tsrc=rss",
+      "date": "2026-07-30 11:16",
+      "summary": "In my opinion, one stock wins over the other in terms of risk-adjusted returns.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Ford Motor Stock Can Keep Climbing Without Selling More Vehicles",
+      "link": "https://www.trefis.com/articles/609331/ford-motor-stock-can-keep-climbing-without-selling-more-vehicles/2026-07-30?.tsrc=rss",
+      "date": "2026-07-30 11:13",
+      "summary": "A high-margin subscription and parts business compounding behind the trucks is the strongest reason Ford stock's climb can continue.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Cathie Wood's Ark Trims BMNR Stock Exposure Despite Calling Its Ethereum Strategy Exponential  Sells BLSH, HOOD, XYZ Shares Too",
+      "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-trims-bmnr-stock-sells-blsh-hood-xyz-shares-too/cZNPCiJRJcW?.tsrc=rss",
+      "date": "2026-07-30 11:10",
+      "summary": "Ark Invest sold 120,665 shares of BMNR, making it the firm's largest trade of the day.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Microsoft Earnings Lift Wall Street Pre-Bell; Asia Mixed, Europe Up",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-earnings-lift-wall-street-111015695.html?.tsrc=rss",
+      "date": "2026-07-30 11:10",
+      "summary": "Wall Street futures pointed higher pre-bell Thursday after tech colossus Microsoft (MSFT) reported s",
+      "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
@@ -368,62 +424,6 @@
       "link": "https://finance.yahoo.com/markets/crypto/articles/exclusive-bitget-wallet-launch-assetback-101615333.html?.tsrc=rss",
       "date": "2026-07-30 10:16",
       "summary": "Investing.com -- Bitget Wallet is launching Assetback, a new asset cashback program that allows Bitget Wallet Card users to earn rewards in Bitcoin, gold or tokenized U.S. stocks and ETFs rather than ",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "AI data centre supplier Zhongji InnoLight slips on Hong Kong debut",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-data-centre-supplier-zhongji-040541416.html?.tsrc=rss",
-      "date": "2026-07-30 10:15",
-      "summary": "Shares in Chinese data centre supplier Zhongji InnoLight briefly plunged 10 percent in its Hong Kong debut on Thursday, before paring back most of the losses in the city's biggest public offering for ",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Buying Warner Bros. Discovery Today Isn't a Bet on Media. It's a Bet on 12 State Attorneys General.",
-      "link": "https://www.fool.com/investing/2026/07/30/buying-warner-bros-discovery-today-isnt-a-bet-on-m/?.tsrc=rss",
-      "date": "2026-07-30 10:07",
-      "summary": "A signed $31 cash deal, two regulators' blessings, and one courtroom standing between shareholders and the payout.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Why Berkshire's Stake in Apple Still Matters More Than People Think",
-      "link": "https://www.fool.com/investing/2026/07/30/why-berkshires-stake-in-apple-still-matters-more-t/?.tsrc=rss",
-      "date": "2026-07-30 10:05",
-      "summary": "Berkshire's Apple story isn't over.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Matternet Appoints Starbucks EVP Sanjay Shah to Board of Directors",
-      "link": "https://finance.yahoo.com/technology/articles/matternet-appoints-starbucks-evp-sanjay-100000271.html?.tsrc=rss",
-      "date": "2026-07-30 10:00",
-      "summary": "MOUNTAIN VIEW, Calif., July 30, 2026--Matternet, the world's only FAA Type-Certified drone delivery platform, today announced the appointment of Sanjay Shah to its Board of Directors. Mr. Shah current",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Why Qualcomm Stock Is Falling Sharply After Earnings",
-      "link": "https://finance.yahoo.com/m/84fcce05-d8ce-3555-8b74-7bbe40107879/why-qualcomm-stock-is-falling.html?.tsrc=rss",
-      "date": "2026-07-30 09:58",
-      "summary": "Qualcomms third quarter revenue from smartphone chips dropped 20%, as the company seeks to diversify into AI data centers.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "QuantumScape Stock: Is It Finally Time to Buy Below $6?",
-      "link": "https://www.fool.com/investing/2026/07/30/quantumscape-stock-is-it-finally-time-to-buy-below/?.tsrc=rss",
-      "date": "2026-07-30 09:57",
-      "summary": "Bears have been charged up about clicking the sell button. Are they right?",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "The Bull and Bear Case for Palantir, According to Wall Street",
-      "link": "https://www.fool.com/investing/2026/07/30/the-bull-and-bear-case-for-palantir-according-to-w/?.tsrc=rss",
-      "date": "2026-07-30 09:50",
-      "summary": "There are no shortages of opinions about the divisive company and its stock.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     }
