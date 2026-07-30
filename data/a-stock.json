@@ -1,14 +1,238 @@
 {
-  "updated": "2026-07-30T06:57:24.838849+08:00",
+  "updated": "2026-07-30T08:01:45.474995+08:00",
   "source": "A股聚合",
-  "count": 31,
+  "count": 34,
   "items": [
+    {
+      "title": "SpaceX获美国太空部队16亿美元发射合同",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikptar1260529.shtml",
+      "date": "2026-07-30 07:59",
+      "summary": "SpaceX周三宣布获得美国太空部队价值16亿美元的订单，将在 2027年底前执行 18 次猎鹰 9 号火箭发射任务，为五角大楼发射用于探测、锁定空中目标的卫星。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "A股长线资金调仓名单曝光",
+      "link": "https://finance.sina.com.cn/stock/zldx/2026-07-30/doc-inikptan9654890.shtml",
+      "date": "2026-07-30 07:52",
+      "summary": "记者丨易妍君 编辑丨包芳鸣 长线资金调仓名单出炉！ A股2026年“中报季”已拉开序幕，QFII（合格境外机构投资者）、社保基金等长线资金的最新可查询调仓动作陆续揭晓。",
+      "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
+    {
+      "title": "OpenAI首席财务官透露公司7月份年化收入超过整个第二季度",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikptat5274179.shtml",
+      "date": "2026-07-30 07:49",
+      "summary": "随着OpenAI在企业市场中追赶竞争对手Anthropic，并试图在更便宜的开源替代方案带来新竞争的情况下维持增长，这家人工智能公司正试图安抚员工...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "原油期货因可能的技术性回调而小幅走低",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikptan9645575.shtml",
+      "date": "2026-07-30 07:39",
+      "summary": "在周三强劲上涨后，原油期货在亚洲早盘交易中因可能的技术性回调而小幅走低。然而，美伊敌对行动可能进一步加剧，从而加剧供应受扰，这可能会限制跌幅。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "内塔尼亚胡称伊朗问题的解决方案由特朗普决定",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikptar1248858.shtml",
+      "date": "2026-07-30 07:38",
+      "summary": "据媒体预先录制的采访，以色列总理内塔尼亚胡表示，针对伊朗的任何行动都由美国总统特朗普决定。内塔尼亚胡表示，他在周二与特朗普的会晤中...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "华泰宏观：美联储7月按兵不动，但悬念犹存",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-07-30/doc-inikptar1249473.shtml",
+      "date": "2026-07-30 07:38",
+      "summary": "来源 华泰睿思 核心观点 概览：北京时间7月30日（周四）凌晨美联储公布7月议息会议决定，以9：3将政策利率维持在3.5-3.75%，3位票委要求加息25bp；决议声明基本没有变化；...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "唉，又多点开花了",
+      "link": "https://finance.sina.com.cn/wm/2026-07-30/doc-inikptat5271471.shtml",
+      "date": "2026-07-30 07:37",
+      "summary": "摁下葫芦泛起瓢，又没完没了多点开花了。 我说的是中东。 美国和伊朗的停火，似乎还在继续，但在中东不少地方，战火又开始了。 至少三条战线吧。",
+      "source": "牛弹琴",
+      "category": "a-stock"
+    },
+    {
+      "title": "Thinking Machines联合创始人翁荔重返老东家OpenAI",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikptar1248475.shtml",
+      "date": "2026-07-30 07:37",
+      "summary": "OpenAI一位发言人证实，Thinking Machines Lab联合创始人翁荔将重返OpenAI。本周早些时候，她刚刚宣布因身体原因退出这家她和OpenAI前首席技术官米拉・穆拉蒂等人联合创立...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "高通预测第四财季利润逊于华尔街预期，苹果业务营收料加快下滑",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikptat5268348.shtml",
+      "date": "2026-07-30 07:31",
+      "summary": "高通公司预测第四财季利润将低于华尔街预期，并表示受供应限制和成本上升影响，来自苹果相关业务的营收将比预期更快下降。高通股价在盘后交易中下跌逾3%。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "中东突变！国际油价飙涨7% 特朗普再次威胁将痛击伊朗",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-07-30/doc-inikptav2052159.shtml",
+      "date": "2026-07-30 07:30",
+      "summary": "文章来源：中国基金报 当地时间7月29日下午，美国总统特朗普在白宫对媒体表示，因“伊朗向中东地区美军发射导弹”，美国“要给予伊朗沉重打击”，现在“轮到美国反击了”。",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "成立5年多亏了41%，招商基金这只产品该降费了",
+      "link": "https://finance.sina.com.cn/money/fund/2026-07-30/doc-inikptav2053735.shtml",
+      "date": "2026-07-30 07:30",
+      "summary": "来源 面包财经 编者按：证监会《推动公募基金高质量发展行动方案》提出：优化基金运营模式，建立健全基金公司收入报酬与投资者回报绑定机制；稳步降低基金投资者成本。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "美伊和平之路又“添堵”？特朗普誓言报复，还想动用“关税武器”！",
+      "link": "https://finance.sina.com.cn/roll/2026-07-30/doc-inikptar1247106.shtml",
+      "date": "2026-07-30 07:29",
+      "summary": "转自：财联社 财联社7月30日讯（编辑 黄君芝）在伊朗夜间突袭美军后，美国总统特朗普周三再次扬言要“报复”。此前几日，由于双方仍寻求外交途径来化解冲突...",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "操盘必读：影响股市利好或利空消息_2026年7月30日_财经新闻",
+      "link": "https://finance.sina.com.cn/stock/cpbd/2026-07-30/doc-inikptar1245419.shtml",
+      "date": "2026-07-30 07:29",
+      "summary": "宏观新闻 1、韩国承诺采取更多措施稳定股市，采取措施限制杠杆ETF交易，将限制散户投资者对杠杆ETF投资的敞口，考虑提高交易成本以抑制ETF投机行为。",
+      "source": "股市直击",
+      "category": "a-stock"
+    },
+    {
+      "title": "在库存问题日益引发担忧之际 美国签署了一项价值586亿美元的“爱国者”导弹合同",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikptan9640156.shtml",
+      "date": "2026-07-30 07:28",
+      "summary": "五角大楼周三表示，鉴于伊朗和乌克兰冲突导致美国武器储备紧张，美国陆军已向洛克希德·马丁公司授予了一份价值高达586亿美元的合同，用于生产“爱国者”拦截导弹。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "财经早报：事关3D NAND！长江存储深夜辟谣，兆易创新护盘拟回购最高20亿元股份丨2026年7月30日",
+      "link": "https://finance.sina.com.cn/stock/y/2026-07-30/doc-inikptat5270246.shtml",
+      "date": "2026-07-30 07:26",
+      "summary": "【重磅】股市利好消息频出！别错过反弹行情，立即开户跟进&gt;&gt; 【市场动态】  美联储按兵不动，遭遇3张反对票、主张加息25个基点（附声明全文）...",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "股海导航_2026年7月30日_沪深股市公告与交易提示",
+      "link": "https://finance.sina.com.cn/stock/s/2026-07-30/doc-inikptar1244048.shtml",
+      "date": "2026-07-30 07:26",
+      "summary": "【停牌】 000793 *ST华闻 300333 兆日科技  【复牌】 688277 天智航 300242 佳云科技 002036 联创电子 300996 普联软件 000820 神雾节能  【品大事】...",
+      "source": "股市直击",
+      "category": "a-stock"
+    },
+    {
+      "title": "美联储按兵不动，遭遇3张反对票、主张加息25个基点（附声明全文）",
+      "link": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikptav2048860.shtml",
+      "date": "2026-07-30 07:25",
+      "summary": "近年来最难猜的一次美联储议息会议结果揭晓。 北京时间7月30日凌晨，美联储将联邦基金利率目标区间维持在3.5%-3.75%不变。这是美联储继今年1月后连续在5次议息会议上维持利...",
+      "source": "澎湃新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "微软公布季度云业务增长超预期 缓解市场对支出激增的担忧",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikptav2048491.shtml",
+      "date": "2026-07-30 07:24",
+      "summary": "微软周三公布财报，季度云业务营收增长超出华尔街预期，表明随着产能限制逐步缓解，以及越来越多企业采用人工智能（AI）技术，该公司对AI基础设施的大规模投资开始产生回报...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "四大证券报头版头条内容精华摘要_2026年7月30日_财经新闻",
+      "link": "https://finance.sina.com.cn/stock/y/2026-07-30/doc-inikptav2048784.shtml",
+      "date": "2026-07-30 07:22",
+      "summary": "7月30日（星期四），今日报刊头条主要内容精华如下： 中国证券报 增持回购齐上阵 A股又一波利好 7月29日晚间，多家A股上市公司披露股份回购方案与重要股东增持公告。",
+      "source": "股市直击",
+      "category": "a-stock"
+    },
+    {
+      "title": "OpenAI首席财务官透露：公司7月年化收入超过整个第二季度",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikptan9637315.shtml",
+      "date": "2026-07-30 07:22",
+      "summary": "当下OpenAI在企业市场追赶竞争对手Anthropic，同时还要应对成本更低的开源AI产品带来的新一轮竞争、努力维持增长。这家人工智能企业正试图向员工传递信号：公司经营状况依...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "LV老板披露曾持有奈飞近20%股份，但过早套现",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikptav2046981.shtml",
+      "date": "2026-07-30 07:19",
+      "summary": "作为全球最大奢侈品帝国路威酩轩集团（LVMH）的老板，伯纳德·阿尔诺曾成功进行一系列投资，其中包括对美国科技巨头谷歌和苹果的投资。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "黄金交易提醒：美联储按兵不动，“沃什的措辞太复杂”？金价先涨为敬！今晚聚焦PCE数据",
+      "link": "https://finance.sina.com.cn/money/forex/hbfx/2026-07-30/doc-inikptan9635678.shtml",
+      "date": "2026-07-30 07:18",
+      "summary": "汇通财经APP讯——周三（7月29日），现货黄金上演了一场令许多投资者始料未及的反转行情。在美联储宣布维持利率不变之前，金价一度承压走弱，盘中甚至跌破4000美元关口。",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "7月30日隔夜要闻：美股大幅收跌道指重挫1100点 油价大幅反弹 美联储利率决议引发股债汇巨震",
+      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikptav2045147.shtml",
+      "date": "2026-07-30 07:12",
+      "summary": "市场 7月30日收盘：美股大幅收跌道指重挫1100点，美联储维持利率不变但通胀引发内部分歧 7月30日美股成交额前20：SK海力士利润增长低于预期...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "女装零售商Reformation在美国首次公开募股中筹集了2.11亿美元",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikptat5261994.shtml",
+      "date": "2026-07-30 07:08",
+      "summary": "女装零售商Reformation周三表示，其在美国的首次公开募股（IPO）规模已扩大，共筹集了2.109亿美元，此举旨在测试投资者对该时尚品牌的兴趣。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "香港金管局维持基本利率在4%不变",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikptav2043828.shtml",
+      "date": "2026-07-30 07:07",
+      "summary": "香港金管局维持基本利率在4%不变。由于香港实行联系汇率制，官方利率走势与美联储同步。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "纽约汇市：美联储维持利率不变后美元创两周来最大跌幅 澳元表现最差",
+      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikptan9625565.shtml",
+      "date": "2026-07-30 07:00",
+      "summary": "彭博美元指数下跌，此前美联储维持利率不变，符合多数市场人士预期。在十国集团货币中，澳元兑美元表现最差。 美联储决议公布后，彭博美元指数周三午后下跌0.4%...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
     {
       "title": "一文读懂|美联储第五次按兵不动 三人要求加息 沃什称美联储将毫不犹豫地遏制通胀 股债汇巨震",
       "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikptan9621699.shtml",
       "date": "2026-07-30 06:52",
-      "summary": "北京时间7月30日凌晨2：00，美联储宣布将基准利率维持在3.50%-3.75%不变，符合市场预期。这一决定是美联储连续第五次“按兵不动”，决议公布前...",
+      "summary": "北京时间7月30日凌晨2：00，美联储宣布将基准利率维持在3.50%-3.75%不变，符合市场预期。这一决定是美联储连续第五次“按兵不动”。",
       "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "7月30日财经早餐：市场无视沃什鹰派表态，加息预期骤降提振金价，特朗普承诺进一步打击伊朗，美油飙升近7%",
+      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-07-30/doc-inikptat5256226.shtml",
+      "date": "2026-07-30 06:52",
+      "summary": "文章来源：汇通财经 周四（北京时间7月30日）亚市早盘，现货黄金交投于4080美元/盎司附近，美联储维持利率不变，同时沃什表态鹰派并重申2%通胀目标...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "凌晨，美联储宣布利率决定！美股收跌！特朗普、沃什，最新发声",
+      "link": "https://finance.sina.com.cn/stock/bxjj/2026-07-30/doc-inikptat5256569.shtml",
+      "date": "2026-07-30 06:47",
+      "summary": "美国股市尾盘大跌。 当地时间7月29日（周三），美联储公布最新利率决议，将基准利率维持在3.5%—3.75%区间不变。 会议结束后，美股三大指数全线跳水，截至收盘...",
+      "source": "证券时报",
       "category": "a-stock"
     },
     {
@@ -17,6 +241,22 @@
       "date": "2026-07-30 06:44",
       "summary": "来源：华尔街见闻 美联储7月29日会议决定维持联邦基金利率目标区间在3.5%至3.75%不变，投票结果为9比3。三位委员（Hammack、Kashkari、Logan）反对，主张上调25个基点。",
       "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "凌晨宣布，美联储利率不动！美股尾盘“崩了”",
+      "link": "https://finance.sina.com.cn/stock/bxjj/2026-07-30/doc-inikptar1220579.shtml",
+      "date": "2026-07-30 06:39",
+      "summary": "北京时间7月30日凌晨，美联储以9比3的表决结果决定维持利率不变，将联邦基金利率的目标区间继续维持在3.50%至3.75%之间。",
+      "source": "上海证券报",
+      "category": "a-stock"
+    },
+    {
+      "title": "老将基金换新颜 在坚守与进化中寻找平衡",
+      "link": "https://finance.sina.com.cn/money/fund/2026-07-30/doc-inikpnux2160235.shtml",
+      "date": "2026-07-30 06:10",
+      "summary": "● 本报记者 张舒琳 今年上半年，在市场“K型”分化极致演绎的背景下，一些老基金产品以及基金经理开启自我进化之路。从近期基金二季报披露的情况来看...",
+      "source": "中国证券报-中证网",
       "category": "a-stock"
     },
     {
@@ -33,222 +273,6 @@
       "date": "2026-07-30 06:08",
       "summary": "当地时间7月29日，美国总统特朗普表示，因伊朗向中东地区的美军发射导弹，美国“要给予伊朗沉重打击”，同时计划在相关法案中新增条款，授权美国对伊朗征收关税。",
       "source": "央视",
-      "category": "a-stock"
-    },
-    {
-      "title": "报道：沙特阿拉伯寻求组建联盟以保障红海航运安全",
-      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnux2151946.shtml",
-      "date": "2026-07-30 05:53",
-      "summary": "援引两名知情人士的话报道，沙特阿拉伯正寻求组建一个国际联盟，保护红海航运免受胡塞武装袭击。 报道称，联盟的成员构成尚未最终确定，沙特正就此与数十个国家展开磋商。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美联储维持利率不变后 花旗仍维持降息预测",
-      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnuq9724145.shtml",
-      "date": "2026-07-30 05:52",
-      "summary": "美联储周三宣布维持利率不变后，花旗仍预计美联储将在今年晚些时候降息。 经济学家Andrew Hollenhorst和Veronica Clark在给客户的报告中指出...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "高通盈利展望疲软 手机业务面临压力",
-      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnut1327432.shtml",
-      "date": "2026-07-30 05:51",
-      "summary": "全球最大的智能手机处理器制造商高通发布的本季度盈利展望不及分析师预估，显示零部件短缺和成本上升正在对其主要市场造成冲击。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "大宗商品综述：油价大幅反弹 铜价走低 金价涨幅收窄",
-      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnuq9723402.shtml",
-      "date": "2026-07-30 05:50",
-      "summary": "原油价格大幅反弹，中东冲突再起加剧供应风险。铜价走低，地缘政治风险升温加大市场对经济增长和需求前景的担忧。黄金回吐部分涨幅，虽然美联储决定维持利率不变...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "Arm营收展望超过预期 但未能打动对芯片业愈发谨慎的投资者",
-      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnux2151299.shtml",
-      "date": "2026-07-30 05:49",
-      "summary": "Arm Holdings营收展望高于华尔街预期，但未能打动近期对芯片行业前景愈发谨慎的投资者，股价盘后下跌约4%。 Arm周三盘后公布，预计截至9月末的第二财季营收约为13...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "原油：布伦特升破每桶90美元 美国威胁打击伊朗",
-      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnux2151014.shtml",
-      "date": "2026-07-30 05:48",
-      "summary": "油价从2020年以来最大的三日跌幅中反弹，中东地区新一轮冲突爆发提醒市场该地区的供应风险仍未消退。 布伦特收于每桶接近91美元，涨幅约8%。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "7月30日外盘头条：特朗普称美国将“狠狠打击”伊朗 美联储维持利率不变 微软Q4业绩大超预期 云收入增超40%",
-      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnut1322658.shtml",
-      "date": "2026-07-30 05:41",
-      "summary": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、中东战事再度激化 特朗普称美国将“狠狠打击”伊朗 2、美联储维持利率不变 三人投下反对票主张加息25基点 3...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "泽连斯基请求美紧急提供300枚“爱国者”拦截弹",
-      "link": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikpnut1318617.shtml",
-      "date": "2026-07-30 05:24",
-      "summary": "转自：新华网 新华社华盛顿7月29日电 据美国阿克西奥斯新闻网站29日报道，乌克兰总统泽连斯基28日在接受该媒体采访时称，为抵御俄罗斯针对乌能源基础设施的攻击...",
-      "source": "央视",
-      "category": "a-stock"
-    },
-    {
-      "title": "高通Q3业绩符合预期，但本季指引偏弱，宣布9月1日起全面提价",
-      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnuv5362761.shtml",
-      "date": "2026-07-30 05:15",
-      "summary": "周三，高通公布的第三财季业绩基本符合分析师预期，但公司对当前季度的盈利指引偏弱，营收指引符合预期，将原因归咎于电脑零部件（尤其是内存）持续的供应紧张。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "星巴克发布强劲Q3财报，上调全年营收及盈利指引",
-      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnuv5362276.shtml",
-      "date": "2026-07-30 05:12",
-      "summary": "周三，星巴克在连续四个季度实现同店销售增长后，上调了全年业绩指引。 对于2026财年，星巴克目前预计调整后每股收益在2.55至2.65美元之间，高于此前每股2.25至2...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美债收益率表明沃什如此有耐心是错的",
-      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnux2142790.shtml",
-      "date": "2026-07-30 05:05",
-      "summary": "在美联储主席凯文·沃什的记者会后，长端美国国债耍起了小性子，30年收益率日内拉升超过了11个基点。如此巨大的波动幅度只说明了一件事：市场在向沃什传递信号：美联储今天...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "微软Q4云业务超预期，Azure全年营收首破1000亿美元",
-      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnuq9703945.shtml",
-      "date": "2026-07-30 05:01",
-      "summary": "周三美股盘后，微软公布了强劲的第四财季营收。 营收为900亿美元，同比增长18%（按固定汇率计算增长17%）。 营业利润为406亿美元，同比增长18%。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "微软季度业绩超市场预期 云业务增速创四年来最快",
-      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnuq9699557.shtml",
-      "date": "2026-07-30 04:51",
-      "summary": "微软的云业务创四年来最快增长，表明这家科技巨头的计算基础设施和人工智能服务继续获得企业客户青睐。 微软周三在声明中表示，Azure云计算业务收入在第四财季增长43%。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "7月30日美股成交额前20：SK海力士利润增长低于预期，将扩大资本开支",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikpnuv5356511.shtml",
-      "date": "2026-07-30 04:50",
-      "summary": "周三美股成交额第1名美光科技收跌10.07%，成交516亿美元。至此该股已经连续第三个交易日收跌。周三美股芯片储存板块普遍走低。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美联储决策的变与不变：维持利率和从12-0到9-3",
-      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnuv5354955.shtml",
-      "date": "2026-07-30 04:44",
-      "summary": "美联储连续第五次议息会议决定维持基准利率不变，但表决结果从一个月前的一致通过变成了有三人投下反对票。这么多决策者主张加息...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美联储决策后市场陷入巨震 30年期国债收益率飙升至近20年来最高位",
-      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnut1298744.shtml",
-      "date": "2026-07-30 04:42",
-      "summary": "美联储周三维持基准利率不变后美债交易员降低了对其在下次会议上加息的预期，但30年期收益率飙升到了2007年以来的最高水平。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "Meta Q2营收608亿美元同比增长28% 自由现金流骤降不足8亿美元",
-      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnux2135645.shtml",
-      "date": "2026-07-30 04:38",
-      "summary": "“AI正在加速我们的核心业务，驱动下一代产品的开发，并为企业级应用开辟全新的机遇，”Meta创始人兼首席执行官马克·扎克伯格表示。“成果已经显现...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "王的对决：马斯克宣布使用AI拍摄《奥德赛》电影挑战诺兰",
-      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnuv5379568.shtml",
-      "date": "2026-07-30 04:30",
-      "summary": "来源：公众号 物种起源AI 埃隆·马斯克于周三在社交媒体上宣布了这一消息，外界认为他此举是在向导演#克里斯托弗·诺兰最新上映的《#奥德赛》改编电影发起挑战。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "7月30日热门中概股涨跌不一 拼多多涨3.05%，台积电跌4.48%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikpnuv5350754.shtml",
-      "date": "2026-07-30 04:23",
-      "summary": "7月30日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收高1.73%。 上涨个股（按市值从高到低）：拼多多涨3.05%，网易涨1.78%，京东涨1.29%，百度涨0.33%，携程涨1...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "Meta第三财季营收展望逊于预期 上调全年资本开支预估下限",
-      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikpnux2142517.shtml",
-      "date": "2026-07-30 04:20",
-      "summary": "Meta Platforms Inc．给出的本季度营收展望令人失望，加剧了投资者对该公司史无前例的人工智能支出的担忧。 这家社交媒体巨头表示，第三季度营收预计为610亿至640亿美元...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "7月30日收盘：美股大幅收跌道指重挫1100点，美联储维持利率不变但通胀引发内部分歧",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikphnx5479010.shtml",
-      "date": "2026-07-30 04:09",
-      "summary": "北京时间7月30日凌晨，美股周三大幅收跌。道指收盘重挫逾1100点，创2025年4月以来的最大单日跌幅。美国国债收益率大涨。美联储决定维持利率不变...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "如何解读美联储决策？摩根资管称异见三人组发出了关键信号",
-      "link": "https://finance.sina.com.cn/world/2026-07-30/doc-inikphnx5478807.shtml",
-      "date": "2026-07-30 04:07",
-      "summary": "摩根资产管理公司的Bob Michele表示，美联储周三按兵不动的决策遭到了三名委员反对，表明利率上行的压力可能会持续存在。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "瑞银上调伯克希尔目标价至877848美元 维持“买入”评级",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikphns9807929.shtml",
-      "date": "2026-07-30 03:55",
-      "summary": "瑞银集团周三发布研报，将伯克希尔哈撒韦A类股目标价从854596美元上调3%至877848美元，维持“买入”评级。但受大盘拖累，伯克希尔股价在周二上涨后周三小幅回落。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "Phillip Securities上调Alphabet评级，但下调业绩预期",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikphns9806933.shtml",
-      "date": "2026-07-30 03:53",
-      "summary": "券商Phillip Securities在谷歌母公司Alphabet发布二季度财报后，宣布将其评级从中性上调至增持。该机构认为市场过度聚焦短期资本支出压力...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "休曼纳公布战略退出与利润率扩张计划",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikphnv1408112.shtml",
-      "date": "2026-07-30 03:48",
-      "summary": "健康保险公司休曼纳公布了2026年第二季度财报，并阐述了通过战略性市场退出和成本管理实现利润率增长的计划。公司重申了全年调整后每股收益至少9美元的指引。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "波士顿科学第二季度介入心脏病学与神经调节业务增长强劲",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikphnx5473604.shtml",
-      "date": "2026-07-30 03:47",
-      "summary": "医疗科技公司波士顿科学公布了2026年第二季度财报。尽管Watchman心脏植入装置业务放缓和电生理业务竞争加剧导致公司下调了全年展望...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "家装产品制造商Masco第二季度利润大增，上调全年盈利预期",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikphnv1407179.shtml",
-      "date": "2026-07-30 03:46",
-      "summary": "家装产品制造商Masco Corp公布了2026年第二季度财报。尽管营收因战略投资和去年同期高基数而有所下滑，但公司通过关税返还、定价调整和成本控制实现了利润的强劲增长...",
-      "source": "环球市场播报",
       "category": "a-stock"
     }
   ]
