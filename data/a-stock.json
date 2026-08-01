@@ -1,8 +1,32 @@
 {
-  "updated": "2026-08-01T06:56:42.417335+08:00",
+  "updated": "2026-08-01T08:01:53.250087+08:00",
   "source": "A股聚合",
-  "count": 30,
+  "count": 32,
   "items": [
+    {
+      "title": "OpenAI本周向美国决策者演示新模型系列Astra",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikufht0870248.shtml",
+      "date": "2026-08-01 07:45",
+      "summary": "媒体援引三名听取过相关计划介绍的人士报道，OpenAI首席执行官Sam Altman本周在华盛顿向政策制定者和监管官员演示了该公司准备发布的新模型系列“Astra”。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "霍尔木兹海峡，最新消息",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-inikufhk9075719.shtml",
+      "date": "2026-08-01 07:32",
+      "summary": "伊朗称已关闭霍尔木兹海峡 美中央司令部否认 央视新闻客户端消息，当地时间7月31日，美军中央司令部表示，“伊朗政府再次声称已关闭霍尔木兹海峡，这是不实的消息”。",
+      "source": "中国证券报-中证网",
+      "category": "a-stock"
+    },
+    {
+      "title": "历史性干预 金融时报称美国政府周五抛欧元来买日元",
+      "link": "https://finance.sina.com.cn/world/2026-08-01/doc-inikufht0861829.shtml",
+      "date": "2026-08-01 07:23",
+      "summary": "英国《金融时报》援引不具名知情人士报道称，美国财政部周五对日元汇兑市场实施了干预，也是近30年来东京和华盛顿首次通过直接买入日元的方式联手撑日本货币。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
     {
       "title": "8月1日隔夜要闻：美股收高 亚马逊大涨逾15% 美官员称特朗普已下令对伊朗发动新一轮袭击",
       "link": "https://finance.sina.com.cn/world/2026-08-01/doc-inikufhp0654960.shtml",
@@ -28,6 +52,14 @@
       "category": "a-stock"
     },
     {
+      "title": "伊朗警告打击美以能源基础设施",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-inikufhk9052729.shtml",
+      "date": "2026-08-01 06:17",
+      "summary": "总台记者当地时间8月1日获悉，针对美国方面有关美国和以色列可能对伊朗基础设施发动袭击的消息，一名伊朗高级安全官员称，类似消息属“无稽之谈”。",
+      "source": "央视",
+      "category": "a-stock"
+    },
+    {
       "title": "报道：OpenAI发现其他AI智能体突破隔离的证据",
       "link": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyt4183714.shtml",
       "date": "2026-08-01 06:13",
@@ -49,6 +81,38 @@
       "date": "2026-08-01 06:09",
       "summary": "交易员权衡持续发酵的全球冲突，以及从波斯湾到黑海地区的供应威胁之际，原油录得3月份以来最大单月涨幅。铜价录得月度上涨，因为冶炼厂原材料短缺加剧了全球供应前景担忧...",
       "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "宽基ETF7月净流入超3200亿元 科创50、创业板强势吸金",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-iniktyyv0963708.shtml",
+      "date": "2026-08-01 06:08",
+      "summary": "本报记者彭衍菘 7月份，宽基ETF（开放式交易型指数基金）成为资金入市的重要通道。 Wind数据显示，截至发稿，7月份以来，全市场宽基ETF合计净流入3269.04亿元...",
+      "source": "证券日报",
+      "category": "a-stock"
+    },
+    {
+      "title": "东兴证券、信达证券半年报亮相 中金公司“三合一”上半年归母净利润或达百亿元量级",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-iniktyyr0765349.shtml",
+      "date": "2026-08-01 06:08",
+      "summary": "本报记者于宏 A股上市券商半年报披露拉开帷幕。7月30日晚间，东兴证券、信达证券披露2026年半年报。作为行业重要并购重组案例——中金公司“三合一”中的两家主体，东兴证券...",
+      "source": "证券日报",
+      "category": "a-stock"
+    },
+    {
+      "title": "私募机构7月份密集自购传递信心",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-iniktyyt4181627.shtml",
+      "date": "2026-08-01 06:08",
+      "summary": "本报记者昌校宇 7月30日，两家私募机构同时发布自购公告，为近期持续升温的私募机构自购潮再添新例。 具体来看，海南无量私募基金管理有限公司（以下简称“海南无量资本”）...",
+      "source": "证券日报",
+      "category": "a-stock"
+    },
+    {
+      "title": "监管部门全链条严打财务造假 一个月9家公司被罚",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-iniktyyn9161601.shtml",
+      "date": "2026-08-01 06:08",
+      "summary": "本报记者郭之宸 近日，江西证监局对渔翁信息技术股份有限公司（以下简称“渔翁信息”）及相关责任人出具行政处罚决定书。经查，因渔翁信息2020年至2023年上半年连续财务造假...",
+      "source": "证券日报",
       "category": "a-stock"
     },
     {
@@ -95,7 +159,7 @@
       "title": "报道：特朗普下令最早本周末对伊朗发动打击",
       "link": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyt4166510.shtml",
       "date": "2026-08-01 05:34",
-      "summary": "据报道，美国总统唐纳德·特朗普已下令美军最早于本周末对伊朗发动新一轮袭击。 该报援引未具名美国官员的话称，这些打击旨在迫使德黑兰投降。",
+      "summary": "周五报道称，美国总统唐纳德·特朗普已下令美军最早于本周末对伊朗发动新一轮袭击。 该报援引未具名美国官员的话称，这些打击旨在迫使德黑兰投降。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
@@ -192,54 +256,6 @@
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktyyv0913333.shtml",
       "date": "2026-08-01 04:14",
       "summary": "全球最大的几家科技公司公布财报后，华尔街对人工智能领域的赢家和输家分歧日益加剧。这些公司确认或上调了资本支出预测，表明大规模投资尚未停歇。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "8月1日收盘：美股收高，亚马逊大涨逾15%，三大股指本周均录得涨幅",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktyyn9096513.shtml",
-      "date": "2026-08-01 04:11",
-      "summary": "北京时间8月1日凌晨，美股周五收高，三大股指本周均录得涨幅。市场继续关注科技股财报，亚马逊公布乐观财报后股价大涨。苹果重挫。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "芝加哥期货交易所9月交割的小麦期货下跌3.8%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktusx1037313.shtml",
-      "date": "2026-08-01 03:58",
-      "summary": "—— 芝加哥期货交易所周五，9月交割的小麦期货下跌3.8%，至每蒲式耳6.38美元，交易商在当月最后一个交易日选择锁定利润，而非押注乌克兰与俄罗斯之间的持续战事进行交易。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "供应链传奇人物蒂姆-库克终于遇上难题——苹果的内存危机",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktusv4239087.shtml",
-      "date": "2026-08-01 03:22",
-      "summary": "苹果正面临因人工智能热潮而加剧的零部件短缺问题，公司正在紧急寻求解决方案 苹果股价周五交易中暴跌10%。 在苹果近三十年的职业生涯中...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "加拿大政府批准安大略省北部大型镍矿项目，系渥太华推进重大项目建设的一部分",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktusv4236633.shtml",
-      "date": "2026-08-01 03:16",
-      "summary": "加拿大政府已批准开发一个有望成为西方世界最大镍矿的项目，这是渥太华加快重大项目审批、以期提振经济并应对美国关税压力举措的一部分。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "沃什领导下的美联储未能坚持良好货币政策的原则",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktust0793288.shtml",
-      "date": "2026-08-01 03:12",
-      "summary": "债券投资者不明白，美联储主席凯文·沃什关于恢复价格稳定的承诺，与利率政策上的不作为如何能并行不悖。 美联储主席凯文·沃什在货币政策上的含糊其辞...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "特朗普称美国“尚未同意”授予乌克兰“爱国者”导弹生产许可",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktust0791117.shtml",
-      "date": "2026-08-01 03:08",
-      "summary": "美国总统唐纳德·特朗普周五表示，美国“尚未同意”授予乌克兰生产“爱国者”导弹系统的许可，这显然是在基辅对抗俄罗斯战争的首要优先事项上出尔反尔。",
       "source": "环球市场播报",
       "category": "a-stock"
     }
