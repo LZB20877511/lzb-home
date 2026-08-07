@@ -1,8 +1,40 @@
 {
-  "updated": "2026-08-08T06:30:56.435138+08:00",
+  "updated": "2026-08-08T07:30:11.441840+08:00",
   "source": "A股聚合",
-  "count": 30,
+  "count": 31,
   "items": [
+    {
+      "title": "8月8日隔夜要闻：美股创4月份以来最大单周涨幅 金价大涨 SpaceX涨近16%",
+      "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimqccv2756070.shtml",
+      "date": "2026-08-08 06:57",
+      "summary": "市场 8月8日收盘：标普指数再创新高，三大指数本周均录得较大涨幅 8月8日美股成交额前20：SpaceX将自建发电厂保障电力供应 8月8日热门中概股多数上涨 小鹏汽车涨3.72%...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "伊朗官员称防务协议无法保障沙特安全",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-08/doc-inimqccx4359603.shtml",
+      "date": "2026-08-08 06:51",
+      "summary": "沙特阿拉伯王储兼首相穆罕默德·本·萨勒曼7日与到访的土耳其总统埃尔多安和巴基斯坦总理夏巴兹在沙特麦加签署《麦加共同防务协议》。",
+      "source": "央视",
+      "category": "a-stock"
+    },
+    {
+      "title": "OpenAI提示新模型Astra存在潜在重大网络安全风险，强化安全管控",
+      "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwwc6765308.shtml",
+      "date": "2026-08-08 06:37",
+      "summary": "OpenAI周五表示，其即将推出的AI模型Astra可能具备“关键性”网络安全能力，这促使OpenAI暂停了部分内部开发并启动了安全协议。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "特朗普重启解雇美联储理事丽莎·库克的行动",
+      "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwvz9990988.shtml",
+      "date": "2026-08-08 06:32",
+      "summary": "白宫本周表示，特朗普总统正在“考虑”解雇美联储理事会理事丽莎·库克，这重新启动了一项曾在6月被最高法院阻止的行动。 白宫总统助理丹·斯卡维诺在周三致库克的一封信中表示...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
     {
       "title": "摩根士丹利对日元转向偏空 干预影响逐渐消退",
       "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwvz9988177.shtml",
@@ -17,6 +49,22 @@
       "date": "2026-08-08 06:23",
       "summary": "原油持稳，中东紧张局势升温之际，交易员密切关注伊朗与阿曼就恢复霍尔木兹海峡通航达成协议的进展。铜价周五微跌，但仍然录得单周上涨，市场出现铜供应趋紧的迹象。",
       "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "19只医药类基金年内净值涨幅均超10%",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-08/doc-inimpwvz4469228.shtml",
+      "date": "2026-08-08 06:08",
+      "summary": "本报记者王宁 今年以来，多只医药类基金净值大幅走高。Wind数据显示，截至8月7日，年内19只医药类基金净值涨幅均超10%，其中最高涨幅近25%。",
+      "source": "证券日报",
+      "category": "a-stock"
+    },
+    {
+      "title": "今日视点：理性看待“地王”再现",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-08/doc-inimpwvz4469219.shtml",
+      "date": "2026-08-08 06:08",
+      "summary": "■王丽新 7月份以来，多个城市核心地块的土拍市场热度不减。 7月28日，上海杨浦八埭头地块经历219轮竞价后，最终以总价161.2亿元、综合楼面价10.2万元/平方米成交...",
+      "source": "证券日报",
       "category": "a-stock"
     },
     {
@@ -200,46 +248,6 @@
       "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpspv2931849.shtml",
       "date": "2026-08-08 03:11",
       "summary": "美国6月消费者信贷增幅超过经济学家预期。 美联储数据显示，6月消费者信贷环比增加141.73亿美元，市场预期为增加118.5亿美元；5月数据修正为减少10.81亿美元。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "俄乌互袭对方黑海船只等军事目标",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-08/doc-inimpspw9711929.shtml",
-      "date": "2026-08-08 03:07",
-      "summary": "△黑海（资料图）据乌克兰和俄罗斯7日分别发布消息，乌克兰在过去两天打击黑海和亚速海上的6艘俄罗斯船只，俄罗斯武装部队当天打击了乌克兰在黑海的军用油料罐和干货船。",
-      "source": "央视",
-      "category": "a-stock"
-    },
-    {
-      "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-08/doc-inimpspv2935744.shtml",
-      "date": "2026-08-08 03:04",
-      "summary": "央视记者当地时间8月7日获悉，美国官员表示，阿曼与伊朗在霍尔木兹海峡问题上已取得进展，预计很快将达成协议。一旦宣布达成恢复不受阻碍的商业航运的协议...",
-      "source": "央视",
-      "category": "a-stock"
-    },
-    {
-      "title": "美联储主席沃什6月日程未显示与特朗普有任何通话或会谈",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimpsqc4518258.shtml",
-      "date": "2026-08-08 02:56",
-      "summary": "美联储主席凯文·沃什上任后首个完整月份的日程显示，他曾与议员、白宫官员和私营部门经济学家通话或会谈，但没有显示与美国总统唐纳德·特朗普有任何通话或会谈。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美股尾盘继续上扬，纳指上涨0.8%，三大股指均将录得周线涨幅",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimpspz2911569.shtml",
-      "date": "2026-08-08 02:48",
-      "summary": "北京时间8月8日凌晨，美股周五尾盘维持涨势，纳指上涨0.8%。三大股指本周均将录得涨幅。美国7月非农就业人数意外下滑，交易员预期该数据将促使美联储维持利率不变。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "里士满联储行长称美国劳动力市场是“弱平衡”",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimpspv2922471.shtml",
-      "date": "2026-08-08 02:46",
-      "summary": "里士满联邦储备银行行长Tom Barkin表示，美国劳动力市场似乎处于“弱平衡”状态，延续了过去一年来的低招聘环境。 美国劳工统计局周五公布的数据显示，7月非农就业人数减少2...",
       "source": "环球市场播报",
       "category": "a-stock"
     }
