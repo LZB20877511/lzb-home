@@ -1,30 +1,262 @@
 {
-  "updated": "2026-08-10T18:24:26.683121+08:00",
+  "updated": "2026-08-10T19:04:42.401036+08:00",
   "source": "A股聚合",
-  "count": 42,
+  "count": 36,
   "items": [
     {
-      "title": "天量新高！药明康德再创新纪录！创新药再上风口？华宝医药精选混合QDII（027755）御风发行",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-10/doc-inimvsvf1165589.shtml",
-      "date": "2026-08-10 18:23",
-      "summary": "8 月初的医药圈，被一份半年报彻底炸醒——营收288.97亿元，同比增长38.93%，归母净利润110.8亿元，首次在上半年突破百亿大关。基于强劲增长...",
+      "title": "门店探访：已备货！消费者可直接进店购买飞天茅台",
+      "link": "https://finance.sina.com.cn/chanjing/jync/2026-08-10/doc-inimvsvm4866548.shtml",
+      "date": "2026-08-10 19:02",
+      "summary": "来源：证券之星微博 #消费者可到自营店1753元购飞天茅台# 【门店探访：已备货！消费者可直接进店购买飞天茅台】 据北京、上海、重庆等地茅台自营店的最新销售信息...",
+      "source": "酒业内参",
+      "category": "a-stock"
+    },
+    {
+      "title": "VLED影城接连落地 高配画质激活多元商圈",
+      "link": "https://finance.sina.com.cn/stock/enterprise/cn/2026-08-10/doc-inimvsvi2791243.shtml",
+      "date": "2026-08-10 18:58",
+      "summary": "从商圈核心到县域中心，VLED LED Cinema 以高亮度、高对比度、精准色彩还原为标尺，接连落地洛阳、磐石、台州、上海、明光五城。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "就业数据骤冷，本周通胀报告成市场焦点",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvsvi2787182.shtml",
+      "date": "2026-08-10 18:50",
+      "summary": "美国7月就业数据大幅不及预期，令本周即将公布的通胀报告重要性显著上升。 美国劳工统计局上周五公布，7月非农就业人数减少2.3万，可能预示劳动力市场正转向不健康方向。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "天润乳业事务代表陶茜荣获金麒麟·优秀证代荣誉",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-10/doc-inimvsvi8082784.shtml",
+      "date": "2026-08-10 18:44",
+      "summary": "8月10日，新浪财经第十二届金麒麟・金牌董秘及优秀证券事务代表完整榜单正式发布，天润乳业公司证代陶茜荣耀加冕优秀证券事务代表。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "Meta重启开源模型路线 扎克伯格抨击“闭源”人工智能竞争对手",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvsvi2783516.shtml",
+      "date": "2026-08-10 18:44",
+      "summary": "Meta再度向外部开发者免费开放部分自研人工智能模型，公司首席执行官马克·扎克伯格就此表态，反对高性能人工智能技术被少数企业与政府垄断。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "腾景科技事务代表黄联城荣获金麒麟·优秀证代荣誉",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-10/doc-inimvsvm4854804.shtml",
+      "date": "2026-08-10 18:44",
+      "summary": "8月10日，新浪财经第十二届金麒麟・金牌董秘及优秀证券事务代表完整榜单正式发布，腾景科技公司证代黄联城荣耀加冕优秀证券事务代表。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "国能日新证券事务代表池雨坤荣获金麒麟·优秀证代荣誉",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-10/doc-inimvsvm4854377.shtml",
+      "date": "2026-08-10 18:43",
+      "summary": "8月10日，新浪财经第十二届金麒麟・金牌董秘及优秀证券事务代表完整榜单正式发布，国能日新公司证代池雨坤荣耀加冕优秀证券事务代表。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "新和成证券事务代表曾淑颖荣获金麒麟·优秀证代荣誉",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-10/doc-inimvsvf1179066.shtml",
+      "date": "2026-08-10 18:42",
+      "summary": "8月10日，新浪财经第十二届金麒麟・金牌董秘及优秀证券事务代表完整榜单正式发布，新和成公司证代曾淑颖荣耀加冕优秀证券事务代表。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "海信视像证券事务代表李胜军荣获金麒麟·优秀证代荣誉",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-10/doc-inimvsvi8080958.shtml",
+      "date": "2026-08-10 18:41",
+      "summary": "8月10日，新浪财经第十二届金麒麟・金牌董秘及优秀证券事务代表完整榜单正式发布，海信视像公司证代李胜军荣耀加冕优秀证券事务代表。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "华明装备证券事务代表王家栋荣获金麒麟·优秀证代荣誉",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-10/doc-inimvsvf1178081.shtml",
+      "date": "2026-08-10 18:40",
+      "summary": "8月10日，新浪财经第十二届金麒麟・金牌董秘及优秀证券事务代表完整榜单正式发布，华明装备公司证代王家栋荣耀加冕优秀证券事务代表。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "五矿发展证券事务代表邰晓僖荣获金麒麟·优秀证代荣誉",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-10/doc-inimvsvi2781107.shtml",
+      "date": "2026-08-10 18:40",
+      "summary": "8月10日，新浪财经第十二届金麒麟・金牌董秘及优秀证券事务代表完整榜单正式发布，五矿发展公司证代邰晓僖荣耀加冕优秀证券事务代表。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "海康威视证券事务代表蔡超荣获金麒麟·优秀证代荣誉",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-10/doc-inimvsvi8078339.shtml",
+      "date": "2026-08-10 18:39",
+      "summary": "8月10日，新浪财经第十二届金麒麟・金牌董秘及优秀证券事务代表完整榜单正式发布，海康威视公司证代蔡超荣耀加冕优秀证券事务代表。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "业绩暴雷！一民营银行上半年净利润同比骤降60%",
+      "link": "https://finance.sina.com.cn/roll/2026-08-10/doc-inimvsvm4851434.shtml",
+      "date": "2026-08-10 18:37",
+      "summary": "近日，华峰化学（002064.SZ）在半年报中，披露了其持股20%的联营企业——温州民商银行的部分关键业绩指标。数据显示，在银行业净息差持续收窄的背景下...",
+      "source": "一财网",
+      "category": "a-stock"
+    },
+    {
+      "title": "《富爸爸穷爸爸》作者：美国或将濒临“大萧条”，需提前做好准备",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvsvi2777167.shtml",
+      "date": "2026-08-10 18:35",
+      "summary": "尽管今年早些时候市场经历一波回调，美股已经重回上行轨道，2026 年标普 500 指数接连创下历史新高。但就在这轮上涨之前，罗伯特・清崎就曾发出警告：大量配置股票的美国退...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "新锦动力证券事务代表四利晓荣获金麒麟·优秀证代荣誉",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-10/doc-inimvsvm4849212.shtml",
+      "date": "2026-08-10 18:34",
+      "summary": "8月10日，新浪财经第十二届金麒麟・金牌董秘及优秀证券事务代表完整榜单正式发布，新锦动力公司证代四利晓荣耀加冕优秀证券事务代表。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "神农集团证券事务代表李栋兵荣获金麒麟·优秀证代荣誉",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-10/doc-inimvsvm4846787.shtml",
+      "date": "2026-08-10 18:33",
+      "summary": "8月10日，新浪财经第十二届金麒麟・金牌董秘及优秀证券事务代表完整榜单正式发布，神农集团公司证代李栋兵荣耀加冕优秀证券事务代表。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "两股涨停，多股大涨！暑期档上演“沈腾效应”",
+      "link": "https://finance.sina.com.cn/stock/hyyj/2026-08-10/doc-inimvsvi2777459.shtml",
+      "date": "2026-08-10 18:33",
+      "summary": "图片来源：猫眼专业版 8月10日，A股影视院线板块普涨。其中，电影《欢迎来龙餐馆》（简称《龙餐馆》）的出品方北京文化当日开盘后一字涨停，联合出品方儒意电影午后涨停。",
+      "source": "界面",
+      "category": "a-stock"
+    },
+    {
+      "title": "健友股份证券事务代表钱晓捷荣获金麒麟·优秀证代荣誉",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-10/doc-inimvsvf1172409.shtml",
+      "date": "2026-08-10 18:33",
+      "summary": "8月10日，新浪财经第十二届金麒麟・金牌董秘及优秀证券事务代表完整榜单正式发布，健友股份公司证代钱晓捷荣耀加冕优秀证券事务代表。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "天虹股份证券事务代表罗曾琪荣获金麒麟·优秀证代荣誉",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-10/doc-inimvsvf1171767.shtml",
+      "date": "2026-08-10 18:32",
+      "summary": "8月10日，新浪财经第十二届金麒麟・金牌董秘及优秀证券事务代表完整榜单正式发布，天虹股份公司证代罗曾琪荣耀加冕优秀证券事务代表。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "罗莱生活证券事务代表章碰荣获金麒麟·优秀证代荣誉",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-10/doc-inimvsvf1171282.shtml",
+      "date": "2026-08-10 18:31",
+      "summary": "8月10日，新浪财经第十二届金麒麟・金牌董秘及优秀证券事务代表完整榜单正式发布，罗莱生活公司证代章碰荣耀加冕优秀证券事务代表。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "长城基金汪立：企稳回升态势有望延续",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-08-10/doc-inimvsvf1170672.shtml",
+      "date": "2026-08-10 18:31",
+      "summary": "上周市场主流指数全线上涨，中小盘表现较优。从申万一级行业来看，电子、有色金属、机械设备表现较好，银行、食品饮料、家用电器表现相对较弱。",
       "source": "新浪基金",
       "category": "a-stock"
     },
     {
-      "title": "光大银行：调整第二期优先股“光大优2”票面股息率为2.71%",
-      "link": "https://finance.sina.com.cn/jryx/bank/2026-08-10/doc-inimvsvf1165311.shtml",
-      "date": "2026-08-10 18:22",
-      "summary": "8月10日金融一线消息，光大银行公告，根据《中国光大银行股份有限公司非公开发行优先股（第二期）募集说明书》（简称《募集说明书》）的相关条款...",
+      "title": "聚和材料证券事务代表占凯云荣获金麒麟·优秀证代荣誉",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-10/doc-inimvsvi2774530.shtml",
+      "date": "2026-08-10 18:30",
+      "summary": "8月10日，新浪财经第十二届金麒麟・金牌董秘及优秀证券事务代表完整榜单正式发布，聚和材料公司证代占凯云荣耀加冕优秀证券事务代表。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "思朗科技冲刺科创板IPO：一个客户贡献了97%的收入，全自研架构不兼容CUDA？",
+      "link": "https://finance.sina.com.cn/stock/newstock/2026-08-10/doc-inimvsvi2776760.shtml",
+      "date": "2026-08-10 18:30",
+      "summary": "来源：翠鸟资本 文|翠鸟资本 7月7日，思朗科技科创板IPO获上交所受理。募资44.26亿元，估值80亿元，头顶“国家级独角兽”光环，股东名单里有茅台、宁德时代、中芯国际。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "安培龙证券事务代表彭碧泳荣获金麒麟·优秀证代荣誉",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-10/doc-inimvsvm4844404.shtml",
+      "date": "2026-08-10 18:29",
+      "summary": "8月10日，新浪财经第十二届金麒麟・金牌董秘及优秀证券事务代表完整榜单正式发布，安培龙公司证代彭碧泳荣耀加冕优秀证券事务代表。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "AI制药未来已来：从生成分子到兑现新药",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-08-10/doc-inimvsvm4844038.shtml",
+      "date": "2026-08-10 18:29",
+      "summary": "图1 从数字设计走向真实试验的验证 如果把传统新药研发比作在黑暗中试一把又一把钥匙，AI做的第一件事，不是替人把门打开，而是先把“最可能开门”的钥匙排到前面。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "盐湖股份证券事务代表巨敏荣获金麒麟·优秀证代荣誉",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-10/doc-inimvsvm4843990.shtml",
+      "date": "2026-08-10 18:28",
+      "summary": "8月10日，新浪财经第十二届金麒麟・金牌董秘及优秀证券事务代表完整榜单正式发布，盐湖股份公司证代巨敏荣耀加冕优秀证券事务代表。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "《中国人民银行“十五五”改革发展规划》印发：构建科学稳健的货币政策体系和覆盖全面的宏观审慎管理体系",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-08-10/doc-inimvsvm4843388.shtml",
+      "date": "2026-08-10 18:28",
+      "summary": "8月10日金融一线消息，近日，中国人民银行印发《中国人民银行“十五五”改革发展规划》（以下简称《规划》），并配套制定出台了9份相关细分领域的行动方案。",
       "source": "金融一线",
       "category": "a-stock"
     },
     {
-      "title": "中国人民银行印发《中国人民银行“十五五”改革发展规划》",
-      "link": "https://finance.sina.com.cn/money/bank/2026-08-10/doc-inimvsvi2769698.shtml",
-      "date": "2026-08-10 18:20",
-      "summary": "为全面贯彻党的二十大和二十届历次全会精神，深入落实中央金融工作会议决策部署，根据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》有关要求，近日...",
+      "title": "圣晖集成证券事务代表高杰杰荣获金麒麟·优秀证代荣誉",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-10/doc-inimvsvi8071098.shtml",
+      "date": "2026-08-10 18:28",
+      "summary": "8月10日，新浪财经第十二届金麒麟・金牌董秘及优秀证券事务代表完整榜单正式发布，圣晖集成公司证代高杰杰荣耀加冕优秀证券事务代表。",
       "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "广州发展证券事务代表徐子露荣获金麒麟·优秀证代荣誉",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-10/doc-inimvsvf1168766.shtml",
+      "date": "2026-08-10 18:27",
+      "summary": "8月10日，新浪财经第十二届金麒麟・金牌董秘及优秀证券事务代表完整榜单正式发布，广州发展公司证代徐子露荣耀加冕优秀证券事务代表。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "政策速递丨蓝V“画皮”揭穿之后，保险业互联网营销账号迎全面“体检”（附政策全文）",
+      "link": "https://finance.sina.com.cn/money/insurance/bxdt/2026-08-10/doc-inimvsvf1174800.shtml",
+      "date": "2026-08-10 18:26",
+      "summary": "原标题：政策速递丨独家！蓝V“画皮”揭穿之后，保险业互联网营销账号迎全面“体检”（附政策全文） 来源：观潮财经 1200元租个蓝V，就能冒充险企分支机构卖港险——这桩“生意”被...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "数据中心禁令数量突破500项，纽约、得州加入抵制浪潮",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvsvm4841530.shtml",
+      "date": "2026-08-10 18:25",
+      "summary": "今年夏季，地方政府对数据中心建设的抵制态势持续加剧。这对 Anthropic、谷歌、OpenAI 这类将算力扩张寄托于新建数据中心的 AI 巨头而言，是一个警示信号。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "银行总部大迁徙：民生银行挥别金融街，招行、华夏同步“换房”",
+      "link": "https://finance.sina.com.cn/roll/2026-08-10/doc-inimvsvi8068187.shtml",
+      "date": "2026-08-10 18:21",
+      "summary": "21世纪经济报道记者 张欣 在金融街待了30年的民生银行总部，决定“搬家”了。 近日，民生银行第九届董事会第二十三次会议审议通过了变更住所并修订公司章程相关条款的议案——...",
+      "source": "21世纪经济报道",
       "category": "a-stock"
     },
     {
@@ -44,11 +276,11 @@
       "category": "a-stock"
     },
     {
-      "title": "SK海力士回应“考虑出售重庆工厂”传闻：尚未确定任何事项",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-10/doc-inimvsvi8060612.shtml",
-      "date": "2026-08-10 18:09",
-      "summary": "8月10日，SK海力士发布公告澄清“中国重庆工厂推进出售”传闻。SK海力士称，公司正在研究多种加强封装业务竞争力的方案，但截至目前尚未确定任何具体事项。",
-      "source": "澎湃新闻",
+      "title": "这一主线再掀涨停潮！低位方向正在成为新主角？",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-10/doc-inimvsvi8072820.shtml",
+      "date": "2026-08-10 18:12",
+      "summary": "来源：证券市场周刊市场号 文 |牛犇 今天（8月10日），A股赚钱效应较好，只不过，这不是普涨，而是又一场“高低切换”的极致演绎。",
+      "source": "市场资讯",
       "category": "a-stock"
     },
     {
@@ -56,286 +288,6 @@
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvsvf1156111.shtml",
       "date": "2026-08-10 18:08",
       "summary": "这家合资公司预计为苹果 iPhone 供应传感器，同时押注人工智能机器人未来需求。 日经新闻报道，索尼集团与台积电计划合计投入约 1 万亿日元（折合 63...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "盘后，利好来了！两部门，重磅发布！事关2万亿板块",
-      "link": "https://finance.sina.com.cn/stock/zqgd/2026-08-10/doc-inimvsvi8060581.shtml",
-      "date": "2026-08-10 18:07",
-      "summary": "盘后，煤炭板块迎来政策利好！ 8月10日下午消息，国家发改委、国家能源局印发《煤炭工业发展“十五五”规划》，提出到2030年，煤炭兜底保障能力进一步增强...",
-      "source": "券商中国",
-      "category": "a-stock"
-    },
-    {
-      "title": "六部门印发《生态保护“十五五”规划》",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-10/doc-inimvsvi8059284.shtml",
-      "date": "2026-08-10 18:07",
-      "summary": "人民财讯8月10日电，生态环境部等六部门印发《生态保护“十五五”规划》。规划提出，主要目标是：到2030年，生态空间格局持续优化，生态质量稳步改善...",
-      "source": "e公司",
-      "category": "a-stock"
-    },
-    {
-      "title": "英伟达拟最高投资30亿美元，入股Stargate项目背后电力企业",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvsvf1154299.shtml",
-      "date": "2026-08-10 18:05",
-      "summary": "这笔交易对兰西姆（Lancium）的企业估值约 100 亿美元。 据《The Information》上周五晚间报道，英伟达同意向电力基建开发商兰西姆（Lancium）投资 20...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美债收益率小幅下行，投资者静待关键通胀数据",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvsvi8055036.shtml",
-      "date": "2026-08-10 18:01",
-      "summary": "本周伊始，美国国债收益率小幅走低。投资者将迎来密集经济数据周，市场焦点集中在一项核心通胀指标。 10 年期美债收益率下行逾 1 个基点...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "银行年报「上锁」，藏着什么「秘密」？",
-      "link": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-08-10/doc-inimvsvi8060817.shtml",
-      "date": "2026-08-10 18:00",
-      "summary": "来源：柒财经 时至今日，2026年已过半载，但仍有一批中小银行对自己去年的业绩遮遮掩掩。 打开衡水银行、廊坊银行、抚顺银行、保定银行、山西银行等城商行的官网...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "千亿存储龙头，遭高管套现超50亿元",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-10/doc-inimvsvm4833237.shtml",
-      "date": "2026-08-10 17:59",
-      "summary": "记者丨吴佳楠 编辑丨孙超逸，江佩霞，张明艳 国产存储模组龙头江波龙（301308.SZ）一则37亿元的定增公告，让参与认购的21家机构和个人投资者集体站上了山顶。",
-      "source": "21世纪经济报道",
-      "category": "a-stock"
-    },
-    {
-      "title": "中信建投解读LOF退市新规征求意见稿：约250余亿元LOF或终止上市",
-      "link": "https://finance.sina.com.cn/money/fund/2026-08-10/doc-inimvsvm4826612.shtml",
-      "date": "2026-08-10 17:59",
-      "summary": "来源：中信建投金工及基金研究团队 2026年8月7日，沪深交易所同步发布《关于就完善上市开放式基金相关安排公开征求意见的通知》（以下简称《通知》）...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "五家基金公司同日披露高管变动 年内公募高管变更已超230起",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-08-10/doc-inimvsvf1150065.shtml",
-      "date": "2026-08-10 17:59",
-      "summary": "8月8日，富国基金、上银基金、国投瑞银基金、中信保诚基金、国融基金五家公募基金管理人集中发布高级管理人员变更公告，涉及首席信息官、督察长、副总经理...",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "“创始股东”选择减持，网罗大咖的天弘基金摆脱不了余额宝依赖",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-10/doc-inimvsvf1151449.shtml",
-      "date": "2026-08-10 17:59",
-      "summary": "界面新闻记者 | 杜萌 天津市公共资源交易服务平台的最新公告显示，天津信托正在以15.67亿元的价格转让天弘基金4.99%股权。照此价格推算...",
-      "source": "界面",
-      "category": "a-stock"
-    },
-    {
-      "title": "商务部新闻发言人就对原产于墨西哥和美国的进口碧根果反倾销调查初裁答记者问",
-      "link": "https://finance.sina.com.cn/china/2026-08-10/doc-inimvsvf1160907.shtml",
-      "date": "2026-08-10 17:55",
-      "summary": "商务部新闻发言人就对原产于墨西哥和美国的进口碧根果反倾销调查初裁答记者问 问：我们注意到商务部网站发布了对原产于墨西哥和美国的进口碧根果反倾销调查的初裁公告...",
-      "source": "商务部网站",
-      "category": "a-stock"
-    },
-    {
-      "title": "招行、宜春农商等三家银行因绩效考评指标设置违规领罚！监管刀口终于指向“内卷”源头了？",
-      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-08-10/doc-inimvsvi2752475.shtml",
-      "date": "2026-08-10 17:51",
-      "summary": "来源：行长要鉴 2026年8月7日，江苏、福建、江西三地金融监管局在同一天披露罚单，招商银行南京分行及下辖分支、永泰县农村信用合作联社、宜春农村商业银行被罚...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "两市超4000股上涨，医疗服务板块高开高走｜华宝基金3A日报（2026.8.10）",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-10/doc-inimvnpp4952427.shtml",
-      "date": "2026-08-10 17:51",
-      "summary": "",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "摩尔线程，半年度营收翻倍",
-      "link": "https://finance.sina.com.cn/wm/2026-08-10/doc-inimvsvi8051506.shtml",
-      "date": "2026-08-10 17:48",
-      "summary": "作者 |第一财经魏中原 AI算力需求爆发背景下，国产GPU企业的业绩兑现能力与持续融资需求成为中报季市场焦点。 摩尔线程（688795.SH）近日发布2026年半年度报告...",
-      "source": "一财网",
-      "category": "a-stock"
-    },
-    {
-      "title": "商务部：初步认定原产于墨西哥和美国的进口碧根果存在倾销",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-10/doc-inimvnpp4952533.shtml",
-      "date": "2026-08-10 17:46",
-      "summary": "根据《中华人民共和国反倾销条例》（以下简称《反倾销条例》）的规定，2025年9月25日，商务部（以下称调查机关）发布2025年第52号公告...",
-      "source": "央视",
-      "category": "a-stock"
-    },
-    {
-      "title": "福莱特转亏后再买0营收标的：直接融资140亿有息负债超百亿 曾33亿溢价14倍收购大股东资产",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-08-10/doc-inimvnpp4948048.shtml",
-      "date": "2026-08-10 17:43",
-      "summary": "出品：新浪财经上市公司研究院 作者：昊 8月5日晚，福莱特发布公告，公司拟以自有资金约6004万元收购关联方嘉兴义和投资有限公司持有的上海福来瑞诚新材料有限公司（以下称...",
-      "source": "新浪证券",
-      "category": "a-stock"
-    },
-    {
-      "title": "创新药+CXO齐发力，中报验证产业向上大趋势？",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-08-10/doc-inimvnpp4945765.shtml",
-      "date": "2026-08-10 17:41",
-      "summary": "截至8月7日，已有22家创新药上市公司发布今年上半年业绩相关报告且普遍向好，其中同比增长的有12家，扭亏的有3家，还有1家减亏。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "AI制药点燃“卖铲人”行情，CXO巨头刷新多项纪录！创新药接棒在即？基金经理最新解读来了！",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-10/doc-inimvnpi1271075.shtml",
-      "date": "2026-08-10 17:41",
-      "summary": "8月以来，港股创新药产业链再起攻势，CXO强势领衔！8月10日，药明康德H股续创历史新高，盘中市值突破6000亿港元。港股通医疗ETF华宝（159137）逾5成仓位布局CXO...",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "正荣地产化债，以小博大",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-10/doc-inimvnpi1272178.shtml",
-      "date": "2026-08-10 17:40",
-      "summary": "这家房企化债，以小博大 来源：地产K线 文丨乐居财经 曾树佳 正荣地产（06158.HK）抛出了一份新的境内债化解方案。 8月10日，它发布公告称，将为旗下本金总额为66...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "俄罗斯央行建议各银行，准许遭仓库袭击受损的企业进行贷款重组",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvnpp4944171.shtml",
-      "date": "2026-08-10 17:38",
-      "summary": "俄罗斯央行周一发布信函称，已建议信贷机构帮扶那些因乌克兰无人机袭击物流中心与仓库而蒙受损失的企业。 自7月18日以来，电商平台野莓（Wildberries）旗下已有至少20处仓...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "超30家险资隐形布局宇树科技，借私募锚定硬科技赛道",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-10/doc-inimvnpm8172752.shtml",
-      "date": "2026-08-10 17:38",
-      "summary": "界面新闻记者 | 曾令俊 8月10日，宇树科技（688836.SH）正式开启科创板网上、网下申购，发行价定格在150.80元/股，对应发行后总市值约609.93亿元，预计募集资金规模达60...",
-      "source": "界面",
-      "category": "a-stock"
-    },
-    {
-      "title": "ATFX本周前瞻:美国7月CPI数据 澳洲联储决议OPEC月报",
-      "link": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-08-10/doc-inimvnpi1267999.shtml",
-      "date": "2026-08-10 17:35",
-      "summary": "▲ATFX表 本周三：美国7月CPI年率8月10日，本周三20：30，美国劳工部将公布美国7月未季调CPI年率数据，市场预期值3.4%，低于前值0.1个百分点；7月未季调CPI月率预期值为0...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "99.67%！出租率创历史新高 华夏金茂消费REIT1.23亿分红回馈投资者",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-08-10/doc-inimvnpm2868070.shtml",
-      "date": "2026-08-10 17:30",
-      "summary": "近日，华夏金茂消费REIT（508017）在长沙览秀城项目现场举行2026年投资者开放日活动。金茂酒商财务总监窦慧慧、长沙览秀城项目总经理王竹，华夏金茂消费REIT基金经理谭琳...",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "2026年Apple Watch升级平淡，但大改版已在酝酿",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvnpm2866496.shtml",
-      "date": "2026-08-10 17:26",
-      "summary": "2026年的Apple Watch升级预计较为平淡，主要以性能和健康功能改进为主，外观不会有大变化。不过，苹果已在重新思考智能手表的整体方向，更大幅度的改款正在推进中。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "今日多只LOF基金大跌！ LOF退市新规发威！(别慌，退市不是清盘)",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-08-10/doc-inimvnpi1261798.shtml",
-      "date": "2026-08-10 17:23",
-      "summary": "来源：简盈财观 作者/齐思 编辑/FENGLING - 1 - 今日市场“惊雷” 8月10日，LOF基金市场迎来了一场“地震”。 今日，多只LOF基金大幅下跌，市场风声鹤唳。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "德银Q2增持美光科技 英伟达位列第一重仓股",
-      "link": "https://finance.sina.com.cn/roll/2026-08-10/doc-inimvnpm8164329.shtml",
-      "date": "2026-08-10 17:23",
-      "summary": "来源：财联社 【德银Q2增持美光科技 英伟达位列第一重仓股】财联社8月10日电，根据美国证监会（SEC）披露，德意志银行二季度持仓总市值达3440亿美元...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "伊朗为霍尔木兹复航开出多重条件：美须赔偿并停止威胁",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvnpi1259877.shtml",
-      "date": "2026-08-10 17:22",
-      "summary": "伊朗表示，与阿曼就霍尔木兹海峡新航道安排的协议已接近最终敲定，但重申在美国满足多项要求之前，不会重新开放这条战略水道。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "对话优必选张钜：具身智能人形机器人已初步形成工业、商业、家庭“三箭齐发”态势",
-      "link": "https://finance.sina.com.cn/stock/csjzbj/2026-08-10/doc-inimvnpi1258897.shtml",
-      "date": "2026-08-10 17:20",
-      "summary": "文/新浪财经陈秀颖 近日，第二十届沙利文全球增长、科创与领导力峰会暨第五届新投资大会在上海举行。大会期间，新浪财经对话优必选（09880.HK）首席财务官...",
-      "source": "长三角资本局",
-      "category": "a-stock"
-    },
-    {
-      "title": "获美国国防部投资 澳大利亚稀土矿企股价飙升",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvnpp4933288.shtml",
-      "date": "2026-08-10 17:20",
-      "summary": "澳大利亚稀土企业日出能源金属周一股价一度飙升 29%。这家矿企获得美国 4 亿美元长期债务融资，用于开发全球首个原生钪矿项目。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "人民币对美元汇率创三年半新高，接下来怎么走？",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-10/doc-inimvnpm8161683.shtml",
-      "date": "2026-08-10 17:18",
-      "summary": "记者 辛圆 8月10日，在岸人民币对美元收盘报6.7442，较上一交易日上涨59点，创2023年2月2日以来新高。 中间价方面，8月10日，人民币对美元中间价调升20个基点，报6.7884...",
-      "source": "界面",
-      "category": "a-stock"
-    },
-    {
-      "title": "乌克兰数百架无人机夜袭俄罗斯腹地，至少12人死亡",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvnpp4932342.shtml",
-      "date": "2026-08-10 17:18",
-      "summary": "乌克兰周日夜间对俄罗斯发动大规模无人机袭击，俄罗斯方面称拦截了456架无人机。袭击波及约15个地区，包括俄罗斯中部的鞑靼斯坦以及被吞并的克里米亚，造成至少12人死亡...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "预亏却10连板！爱丽家居左手跨界，右手控股股东套现4.5亿元？",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-10/doc-inimvnpm2863364.shtml",
-      "date": "2026-08-10 17:17",
-      "summary": "来源：尺度商业 文 | 张佳儒 编辑 | 刘振涛 你敢信吗？一家上半年预亏卖地板的公司，股价却上演10连板。8月6日，复牌后的爱丽家居再度涨停，加上停牌前的9个涨停...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "特朗普任命威尔・沙夫出任白宫法律顾问",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvnpi1256125.shtml",
-      "date": "2026-08-10 17:15",
-      "summary": "美国总统特朗宣布威尔・沙夫将于9月出任新任白宫法律顾问。此番人事调整恰逢中期选举前夕，且美国国会或将启动多项调查工作。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "帕兰提尔股价上周大涨近40%，AI驱动增长超预期",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvnpm8157183.shtml",
-      "date": "2026-08-10 17:14",
-      "summary": "数据分析和人工智能公司帕兰提尔（Palantir Technologies）上周股价上涨近40%。推动上涨的直接原因，是公司公布了远超预期的第二季度业绩，显示出强劲的AI驱动增长。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "特朗普称国际石油巨头赚得盆满钵满 这些企业打算如何处置巨额现金流？",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvnpi1253664.shtml",
-      "date": "2026-08-10 17:11",
-      "summary": "核心要点 各大石油巨头二季度合计盈利 480 亿美元，现金流接近 900 亿美元，创下历史新高。 巨额意外利润再度引发政治与环保层面的强烈反弹；特朗普指责埃克森美孚...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "泰晤士水务向财务总监支付100万英镑签约费引发争议",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvnpm8153839.shtml",
-      "date": "2026-08-10 17:09",
-      "summary": "英国最大水务公司泰晤士水务（Thames Water）向其财务总监史蒂夫·巴克（Steve Buck）支付了100万英镑签约费。此举正值公司财务状况受到严格审查、竭力避免被收归公有之际...",
       "source": "环球市场播报",
       "category": "a-stock"
     }
