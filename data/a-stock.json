@@ -1,8 +1,240 @@
 {
-  "updated": "2026-08-14T19:45:52.380912+08:00",
+  "updated": "2026-08-14T20:57:01.645260+08:00",
   "source": "A股聚合",
-  "count": 49,
+  "count": 38,
   "items": [
+    {
+      "title": "Arm联合创始人赫尔曼・豪瑟发出AI警示：革命确已到来，但泡沫风险同样真实",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpi2789662.shtml",
+      "date": "2026-08-14 20:53",
+      "summary": "鲜有投资人敢称亲历过去四十年的每一轮重大科技浪潮。赫尔曼・豪瑟1978年联合创立Acorn计算机公司，参与缔造全球最重要的芯片企业之一Arm；如今...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "Databricks被投资人“逼”着多融：本想10亿，最终拿下50亿美元，估值达1900亿",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpi2787907.shtml",
+      "date": "2026-08-14 20:50",
+      "summary": "AI大数据公司Databricks周四正式公布最新一轮融资：募资50亿美元，估值达1900亿美元。有趣的是，公司原本只想融10亿美元，却因一篇报道意外引爆投资热潮...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美国7月份零售额创一年多来最大跌幅 消费者减少购车及网购",
+      "link": "https://finance.sina.com.cn/world/2026-08-14/doc-ininhxpm9274154.shtml",
+      "date": "2026-08-14 20:44",
+      "summary": "由于消费者减少购买汽车和网购商品，美国7月份零售额出现了一年多来的最大跌幅。 美国普查局周五公布的数据显示，未经通胀调整的零售销售额下降0.6%。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "数据泄露通知数量已远超去年全年 人工智能影响持续扩大",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpk2498801.shtml",
+      "date": "2026-08-14 20:39",
+      "summary": "尽管企业投入更多资源开展网络安全建设，但已披露的涉及消费者个人信息的数据泄露事件，有望突破去年创下的纪录。 身份盗窃资源中心（ITRC）是一家帮助身份被盗受害者...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "盘前：市场重新涌入AI 纳指期货涨0.28%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpm9267555.shtml",
+      "date": "2026-08-14 20:31",
+      "summary": "周五全球股市走势震荡，有望连续第三周上涨，美国国债收益率小幅走高。此前温和的美国通胀数据削弱了市场对美联储下月加息的预期，不过...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "兰州银行拟收购临洮金城村镇银行，“金城系”村改支迎收官，年内全国超150家村行获批退出",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininhxpk2493559.shtml",
+      "date": "2026-08-14 20:26",
+      "summary": "每经记者|刘嘉魁每经编辑|杜宇 2026年8月12日，兰州银行发布公告，拟于8月28日召开2026年第一次临时股东会，审议收购临洮县金城村镇银行并设立支行的议案。",
+      "source": "每日经济新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "“价格涨太快，我很抱歉”，SK海力士：明年将迎最严重存储荒，美股存储芯片股盘前大涨，闪迪涨超7%",
+      "link": "https://finance.sina.com.cn/wm/2026-08-14/doc-ininhxpm9265393.shtml",
+      "date": "2026-08-14 20:22",
+      "summary": "“所有的客户都在要求接近原来需求两倍的供货量。这是争夺记忆芯片的战争。”据上海证券报报道，日前，SK集团会长崔泰源在SK海力士韩国总部接受媒体采访时...",
+      "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
+    {
+      "title": "五角大楼联手波音与RTX：加速SM-3拦截弹生产，强化宙斯盾防御系统",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpe4044223.shtml",
+      "date": "2026-08-14 20:20",
+      "summary": "美国国防部已与波音公司和RTX达成两项框架协议，旨在加快SM-3 Block IB和SM-3 Block IIA导弹关键部件的生产。 这两款导弹是从舰艇发射的关键地对空拦截弹...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininhxpm9262743.shtml",
+      "date": "2026-08-14 20:19",
+      "summary": "财联社8月14日讯（记者 梁柯志）今日，国内首个词元经济专项金融产品“Token贷”在广州海珠区发布。 据中国银行广东省分行介绍，算力Token贷为针对广州海珠区算力中小微企业...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "贷款利率下行怎么看？专家：信贷投放较为充分 反映经济结构转型",
+      "link": "https://finance.sina.com.cn/roll/2026-08-14/doc-ininhxpi2770962.shtml",
+      "date": "2026-08-14 20:14",
+      "summary": "21世纪经济报道记者 唐婧 记者从中国人民银行获悉，7月份企业新发放贷款加权平均利率略低于3.0%，比上年同期低约0.2个百分点；新发放个人住房贷款加权平均利率约为3.1%...",
+      "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
+    {
+      "title": "【金融街时评】金融服务质效稳步提升",
+      "link": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-08-14/doc-ininhxpi2773922.shtml",
+      "date": "2026-08-14 20:11",
+      "summary": "来源：金融时报 记者：马梅若 根据央行最新发布的金融数据，截至7月末，本外币贷款余额286.07万亿元，同比增长5%。月末人民币贷款余额282.29万亿元，同比增长5.1%。",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "太空数据中心或将成为保险业全新赛道：前提是保险公司能够合理厘定风险保费",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpe4037648.shtml",
+      "date": "2026-08-14 20:06",
+      "summary": "核心要点埃隆・马斯克旗下 SpaceX 与杰夫・贝索斯的蓝色起源押注轨道计算赛道，计划把数据中心部署至太空。达信保险美国航空航天业务负责人帕顿・克兰表示...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "中际旭创重金出手！3.7万股民“嗨了”，200亿龙头20cm涨停！实控人一家三口一把套现逾17亿",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-14/doc-ininhxpe4038139.shtml",
+      "date": "2026-08-14 20:03",
+      "summary": "8月13日晚，中际旭创公告，公司与中石科技（300684.SZ）控股股东吴晓宁、叶露、HANWU（吴憾）签署《股份转让协议》，拟以现金方式协议受让三人合计持有的公司总股本的10...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "ARM联合创始人赫尔曼・豪泽警示AI：变革确已到来，但泡沫风险同样不容忽视",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpk2482242.shtml",
+      "date": "2026-08-14 20:03",
+      "summary": "核心要点芯片巨头 ARM 联合创始人赫尔曼・豪泽同时也是一名投资人，亲历过去四十轮重大科技浪潮。他做客《The Tech Download》播客节目。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "《宝可梦 Pokopia》销量突破500万份，任天堂股价大涨7%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpk2480973.shtml",
+      "date": "2026-08-14 20:01",
+      "summary": "核心要点任天堂宣布，旗舰主机 Switch 2 平台游戏《宝可梦 Pokopia》销量突破 500 万份。投资者密切关注游戏销量动态，爆款大作通常能够拉动主机出货量...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "华尔街高风险交易再度领涨市场",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpm9251832.shtml",
+      "date": "2026-08-14 19:58",
+      "summary": "投资者正在加大风险敞口，并且收获了正向回报。 8 月开市仅 9 个交易日，凯西・伍德执掌的方舟创新 ETF（ARKK）涨幅达 16%；新股、芯片、软件板块涨幅均超 9%。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "ATFX:有消息称日本央行最快9月加息 未来每年加息超两次",
+      "link": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-08-14/doc-ininhxpe4031332.shtml",
+      "date": "2026-08-14 19:56",
+      "summary": "8月14日，ATFX汇评：据路透披露，有消息称，日本央行最早将于9月再次加息，并考虑此后每年加息超两次。关于日本央行何时加息以及加息的频率，一直是市场人士关心的焦点...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "平安银行：聘任王军为副行长",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-08-14/doc-ininhxpe4030474.shtml",
+      "date": "2026-08-14 19:54",
+      "summary": "8月14日金融一线消息，平安银行发布董事会决议公告，该行第十三届董事会第七次会议审议通过了《关于聘任王军为平安银行股份有限公司副行长的议案》...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "胡塞封锁下的红海迷局：沙特油轮悄然\"消失\"",
+      "link": "https://finance.sina.com.cn/roll/2026-08-14/doc-ininhxpe4040474.shtml",
+      "date": "2026-08-14 19:54",
+      "summary": "来源：华尔街见闻 胡塞武装封锁红海后，沙特油轮为避袭击大规模关闭AIS系统，亚布港等关键终端装载作业陷入“暗船”状态，致出口数据严重失真。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "ATFX:欧元区二季度GDP即将发布预期维持1%不变 贸易帐数据同时发布",
+      "link": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-08-14/doc-ininhxpi2757794.shtml",
+      "date": "2026-08-14 19:53",
+      "summary": "8月14日，ATFX汇评：北京时间17：00，欧盟统计局将公布欧元区二季度GDP增速年率，金融市场预期将维持1%不变。欧元区6月未季调贸易账数据同时发布，前值为逆差78亿欧元...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "美股“加钟”，纳斯达克将实施23小时交易制！要虹吸亚太股民资金？投资者需警惕全球金融资本争夺战｜每经热评",
+      "link": "https://finance.sina.com.cn/stock/wbstock/2026-08-14/doc-ininhxpe4032007.shtml",
+      "date": "2026-08-14 19:53",
+      "summary": "来源：@每日经济新闻微博#亚太股民小心被美股虹吸资金# 【美股“加钟”，#纳斯达克将实施23小时交易制#！要虹吸亚太股民资金？投资者需警惕全球金融资本争夺战｜每经热评】美...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "重大便利化政策落地！跨国公司本外币跨境资金集中运营业务推广至全国",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-08-14/doc-ininhxpk2483842.shtml",
+      "date": "2026-08-14 19:52",
+      "summary": "为更好便利企业跨境资金统筹使用，中国人民银行、国家外汇管理局（下称“两部门”）8月14日联合发布《关于跨国公司本外币跨境资金集中运营业务有关事宜的通知》（下称《通知...",
+      "source": "券商中国",
+      "category": "a-stock"
+    },
+    {
+      "title": "高毅最新10亿美元持仓披露：卡位AI核心环节，加仓台积电为第一大重仓，新进阿里等，加码存储",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-08-14/doc-ininhxpm9252048.shtml",
+      "date": "2026-08-14 19:52",
+      "summary": "来源：六里投资报 8月12日，美国证券交易委员会官网披露了私募巨头高毅资产海外基金（Perseverance Asset Management International）2026年二季度的美股持仓数据。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "巴菲特继任人阿贝尔将于8月14日晚向华尔街抛出重磅消息",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpi2756591.shtml",
+      "date": "2026-08-14 19:51",
+      "summary": "作者：肖恩・威廉姆斯 沃伦・巴菲特一手打造的这家万亿级综合企业集团，在 2026 年踏入全新阶段。“奥马哈先知” 巴菲特于 12 月 31 日卸任伯克希尔・哈撒韦（纽交所：BRKA...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美国30年期国债收益率升至2001年来最高：债务逼近40万亿美元，通胀阴云不散",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpk2474543.shtml",
+      "date": "2026-08-14 19:48",
+      "summary": "美国财政部周四拍卖250亿美元30年期国债，最高中标收益率达5.22%，为2001年8月以来最高水平。当时该收益率曾达到5.52%，此后30年期国债拍卖暂停近五年。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "透视77家非上市财险公司业绩：总保费2716亿、净利润89亿，13家陷亏损",
+      "link": "https://finance.sina.com.cn/money/insurance/bxdt/2026-08-14/doc-ininhxpi2754566.shtml",
+      "date": "2026-08-14 19:47",
+      "summary": "蓝鲸新闻8月14日讯（记者 陈晓娟）近期，非上市财险公司相继披露2026年上半年偿付能力报告，交出成绩单。 记者统计，77家非上市财险公司合计实现保费收入2716.03亿元...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "许昆林会见浦发银行董事长张为忠行长谢伟",
+      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-08-14/doc-ininhxpm9250966.shtml",
+      "date": "2026-08-14 19:43",
+      "summary": "8月14日，省委书记许昆林在沈阳会见浦发银行董事长张为忠、行长谢伟一行。 许昆林对张为忠、谢伟一行来辽深化合作表示欢迎，对浦发银行长期以来给予辽宁振兴发展的支持帮助...",
+      "source": "辽宁发布",
+      "category": "a-stock"
+    },
+    {
+      "title": "太辰光：2026年半年度净利润1.76亿元 同比增长1.71%",
+      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-14/doc-ininhxpe4026322.shtml",
+      "date": "2026-08-14 19:41",
+      "summary": "太辰光(300570.SZ)公告称，公司发布2026年半年度报告，实现营业收入10.01亿元，同比增长20.81%；归属于上市公司股东的净利润1.76亿元，同比增长1.71%。",
+      "source": "财联社",
+      "category": "a-stock"
+    },
+    {
+      "title": "【百强透视】利润增4.6倍 迈富时（2556.HK）成长潜力被看好？",
+      "link": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-14/doc-ininhxpi2755245.shtml",
+      "date": "2026-08-14 19:37",
+      "summary": "8月14日，AI营销SaaS龙头迈富时（02556.HK）股价表现强劲，截至收盘，涨幅达15.23%，报56港元/股。消息面，8月13日盘后，迈富时披露2026年上半年业绩报告，营收...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
     {
       "title": "《宝可梦：波可比亚》销量突破500万 任天堂股价大涨7%",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhtfp9372044.shtml",
@@ -12,387 +244,67 @@
       "category": "a-stock"
     },
     {
-      "title": "平安银行：2026年上半年净息差1.80%，较去年全年上升2个基点",
-      "link": "https://finance.sina.com.cn/jryx/bank/2026-08-14/doc-ininhtfp9369960.shtml",
-      "date": "2026-08-14 19:33",
-      "summary": "8月14日金融一线消息，平安银行发布2026 年半年度报告称，2026 年上半年，本集团实现营业收入706.17 亿元，同比增长 1.8%，实现净利润 256.96 亿元，同比增长 3.3%。",
-      "source": "金融一线",
+      "title": "A股多家光通信上市公司，集体提示风险",
+      "link": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-14/doc-ininhxpk2476501.shtml",
+      "date": "2026-08-14 19:35",
+      "summary": "14日晚间，A股多家光通信概念股提示风险。炬光科技发布公告称，公司股票于8月12日至14日连续3个交易日收盘价格涨幅偏离值累计超过30%，属于股票交易异常波动。",
+      "source": "新浪财经2",
       "category": "a-stock"
     },
     {
-      "title": "ETF日报：产业趋势没有变，全国内外云厂商与互联网平台都在提升基础设施投入，可关注通信ETF",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-14/doc-ininhtfn2596423.shtml",
+      "title": "齐心集团拟每10股派发现金红利0.7元",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-08-14/doc-ininhtfn2599492.shtml",
       "date": "2026-08-14 19:31",
-      "summary": "今日A股短期处于反弹后的平台震荡消化阶段，上证指数收于3927.18点，仅微涨0.01%；深证成指表现更强，上涨0.45%；创业板指则成为今日领涨主力，上涨1.12%...",
-      "source": "新浪基金",
+      "summary": "8月14日，齐心集团（002301）发布公告，公司拟向全体股东每10股派发现金红利0.7元（含税），预计总派发金额为5068万元。",
+      "source": "新浪财经2",
       "category": "a-stock"
     },
     {
-      "title": "平安银行公布中期利润分配方案：每10股派发现金股利人民币2.49元",
-      "link": "https://finance.sina.com.cn/jryx/bank/2026-08-14/doc-ininhtfn2595811.shtml",
-      "date": "2026-08-14 19:30",
-      "summary": "8月14日金融一线消息，平安银行发布2026年中期利润分配方案，该行 2026 年中期作如下利润分配： 综合考虑股东投资回报、监管机构对资本充足率的要求以及该行业务可持续发展...",
-      "source": "金融一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "平安银行：2026年上半年净利润256.96亿元，同比增长3.3%",
-      "link": "https://finance.sina.com.cn/jryx/bank/2026-08-14/doc-ininhtfh4146133.shtml",
-      "date": "2026-08-14 19:26",
-      "summary": "8月14日金融一线消息，平安银行公告，2026年上半年营业收入706.17亿元，同比增长1.8%。归属于本行股东的净利润256.96亿元，同比增长3.3%，上年同期净利润248.7亿元。",
-      "source": "金融一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "白酒龙头全线下挫，华宝基金食品饮料ETF（515710）收跌1.16%！机构：龙头发力挺价，筑底信号或现",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-14/doc-ininhtfh4145626.shtml",
-      "date": "2026-08-14 19:26",
-      "summary": "吃喝板块今日（8月14日）全天弱势，反映吃喝板块整体走势的食品饮料ETF华宝（515710）开盘后震荡走弱，最终场内价格收跌1.16%。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "CPI+PPI+非农三重降温，加息预期骤减！稀土“低量高价”增厚利润，华宝基金有色ETF劲涨1%获净申购3120万份",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-14/doc-ininhtfp9365079.shtml",
-      "date": "2026-08-14 19:24",
-      "summary": "周五（8月14日）有色金属板块跟随市场震荡，早盘冲高回落，午后再起攻势，全天超61亿主力资金净流入有色金属板块，板块吸金额高居31个申万一级行业第三位...",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "浦发银行：拟向上海国际集团核定350亿元授信、中国移动集团关联交易额不超405亿元",
-      "link": "https://finance.sina.com.cn/jryx/bank/2026-08-14/doc-ininhtfh4144880.shtml",
-      "date": "2026-08-14 19:24",
-      "summary": "8月14日金融一线消息，浦发银行发布关联交易公告，该行拟为上海国际集团有限公司（以下简称“上海国际集团”）核定人民币 350 亿元集团综合授信额度；拟为中国移动通信集团有...",
-      "source": "金融一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "信息量很大！从Coherent到腾讯，科技巨头电话会都说了啥？光模块加持，高“光”159363领涨3%",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-14/doc-ininhtfn2592015.shtml",
-      "date": "2026-08-14 19:23",
-      "summary": "周五（8月14日），创业板人工智能领涨市场，光模块、算力租赁等方向表现活跃。光模块龙头反弹，新易盛、天孚通信涨超4%，中际旭创涨超2%。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "深交所33问直击核心痛点，南方基金润泽科技数据中心REIT扩募面临严苛大考",
-      "link": "https://finance.sina.com.cn/stock/aigcy/2026-08-14/doc-ininhtfm2870729.shtml",
-      "date": "2026-08-14 19:21",
-      "summary": "8月12日，南方基金发布公告披露，公司已于8月10日收到深交所下发的《关于南方润泽科技数据中心封闭式基础设施证券投资基金产品变更暨扩募份额上市和南方资本-润泽科技数据...",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "算力重要信号，DeepSeek大幅涨价！华宝基金云计算ETF（159099）异动冲高，算力租赁含量近6成，领跑同类！",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-14/doc-ininhtfn2590210.shtml",
-      "date": "2026-08-14 19:20",
-      "summary": "8月14日午后，算力赛道突发异动，算力租赁再度爆发，数据港迅速封板，网宿科技20CM涨停，奥飞数据涨超7%，云赛智联、二六三、首都在线等涨幅居前。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "光模块猛攻，高“光”159363劲涨3%！DeepSeek涨价利好算力租赁？华宝基金云计算ETF收盘新高！有色大举吸金",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-14/doc-ininhtfh4141819.shtml",
-      "date": "2026-08-14 19:19",
-      "summary": "8月14日，A股呈V字走势，沪指翘尾收红报3927.18点，科技股日内宽幅震荡，创指冲高回落再拉升，最终收涨1.12%。全市场成交2.16万亿元，较上日显著缩量。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "司法抵债99%股权，易极付“易主”海尔小贷，牌照年底续展前景存疑",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininhtfm2870242.shtml",
-      "date": "2026-08-14 19:17",
-      "summary": "界面新闻记者 | 林倩冰 重庆易极付科技有限公司（下称易极付）将易主。据公开信息，重庆海尔小额贷款有限公司（下称海尔小贷）将承接重庆市博恩科技（集团）有限公司（下称...",
-      "source": "界面",
-      "category": "a-stock"
-    },
-    {
-      "title": "光纤、半导体两只大牛股紧急提示风险",
-      "link": "https://finance.sina.com.cn/wm/2026-08-14/doc-ininhtfn2587323.shtml",
-      "date": "2026-08-14 19:11",
-      "summary": "8月14日，光纤两倍大牛股长盈通、半导体光通信三倍大牛股炬光科技发布股票交易异常波动公告，紧急提示风险。长盈通(688143.SH)公告称...",
-      "source": "21世纪经济报道",
-      "category": "a-stock"
-    },
-    {
-      "title": "大动作！四川农信最后6市统一法人改革，进入收官阶段！",
-      "link": "https://finance.sina.com.cn/roll/2026-08-14/doc-ininhtfm2864046.shtml",
-      "date": "2026-08-14 19:08",
-      "summary": "21世纪经济报道 记者郭聪聪 四川农村中小银行改革迎来关键节点！ 21世纪经济报道记者从知情人士处了解到，按照前期计划，四川绵阳、宜宾、泸州、眉山、遂宁...",
-      "source": "21世纪经济报道",
-      "category": "a-stock"
-    },
-    {
-      "title": "中小跨国公司资金归集更方便了！本外币跨境资金集中运营全国推广",
-      "link": "https://finance.sina.com.cn/roll/2026-08-14/doc-ininhtfm2864208.shtml",
-      "date": "2026-08-14 19:08",
-      "summary": "21世纪经济报道记者 唐婧 跨国公司展业再迎重大利好。 8月14日，中国人民银行、国家外汇管理局联合发布《关于跨国公司本外币跨境资金集中运营业务有关事宜的通知》（以下简...",
-      "source": "21世纪经济报道",
-      "category": "a-stock"
-    },
-    {
-      "title": "冲刺四川首张理财牌照：资产规模前4银行“抱团”申设，筹建专班已进入实操阶段",
-      "link": "https://finance.sina.com.cn/roll/2026-08-14/doc-ininhtfn2586320.shtml",
-      "date": "2026-08-14 19:07",
-      "summary": "华夏时报记者卢梦雪 北京报道 四川银行业距离首张理财公司牌照更近了一步。 日前，市场消息称，由四川农商联合银行牵头，联合四川银行、成都银行...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "跨国公司本外币跨境资金集中运营业务全国推广，赋能中小跨国企业、破解跨境经营难题",
-      "link": "https://finance.sina.com.cn/roll/2026-08-14/doc-ininhtfm2862291.shtml",
-      "date": "2026-08-14 19:04",
-      "summary": "跨国公司本外币跨境资金集中运营业务精准聚焦、覆盖中小规模跨国公司。 一项便利跨国公司本外币跨境资金运用的政策将从试点走向全国。",
-      "source": "一财网",
-      "category": "a-stock"
-    },
-    {
-      "title": "银行能办结婚证，为何年轻人不买账",
-      "link": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-08-14/doc-ininhtfm2861369.shtml",
-      "date": "2026-08-14 19:04",
-      "summary": "来源：浙江日报 作者：王彬 8月12日，“银行能办结婚证了”登上热搜，引发网友热议。前几日，天津市河西区民政局联合中国邮政储蓄银行泗水道支行...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "300368、600499，重大资产重组终止！",
-      "link": "https://finance.sina.com.cn/wm/2026-08-14/doc-ininhtfp9359591.shtml",
-      "date": "2026-08-14 19:03",
-      "summary": "晚间，两家A股公司公告，终止重大资产重组。 汇金股份（300368）8月14日晚间公告，公司终止筹划近一年的重大资产重组事项。 2025年8月29日，汇金股份披露公告称...",
-      "source": "证券时报",
-      "category": "a-stock"
-    },
-    {
-      "title": "推至全国！跨国公司跨境资金集中运营新规出炉：更多中小规模跨国公司入池 便利归集调拨跨境资金",
-      "link": "https://finance.sina.com.cn/roll/2026-08-14/doc-ininhtfp9354961.shtml",
-      "date": "2026-08-14 19:01",
-      "summary": "财联社8月14日讯（记者 高萍）继跨国公司本外币一体化资金池试点推广至全国后，跨国公司本外币跨境资金集中运营业务从也将从试点地区推广至全国。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "默沙东上半年王牌产品增速放缓，过去一年股价上涨60%，市场在赌什么？",
-      "link": "https://finance.sina.com.cn/roll/2026-08-14/doc-ininhtfm2858431.shtml",
-      "date": "2026-08-14 18:59",
-      "summary": "每经记者|陈星每经编辑|杜宇 2026年8月4日晚间，默沙东（MRK.US）交出上半年“成绩单”：归母净利润亏损55.75亿美元，总营收328.93亿美元，同比增长5%。",
+      "title": "深深房Ａ：深圳市投资控股有限公司减持1011.64万股完毕",
+      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-14/doc-ininhtfp9370074.shtml",
+      "date": "2026-08-14 19:31",
+      "summary": "每经AI快讯，8月14日，深深房Ａ公告，控股股东深圳市投资控股有限公司通过集中竞价交易方式减持公司A股1011.64万股，占公司总股本的1%，减持计划已实施完毕。",
       "source": "每日经济新闻",
       "category": "a-stock"
     },
     {
-      "title": "应用材料业绩强劲：营收利润双增，计划2028年半导体设备产能翻倍",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhtfh4129411.shtml",
-      "date": "2026-08-14 18:58",
-      "summary": "半导体设备制造商应用材料（Applied Materials）周四公布的第三财季业绩全面超预期，营收与利润均大幅增长。公司同时宣布，将大幅提升制造产能...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "巴尔的摩起诉Kalshi与Polymarket：指控其提供无牌照体育博彩",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhtfm2855136.shtml",
-      "date": "2026-08-14 18:55",
-      "summary": "巴尔的摩市已对预测市场平台Kalshi和Polymarket提起诉讼，指控两家公司在未获得牌照的情况下提供体育博彩服务。这是美国各州与地方政府持续打压预测市场的最新动作。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "9月1日起施行！银行业信贷资产流转集中登记细则“出炉”，信息重大差异须重登",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininhtfm2852986.shtml",
-      "date": "2026-08-14 18:51",
-      "summary": "北京商报讯（记者 宋亦桐）8月14日，据银登网消息，根据《中国银监会办公厅关于银行业信贷资产流转集中登记的通知》、《国家金融监督管理总局办公厅关于进一步规范银行业信...",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "江阴银行：选举耿轶韬为第九届董事会职工董事",
-      "link": "https://finance.sina.com.cn/jryx/bank/2026-08-14/doc-ininhtfp9345649.shtml",
-      "date": "2026-08-14 18:49",
-      "summary": "8月14日金融一线消息，江阴银行公告，2026年8月14日，公司召开第六届职工代表、第七届工会会员代表大会第六次会议，选举耿轶韬为本行第九届董事会职工董事...",
-      "source": "金融一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "FBI没收古根海姆高管手机：道奇队老板Mark Walter商业帝国调查再升级",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhtfn2572551.shtml",
-      "date": "2026-08-14 18:48",
-      "summary": "美国联邦调查局（FBI）去年9月没收了古根海姆投资（Guggenheim Investments）总裁Dina DiLorenzo的手机。同一天，亿万富翁Mark Walter的手机和笔记本电脑也被没收。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "重庆银行：小型微型企业贷款专项金融债券发行完毕，规模30亿元",
-      "link": "https://finance.sina.com.cn/jryx/bank/2026-08-14/doc-ininhtfh4120803.shtml",
-      "date": "2026-08-14 18:44",
-      "summary": "8月14日金融一线消息，重庆银行公告称，经中国人民银行批准，本行2026年小型微型企业贷款专项金融债券（第一期）于2026年8月11日簿记建档，2026年8月13日发行完毕。",
-      "source": "金融一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "姜姗获批担任中国长城资产副总裁、财务负责人",
-      "link": "https://finance.sina.com.cn/jryx/hm/2026-08-14/doc-ininhtfm2847719.shtml",
-      "date": "2026-08-14 18:43",
-      "summary": "8月14日金融一线消息，国家金融监督管理总局发布批复，核准姜姗中国长城资产管理股份有限公司副总裁、财务负责人的任职资格。",
-      "source": "金融一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "库克卸任前最后高光：苹果德州工厂秀Mac Mini产线，特朗普政府力挺美制造",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhtfp9340654.shtml",
-      "date": "2026-08-14 18:41",
-      "summary": "苹果CEO蒂姆·库克周四与美国商务部长霍华德·卢特尼克一起，参观了位于休斯敦的富士康工厂。这是库克作为CEO为数不多的最后公开亮相之一。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "301070，终止收购高端镀膜装备资产",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-14/doc-ininhtfp9339454.shtml",
-      "date": "2026-08-14 18:36",
-      "summary": "开勒股份（301070）8月14日晚间公告，公司拟终止收购东莞市科盛机电设备有限公司（简称“科盛机电”）不低于50%的股权。这笔筹划近10个月的收购事项正式告吹。",
-      "source": "新浪财经2",
-      "category": "a-stock"
-    },
-    {
-      "title": "纳入标普500后Reddit股价大涨 —— 这家平台下一个重大机遇在此",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhtfh4112315.shtml",
-      "date": "2026-08-14 18:33",
-      "summary": "Reddit（股票代码：RDDT）正式迈入主流大盘股行列。 标普道琼斯指数公司周四晚间宣布，Reddit 将于 8 月 18 日开盘前被纳入标普 500 指数。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "中行、交行等大行落地自贸离岸债 上海“境内离岸”板块加速补齐",
-      "link": "https://finance.sina.com.cn/roll/2026-08-14/doc-ininhtfm2840094.shtml",
-      "date": "2026-08-14 18:30",
-      "summary": "21世纪经济报道记者 余纪昕 8月12日，中国银行协助上海电气集团境外子公司上海电气环球资本有限公司成功发行15亿元人民币绿色自贸离岸债，期限三年、票面利率1.80%...",
-      "source": "21世纪经济报道",
-      "category": "a-stock"
-    },
-    {
-      "title": "直线跳水！4倍跨界牛股，上演“天地板”",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-14/doc-ininhtfh4111813.shtml",
-      "date": "2026-08-14 18:30",
-      "summary": "来源：华夏时报 8月14日，在连续4天涨停后，京投发展（600683.SH）股价盘中上演“天地板”行情。 当天，京投发展股价开盘涨停，盘初直线跳水，剧烈震荡后尾盘跌停封板。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "盘点2026年离职的12位OpenAI高管",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhtfp9333451.shtml",
-      "date": "2026-08-14 18:30",
-      "summary": "OpenAI 领导层迎来大规模人事变动，多名高管在 2026 年相继离职。 核心离任人员包括丹妮丝・德雷瑟、布拉德・莱特卡普、菲吉・西莫。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美元深陷两股对立力量的博弈之中",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhtfp9331339.shtml",
-      "date": "2026-08-14 18:26",
-      "summary": "荷兰合作银行资深外汇策略师简・福利周四在客户研报中指出，美元当下正在油价与美联储两大因素之间陷入拉锯战。 一切缘起于美元与原油之间长期存在的联动关系开始瓦解。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "比特币即将破位下行还是突破上涨？历史规律给出难以忽视的有力证据",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhtfp9329345.shtml",
-      "date": "2026-08-14 18:22",
-      "summary": "作者：多米尼克・巴苏尔托 市场对比特币（加密货币代码：BTC）后市走向的观点分歧巨大。一部分投资者认为比特币将进一步破位下跌...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "8月值得布局的“华丽七巨头”标的",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhtfh4103088.shtml",
-      "date": "2026-08-14 18:19",
-      "summary": "论 AI 赛道布局，谷歌与亚马逊为何在各大超大规模云厂商中位居前列 “华丽七巨头” 组合引领美股市场，包揽全球市值最高企业榜单，其中体量最小的一家依旧稳居全球第 11...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "洁美科技拟9亿元溢价507%收购：标的公司合规问题待解 毛利率最高但研发费用率几乎最低",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-08-14/doc-ininhnxk4200021.shtml",
-      "date": "2026-08-14 18:15",
-      "summary": "出品：新浪财经上市公司研究院 作者：IPO再融资组/图灵 近日，洁美科技发布重组草案，拟以发行股份的方式收购长沙埃福思科技有限公司（下称“埃福思科技”或标的公司）100%股...",
-      "source": "新浪证券",
-      "category": "a-stock"
-    },
-    {
-      "title": "华达通IPO状态变更为终止",
-      "link": "https://finance.sina.com.cn/stock/zqgd/2026-08-14/doc-ininhtfn2556294.shtml",
-      "date": "2026-08-14 18:13",
-      "summary": "根据北交所最新披露的信息，2026年8月14日，惠州市华达通气体制造股份有限公司IPO的状态从已问询变更为终止。",
-      "source": "新浪财经2",
-      "category": "a-stock"
-    },
-    {
-      "title": "物价推高民怨 支持率下滑 高市早苗密集发帖强调纾困措施",
-      "link": "https://finance.sina.com.cn/world/2026-08-14/doc-ininhtfh4098909.shtml",
-      "date": "2026-08-14 18:12",
-      "summary": "日本首相高市早苗反驳了有关她过于专注于自身政治议程、而非应对生活成本危机的批评。在支持率下滑之际，她在社交媒体上列举了一系列缓解物价压力的措施。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "长鸿高科盈利恶化债务“爆表”？关联腾挪是否进一步拖累报表",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-08-14/doc-ininhtfh4098604.shtml",
-      "date": "2026-08-14 18:11",
-      "summary": "出品：新浪财经上市公司研究院 文/夏虫工作室 核心观点：长鸿高科盈利加速恶化，2025年首亏798.56万元，2026年上半年进一步预亏5500万—6500万元。",
-      "source": "新浪证券",
-      "category": "a-stock"
-    },
-    {
-      "title": "美迪西：股东拟减持不超1.68%公司股份",
-      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-14/doc-ininhtfp9328592.shtml",
-      "date": "2026-08-14 18:10",
-      "summary": "美迪西(688202.SH)公告称，持股6.72%的股东陈建煌拟通过集中竞价和大宗交易的方式减持合计不超过所持公司股票225.74万股，即不超过公司总股本的1.68%。",
-      "source": "财联社",
-      "category": "a-stock"
-    },
-    {
-      "title": "资金持续回流！“生肖”概念提前异动",
-      "link": "https://finance.sina.com.cn/wm/2026-08-14/doc-ininhtfp9325183.shtml",
-      "date": "2026-08-14 18:08",
-      "summary": "本周，A股整体小幅波动，深证成指、创业板指等周K线小幅收涨，上证指数、北证50等周线则小幅收跌。成交保持低位运行，全周成交约11.77万亿元。",
-      "source": "证券时报",
-      "category": "a-stock"
-    },
-    {
-      "title": "视频|旺旺董事长发表内部信:公司遭遇重大经营危机!“没有贡献的人就要被淘汰”，不能再靠旺仔牛奶躺赢了",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-08-14/doc-ininhtfp9315486.shtml",
-      "date": "2026-08-14 18:00",
-      "summary": "来源：海报新闻 旺旺董事长近日发表内部信：公司遭遇重大经营危机！“没有贡献的人就要被淘汰！吃了30年老本，不能再靠旺仔牛奶躺赢了，渠道崩場，利润腰斩...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "“失联”航班遭北约战机升空警告，国泰航空调查报告出炉",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininhtfh4092210.shtml",
-      "date": "2026-08-14 18:00",
-      "summary": "据香港特别行政区政府新闻公报，就7月4日国泰航空由香港前往伦敦希斯路的航班，航机曾与途经的航空交通管制单位出现通讯中断事件，香港民航处8月14日表示...",
+      "title": "浩辰软件：上半年归母净利润同比下降16.89%",
+      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-14/doc-ininhtfn2595082.shtml",
+      "date": "2026-08-14 19:26",
+      "summary": "浩辰软件8月14日披露半年报，公司上半年实现营业收入1.81亿元，同比增长25.80%；归属于上市公司股东的净利润2207.24万元，同比下降16.89%；基本每股收益0.23元/股。",
       "source": "界面",
       "category": "a-stock"
     },
     {
-      "title": "安索帕（Anthropic）“第一夫人”：曲折登顶之路",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhtfn2540907.shtml",
-      "date": "2026-08-14 17:56",
-      "summary": "卡米・克拉克最终成为丈夫、Anthropic 首席执行官达里奥・阿莫代伊幕后核心智囊。在此之前，她接连创办多家初创企业，还曾与杰弗里・爱泼斯坦产生交集。",
-      "source": "环球市场播报",
+      "title": "兆威机电：上半年归母净利润同比下降34.10%",
+      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-14/doc-ininhtfn2595014.shtml",
+      "date": "2026-08-14 19:26",
+      "summary": "兆威机电8月14日披露半年报，公司上半年实现营业收入8.16亿元，同比增长3.80%；归属于上市公司股东的净利润7464.57万元，同比下降34.10%；基本每股收益0.3元/股。",
+      "source": "界面",
       "category": "a-stock"
     },
     {
-      "title": "OpenAI营收一把手仅任职8个月就离职：高管接连出走，Greg Brockman加速掌控",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhtfn2540892.shtml",
-      "date": "2026-08-14 17:56",
-      "summary": "OpenAI周四宣布，首席营收官Denise Dresser将离职，寻求“其他机会”。她去年12月才加入公司，负责打造企业业务，任职仅约8个月。接任者是Dali Rajic...",
-      "source": "环球市场播报",
+      "title": "浙江建投：子公司中标24.97亿港元公营房屋项目",
+      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-14/doc-ininhtfn2598862.shtml",
+      "date": "2026-08-14 19:26",
+      "summary": "郑重声明：东方财富发布此内容旨在传播更多信息，与本站立场无关，不构成投资建议。据此操作，风险自担。",
+      "source": "财联社",
       "category": "a-stock"
     },
     {
-      "title": "OpenAI营收一把手突然离职：Greg Brockman加速集权，剑指企业AI王座",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhtfp9310593.shtml",
-      "date": "2026-08-14 17:51",
-      "summary": "OpenAI首席营收官Denise Dresser将在未来几周内离职，任职时间不足一年。公司已任命Dali Rajic接替这一职位。Rajic此前担任谷歌旗下网络安全公司Wiz的总裁兼首席运营官。",
-      "source": "环球市场播报",
+      "title": "平安银行：上半年归母净利润同比增长3.30%",
+      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-14/doc-ininhtfn2595013.shtml",
+      "date": "2026-08-14 19:25",
+      "summary": "平安银行8月14日披露半年报，公司上半年实现营业收入706.17亿元，同比增长1.80%；归属于本行股东的净利润256.96亿元，同比增长3.30%。",
+      "source": "界面",
+      "category": "a-stock"
+    },
+    {
+      "title": "【百强透视】华虹宏力（01347.HK）跌超11%，Q2业绩创新高难挡获利盘兑现",
+      "link": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-14/doc-ininhtfn2603252.shtml",
+      "date": "2026-08-14 19:25",
+      "summary": "8月13日盘后，中芯国际（00981.HK）、华虹宏力（01347.HK）均披露了2026年二季度的业绩，都取得了不俗成绩。不过，“代工双雄”8月14日的股价走势却出现显著分化。",
+      "source": "新浪财经2",
       "category": "a-stock"
     }
   ]
