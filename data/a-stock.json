@@ -1,8 +1,112 @@
 {
-  "updated": "2026-08-15T13:20:54.594631+08:00",
+  "updated": "2026-08-15T14:31:19.132252+08:00",
   "source": "A股聚合",
-  "count": 37,
+  "count": 31,
   "items": [
+    {
+      "title": "澳大利亚出现万事达卡支付遭拒情况",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininkrwq1854272.shtml",
+      "date": "2026-08-15 14:13",
+      "summary": "澳大利亚联邦银行称，受万事达卡全球性故障影响，澳大利亚用户的万事达卡支付出现交易被拒情况。 用户可上报服务故障的网站Downdetector在周六下午3点收到超过1700条关于万...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "嗨特购两年没了九成门店",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkrwr8628030.shtml",
+      "date": "2026-08-15 14:12",
+      "summary": "界面新闻记者 | 马越界面新闻编辑 | 牙韩翔 折扣超市嗨特购陷入大量关店危机中。 界面新闻8月14日走访发现，嗨特购位于北京西单大悦城的旗舰店已于近期关闭...",
+      "source": "界面",
+      "category": "a-stock"
+    },
+    {
+      "title": "甲骨文(ORCL.US)“星际之门”数据中心遇“能源劫”：核心天然气管道延期至2027年",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-15/doc-ininkrwp2189211.shtml",
+      "date": "2026-08-15 14:11",
+      "summary": "来源：智通财经网 一条为新墨西哥州拟建的甲骨文（ORCL.US）人工智能数据中心供应燃料的关键天然气管道项目，已被推迟近六个月。",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "视频|美国旧金山企业推出人形机器人保洁服务 每小时30美元",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininkrwk3457356.shtml",
+      "date": "2026-08-15 14:09",
+      "summary": "据该公司首席执行官透露，旧金山一家机器人初创企业已经开始提供由人形机器人完成的家庭保洁服务。 Tau Robotics首席执行官、联合创始人亚历克斯·科赫表示：“没错...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "价格周报｜二育热度再起，本周猪价反弹",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkrwr8624975.shtml",
+      "date": "2026-08-15 14:07",
+      "summary": "据农业农村部监测，8月14日，全国农产品批发市场猪肉平均价格为15.77元/公斤，与上周五（8月7日）的15.8元/公斤相比，下降0.2%。",
+      "source": "澎湃新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "三类LOF的退市倒计时",
+      "link": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwp2188424.shtml",
+      "date": "2026-08-15 14:00",
+      "summary": "来源：经济参考报 作者：洪小棠 张鹏瑞 封图：图虫创意 8月10日至12日，在公募基金场内交易中，多只备受资金追捧的高溢价LOF（Listed Open-Ended Fund...",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "减少1300亿美元 英伟达大幅收缩对OpenAI数据中心的融资担保",
+      "link": "https://finance.sina.com.cn/stock/bxjj/2026-08-15/doc-ininkrwr8621415.shtml",
+      "date": "2026-08-15 13:57",
+      "summary": "来源：凤凰网科技 北京时间8月15日，据《华尔街日报》报道，知情人士称，英伟达与OpenAI正接近达成一项协议，为俄亥俄州一个大型数据中心园区提供融资。",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "联想集团刘军：AI PC国内市场销量占比过半",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkmqs1966380.shtml",
+      "date": "2026-08-15 13:28",
+      "summary": "人民财讯8月15日电，联想集团执行副总裁兼中国区总裁刘军表示，“一体多端”战略下，个人超级智能体加持终端，联想AI PC全球市场同比增86%...",
+      "source": "证券时报",
+      "category": "a-stock"
+    },
+    {
+      "title": "海南航空致歉",
+      "link": "https://finance.sina.com.cn/wm/2026-08-15/doc-ininkmqr2297860.shtml",
+      "date": "2026-08-15 13:21",
+      "summary": "8月15日，海南航空官方微博发文称，2026年8月15日，我司HU753（北京-曼彻斯特）航班因机械故障原因备降俄罗斯克拉斯诺亚尔斯克国际机场...",
+      "source": "界面",
+      "category": "a-stock"
+    },
+    {
+      "title": "英伟达CPO交换机全面量产：能效提升5倍，供应商包括天孚通信",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkmqs1962999.shtml",
+      "date": "2026-08-15 13:19",
+      "summary": "8月14日，英伟达NVIDIA AI Infrastructure官方X账号宣布，Spectrum-X以太网硅光交换机（Ethernet Photonics）现已全面量产，为AI工厂提供下一代Scale-Out（横向扩展）网络...",
+      "source": "澎湃新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "金价一个月狂飙超10%！黄金突破4400美元后，华尔街却吵翻了：2%还是20%？",
+      "link": "https://finance.sina.com.cn/stock/bxjj/2026-08-15/doc-ininkmqs1963206.shtml",
+      "date": "2026-08-15 13:12",
+      "summary": "来源：FX168全球投资 周五（8月14日），黄金价格继续守在4400美元/盎司上方。美国本周公布的一系列经济数据释放出通胀与需求降温信号...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "能繁母猪逼近政策红线，猪周期何时迎来反转？",
+      "link": "https://finance.sina.com.cn/stock/bxjj/2026-08-15/doc-ininkmqs1962260.shtml",
+      "date": "2026-08-15 13:12",
+      "summary": "全国猪价8连涨，能繁母猪逼近政策红线，周期拐点渐行渐近。 8月15日，全国外三元均价约10.82元/公斤，实现8日连涨。 另据期货日报报道，进入8月...",
+      "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
+    {
+      "title": "“光”指数，8月已反弹超30％！多股提示风险",
+      "link": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkmqs1960197.shtml",
+      "date": "2026-08-15 13:08",
+      "summary": "“光”指数，8月已反弹超30%！多股提示风险 8月14日，A股光通信概念股集体上涨。 万得光通信概念指数大涨4.17%，长盈通涨近15%，共进股份、杭电股份、亨通光电...",
+      "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
     {
       "title": "资管机构角逐德国规模达5000亿欧元养老金历史性转型",
       "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininkmqt8729053.shtml",
@@ -33,6 +137,14 @@
       "date": "2026-08-15 12:50",
       "summary": "本文源自：期货日报 一起来看下重要资讯！ 加密货币主要币种持续上涨截至发稿，比特币美元指数上涨0.2%，以太坊上涨0.18%，瑞波币上涨0.74%。",
       "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "悦刻母公司雾芯科技季报图解：营收26亿 经调整净利2.4亿 同比降18%",
+      "link": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkmqs1963162.shtml",
+      "date": "2026-08-15 12:44",
+      "summary": "来源：雷递 雷递网 雷建平 8月15日 电子烟悦刻母公司雾芯科技（NYSE：RLX）昨日发布截至2026年6月30日未经审计第二季度及上半年的财务业绩。",
+      "source": "市场资讯",
       "category": "a-stock"
     },
     {
@@ -84,6 +196,14 @@
       "category": "a-stock"
     },
     {
+      "title": "北京飞曼彻斯特航班发生机械故障备降俄罗斯，海南航空致歉",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkmqt8710446.shtml",
+      "date": "2026-08-15 12:16",
+      "summary": "8月15日，海南航空官方微博发文称，2026年8月15日，我司HU753（北京-曼彻斯特）航班因机械故障原因备降俄罗斯克拉斯诺亚尔斯克国际机场...",
+      "source": "界面",
+      "category": "a-stock"
+    },
+    {
       "title": "美军航母遭遇的困境 与战争初期巴林基地遇袭息息相关",
       "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininkmqr2261700.shtml",
       "date": "2026-08-15 12:16",
@@ -128,175 +248,7 @@
       "link": "https://finance.sina.com.cn/wm/2026-08-15/doc-ininkmqr2258819.shtml",
       "date": "2026-08-15 11:59",
       "summary": "（来源：中国商报） 中东局势持续搅动市场。 美股收跌半导体走弱 当地时间8月14日，美股三大股指小幅收跌。道指跌0.2%报53732.41点，标普500指数跌0.17%报7785.76点...",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "基民傻眼了！说好的医药行情，结果机构越涨越卖，火爆的医药、医疗ETF近期被抛售约30亿元",
-      "link": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkmqs1928969.shtml",
-      "date": "2026-08-15 11:58",
-      "summary": "每经记者|叶峰每经编辑|赵云 本周股指涨跌互现，沪深两市股票型ETF和跨境型ETF合计净流出596.54亿元。 行业主题上看，半导体设备、证券相关ETF被资金看好，而医疗...",
-      "source": "每日经济新闻",
-      "category": "a-stock"
-    },
-    {
-      "title": "伊朗首次展示美军机残骸 想传递什么信息？",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkmqn3523688.shtml",
-      "date": "2026-08-15 11:53",
-      "summary": "据伊朗塔斯尼姆通讯社报道，伊朗伊斯兰革命卫队公开展出大量美以飞机残骸，其中包括一架F-15战斗机残骸，为首次公开展示。",
-      "source": "央视",
-      "category": "a-stock"
-    },
-    {
-      "title": "“旺旺最大的对手竟是糖”，登热搜第一",
-      "link": "https://finance.sina.com.cn/wm/2026-08-15/doc-ininkmqs1921847.shtml",
-      "date": "2026-08-15 11:43",
-      "summary": "8月15日，“旺旺最大的对手竟是糖”“网友集体呼吁旺旺减糖”“旺旺集团面临重大经营危机”等相关话题登上微博热搜。 据极目新闻报道，2026年8月初...",
-      "source": "新京报",
-      "category": "a-stock"
-    },
-    {
-      "title": "A股“小巨人”军团突破1600家，意味着什么？",
-      "link": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkmqt8692102.shtml",
-      "date": "2026-08-15 11:39",
-      "summary": "本报记者 孟 珂 近年来，专精特新企业梯度培育体系不断完善，为优质的创新型中小企业营造了良好的融资环境。Wind数据显示，截至8月14日，年内登陆A股的上市公司中...",
-      "source": "证券日报",
-      "category": "a-stock"
-    },
-    {
-      "title": "世界杯后西甲联赛烽烟再起，新赛季有何看点？",
-      "link": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkfht2372002.shtml",
-      "date": "2026-08-15 11:34",
-      "summary": "8月16日，新赛季西甲联赛将正式揭幕。西甲联盟在上海举办新赛季启幕交流会，介绍了新赛季的主要看点。 作为今年世界杯的冠军球队，西班牙队风光无限。",
-      "source": "一财网",
-      "category": "a-stock"
-    },
-    {
-      "title": "2000万美元投资亏损，“小核酸第一股”起诉创始人陆阳",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkfht2370079.shtml",
-      "date": "2026-08-15 11:34",
-      "summary": "因为一笔投资亏损，“小核酸第一股”将创始人告上了法庭。 8月14日，圣诺医药（2257.HK）发布公告称，公司及其直接全资附属公司圣诺（香港）有限公司已向香港特别行政区高等...",
-      "source": "澎湃新闻",
-      "category": "a-stock"
-    },
-    {
-      "title": "酒吧人员穿近似海航空乘制服商演，海南航空：已投诉并发律师函",
-      "link": "https://finance.sina.com.cn/chanjing/b/2026-08-15/doc-ininkfhv8816045.shtml",
-      "date": "2026-08-15 11:28",
-      "summary": "8月15日消息，海南航空控股股份有限公司通过官方微博发布声明，表示，近期关注到某酒吧场所内，有人员穿着与海南航空“海天祥云”乘务员制服高度近似的服装进行商业表演及经...",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "国内唯一通用光量子计算整机企业完成超亿融资，韦豪创芯、共达电声联合领投",
-      "link": "https://finance.sina.com.cn/tech/2026-08-15/doc-ininkfht2359826.shtml",
-      "date": "2026-08-15 11:17",
-      "summary": "新浪科技讯 8月15日上午消息，据硬氪报道，合肥硅臻芯片技术有限公司（以下简称“硅臻芯片”）近日完成超亿元B轮融资。本轮融资由韦豪创芯、共达电声联合领投，华策影视...",
-      "source": "新浪科技",
-      "category": "a-stock"
-    },
-    {
-      "title": "提前一月破亿！内蒙古陆路口岸货运量稳居全国首位",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkfhq3632029.shtml",
-      "date": "2026-08-15 11:14",
-      "summary": "据内蒙古自治区商务厅（口岸办）消息，截至8月14日，内蒙古全区陆路口岸2026年进出境货运量突破1亿吨，较去年提前一个月迈入“亿吨大关”，货运规模保持全国第一...",
-      "source": "央视",
-      "category": "a-stock"
-    },
-    {
-      "title": "别只盯着宇树！具身智能赛道的业绩王者“出炉”",
-      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-15/doc-ininkfhq3630431.shtml",
-      "date": "2026-08-15 11:09",
-      "summary": "宇树科技上市催化具身智能热度，上游核心零部件率先兑现业绩红利。 随着具身智能赛道热度持续升温，宇树科技的IPO进程成为资本市场关注的焦点。",
-      "source": "证券市场周刊",
-      "category": "a-stock"
-    },
-    {
-      "title": "保时捷计划2030年前停产Taycan",
-      "link": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkfhv8806951.shtml",
-      "date": "2026-08-15 11:07",
-      "summary": "21世纪经济报道记者 何煦阳 据报道，保时捷计划最迟在2030年前停产纯电动车型Taycan。知情人士消息称，保时捷最初考虑过把Taycan转移到莱比锡工厂生产...",
-      "source": "21世纪经济报道",
-      "category": "a-stock"
-    },
-    {
-      "title": "比劳斯莱斯更高级？小米升降车标专利曝光：两个车标自由切换",
-      "link": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkfht2355233.shtml",
-      "date": "2026-08-15 11:06",
-      "summary": "21世纪经济报道记者 何煦阳 8月14日消息，日前，国家知识产权局信息显示，小米汽车科技有限公司获得一项名为“标志升降装置及车辆”的实用新型专利...",
-      "source": "21世纪经济报道",
-      "category": "a-stock"
-    },
-    {
-      "title": "冯玉臻被查（附简历）",
-      "link": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkfhq3641859.shtml",
-      "date": "2026-08-15 11:04",
-      "summary": "来源：中国新闻社 中央纪委国家监委网站8月15日通报，据内蒙古自治区纪委监委消息：内蒙古自治区人大财政经济委员会主任委员冯玉臻涉嫌严重违纪违法...",
-      "source": "滚动播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "亲历印尼7.7级地震中国游客发声：第一次经历地震很害怕 机场关闭航班延误中",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkfhq3631720.shtml",
-      "date": "2026-08-15 11:00",
-      "summary": "【#亲历印尼7.7级地震中国游客发声#：第一次经历地震很害怕 机场关闭航班延误中】#中国游客印尼经历地震航班延误#8月15日，中国地震台网正式测定...",
-      "source": "新京报",
-      "category": "a-stock"
-    },
-    {
-      "title": "520元/股！宇树科技未上市先疯抢！场外“暗盘”兴起 谁在豪赌？",
-      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-15/doc-ininkfht2353963.shtml",
-      "date": "2026-08-15 10:56",
-      "summary": "宇树科技新股还未正式上市，场外“暗盘交易”就已经火了起来。 券商中国记者获悉，宇树科技场外“暗盘交易”悄然兴起。目前多家中介通过各类渠道收购该股新股，报价分歧较大...",
-      "source": "券商中国",
-      "category": "a-stock"
-    },
-    {
-      "title": "严正交涉、强烈抗议！外交部回应日本政要参拜供奉靖国神社",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkfhq3625790.shtml",
-      "date": "2026-08-15 10:53",
-      "summary": "日本政要参拜供奉甲级战犯的靖国神社，外交部：有关错误行径是对历史正义的亵渎，对文明底线的挑战，对战后国际秩序的挑衅！",
-      "source": "央视",
-      "category": "a-stock"
-    },
-    {
-      "title": "车企集体“逃离”新车发布会：烧掉几千万，订单转化率却越来越差",
-      "link": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkfhv8799383.shtml",
-      "date": "2026-08-15 10:47",
-      "summary": "21世纪经济报道记者 何煦阳 车企正在集体“逃离”新车发布会。7月28日，极氪9X五座版用一纸海报直接官宣上市；8月初，理想i8后驱长续航版静默上架...",
-      "source": "21世纪经济报道",
-      "category": "a-stock"
-    },
-    {
-      "title": "旺旺董事长发内部信：公司面临“重大经营危机”",
-      "link": "https://finance.sina.com.cn/stock/roll/2026-08-15/doc-ininkfhu2024731.shtml",
-      "date": "2026-08-15 10:40",
-      "summary": "据《中国经营报》报道，近日，中国旺旺（00151.HK）集团董事长蔡衍明发布了《致全体旺旺人的一封信》。他在信中表示，2026财年第一季度（4—6月）中国旺旺业绩及利润表现未...",
-      "source": "21世纪经济报道",
-      "category": "a-stock"
-    },
-    {
-      "title": "8月机构调研动向：AI硬件热度未散，医药跃居外资调研“C位”",
-      "link": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkfhv8792513.shtml",
-      "date": "2026-08-15 10:32",
-      "summary": "21世纪经济报道记者 刘夏菲 中报季叠加市场震荡调整期，机构调研动态密集。 据Wind数据，截至8月13日，8月以来合计有141家A股公司获得机构调研...",
-      "source": "21世纪经济报道",
-      "category": "a-stock"
-    },
-    {
-      "title": "印尼附近海域发生7.7级地震，中国使馆提醒谨防余震",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkfhu2009385.shtml",
-      "date": "2026-08-15 10:05",
-      "summary": "经中国地震台网正式测定，8月15日5时58分在印尼弗洛勒斯岛附近海域（南纬8.40度，东经121.40度）发生7.7级地震，震源深度20千米。",
-      "source": "界面",
-      "category": "a-stock"
-    },
-    {
-      "title": "中一签或赚20万、市值610亿元 宇树科技IPO引爆资本狂欢",
-      "link": "https://finance.sina.com.cn/stock/roll/2026-08-15/doc-ininkfhq3598596.shtml",
-      "date": "2026-08-15 09:52",
-      "summary": "创新本身就是一种试错的过程，尝试路径多了，最终才能找到真正有效的方向。宇树科技上市将形成示范效应，同时随着科创板上市标准调整...",
-      "source": "经济观察报",
+      "source": "新浪财经2",
       "category": "a-stock"
     }
   ]
