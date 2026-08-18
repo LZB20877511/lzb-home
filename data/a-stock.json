@@ -1,22 +1,262 @@
 {
-  "updated": "2026-08-18T15:34:55.922133+08:00",
+  "updated": "2026-08-18T16:31:40.249937+08:00",
   "source": "A股聚合",
-  "count": 44,
+  "count": 38,
   "items": [
+    {
+      "title": "AI代写疑云频现 美国图书出版业面临信任危机",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-inintpin8661090.shtml",
+      "date": "2026-08-18 16:28",
+      "summary": "近期，美国图书出版业因多起涉嫌利用人工智能代写引发的合约纠纷而陷入震荡。从新锐作家到知名出版商，围绕作品原创性、作者身份界定及行业监管标准的争议持续发酵...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "英伟达在芯片使用寿命问题上表态前后矛盾",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-inintpiw0105064.shtml",
+      "date": "2026-08-18 16:28",
+      "summary": "英伟达希望客户尽可能多采购自家新一代AI芯片，同时又要让客户相信，手里的老款AI芯片仍能长期保值。这两个目标，它能否同时达成？",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "油价上涨叠加美伊紧张局势加剧通胀担忧，美债收益率走高",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-inintpin8657144.shtml",
+      "date": "2026-08-18 16:24",
+      "summary": "受美伊紧张局势持续发酵影响，周二美债收益率上行，长端收益率飙升至二十余年新高。 周二早盘，30 年期美债收益率上行逾 1 个基点，交投于 5.322% 附近...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "易票联支付：对冒用名义的侵权行为依法追究到底",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-08-18/doc-inintpin8656321.shtml",
+      "date": "2026-08-18 16:24",
+      "summary": "8月18日金融一线消息，近日，易票联支付有限公司（以下简称“易票联支付”）发布《严正声明》称，近期发现个别人员擅自以公司员工的名义向外招揽业务，扰乱市场秩序...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "英国弗雷泽集团增持雨果博斯股份至48% 加速进军奢侈品领域",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-inintpin8654756.shtml",
+      "date": "2026-08-18 16:22",
+      "summary": "英国零售巨头弗雷泽集团已将对德国时尚集团雨果博斯的持股比例提升至接近48%，此举标志着该集团向奢侈品市场的战略推进进一步提速。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "辉隆股份营利双增背后：应收激增、现金流失血、短债高悬",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-18/doc-inintpiw0103081.shtml",
+      "date": "2026-08-18 16:16",
+      "summary": "来源：证券之星 8月13日，辉隆股份（002556.SZ）披露2026年半年报。数据显示，公司实现营业收入85.47亿元，同比增长3.26%；归属净利润1.13亿元，同比微增1.51% 。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "1228亿营收难掩隐忧：金龙鱼主业利润增速不足7%",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-18/doc-inintpir7384561.shtml",
+      "date": "2026-08-18 16:16",
+      "summary": "来源：证券之星 近期，金龙鱼（300999.SZ）发布了2026年半年报，公司实现营收1228.52亿元，同比增长6.20%，收入规模创同期新高；归母净利润为22.94亿元，同比大增30...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "“山西前首富”涉黑案公诉：黑金、赌局与三十年煤炭江湖",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-18/doc-inintpir7374744.shtml",
+      "date": "2026-08-18 16:13",
+      "summary": "界面新闻记者 | 赵孟界面新闻编辑 | 刘海川 被带走调查一年半后，“山西前首富”张新明案有了新的进展。 界面新闻从相关渠道获悉，2025年底...",
+      "source": "界面",
+      "category": "a-stock"
+    },
+    {
+      "title": "半年盘点｜上半年净利增近9倍、二季度环比下降63%，多氟多股价收跌",
+      "link": "https://finance.sina.com.cn/roll/2026-08-18/doc-inintpin8651143.shtml",
+      "date": "2026-08-18 16:12",
+      "summary": "多氟多今年第二季度净利润为1.36亿元，第一季度净利润为3.76亿元。据此计算，公司第二季度净利润环比下降63%。 在新能源材料景气度持续攀升的背景下...",
+      "source": "一财网",
+      "category": "a-stock"
+    },
+    {
+      "title": "要求部分内地存量投资客户提交资金来源声明，未及时提交或将终止相关服务，汇丰回应",
+      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-08-18/doc-inintpiw0091381.shtml",
+      "date": "2026-08-18 16:06",
+      "summary": "原标题：汇丰要求部分内地存量投资客户提交资金来源声明，未及时提交或将终止相关服务，汇丰回应⋯⋯ 每经记者|李旭馗每经编辑|魏官红...",
+      "source": "每日经济新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "几块钱的手机壳可能是“毒手机壳”？消费前这样避坑",
+      "link": "https://finance.sina.com.cn/consume/xiaofei/2026-08-18/doc-ininthzt7389198.shtml",
+      "date": "2026-08-18 16:02",
+      "summary": "最近，“手机壳可能是医疗垃圾做的”一事引发热议。据多家媒体援引相关调查报道，市面上部分宣称“食品级”“环保无毒”的廉价软质手机壳，疑似用废弃针管...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "ETF跟踪误差，毫厘之争却值得较真",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-08-18/doc-inintpin8633570.shtml",
+      "date": "2026-08-18 16:02",
+      "summary": "买ETF的第一步，当然是选赛道、看方向。但当你已经确定了要投的指数，发现跟踪它的ETF有好多只，这个时候该怎么挑呢？ 多数人的最先看的是涨幅、费率、规模。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "宇树科技明日上市：37家险企现身，泰康领头！首日能否创纪录？",
+      "link": "https://finance.sina.com.cn/money/insurance/bxdt/2026-08-18/doc-inintpiw0092406.shtml",
+      "date": "2026-08-18 16:02",
+      "summary": "来源：中保新知 A股科创板即将迎来“人形机器人第一股”宇树科技（688836.SH）。8月17日宇树科技对外披露将于8月19日在上交所科创板上市。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "一则大消息，A股尾盘突变！背后发生了什么？",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-08-18/doc-inintpin8633941.shtml",
+      "date": "2026-08-18 15:59",
+      "summary": "来源：中国基金报 【导读】国产替代“小作文”，尾盘探底回升 中国基金报记者 泰勒 大家好啊，上一篇稿子《“黑天鹅”突袭，集体跳水》，泰勒解释了今天市场跳水的原因...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "周伟获批担任长安汽车金融副总经理",
+      "link": "https://finance.sina.com.cn/jryx/hm/2026-08-18/doc-inintpiu3313468.shtml",
+      "date": "2026-08-18 15:59",
+      "summary": "8月18日金融一线消息，重庆金融监管局发布批复，核准周伟长安汽车金融有限公司副总经理的任职资格。",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "模块化核反应堆概念股大跌，空头斩获20亿美元收益",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-inintpir7357623.shtml",
+      "date": "2026-08-18 15:58",
+      "summary": "随着推动模块化小型核反应堆企业股价暴涨的 “炒作周期” 落幕，相关公司市值蒸发数十亿美元，空头通过押注这些企业下跌斩获丰厚利润。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "赚300%&亏37%！甘传琦离任背后，国联基金权益“迷你基”困局浮出水面",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-08-18/doc-inintpir7357561.shtml",
+      "date": "2026-08-18 15:58",
+      "summary": "8月18日，国联新经济、国联高质量成长、 国联产业升级、国联成长先锋一年持有发布基金经理变更公告，甘传琦因个人原因离任，离任日期2026年08月17日。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "大行下场，Token也能贷款，最高3000万元",
+      "link": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-08-18/doc-inintpiu3313549.shtml",
+      "date": "2026-08-18 15:57",
+      "summary": "华夏时报记者 付乐 北京报道 词元（Token）已成为AI大模型时代的基础要素，它的生产、交易和消耗，正催生出全新的经济业态。 近日，农业银行...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "高敏获批担任幸福消金董事会秘书",
+      "link": "https://finance.sina.com.cn/jryx/hm/2026-08-18/doc-inintpin8630274.shtml",
+      "date": "2026-08-18 15:57",
+      "summary": "8月18日金融一线消息，河北金融监管局发布批复，核准高敏河北幸福消费金融股份有限公司董事会秘书的任职资格。",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "郑兆润获批担任幸福消金首席信息官",
+      "link": "https://finance.sina.com.cn/jryx/hm/2026-08-18/doc-inintpin8628477.shtml",
+      "date": "2026-08-18 15:56",
+      "summary": "8月18日金融一线消息，河北金融监管局发布批复，核准郑兆润河北幸福消费金融股份有限公司首席信息官的任职资格。",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "大型药企警示，德国抑制药价的举措或将适得其反",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-inintpiw0081526.shtml",
+      "date": "2026-08-18 15:52",
+      "summary": "欧洲头部制药企业发出警告：德国控制医疗开支的相关举措，将削弱本国为数不多仍具备全球竞争力的产业，并进一步向美国与中国让出竞争优势。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "视频|李大霄：缩量反弹转防御",
+      "link": "https://finance.sina.com.cn/stock/roll/2026-08-18/doc-inintpiu3307962.shtml",
+      "date": "2026-08-18 15:50",
+      "summary": "",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "新信号出现！楼市，何时“牛来”？",
+      "link": "https://finance.sina.com.cn/wm/2026-08-18/doc-inintpir7370580.shtml",
+      "date": "2026-08-18 15:47",
+      "summary": "来源：中国商报 8月17日，国家统计局发布商品住宅销售价格变动情况最新统计数据。数据显示，2026年7月，在70个大中城市中，一线城市商品住宅销售价格环比总体上涨...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "1.41%！四年来净息差首现回升，银行二季度指标透露关键信号",
+      "link": "https://finance.sina.com.cn/roll/2026-08-18/doc-inintpiw0079258.shtml",
+      "date": "2026-08-18 15:47",
+      "summary": "21世纪经济报道 记者郭聪聪 8月14日，金融监管总局披露商业银行2026年二季度主要监管指标数据。数据显示，上半年银行业金融机构总资产达498万亿元，同比增长7.48%...",
+      "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
+    {
+      "title": "全球长债集体“失控”！政府财政纪律正在接受市场审判",
+      "link": "https://finance.sina.com.cn/money/forex/whqqscgd/2026-08-18/doc-inintpiw0092943.shtml",
+      "date": "2026-08-18 15:47",
+      "summary": "文章来源：金十数据 全球长期国债市场正成为投资者焦虑的集中体现。从通胀风险、政府债务，到人工智能（AI）热潮带来的融资需求，多重因素正推动长期收益率走高。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "中坚科技（002779）收处罚告知书，股民索赔分析",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-18/doc-inintpiu3306152.shtml",
+      "date": "2026-08-18 15:46",
+      "summary": "2026年8月12日，中坚科技公告收到浙江证监局下发的《行政处罚事先告知书》，公司在明知备忘录尚未签署的情况下，主动在互动易平台及年报中披露不实信息...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "淡马锡、挪威主权基金最新持仓出炉：布局SK海力士，新进SpaceX",
+      "link": "https://finance.sina.com.cn/stock/bxjj/2026-08-18/doc-inintpiu3304957.shtml",
+      "date": "2026-08-18 15:45",
+      "summary": "来源：私募排排网 主权财富基金（Sovereign Wealth Fund， SWF）是由国家政府拥有和控制的投资基金，其资金来源通常包括国家财政盈余、外汇储备或大宗商品出口收入。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "天创时尚（603608）投资者索赔分析",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-18/doc-inintpiw0078602.shtml",
+      "date": "2026-08-18 15:45",
+      "summary": "2024 年 4 月 30 日，天创时尚股份有限公司收到广东证监局下发的《关于对天创时尚股份有限公司采取责令改正措施的决定》，公告显示...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "必和必拓铜业务利润首次超过铁矿石业务",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-inintpiw0075273.shtml",
+      "date": "2026-08-18 15:43",
+      "summary": "全球最大矿业企业必和必拓公布截至 6 月的财年业绩，业绩大幅向好，铜业务首次在完整财年超越铁矿石，成为公司第一大利润来源。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "A股V型反弹超80股涨停，千亿半导体设备巨头跌超6%，大牛股16天11板，PCB、CPO多股下挫",
+      "link": "https://finance.sina.com.cn/wm/2026-08-18/doc-inintpiw0074101.shtml",
+      "date": "2026-08-18 15:39",
+      "summary": "8月18日，A股市场V型反弹，截至收盘，沪指探底回升翻红涨0.19%，深成指跌0.56%，创业板指跌0.92%，科创综指涨0.27%。今日成交2.4万亿元，较上一个交易日放量133亿元。",
+      "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
+    {
+      "title": "7.85亿违规担保“黑洞”压顶！ST荣科被“戴帽” ！",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-18/doc-inintpin8616190.shtml",
+      "date": "2026-08-18 15:34",
+      "summary": "荣科蓄力响应“健康中国”战略，擘画以“智慧大健康”为主线的发展蓝图，形成集智慧医疗服务、智慧健康运营、智慧养老等于一体的全域生态体系，将智慧之花洒满华夏大地。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
     {
       "title": "利比亚拟筹集最高 400 亿美元用于开发石油资源",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-inintpiw0067224.shtml",
       "date": "2026-08-18 15:29",
       "summary": "利比亚国家石油公司负责人表示，该国需要高达 400 亿美元投资开发油气资源，力求重新跻身全球主要原油生产国行列。 美国能源信息署数据显示...",
       "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "收评：国内期货主力合约涨多跌少 SC原油涨近6%",
-      "link": "https://finance.sina.com.cn/money/future/2026-08-18/doc-inintpiu3293841.shtml",
-      "date": "2026-08-18 15:28",
-      "summary": "8月18日，国内商品期货午盘收盘，主力合约涨多跌少，SC原油涨近6%，燃料油涨超5%，LPG涨近5%，乙二醇涨超4%，低硫燃料油、合成橡胶、纯苯涨超3%，跌幅方面，多晶硅跌超4%...",
-      "source": "市场资讯",
       "category": "a-stock"
     },
     {
@@ -28,27 +268,11 @@
       "category": "a-stock"
     },
     {
-      "title": "外交部：反对泛化国家安全概念限制、打压正常国际教育科研合作",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-18/doc-inintpiw0066971.shtml",
-      "date": "2026-08-18 15:22",
-      "summary": "8月18日，外交部发言人林剑主持例行记者会。有记者提问，据报道，澳外长黄英贤日前要求澳国立大学、昆士兰大学分别终止同中国山东大学、中国科学院有关合作协议。",
-      "source": "央视",
-      "category": "a-stock"
-    },
-    {
-      "title": "外交部：反对泛化国家安全概念、限制打压正常的国际教育科研合作",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-18/doc-inintpiu3293091.shtml",
-      "date": "2026-08-18 15:22",
-      "summary": "8月18日，外交部发言人林剑主持例行记者会。有记者提问，据报道，澳外长黄英贤日前要求澳国立大学、昆士兰大学分别终止同中国山东大学、中国科学院有关合作协议。",
-      "source": "央视",
-      "category": "a-stock"
-    },
-    {
-      "title": "外交部：美菲有关合作不应针对第三方或损害第三方利益",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-18/doc-inintpiw0065238.shtml",
-      "date": "2026-08-18 15:22",
-      "summary": "8月18日，外交部发言人林剑主持例行记者会。有记者问，据报道，美国驻菲律宾使馆宣布在巴拉望岛设立中心来帮助菲律宾渔民举报非法捕鱼的活动。外交部对此有何评论？",
-      "source": "央视",
+      "title": "黑色星期二！全球市场，集体跳水！华尔街“预言家”火线发声，发生了什么？",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-08-18/doc-inintpin8614839.shtml",
+      "date": "2026-08-18 15:24",
+      "summary": "金融危机往往体现为债务危机！ 8月18日，亚太市场时段，股票、期货和国债市场全线杀跌。美国各期限国债收益率继续拉升，30年国债收益率达到了5.3242%的水平...",
+      "source": "券商中国",
       "category": "a-stock"
     },
     {
@@ -68,14 +292,6 @@
       "category": "a-stock"
     },
     {
-      "title": "美债暴跌何时能停歇？",
-      "link": "https://finance.sina.com.cn/money/forex/forexroll/2026-08-18/doc-inintpiu3293355.shtml",
-      "date": "2026-08-18 15:20",
-      "summary": "华尔街见闻 短期来看，财政供给、AI 企业融资两大压力导致了美债长期限收益率维持高位。若中期选举出现分裂国会情形，将使得财政预期边际缓和...",
-      "source": "滚动播报",
-      "category": "a-stock"
-    },
-    {
       "title": "2026财经APP深度盘点：谁才是投资者的全能利器？",
       "link": "https://finance.sina.com.cn/roll/2026-08-18/doc-inintpin8599877.shtml",
       "date": "2026-08-18 15:19",
@@ -84,275 +300,11 @@
       "category": "a-stock"
     },
     {
-      "title": "炒期货的大佬都在用什么APP？主流软件大测评",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-08-18/doc-inintpir7321792.shtml",
-      "date": "2026-08-18 15:17",
-      "summary": "期货交易杠杆高、波动大，风险控制直接决定账户生死，条件单、止盈止损、价格预警、持仓监控都是核心风控工具。很多投资者都遇到过条件单失效、预警不及时...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "全球6.45亿人在挨饿，粮食的账该重新算了",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-08-18/doc-inintpin8593749.shtml",
-      "date": "2026-08-18 15:17",
-      "summary": "联合国五大机构联合发布的《2026年世界粮食安全和营养状况》报告，数字很让人震惊：2025年全球约6.45亿人处于饥饿状态，占总人口7.8%。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
       "title": "航空燃油价格回落 航司票价博弈陷入僵局",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-inintpiu3285724.shtml",
       "date": "2026-08-18 15:15",
       "summary": "随着中东地缘冲突导致的航空燃油价格从高位回落，全球航空业正围绕是否下调机票价格展开激烈博弈。多家航空公司高管表示，在行业利润率本就微薄的情况下...",
       "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "长园集团被罚！赵敬国律师团队代理的投资者诉长园集团索赔案件即将开庭 受损投资者可进行预索赔登记",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-18/doc-inintpiw0067868.shtml",
-      "date": "2026-08-18 15:13",
-      "summary": "根据最新消息，赵敬国律师团队代理的部分投资者诉长园集团证券虚假陈述责任纠纷一案，迎来新进展，该案件将于2026年8月27日开庭审理。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "做期货技术分析用什么 APP？主流平台对决 专业交易者都推荐这款",
-      "link": "https://finance.sina.com.cn/money/future/roll/2026-08-18/doc-inintpiu3284086.shtml",
-      "date": "2026-08-18 15:12",
-      "summary": "技术分析是期货交易的核心方法之一，K 线质量、指标丰富度、画线工具、多周期分析能力直接影响分析效率。很多投资者都遇到过行情软件指标不全、画线难用...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "频准激光创A股新纪录，一签最高赚55万",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-18/doc-inintpiu3281629.shtml",
-      "date": "2026-08-18 15:06",
-      "summary": "界面新闻记者 | 宋佳楠 8月18日，上海频准激光正式登陆上交所科创板，股票代码688826，186.88元/股的发行价，让它成为2026年A股发行价格最高的新股...",
-      "source": "界面",
-      "category": "a-stock"
-    },
-    {
-      "title": "朱镕基同志生平",
-      "link": "https://finance.sina.com.cn/china/2026-08-18/doc-inintpir7322370.shtml",
-      "date": "2026-08-18 15:05",
-      "summary": "新华社北京8月18日电 朱镕基同志生平 中国共产党的优秀党员，久经考验的忠诚的共产主义战士，杰出的无产阶级革命家、政治家，党和国家的卓越领导人，中国共产党第十四届...",
-      "source": "新华社",
-      "category": "a-stock"
-    },
-    {
-      "title": "每日互动推出CCE+DVD双引擎框架，为企业锻造AI时代的组织进化能力",
-      "link": "https://finance.sina.com.cn/stock/enterprise/cn/2026-08-18/doc-inintpin8581368.shtml",
-      "date": "2026-08-18 15:05",
-      "summary": "2026年行至半途，人工智能技术迭代一日千里，创新浪潮奔涌不息。然而，AI能力与真实业务价值之间仍存在巨大鸿沟，面对复杂垂直场景往往“能上线、难用好”...",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "撤回科创板后分拆再冲港股、关联交易缠身、IPO前夕实控人家族套现超亿元⋯⋯伊卡路斯赴港上市被监管要求补充说明多项情况",
-      "link": "https://finance.sina.com.cn/roll/2026-08-18/doc-inintpin8583616.shtml",
-      "date": "2026-08-18 15:04",
-      "summary": "每经记者｜黄婉银    每经编辑｜魏官红     近日，中国证监会发布《境外发行上市备案补充材料要求（2026年7月27日—2026年8月7日）》，对3家企业出具补充材料要求。",
-      "source": "每日经济新闻",
-      "category": "a-stock"
-    },
-    {
-      "title": "买理财却变成保险？金融消费维权，这些正规渠道要记牢",
-      "link": "https://finance.sina.com.cn/consume/xiaofei/2026-08-18/doc-ininthzw3376218.shtml",
-      "date": "2026-08-18 15:02",
-      "summary": "最近，一则“老人到银行买理财，却买到保险”的消息引发热议。据报道，有家属反映家中老人原本是去银行购买理财产品，结果却签下了一份保险...",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "美伊和谈前景渺茫，韩股收跌1.55%结束五连涨",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-inintpin8574103.shtml",
-      "date": "2026-08-18 15:00",
-      "summary": "韩国股市周二收盘下跌，终结了连续五天的上涨势头。投资者在伊朗与美国之间结束冲突的希望逐渐减弱之际，纷纷锁定大型股收益。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美联储政策其实已经“偏宽松”? 旧金山联储中性利率新模型给鹰派递上理论弹药",
-      "link": "https://finance.sina.com.cn/money/forex/forexroll/2026-08-18/doc-inintpiw0057124.shtml",
-      "date": "2026-08-18 14:58",
-      "summary": "旧金山联储周一发布的一项研究显示，如果以所谓中性利率（Neutral Rate）的中期估算值作为衡量标准——即借贷成本既不会抑制经济，也不会刺激经济的利率水平——那么美联储当前...",
-      "source": "智通财经APP",
-      "category": "a-stock"
-    },
-    {
-      "title": "航油成本回落，但各大航司陷入降价博弈僵局",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-inintpiu3274236.shtml",
-      "date": "2026-08-18 14:58",
-      "summary": "随着伊朗冲突期间暴涨的航油成本开始回落，各大航空公司在是否下调机票价格一事上陷入僵持局面。 波士顿咨询集团的里克・刘易斯表示：“今年行业环境错综复杂...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "正信期货：甲醇低库存托底，地缘定调",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-18/doc-inintpir7301167.shtml",
-      "date": "2026-08-18 14:58",
-      "summary": "近期甲醇盘面偏强，核心在于地缘博弈引发的供应端不确定性持续发酵，叠加供需基本面的边际改善及港口库存去化，共同支撑价格上行。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "榴莲价格迎来大幅跳水，批发价跌破每斤15元",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-18/doc-inintpiu3274800.shtml",
-      "date": "2026-08-18 14:57",
-      "summary": "近日，国内榴莲市场迎来一轮降价浪潮，曾经被贴上轻奢水果标签的金枕榴莲，价格出现断崖式回落。 据蓝鲸新闻，全国多个城市商超、社区水果店已经打出19...",
-      "source": "界面",
-      "category": "a-stock"
-    },
-    {
-      "title": "特朗普中东开战引爆“通胀炸弹”重创民意，美股与中期选举恐告急",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-18/doc-inintpir7300333.shtml",
-      "date": "2026-08-18 14:55",
-      "summary": "根据周一结束的一项路透社/益普索民意调查，美国总统特朗普的支持率跌至其本届总统任期内的最低水平，绝大多数美国人担心美国与伊朗的战争将持续很长时间。",
-      "source": "智通财经APP",
-      "category": "a-stock"
-    },
-    {
-      "title": "为什么算力租赁突然被市场盯上",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-18/doc-inintpir7296655.shtml",
-      "date": "2026-08-18 14:53",
-      "summary": "短期看，三重信号同时引爆。 海外验证：Nebius Q2营收5.8亿美元，同比暴增454%，AI云业务利润率高达50%；CoreWeave积压订单1040亿美元。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "10年美债收益率逼近5%，“债券义警”蠢蠢欲动！Yardeni：已进入关键警戒区",
-      "link": "https://finance.sina.com.cn/money/forex/forexroll/2026-08-18/doc-inintpir7295953.shtml",
-      "date": "2026-08-18 14:51",
-      "summary": "华尔街见闻 Yardeni Research指出，美国10年期国债收益率报4.73%逼近5%关口，“债券义警”警惕度提升但尚未触发恐慌。收益率上行受财政赤字膨胀...",
-      "source": "滚动播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "通胀黏性、AI债务与财政失序多重绞杀，30年期美债收益率创2007年来新高，全球债市遭遇“久期风暴”",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-18/doc-inintpiw0045987.shtml",
-      "date": "2026-08-18 14:49",
-      "summary": "长久期债券正成为投资者焦虑情绪的风暴中心——市场对通胀前景、债务负担沉重的人工智能（AI）热潮等诸多问题的担忧，皆集中于此，而各国政府正为此付出代价。",
-      "source": "智通财经APP",
-      "category": "a-stock"
-    },
-    {
-      "title": "避险买盘PK政策转向，谁才是美元下一站的“操盘手”？",
-      "link": "https://finance.sina.com.cn/money/forex/hbfx/2026-08-18/doc-inintpiu3269337.shtml",
-      "date": "2026-08-18 14:48",
-      "summary": "汇通财经APP讯——周二（8月18日）亚洲时段，美元指数在连续两日下跌后小幅回升，当前交投于99.65附近。美伊地缘政治紧张局势为美元提供了避险买盘支撑...",
-      "source": "滚动播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "中一签赚55万！频准激光上市首日暴涨，量子科技光环下挑战几何？",
-      "link": "https://finance.sina.com.cn/roll/2026-08-18/doc-ininthzt7422660.shtml",
-      "date": "2026-08-18 14:44",
-      "summary": "按照盘中最高价计算，投资者打新中一签（500股），浮盈约为55.66万元。 8月18日，频准激光（688826.SH）正式登陆上交所科创板，发行价为186.88元/股。",
-      "source": "一财网",
-      "category": "a-stock"
-    },
-    {
-      "title": "“职业背债”骗局进化：从银行又盯上民间资金，200万房产套出800万！",
-      "link": "https://finance.sina.com.cn/roll/2026-08-18/doc-ininthzq8692847.shtml",
-      "date": "2026-08-18 14:42",
-      "summary": "民间资金卷入，操作模式更加隐蔽。 近年来，一种以“征信白户”为目标、以高额回报为诱饵的“职业背债”骗局在全国多地蔓延。不法中介通过伪造材料、层层包装...",
-      "source": "一财网",
-      "category": "a-stock"
-    },
-    {
-      "title": "美国30年期国债收益率升至近20年最高，三大因素或推动其进一步上涨",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininthzy0166174.shtml",
-      "date": "2026-08-18 14:37",
-      "summary": "美国30年期国债收益率已飙升至近20年来的最高水平，一些策略师认为，长期国债的抛售可能进一步扩大。 30 年期国债收益率通常对地缘政治事件较为敏感...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "Strategy维持现金储备优先策略 暂不将股票回购列为首要事项",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininthzt7414210.shtml",
-      "date": "2026-08-18 14:36",
-      "summary": "Strategy公司执行主席迈克尔·塞勒于8月17日表示，当前公司优先事项为优先股业务、现金储备及信贷业务，股票回购并非首要考量。但他同时指出...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美国财政部提出稳定币监管规则 推进GENIUS法案实施",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininthzt7411641.shtml",
-      "date": "2026-08-18 14:33",
-      "summary": "美国财政部于本周一正式提出一项针对稳定币的监管规则提案，为落实去年国会通过的《指导美国稳定币国家创新法案》迈出重要一步。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "史上最强厄尔尼诺来了？国家气候中心：今夏以来我国气候特征正逐步显现",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-18/doc-ininthzw3392373.shtml",
-      "date": "2026-08-18 14:33",
-      "summary": "在国际气象学界看来，一次超强厄尔尼诺事件正在逼近。2026年8月18日，国家气候中心发文表示，今年夏季以来我国气候特征显现厄尔尼诺现象正快速发展...",
-      "source": "界面",
-      "category": "a-stock"
-    },
-    {
-      "title": "Monad基金会启动回购计划 早期投资者几乎全部拒绝退出",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininthzt7409522.shtml",
-      "date": "2026-08-18 14:30",
-      "summary": "以太坊竞争网络Monad的基金会于本周二宣布，已完成为部分早期投资者提供的锁仓代币提前回购计划。该基金会为此次回购预留了最高6000万美元的资金，但据披露...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "药明合联午后涨超7% 新加坡基地BCM3双功能产线成功完成GMP放行",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-18/doc-ininthzw3389416.shtml",
-      "date": "2026-08-18 14:29",
-      "summary": "药明合联（02268）午后涨超7%，截至发稿，股价上涨7.31%，现报69.70港元，成交额5.83亿港元。 药明合联宣布，位于新加坡基地的生物偶联药抗体中间体和原液双功能生产线BCM3...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "Kraken母公司加入Anthropic项目 借助AI强化网络安全防御",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininthzq8680224.shtml",
-      "date": "2026-08-18 14:29",
-      "summary": "加密货币交易平台Kraken的母公司Payward已正式加入人工智能公司Anthropic发起的“Project Glasswing”计划，将利用先进AI模型提升其系统安全性...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "361度午后涨超3% 上半年纯利同比增长8%至9.26亿元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-18/doc-ininthzw3388176.shtml",
-      "date": "2026-08-18 14:27",
-      "summary": "361度（01361）午后一度拉涨逾6%，截至发稿，股价上涨3.22%，现报4.815港元，成交额3976.80万港元。 361度午间发布2026年度中期业绩，上半年收益61.6亿元（人民币...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "比特币重返64000美元上方 加密市场走势分化",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininthzt7405917.shtml",
-      "date": "2026-08-18 14:25",
-      "summary": "8月18日，比特币价格回升至64000美元以上，日内涨幅超1%，周线亦录得小幅上涨，成为当日市值排名前列的加密货币中唯一录得显著涨幅的品种。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "韩国股市8月日均成交额降至今年以来最低",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininthzt7405449.shtml",
-      "date": "2026-08-18 14:25",
-      "summary": "韩国交易所周二公布的数据显示，韩国主要股指在7月出现大幅下跌后，8月份的成交额跌至今年最低水平。 根据韩国交易所的数据，本月韩国综合股价指数（KOSPI）的日均成交额略...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "芯碁微装午后涨逾8% AI PCB扩产提速带动上游LDI需求增长",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-18/doc-ininthzy0159277.shtml",
-      "date": "2026-08-18 14:25",
-      "summary": "芯碁微装（09630）午后涨逾8%，截至发稿，股价上涨7.83%，现报407.60港元，成交额3.46亿港元。 AI硬件升级驱动PCB性能要求提升，mSAP工艺应用边界持续拓宽...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "文远知行-W午后涨近6% 光大证券维持“买入”评级",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-18/doc-ininthzt7403909.shtml",
-      "date": "2026-08-18 14:23",
-      "summary": "文远知行-W（00800）盘中涨逾6%，截至发稿，股价上涨5.82%，现报16.74港元，成交额1987.63万港元。 文远知行近日发布业绩，上半年总营收达3.46亿元，同比增长73%。",
-      "source": "新浪港股",
       "category": "a-stock"
     }
   ]
