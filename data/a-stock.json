@@ -1,8 +1,104 @@
 {
-  "updated": "2026-08-22T23:16:36.940398+08:00",
+  "updated": "2026-08-23T06:17:19.267290+08:00",
   "source": "A股聚合",
-  "count": 54,
+  "count": 44,
   "items": [
+    {
+      "title": "日本本州岛5.8级地震已致多人受伤",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-23/doc-inipfvpk4061469.shtml",
+      "date": "2026-08-23 05:22",
+      "summary": "总台记者23日获悉，日本本州岛5.8级地震后，当地已出现多名伤者。截至当地时间4时，埼玉县有9人受伤，截至当地时间5时，神奈川县有3人受伤；此外，东京有人被玻璃划伤。",
+      "source": "央视",
+      "category": "a-stock"
+    },
+    {
+      "title": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-23/doc-inipfvph7278855.shtml",
+      "date": "2026-08-23 04:03",
+      "summary": "当地时间22日，伊朗最高国家安全委员会秘书雷扎伊表示，伊朗告诉世界各国，不要与美国一起对伊朗发动经济战。任何参与对伊朗实施经济限制的国家，都被伊朗视为敌人。",
+      "source": "央视",
+      "category": "a-stock"
+    },
+    {
+      "title": "沃什将以美联储主席身份首次发表杰克逊霍尔讲话",
+      "link": "https://finance.sina.com.cn/7x24/2026-08-23/doc-inipfvpc0817143.shtml",
+      "date": "2026-08-23 04:02",
+      "summary": "美联储主席凯文·沃什将于下周五在怀俄明州杰克逊霍尔年度经济会议发表讲话，投资者期待他阐明美国央行该如何应对顽固通胀，但目前尚不确定他是否会给出明确表态。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "英伟达通知客户AI相关产品涨价超15%",
+      "link": "https://finance.sina.com.cn/7x24/2026-08-23/doc-inipfrfh2874111.shtml",
+      "date": "2026-08-23 02:45",
+      "summary": "英伟达部分大客户收到通知，多数情况下搭载其人工智能芯片的服务器价格涨幅将超过15%。知情人士称，此次涨价将针对明年初交付的服务器产品...",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "视频丨部分美国人工智能公司下调大模型使用价格",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-23/doc-inipfrff0942234.shtml",
+      "date": "2026-08-23 02:16",
+      "summary": "近日，人工智能大模型价格竞争日益激烈，多家美国人工智能公司下调大模型使用价格。 美国开放人工智能研究中心OpenAI21日表示，当天起将把面向开发者端的前沿人工智能大模...",
+      "source": "央视",
+      "category": "a-stock"
+    },
+    {
+      "title": "与特朗普立场一致的邮寄选票新规等待最高法院裁决",
+      "link": "https://finance.sina.com.cn/7x24/2026-08-23/doc-inipfrff0905179.shtml",
+      "date": "2026-08-23 02:04",
+      "summary": "美国邮政署敲定一项新规，为邮寄投票增设更多门槛，该版本与特朗普最初方案存在小幅出入。新规则要求各州向邮政署提交合格选民名单...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "以色列称无意与土耳其升级冲突 绝不接受土在叙驻军",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-23/doc-inipfrff0906019.shtml",
+      "date": "2026-08-23 01:53",
+      "summary": "当地时间22日，以色列外交部长萨尔在接受采访时表示，尽管因叙利亚问题导致以土两国关系高度紧张，但以色列“无意与土耳其升级冲突”。",
+      "source": "央视",
+      "category": "a-stock"
+    },
+    {
+      "title": "特朗普6月调整投资组合，抛售Meta等股票、买入伯克希尔",
+      "link": "https://finance.sina.com.cn/7x24/2026-08-23/doc-inipfrff0900551.shtml",
+      "date": "2026-08-23 01:51",
+      "summary": "美国总统特朗普披露了6月共计1051笔金融交易，显现出其投资组合的大规模重新配置。整个6月，特朗普频繁调仓股票、债券以及ETF。根据8月22日美国政府道德办公室公开文件...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "加拿大宣布9月8日起对美国商品征收报复性关税",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-23/doc-inipfkxe0386305.shtml",
+      "date": "2026-08-23 00:51",
+      "summary": "当地时间8月22日，加拿大总理卡尼表示，从9月8日起，加拿大将对来自美国的多个行业的进口商品征收关税，以报复美国新关税。",
+      "source": "央视",
+      "category": "a-stock"
+    },
+    {
+      "title": "加拿大宣布对美国反制措施 下月将对200亿美元商品征报复性关税",
+      "link": "https://finance.sina.com.cn/7x24/2026-08-23/doc-inipfkxk2936380.shtml",
+      "date": "2026-08-23 00:10",
+      "summary": "美加贸易争端进一步升级，加拿大总理马克·卡尼表示，将从9月8日起对美国进口商品实施等额反制关税。 卡尼周六表示：“我们很不情愿采取这一步，因为我们认识到...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "加拿大要求卡车关税豁免，致使贸易谈判陷入危机",
+      "link": "https://finance.sina.com.cn/7x24/2026-08-23/doc-inipfkxi0984831.shtml",
+      "date": "2026-08-23 00:09",
+      "summary": "美加贸易谈判于周五破裂，部分原因是谈判最后关头，双方在取消美国针对加拿大中型、重型车辆征收的关税一事上僵持不下。双方本已形成协议框架，计划下调美国针对汽车...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "人形机器人AstraTennis 时刻：银河通用的263秒全自主决策",
+      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-08-22/doc-inipfkxi0969757.shtml",
+      "date": "2026-08-22 23:35",
+      "summary": "8月22日晚，国家速滑馆第二届世界人形机器人运动会开幕。中央广播电视总台的直播镜头对准网球场，银河通用双足人形网球机器人站在底线后，与网球名将郑洁开始比赛。",
+      "source": "新浪科技",
+      "category": "a-stock"
+    },
     {
       "title": "世界人形机器人运动会400米田径预赛：天工机器人39.7秒第一",
       "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-08-22/doc-inipferi7228990.shtml",
@@ -148,99 +244,11 @@
       "category": "a-stock"
     },
     {
-      "title": "中央气象台：全球天气公报（2026年08月22日）",
-      "link": "https://finance.sina.com.cn/money/future/hyxh/2026-08-22/doc-inipeptq0713424.shtml",
-      "date": "2026-08-22 16:30",
-      "summary": "（来源：中央气象台网站） 来源：中央气象台网站 1．越南法国瑞士等地出现较强降水 过去24小时（8月21日00时-8月22日00时，UTC），朝鲜半岛、日本关东地区、琉球群岛...",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "官方回应“白菜收购蘸取甲醛溶液问题”",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipeptu3198204.shtml",
-      "date": "2026-08-22 16:19",
-      "summary": "央视网消息：据“康保发布”微信公众号消息，8月22日，河北张家口市康保县人民政府发布情况通报： 针对网上反映的“白菜收购环节蘸取甲醛溶液”相关问题...",
-      "source": "央视",
-      "category": "a-stock"
-    },
-    {
       "title": "网传河北一地“白菜装车前蘸甲醛” 当地通报：属实，紧急追溯流向",
       "link": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipeptq0708057.shtml",
       "date": "2026-08-22 16:07",
       "summary": "今天，河北省张家口市康保县人民政府发布情况通报： 针对网上反映的“白菜收购环节蘸取甲醛溶液”相关问题，康保县第一时间组织农业农村、市场监管...",
       "source": "央视",
-      "category": "a-stock"
-    },
-    {
-      "title": "美联储，加息大消息！高盛，最新警告",
-      "link": "https://finance.sina.com.cn/money/forex/2026-08-22/doc-inipeptq0706299.shtml",
-      "date": "2026-08-22 16:07",
-      "summary": "美联储政策前景存在较大变数。 据最新消息，高盛警告称，在美联储主席凯文·沃什改革沟通方式的背景下，投资者愈发担忧，围绕美联储未来利率决策的市场波动将变得更加剧烈。...",
-      "source": "券商中国",
-      "category": "a-stock"
-    },
-    {
-      "title": "三元酸商品报价动态（2026-08-22）",
-      "link": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzn0611541.shtml",
-      "date": "2026-08-22 16:01",
-      "summary": "生意社08月22日讯交易商品牌/产地交货地最新报价三元酸 99%广州市天悦化工有限公司诺泰广东省/广州市10500元/吨 （文章来源：生意社）",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "四硼酸钾商品报价动态（2026-08-22）",
-      "link": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzn0611573.shtml",
-      "date": "2026-08-22 16:01",
-      "summary": "生意社08月22日讯交易商品牌/产地交货地最新报价四硼酸钾 一等品广州市天悦化工有限公司内蒙古丰镇广东省/广州市18000元/吨 （文章来源：生意社）",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "乙二醛水溶液商品报价动态（2026-08-22）",
-      "link": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzs3111355.shtml",
-      "date": "2026-08-22 16:01",
-      "summary": "生意社08月22日讯交易商品牌/产地交货地最新报价乙二醛水溶液 含量40%，包装250kg/桶山东卓裕化工有限公司金沂蒙山东省3600元/吨 （文章来源：生意社）",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "十水硼砂商品报价动态（2026-08-22）",
-      "link": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzs3111345.shtml",
-      "date": "2026-08-22 16:01",
-      "summary": "生意社08月22日讯交易商品牌/产地交货地最新报价十水硼砂 99%广州市天悦化工有限公司土耳其广东省/广州市4600元/吨 （文章来源：生意社）",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "苯丙三氮唑商品报价动态（2026-08-22）",
-      "link": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzr1160620.shtml",
-      "date": "2026-08-22 16:01",
-      "summary": "生意社08月22日讯交易商品牌/产地交货地最新报价苯丙三氮唑 含量99%广州市天悦化工有限公司国产广东省/广州市29000元/吨 （文章来源：生意社）",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "消毒粉商品报价动态（2026-08-22）",
-      "link": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzr1160622.shtml",
-      "date": "2026-08-22 16:01",
-      "summary": "生意社08月22日讯交易商品牌/产地交货地最新报价消毒粉 优等品河南汇亿海净水材料有限公司国产河南省8000元/吨 （文章来源：生意社）",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "羟基乙叉二磷酸商品报价动态（2026-08-22）",
-      "link": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzp7384099.shtml",
-      "date": "2026-08-22 16:01",
-      "summary": "生意社08月22日讯交易商品牌/产地交货地最新报价羟基乙叉二磷酸 90 含量佳恩化学（山东）有限公司佳恩化学山东省/济南市10000元/吨 （文章来源：生意社）",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "土耳其进口硼酸 商品报价动态（2026-08-22）",
-      "link": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzn0611587.shtml",
-      "date": "2026-08-22 16:01",
-      "summary": "生意社08月22日讯交易商品牌/产地交货地最新报价硼酸 H3BO3≥ 99.9%广州市天悦化工有限公司土耳其进口广东省/广州市10500元/吨 （文章来源：生意社）",
-      "source": "市场资讯",
       "category": "a-stock"
     },
     {
@@ -344,94 +352,6 @@
       "link": "https://finance.sina.com.cn/stock/companyt/2026-08-22/doc-inipeccv7629303.shtml",
       "date": "2026-08-22 11:30",
       "summary": "来源：江苏金融圈 8月21日晚上，国内券商圈又有一位大佬官宣“转会”，他就是国联民生证券总裁葛小波。 从2019年开始，葛小波带着他的“中信系”转投江苏的国联证券...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "长存控股闯关IPO：业绩高增长与三道必过坎",
-      "link": "https://finance.sina.com.cn/stock/companyt/2026-08-22/doc-inipeccx1331302.shtml",
-      "date": "2026-08-22 11:25",
-      "summary": "文|《财经》研究员 周源 编辑|谢丽容 超级周期为长存控股送来332亿元季度利润，但存储芯片行业固有的重资产折旧压力、强周期均值回归与外部供应链约束...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "国内多家品牌金饰报价上调",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipeccx1322465.shtml",
-      "date": "2026-08-22 11:13",
-      "summary": "新京报贝壳财经讯 8月22日，现货黄金现涨1.86%，达4603.25美元/盎司。国内多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所上调，老凤祥报价1388元/克...",
-      "source": "新京报",
-      "category": "a-stock"
-    },
-    {
-      "title": "牛散二季度持仓出炉：章建平持仓75亿新进中际旭创，付小铜、葛卫东、钟格调仓一览",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-08-22/doc-inipeccu0827912.shtml",
-      "date": "2026-08-22 10:45",
-      "summary": "来源：财闻 8月22日，随着A股上市公司2026年半年报陆续披露，一众知名“牛散”的二季度持仓动向随之浮出水面。通过梳理公开财报，对多位知名牛散最新调仓情况进行盘点（注：...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "金价、银价、油价，集体上涨",
-      "link": "https://finance.sina.com.cn/wm/2026-08-22/doc-inipeccv7592475.shtml",
-      "date": "2026-08-22 10:18",
-      "summary": "转自：央视财经 周五，市场持续担忧伊朗原油出口以及霍尔木兹海峡航运安全，国际油价连续六个交易日上涨。贵金属方面，受美元走弱、市场避险情绪升温等因素提振...",
-      "source": "央视",
-      "category": "a-stock"
-    },
-    {
-      "title": "A股一周熊股出炉：北京文化跌超30%，人民同泰、春秋电子上榜",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-08-22/doc-inipcwvw0922386.shtml",
-      "date": "2026-08-22 09:37",
-      "summary": "本周（8月17日—8月21日）A股主要指数集体收跌，沪指累计下跌0.56%，深证成指下跌1.81%，创业板指下跌2.23%，科创综指下跌3.15%。",
-      "source": "21世纪经济报道",
-      "category": "a-stock"
-    },
-    {
-      "title": "美法官推翻特朗普政府暂停向75国发放移民签证的政策",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipeccr6114532.shtml",
-      "date": "2026-08-22 09:28",
-      "summary": "当地时间8月21日，一名美国联邦地区法官推翻了特朗普政府暂停向75个国家申请人发放移民签证的政策，称该政策超出了国务卿鲁比奥的法定权限。",
-      "source": "央视",
-      "category": "a-stock"
-    },
-    {
-      "title": "星忆智能李当当：未来一到三年具身机器人将告别表演模式，真正落地产生价值",
-      "link": "https://finance.sina.com.cn/roll/2026-08-22/doc-inipcwvx7685452.shtml",
-      "date": "2026-08-22 09:17",
-      "summary": "2026世界机器人博览会（WRC）于8月19-23日在北京亦创国际会展中心举行。“AI大模型赋能机器人与具身智能产业新范式专题活动”在博览会同期举办。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "30亿元账面浮亏吞噬利润，网易Q2交出平淡成绩单，丁磊称对《遗忘之海》长期运营有信心",
-      "link": "https://finance.sina.com.cn/wm/2026-08-22/doc-inipcwvt6205128.shtml",
-      "date": "2026-08-22 09:01",
-      "summary": "来源：华夏时报 投资亏损近30亿元，让游戏巨头网易在最新的一个财季利润下滑。8月20日晚间，网易发布的2026年Q2财报显示，网易该季度归属于公司股东的净利润为70亿元...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "钱大妈，递交IPO招股书，拟赴香港上市，中金公司、农银国际联席保荐",
-      "link": "https://finance.sina.com.cn/stock/companyt/2026-08-22/doc-inipeccx1331642.shtml",
-      "date": "2026-08-22 09:01",
-      "summary": "来源：瑞恩资本RyanbenCapital 2026年8月21日，来自广东广州海珠区的广州钱大妈的控股公司钱大妈国际控股有限公司Qdama International Holding...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "Anthropic计划开展超大规模IPO 拟募资1000亿美元",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcwvx7663069.shtml",
-      "date": "2026-08-22 08:36",
-      "summary": "风头正劲的人工智能企业Anthropic过去一年在技术赛道上接连超越一众对手。如今，它即将登陆华尔街，这场声势浩大的上市发行，规模或许同样会甩开竞争对手。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "因保荐项目多项履职违规，国新证券被监管谈话，两名保代一年内不得履职",
-      "link": "https://finance.sina.com.cn/stock/2026-08-22/doc-inipcwvx7692057.shtml",
-      "date": "2026-08-22 08:34",
-      "summary": "来源：读创网  因为在证券发行保荐个别项目中履职违规，国新证券股份有限公司被北京证监局采取监管谈话措施的决定，两名项目签字保荐代表人被认定为不适当人选。",
       "source": "市场资讯",
       "category": "a-stock"
     }
