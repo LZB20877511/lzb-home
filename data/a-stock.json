@@ -1,14 +1,366 @@
 {
-  "updated": "2026-08-26T20:43:00.266850+08:00",
+  "updated": "2026-08-26T21:51:52.004001+08:00",
   "source": "A股聚合",
-  "count": 43,
+  "count": 51,
   "items": [
+    {
+      "title": "MHMarkets迈汇:黄金高位震荡等待新指引",
+      "link": "https://finance.sina.com.cn/money/future/roll/2026-08-26/doc-inipsezp5951068.shtml",
+      "date": "2026-08-26 21:49",
+      "summary": "8月26日，价格结构出现新的观察点，黄金在收益率回落和经济数据偏弱的环境中小幅走高，白银则因获利回吐承压。MHMarkets迈汇表示，单日变化需要放在更长时间窗口内比较...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "银行业监督管理法修订草案二审：从立法定位到风险处置的系统性完善",
+      "link": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-08-26/doc-inipsezr5930234.shtml",
+      "date": "2026-08-26 21:47",
+      "summary": "上证报中国证券网讯（记者 韩宋辉）银行业监督管理法修订草案8月25日提请全国人大常委会会议二次审议。草案二审稿在完善立法目的、设置风险处置专章、引入分类分级监管...",
+      "source": "上海证券报·中国证券网",
+      "category": "a-stock"
+    },
+    {
+      "title": "NCE平台:柴油价格窄幅整理等待突破",
+      "link": "https://finance.sina.com.cn/money/future/roll/2026-08-26/doc-inipsezr5928116.shtml",
+      "date": "2026-08-26 21:45",
+      "summary": "8月26日，最新交易线索显示，伦敦柴油在快速波动后转入窄幅整理，短线指标显示追涨力量有所降温。NCE平台表示，单日变化需要放在更长时间窗口内比较...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "英伟达财报四大核心看点：营收指引、Rubin迭代、客户结构与AI融资周期",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezp5949051.shtml",
+      "date": "2026-08-26 21:44",
+      "summary": "行业普遍预期英伟达本次财报业绩将再度超出预期；当下数据中心算力需求，持续大于算力建设与供电落地的速度。解读这份季度财报，需要重点关注四大维度：数据中心营收趋势与...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "OEXN:基金流入推动代币生态回暖",
+      "link": "https://finance.sina.com.cn/money/future/roll/2026-08-26/doc-inipsezp5948265.shtml",
+      "date": "2026-08-26 21:43",
+      "summary": "8月26日，从供需与价格联动来看，相关基金连续五日获得净流入，累计规模升至约十二亿美元并刷新纪录。OEXN表示，单日变化需要放在更长时间窗口内比较...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "Vatee外汇:小型代币轮动放大市场波动",
+      "link": "https://finance.sina.com.cn/money/future/roll/2026-08-26/doc-inipsezh0789304.shtml",
+      "date": "2026-08-26 21:40",
+      "summary": "8月26日，价格结构出现新的观察点，数字资产反弹扩散至多个小型代币，部分品种一周涨幅达到一倍。Vatee外汇表示，单日变化需要放在更长时间窗口内比较...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "ZFX山海证券:锌期货新品扩展定价工具",
+      "link": "https://finance.sina.com.cn/money/future/roll/2026-08-26/doc-inipsezp9145353.shtml",
+      "date": "2026-08-26 21:35",
+      "summary": "8月26日，最新交易线索显示，芝商所推出美国锌期货并完成首批交易，为产业链增加新的风险管理工具。ZFX山海证券表示，单日变化需要放在更长时间窗口内比较...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "Meta将最高支付167亿美元，了结社交媒体对未成年人造成伤害的诉讼案件",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezh0786128.shtml",
+      "date": "2026-08-26 21:33",
+      "summary": "就在加州法庭即将开庭审理之际，Meta同意最高支付166.8亿美元，了结与美国二十多个州的重大诉讼。各州指控该公司未能做好儿童保护，造成社交媒体成瘾问题。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "成都银行公布中期利润分配方案：拟每10股分配现金股利4.89元",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-08-26/doc-inipsezp9143092.shtml",
+      "date": "2026-08-26 21:33",
+      "summary": "8月26日金融一线消息，成都银行发布2026 年中期利润分配方案公告称，经董事会审议，公司2026 年中期利润分配方案如下： 以普通股总股本 42.38 亿股为基数...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "ATFX科普:为什么人会本能的追热点 即便价格已经很高",
+      "link": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-08-26/doc-inipsezp9142635.shtml",
+      "date": "2026-08-26 21:33",
+      "summary": "8月26日，ATFX科普：普通人做交易，无论是炒股票还是炒期货，缺的从来不是技术或者知识，而是缺乏对人性的了解。笔者参与交易已经十多年，大部分人碰到的问题我都碰到过...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "ATFX科普:交易员要时刻关注自己的心理和情绪变化",
+      "link": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-08-26/doc-inipsezr5912966.shtml",
+      "date": "2026-08-26 21:31",
+      "summary": "8月26日，ATFX科普：交易做到最后不是技术分析、不是宏观经济，而是人性、心理、情绪。交易员要时刻关注自己的心理和情绪变化，一方面不让这些变化干扰自己的交易行为...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "开盘：通胀数据显示通胀具备黏性 三大股指齐跌",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezp9142296.shtml",
+      "date": "2026-08-26 21:30",
+      "summary": "最新通胀数据显示通胀仍处于高位，受此影响，三大股指齐跌。 道指跌0.01%，标普500指数跌0.12%，纳指跌0.15%。波士顿科学跌5.27%，嘉信理财跌4.74%，Moderna跌3.77%...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "成都银行：2026年上半年净利润69.05亿元，同比增长4.35%",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-08-26/doc-inipsezp5942527.shtml",
+      "date": "2026-08-26 21:30",
+      "summary": "8月26日金融一线消息，成都银行公告，2026年上半年营业收入127.76亿元，同比增长4.13%；归属于母公司股东的净利润69.05亿元，同比增长4.35%。",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "ATFX汇评:美国中东外交官或返回避险情绪大降 美原油大跌至80美元下方",
+      "link": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-08-26/doc-inipsezp5941938.shtml",
+      "date": "2026-08-26 21:28",
+      "summary": "8月26日，ATFX汇评：据媒体报道，美国驻中东外交机构可能最早于本周开始让外交官返回，其中包括以色列、黎巴嫩、沙特、卡塔尔、约旦、阿曼、伊拉克和科威特的使馆。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "詹乔眉获批担任平安消金副总经理",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-08-26/doc-inipsezp9136914.shtml",
+      "date": "2026-08-26 21:27",
+      "summary": "8月26日金融一线消息，上海金融监管局发布关于詹乔眉平安消费金融有限公司副总经理任职资格的批复，核准詹乔眉平安消费金融有限公司副总经理的任职资格。",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "ATFX:美国财政部长贝森特表示 计划动用TGA账户回购国债美元不跌反涨",
+      "link": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-08-26/doc-inipsezp5940842.shtml",
+      "date": "2026-08-26 21:26",
+      "summary": "8月26日，ATFX汇评：美国财政部长贝森特在昨日美盘时段讲话称：财政部可利用其一般账户（TGA）中的资金来为购买政府债券的支出提供支持；已将TGA的余额规模扩大至约9...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "张威威获批担任建信财险副总经理",
+      "link": "https://finance.sina.com.cn/jryx/hm/2026-08-26/doc-inipsezp9134424.shtml",
+      "date": "2026-08-26 21:24",
+      "summary": "8月26日金融一线消息，宁夏金融监管局发布关于张威威建信财产保险有限公司副总经理任职资格的批复，核准张威威建信财产保险有限公司副总经理的任职资格。",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "ATFX汇评:今日美盘时段关注美国PCE数据和EIA原油库存数据",
+      "link": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-08-26/doc-inipsezp5939659.shtml",
+      "date": "2026-08-26 21:24",
+      "summary": "8月26日，ATFX汇评：北京时间今日20：30，美国商务部将公布7月核心PCE物价指数年率，市场预期值为3.3%，与前值持平。7月整体PCE物价指数年率同时公布，市场预期值3.6%...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "国寿财险怒江州中心支公司被罚15万元：编制虚假财务资料",
+      "link": "https://finance.sina.com.cn/jryx/fd/2026-08-26/doc-inipsezp9131496.shtml",
+      "date": "2026-08-26 21:21",
+      "summary": "8月26日金融一线消息，怒江金融监管分局行政处罚信息公示列表显示，因编制虚假财务资料，中国人寿财产保险股份有限公司怒江州中心支公司及相关责任人被罚...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "ATFX:澳洲联储会议纪要按兵不动理由 利率已足够紧缩",
+      "link": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-08-26/doc-inipsezr5899897.shtml",
+      "date": "2026-08-26 21:17",
+      "summary": "8月26日，ATFX汇评：澳洲联储今日公布货币政策会议纪要，对应8月10日至11日的利率决议，当时决议结果为按兵不动，维持4.35%的基准利率不变。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "中天期货:玻璃弱势难改 豆粕创新高",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-26/doc-inipsezp9125054.shtml",
+      "date": "2026-08-26 21:15",
+      "summary": "热点品种分析 一、商品指数 二、股指 中国上证综指 8 月 26 日（周三）收盘上涨 23.08 点，涨幅 0.59%，报 3912.52 点； 中国深证成指 8 月 26 日（周三）收盘上涨 95...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "山东国信连续两个季度增持浙商银行，6月末持股比例已升至4%",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-26/doc-inipsezh0777385.shtml",
+      "date": "2026-08-26 21:12",
+      "summary": "人民财讯8月26日电，浙商银行（601916）8月26日披露2026年半年度报告显示，山东省国际信托股份有限公司（简称“山东国信”）已连续两个季度增持该行A股股份...",
+      "source": "证券时报网",
+      "category": "a-stock"
+    },
+    {
+      "title": "分析师：英伟达千亿营收预期只是表象 毛利率或将揭示AI基建周期拐点",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezh0776469.shtml",
+      "date": "2026-08-26 21:10",
+      "summary": "StoneX表示，英伟达的业绩相当于超大规模云厂商资本开支的实时观测指标，所以市场反应绝不局限于这一只半导体个股。 该机构的高级市场分析师菲奥娜・辛科塔辛科塔表示...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美联储最偏爱通胀指标：7 月核心PCE物价指数同比上涨3.3%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezp5934160.shtml",
+      "date": "2026-08-26 21:10",
+      "summary": "美国商务部周三公布数据显示，作为美联储首选通胀观测工具的个人消费支出（PCE）物价指数，7 月经季调后环比上涨 0.2%，整体通胀同比达到 3...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "存在侵害用户权益行为 国泰产险、中宏保险旗下多款移动应用被通报",
+      "link": "https://finance.sina.com.cn/jryx/insurance/2026-08-26/doc-inipsezh0775297.shtml",
+      "date": "2026-08-26 21:08",
+      "summary": "8月26日金融一线消息，据上海市通信管理局发布，近期，该局组织第三方检测机构对我市APP（SDK）进行抽查，共发现16款APP（SDK）存在侵害用户权益行为（详见附件）...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "TWG全球集团抨击外界“多方攻击”，联邦调查风波下坚称“不存在欺诈行为”",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezh0775277.shtml",
+      "date": "2026-08-26 21:08",
+      "summary": "核心要点马克・沃尔特的 TWG 全球集团猛烈抨击针对这家控股公司及其子公司的所谓 “多方攻击”，并表示 “尽管有诸多媒体报道，但旗下各公司不存在欺诈行为”。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "上海体育局回应刘翔“买断”争议：将保持良好沟通妥善安置",
+      "link": "https://finance.sina.com.cn/china/2026-08-26/doc-inipsezp5940510.shtml",
+      "date": "2026-08-26 20:59",
+      "summary": "新华社上海8月26日电（记者胡洁菲）针对2004年雅典奥运会男子110米栏冠军刘翔26日在个人微博发文情况，上海市体育局回应称，上海市体育局...",
+      "source": "新华社",
+      "category": "a-stock"
+    },
+    {
+      "title": "金价波动冲击黄金珠宝业，老凤祥二季度净利跌超七成",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-26/doc-inipsezp5929944.shtml",
+      "date": "2026-08-26 20:58",
+      "summary": "老凤祥上半年营收及归母净利润均同比下降四成，二季度同比下滑加剧。 8月26日，黄金珠宝品牌老凤祥（600612）发布半年报，上半年营业总收入199.87亿元，同比减少40...",
+      "source": "澎湃新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "广发基金直销平台享费率优惠，认申购费 0 折起让利广大持有人",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-08-26/doc-inipsezp5926575.shtml",
+      "date": "2026-08-26 20:54",
+      "summary": "据悉，广发基金此前已针对官方直销渠道推出费率优惠，投资者通过广发基金 App、微信服务号、官网等直销平台，使用钱袋子办理基金认申购及定投业务...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "一年半65家自营清零！中小银行理财的进退抉择：抢牌照还是转代销",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-26/doc-inipsezn2317680.shtml",
+      "date": "2026-08-26 20:52",
+      "summary": "来源：北京商报 多元金融牌照，被不少中小银行视作打破信贷依赖、增厚中间业务收入的一把钥匙。近期，温州银行在巡察整改情况的通报中指出，在监管允许的情况下，择机...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "美国消费者信心连降两个月，8月读数89.4，为今年1月以来最低",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezp5924682.shtml",
+      "date": "2026-08-26 20:51",
+      "summary": "美国会议委员会周二公布：8月消费者信心指数报89.4，比7月下修后的90.2再低0.8点。7月原值曾报90.8，后来被改低。市场事前多数预期在90附近，实际读数略弱。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "黄力晨:美债回购计划 继续支撑黄金价格",
+      "link": "https://finance.sina.com.cn/money/nmetal/hjfx/2026-08-26/doc-inipsezp5923470.shtml",
+      "date": "2026-08-26 20:48",
+      "summary": "8月26日，昨日周二我们认为，由于美国长期国债回购规模翻倍，起到了类似局部量化宽松的效果，实际利率下行，降低了黄金的持有成本，同时美债信用受损...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "美国第二季度GDP增速未修正 环比折年率增长1.5% 符合预期",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezn2312539.shtml",
+      "date": "2026-08-26 20:47",
+      "summary": "美国经济分析局的数据显示，美国第二季度GDP的第二次估算值相比初步数据未作修正，环比折年率增速仍为1.5%。 55位经济学家给出的预测中值为增长1.5%...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "中泰红利优选一年持有（014771）过去一年盈利投资者数量占比11.75%，持有人户数22621户，约19963户亏钱",
+      "link": "https://finance.sina.com.cn/stock/aigcy/2026-08-26/doc-inipsezk5543157.shtml",
+      "date": "2026-08-26 20:47",
+      "summary": "2026年上半年，A股市场呈现出极端的结构性分化。以人工智能为代表的科技成长风格表现强势，而红利风格明显落后。在此背景下，由姜诚管理的中泰红利优选一年持有混合发起（0...",
+      "source": "新浪基金∞工作室",
+      "category": "a-stock"
+    },
+    {
+      "title": "“有色金属牛”交出半年报成绩单 能源金属领跑 AI算力、新能源等成第二曲线",
+      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-26/doc-inipsezn2316501.shtml",
+      "date": "2026-08-26 20:47",
+      "summary": "2026年半年报披露进入尾声，身处商品牛市中心的有色金属行业，交出了一份成色十足的成绩单。Wind数据显示，申万有色金属行业上半年合计实现归母净利润1425.44亿元...",
+      "source": "中国能源网",
+      "category": "a-stock"
+    },
+    {
+      "title": "同泰大健康主题混合过去一年盈利投资者数量占比19.78%，持有人户数9526户，约7642户亏钱",
+      "link": "https://finance.sina.com.cn/stock/aigcy/2026-08-26/doc-inipsezk5539805.shtml",
+      "date": "2026-08-26 20:47",
+      "summary": "8月26日，同泰基金披露同泰大健康主题混合基金2026年中期报告，报告统计周期为2026年1月1日‑6月30日。该基金分为A、C两类份额，报告期内基金净值出现较大回撤...",
+      "source": "新浪基金∞工作室",
+      "category": "a-stock"
+    },
+    {
+      "title": "英伟达Vera Rubin NVL72每瓦算力最高提升30倍",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytk0894971.shtml",
+      "date": "2026-08-26 20:45",
+      "summary": "英伟达发文称，随着智能体AI在各行各业落地投产，承载这类业务的基础设施必须高效承接海量Token需求。 全新实测性能数据表明：面对智能体工作负载...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
     {
       "title": "奈雪的茶2026上半年营收近19亿元，持续推进健康战略",
       "link": "https://finance.sina.com.cn/stock/enterprise/hk/2026-08-26/doc-iniprytr6050855.shtml",
       "date": "2026-08-26 20:40",
       "summary": "8月26日，奈雪的茶发布2026年中期业绩公告，上半年实现营收18.93亿元，经调整净亏损较2025年同期显著收窄，经营质量持续改善。",
       "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "营收下滑，研发增加，理想汽车锚定具身智能",
+      "link": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-26/doc-inipsezp5924625.shtml",
+      "date": "2026-08-26 20:40",
+      "summary": "8月26日，理想汽车(LI.US)发布截至2026年6月30日止六个月的中期业绩公告。报告期内，理想实现收入总额486.5亿元，同比下滑13.4%，净利润由上年同期的盈利17...",
+      "source": "新浪财经2",
+      "category": "a-stock"
+    },
+    {
+      "title": "爱建集团上半年营收5.97亿元 净利润降80.99%",
+      "link": "https://finance.sina.com.cn/stock/estate/integration/2026-08-26/doc-inipsezp5923572.shtml",
+      "date": "2026-08-26 20:40",
+      "summary": "观点网讯：8月26日，上海爱建集团股份有限公司发布2026年半年度报告。报告期内，公司实现营业收入5.97亿元，同比下降29.01%；归属于上市公司股东的净利润2667.38万元...",
+      "source": "观点地产网",
+      "category": "a-stock"
+    },
+    {
+      "title": "理想汽车2026H1经营亏损53亿/现金储备减少137亿，亮点是车辆毛利率回升！",
+      "link": "https://finance.sina.com.cn/stock/bxjj/2026-08-26/doc-inipsezh0766761.shtml",
+      "date": "2026-08-26 20:38",
+      "summary": "北京时间8月26日，美股+港股上市公司理想汽车（Li：NASDAQ/0201.HK）在港股盘后/美股盘前公布了2026年H1财报。毫无悬念，由于销量的下滑导致理想汽车2026年H1的核心财务指...",
+      "source": "车智",
+      "category": "a-stock"
+    },
+    {
+      "title": "银行AIC密集布局国产存储“双雄” 年内投资项目已超66单",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-26/doc-iniprytn5664522.shtml",
+      "date": "2026-08-26 20:37",
+      "summary": "财联社8月26日讯（编辑 李响） 近日，长江存储控股股份有限公司（下称“长存控股”）科创板IPO申报材料获上交所受理，拟募资330亿元，创下科创板申报阶段拟募资金额新高。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "朗信电气拟每10股派发现金红利2元",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-08-26/doc-iniprytk0891042.shtml",
+      "date": "2026-08-26 20:35",
+      "summary": "8月26日，朗信电气（920220）发布公告，公司拟向全体股东每10股派发现金红利2元（含税），预计总派发金额为1324万元。2026年中期，朗信电气实现收入6.67亿元...",
+      "source": "新浪财经2",
+      "category": "a-stock"
+    },
+    {
+      "title": "长江存储IPO获受理背后，26家A股公司投资了长江存储",
+      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-26/doc-inipsezn2320463.shtml",
+      "date": "2026-08-26 20:35",
+      "summary": "XINIU DATA· 一级市场洞察长鑫科技之后，国产存储“双子星”即将在科创板会师。8 月 21 日，长江存储科创板 IPO 申请获上交所受理，由中信证券、中信建投联合保荐。",
+      "source": "新浪财经2",
+      "category": "a-stock"
+    },
+    {
+      "title": "赛微电子：上半年归母净利润27.02亿元，扭亏为盈",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-26/doc-iniprytr6048929.shtml",
+      "date": "2026-08-26 20:33",
+      "summary": "赛微电子8月26日披露半年报，公司上半年实现营业收入1.78亿元，同比下降68.71%；归属于上市公司股东的净利润27.02亿元，上年同期亏损65.03万元；基本每股收益3.6905元/股。",
+      "source": "界面",
       "category": "a-stock"
     },
     {
@@ -20,11 +372,11 @@
       "category": "a-stock"
     },
     {
-      "title": "智能体交易时代，银行先立规矩",
-      "link": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-08-26/doc-iniprytn5661284.shtml",
-      "date": "2026-08-26 20:31",
-      "summary": "来源：看懂经济 8月24日，中国支付清算协会印发《智能体支付应用自律公约》，中国人民银行指导，自发布之日起实施。 一份自律文件，动静本不该这么大。",
-      "source": "市场资讯",
+      "title": "Meta就青少年成瘾诉讼寻求和解 潜在罚款达1.4万亿美元",
+      "link": "https://finance.sina.com.cn/stock/estate/integration/2026-08-26/doc-iniprytk0892046.shtml",
+      "date": "2026-08-26 20:32",
+      "summary": "观点网讯：8月26日，据彭博社报道，Meta与美国多个州检察长就一宗指控其故意将Facebook及Instagram设计成令青少年上瘾的诉讼讨论和解可能性。",
+      "source": "观点地产网",
       "category": "a-stock"
     },
     {
@@ -36,315 +388,27 @@
       "category": "a-stock"
     },
     {
-      "title": "Instagram负责人莫塞里出庭：休息功能青少年使用率1.8%，公司未向家长公布该数字",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytk0883796.shtml",
-      "date": "2026-08-26 20:22",
-      "summary": "Instagram负责人亚当·莫塞里周二（8月25日）在加州奥克兰联邦地区法院出庭，成为这起由29个州起诉Meta案件中首位作证的公司高管。他在证人席上约一小时，周三还要继续。",
-      "source": "环球市场播报",
+      "title": "华为与惠普签署全球Wi-Fi专利交叉许可协议",
+      "link": "https://finance.sina.com.cn/stock/t/2026-08-26/doc-iniprytr6047682.shtml",
+      "date": "2026-08-26 20:30",
+      "summary": "（来源：贝壳财经）新京报贝壳财经讯（记者张晓慧）8月26日，新京报贝壳财经记者获悉，华为与个人电脑及打印设备制造商惠普（HP）签署一项为期多年的全球Wi-Fi专利交叉许可...",
+      "source": "新浪财经2",
       "category": "a-stock"
     },
     {
-      "title": "盘前：纳指期货跌0.24% 英伟达盘后将公布财报",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytk0890571.shtml",
-      "date": "2026-08-26 20:20",
-      "summary": "美股股指期货周三盘前涨跌互现，市场焦点转向稍晚公布的美国通胀数据，以寻找有关美联储利率前景的进一步信号。 截至发稿，道指期货涨0.06%，标普500指数期货跌0.06%...",
-      "source": "环球市场播报",
+      "title": "中信银行上半年营收净利双增 扣非净利润微降0.55%",
+      "link": "https://finance.sina.com.cn/stock/estate/integration/2026-08-26/doc-iniprytr6044964.shtml",
+      "date": "2026-08-26 20:28",
+      "summary": "观点网讯：8月26日，中信银行发布2026年上半年业绩公告。报告期内，该行实现营业收入1094.08亿元，同比增长3.05%；归属于本行股东的净利润376.02亿元，同比增长3.08%...",
+      "source": "观点地产网",
       "category": "a-stock"
     },
     {
-      "title": "年内最贵新股频准激光，最新业绩公布",
-      "link": "https://finance.sina.com.cn/wm/2026-08-26/doc-iniprytr6040782.shtml",
-      "date": "2026-08-26 20:17",
-      "summary": "8月26日，年内最贵新股、“精准激光器第一股”频准激光（688826.SH）发布2026年半年度报告，报告显示，公司上半年实现营业收入2.56亿元，同比增长42...",
-      "source": "21世纪经济报道",
-      "category": "a-stock"
-    },
-    {
-      "title": "伊朗伊斯兰革命卫队称伊朗与阿曼就霍尔木兹海峡收益分配达成协议",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytr6038540.shtml",
-      "date": "2026-08-26 20:14",
-      "summary": "伊朗表示，已与阿曼就霍尔木兹海峡的收益分配达成协议。目前双方正推动就这条关键水道的管理达成一项更广泛的协议。 据伊朗的Sepah News通讯社报道...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "星驿支付、合利宝、嘉联支付上半年业绩出炉",
-      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-08-26/doc-iniprytn5644461.shtml",
-      "date": "2026-08-26 20:12",
-      "summary": "来源：财经新一线 8月26日，新大陆发布2026年半年度报告，其中提到，2026年上半年，旗下星驿支付营收17.86亿元，净利润2.23亿元，报告期末公司流动资产50.13亿元。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "让利持有人！广发基金直销平台享认申购费0折起优惠",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-08-26/doc-iniprytr6037690.shtml",
-      "date": "2026-08-26 20:12",
-      "summary": "据悉，广发基金此前已针对官方直销渠道推出费率优惠，投资者通过广发基金 App、微信服务号、官网等直销平台，使用钱袋子办理基金认申购及定投业务...",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "城堡证券Flight改口看多长端美债：空头拥挤，不对称偏向收益率下行",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytq2408601.shtml",
-      "date": "2026-08-26 20:12",
-      "summary": "城堡证券宏观策略主管弗兰克·弗莱特周二（8月25日）向客户发出报告，把对美债长端的判断从看空改成偏多。他写：“我们现在认为不对称性偏向长端收益率下行。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "规模也有代价，手回集团上半年分红险首年保费暴增超400%，毛利反降6.7%",
-      "link": "https://finance.sina.com.cn/money/insurance/bxyx/2026-08-26/doc-iniprytn5647564.shtml",
-      "date": "2026-08-26 20:11",
-      "summary": "来源：险企高参 原标题：规模也有代价，手回集团上半年分红险首年保费暴增超400%，毛利反降6.7%！一边增加营销开支，另一边大幅削减行政开支… “报行合一”压低佣金率...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "银监法二审稿：员工违规造成客户损失，银行应依法承担民事责任",
-      "link": "https://finance.sina.com.cn/roll/2026-08-26/doc-iniprytn5633035.shtml",
-      "date": "2026-08-26 20:07",
-      "summary": "21世纪经济报道 记者郭聪聪 8月25日，《银行业监督管理法》修订草案迎来第二次审议。 二审稿新增一项重要规定：银行业金融机构从业人员违反本法规定...",
-      "source": "21世纪经济报道",
-      "category": "a-stock"
-    },
-    {
-      "title": "德勤向美国司法部支付2150万美元了结DEI调查，不承认违法",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytk0876330.shtml",
-      "date": "2026-08-26 20:05",
-      "summary": "美国司法部周二（8月25日）宣布，德勤美国相关实体同意向联邦政府支付2150万美元，了结一项按《虚假申报法》（False Claims Act，联邦承包商若虚报合规...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "中收下滑54.8%，5200亿温州银行拟申请设立理财子、资金运营中心、消金“三大牌照”意味着什么？",
-      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-08-26/doc-iniprytn5630909.shtml",
-      "date": "2026-08-26 20:03",
-      "summary": "来源：今日行长 温州银行将择机申请设立理财子公司！ 又一城商行提出争取申请设立理财子公司！ 2026年8月25日，温州银行在官网发布的《中共温州银行委员会关于巡察整改情况...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "以“技术上不可能实现”的构想起家的首席执行官",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytn5624865.shtml",
-      "date": "2026-08-26 20:01",
-      "summary": "布莱恩・埃利奥特在创办第一家公司时押下赌注：技术发展与市场需求终将跟上自己的构想。但现实并未如其所愿。这位前美国陆军游骑兵...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美债长端来了“不计回报的买家” 业绩出众的投资者削减曲线陡峭化押注",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytq2395632.shtml",
-      "date": "2026-08-26 19:59",
-      "summary": "摩根士丹利投资管理的Vishal Khanduja是一位业绩领先的固定收益投资者。他正在削减做空美国长期国债的押注，称美国财政部长贝森特已准备“不惜一切代价”...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "华安基金：美债困局“再曝光”，黄金长期叙事再迎催化",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-08-26/doc-iniprytn5622465.shtml",
-      "date": "2026-08-26 19:59",
-      "summary": "上周伦敦现货黄金收于4，603美元/盎司（周环比5.2%），国内AU9999黄金收于984元/克（周环比4.9%）。 上周黄金市场的核心主线，是美国债务困局的再度凸显...",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "相比美国其他地区，底特律更离不开加拿大",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytk0873204.shtml",
-      "date": "2026-08-26 19:59",
-      "summary": "特朗普总统威胁，将加拿大进口汽车关税由 25% 上调至 50%，为本就饱受贸易战冲击的汽车行业再添动荡 内容概要 特朗普总统威胁把从加拿大进口的汽车及汽车零部件关税...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "俄克拉荷马电价上调案受审：15%申请压到1%，居民仍在先付11美元",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytq2394567.shtml",
-      "date": "2026-08-26 19:58",
-      "summary": "俄克拉荷马公共电力公司（PSO）今年初向州公司委员会申请把居民电价平均上调约15%，相当于典型用户每月多付约25美元。6月30日，州检察长根特纳·德拉蒙德与公司达成和解：平...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "华安基金：创业板50指数聚焦四大新质生产力赛道",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-08-26/doc-iniprytk0872762.shtml",
-      "date": "2026-08-26 19:57",
-      "summary": "行情回顾及主要观点： 上周A股市场整体呈现调整趋势：沪深300跌1.01%，中证500跌1.70%，中证1000跌2.16%，创业板50上周跌2.09%，科创50跌3.73%。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "新华保险上半年净赚逾227亿元增54%，投资收益增近1.5倍",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-26/doc-iniprytn5622012.shtml",
-      "date": "2026-08-26 19:57",
-      "summary": "8月26日晚间，新华保险（601336.SH，01336.HK）披露的2026年半年度报告显示，2026年上半年，新华保险实现营业收入832.58亿元，同比增长18...",
-      "source": "澎湃新闻",
-      "category": "a-stock"
-    },
-    {
-      "title": "华安基金：价值周期共振，上周央企红利表现占优",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-08-26/doc-iniprytq2393236.shtml",
-      "date": "2026-08-26 19:56",
-      "summary": "行情回顾及主要观点： 港股方面，上周恒生港股通中国央企红利指数上涨3.70%，恒生指数上涨3.56%，恒生科技指数上涨1.24%。A股方面，上周中证国企红利指数上涨1.36%...",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "盖茨：人工智能将带来历史上最动荡的时期",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytr6027850.shtml",
-      "date": "2026-08-26 19:50",
-      "summary": "微软联合创始人比尔·盖茨周三（8月26日）在个人网站 Gates Notes 刊出近6000字长文，称人工智能将带来“人类历史上最动荡的时期之一”...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "数据可观测性初创企业营收为何迅猛增长",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytn5614331.shtml",
-      "date": "2026-08-26 19:49",
-      "summary": "作者：阿历克斯・库图尔 一批向 Snowflake、Databricks、Datadog 等数据库巨头发起挑战的初创企业，正借着 AI 智能体普及的东风迎来营收暴涨。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "Atlassian借知识图谱浪潮乘风而起",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytn5611906.shtml",
-      "date": "2026-08-26 19:47",
-      "summary": "能够自动完成编程项目以及其他白领工作的 AI 智能体正在兴起，这促使 Atlassian 这类软件厂商推出所谓知识图谱（图数据库），帮助人工智能解析企业内部各类数据之间的关联...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "苏州银行：业务总监陈洁因年龄原因辞任",
-      "link": "https://finance.sina.com.cn/jryx/bank/2026-08-26/doc-iniprytn5611009.shtml",
-      "date": "2026-08-26 19:46",
-      "summary": "8月26日金融一线消息，苏州银行公告称，董事会近日收到陈洁女士提交的辞任函。陈洁女士因年龄原因，辞去本行业务总监职务，自2026 年8 月25日生效。",
-      "source": "金融一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "清仓腾讯、减持宇树…腾讯五虎之一，靠努力错过千亿财富",
-      "link": "https://finance.sina.com.cn/stock/roll/2026-08-26/doc-iniprytk0868794.shtml",
-      "date": "2026-08-26 19:45",
-      "summary": "来源：财通社 最近，腾讯创始人之一曾李青颇受关注。 一方面，是其创办的德迅投资早期押中宇树科技（688836.SH），剩余股份如今仍有近20亿元市值...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "苏州银行：2026年上半年归母净利润34.01亿元，同比增长8.51%",
-      "link": "https://finance.sina.com.cn/jryx/bank/2026-08-26/doc-iniprytr6022245.shtml",
-      "date": "2026-08-26 19:37",
-      "summary": "8月26日金融一线消息，苏州银行公告称，2026年1-6月实现营业收入73.54亿元，同比增长13.08%；归属于母公司股东的净利润34.01亿元，同比增长8.51%。",
-      "source": "金融一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "浙商银行：2026年上半年净利润78.24亿元，同比增长2.05%",
-      "link": "https://finance.sina.com.cn/jryx/bank/2026-08-26/doc-iniprytq2371775.shtml",
-      "date": "2026-08-26 19:34",
-      "summary": "8月26日金融一线消息，浙商银行公告，2026年上半年营业收入332.56亿元，同比增长0.02%；归属于本行股东的净利润78.24亿元，同比增长2.05%，2025年同期为76.67亿元。",
-      "source": "金融一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "奥莱门店扩张、特卖平台会员规模增长，折扣零售线上线下同步扩容",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-08-26/doc-iniprytr6020266.shtml",
-      "date": "2026-08-26 19:33",
-      "summary": "“可以买贵的，但不能买贵了”正在成为年轻一代的消费取向，“质价比”取代单纯的“性价比”成为主流决策依据，中国零售市场正经历一场价值重构。",
-      "source": "新浪证券",
-      "category": "a-stock"
-    },
-    {
-      "title": "麦迪科技上半年扣非净利润同比增52% 聚焦医疗主业释放经营效能",
-      "link": "https://finance.sina.com.cn/stock/csjzbj/2026-08-26/doc-iniprytn5595155.shtml",
-      "date": "2026-08-26 19:31",
-      "summary": "8月26日，麦迪科技（603990）披露2026年半年度报告。 财报显示，2026年上半年，公司扣非归母净利润达549.18万元，同比增长52.34%。",
-      "source": "长三角资本局",
-      "category": "a-stock"
-    },
-    {
-      "title": "中信银行上半年净利376.02亿增3.08%，营收增3.05%",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-26/doc-iniprytk0857912.shtml",
-      "date": "2026-08-26 19:24",
-      "summary": "中信银行（601998.SH，0998.HK）8月26日晚间披露的2026年中期业绩报告显示，上半年实现归属于该行股东的净利润376.02亿元，同比增长3.08%；营业收入1094.08亿元...",
-      "source": "澎湃新闻",
-      "category": "a-stock"
-    },
-    {
-      "title": "极为罕见！A股再现重大资产重组“上会遭否”",
-      "link": "https://finance.sina.com.cn/wm/2026-08-26/doc-iniprytn5600304.shtml",
-      "date": "2026-08-26 19:23",
-      "summary": "记者丨赵云帆 编辑丨郑世凤，朱益民 “并购六条”之后首个重大资产重组事项否决案例，落到了建筑陶瓷企业科达制造（600499.SH）身上。",
-      "source": "21世纪经济报道",
-      "category": "a-stock"
-    },
-    {
-      "title": "华大智造：已构建“数据入口—执行基座—智能闭环”，纳米孔测序直测优势赋能mRNA 疫苗产业",
-      "link": "https://finance.sina.com.cn/stock/enterprise/cn/2026-08-26/doc-iniprytr6013755.shtml",
-      "date": "2026-08-26 19:20",
-      "summary": "8月24日，深圳华大智造科技股份有限公司（以下简称“华大智造”，股票代码：688114）召开中期业绩交流会，就AI贯穿三大业务线的落地场景...",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "又见“彩礼贷”？ 江西银行回应：不实消息！",
-      "link": "https://finance.sina.com.cn/roll/2026-08-26/doc-iniprytr6015452.shtml",
-      "date": "2026-08-26 19:20",
-      "summary": "21世纪经济报道记者 张欣 8月26日，社交平台流传一张标注“江西银行宣”、宣传语为“爱她就贷她回家”的“彩礼贷”海报。21世纪经济报道记者致电江西银行客服...",
-      "source": "21世纪经济报道",
-      "category": "a-stock"
-    },
-    {
-      "title": "ST香雪“保壳”命悬一线",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-26/doc-iniprytn5586496.shtml",
-      "date": "2026-08-26 19:19",
-      "summary": "界面新闻记者 | 李科文界面新闻编辑 | 谢欣 8月25日晚间，ST香雪发布2026年半年报。2026年上半年，ST香雪实现营收7.03亿元，同比下降14.09%；实现归母净利润-2.69亿元...",
-      "source": "界面",
-      "category": "a-stock"
-    },
-    {
-      "title": "财报公布在即 分析师关注英伟达融资、市场份额等",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytq2353422.shtml",
-      "date": "2026-08-26 19:17",
-      "summary": "英伟达即便业绩亮眼，或许仍不足以说服心存疑虑的投资者。 英伟达今年股价累计上涨14%，但已较5月份高点大幅回落；市场对该股以及其他AI热潮关联个股的投资热情正在消退。...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "连亏四年！发起重大资产重组，建设机械股价高台跳水",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-26/doc-iniprytr6020918.shtml",
-      "date": "2026-08-26 19:17",
-      "summary": "来源：IPO日报 8月24日晚间，建设机械（600984.SH）发布公告称，公司拟通过发行股份及支付现金的方式购买陕西化工集团、三峡资本合计持有的蒲城清洁能源化工有限责任公司（...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "微光成炬：重庆银行的数字化普惠之路",
-      "link": "https://finance.sina.com.cn/stock/enterprise/cn/2026-08-26/doc-iniprytk0849629.shtml",
-      "date": "2026-08-26 19:07",
-      "summary": "一座城市的活力，藏在小微企业的灯火里。它们规模不大，却吸纳着大量就业，孕育着技术创新，支撑着产业链的顺畅运转。但现实中，融资难、融资贵、信息不对称...",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "重庆银行半年报：营收净利延续“双十”增长  集团及法人规模站稳“双万亿”",
-      "link": "https://finance.sina.com.cn/stock/enterprise/cn/2026-08-26/doc-iniprytn5568395.shtml",
-      "date": "2026-08-26 19:05",
-      "summary": "8月20日晚间，重庆银行（601963.SH，01963.HK）披露2026年半年度报告。报告显示，上半年该行营业收入、净利润延续“双十”增长势头，资产规模实现“双万亿”跨越。",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "“双万亿”筑基 “双十”续航  从半年报透视重庆银行的增长逻辑",
-      "link": "https://finance.sina.com.cn/stock/enterprise/cn/2026-08-26/doc-iniprytn5566857.shtml",
-      "date": "2026-08-26 19:04",
-      "summary": "8月20日，重庆银行（601963.SH，01963.HK）2026年半年度报告正式出炉。这份中期答卷不仅写下资产规模实现“双万亿”跨越的历史性注脚...",
-      "source": "新浪财经",
-      "category": "a-stock"
-    },
-    {
-      "title": "重庆银行净息差上升7个基点 Q2中收增速转正",
-      "link": "https://finance.sina.com.cn/stock/enterprise/cn/2026-08-26/doc-iniprytr6005195.shtml",
-      "date": "2026-08-26 19:03",
-      "summary": "在城商行板块“对公重回增长主轴”的周期性切换中，重庆银行再度交出亮眼的成绩单。 8月20日，重庆银行（601963.SH；1963.HK）披露2026年半年报显示...",
-      "source": "新浪财经",
+      "title": "豪恩汽电拟每10股派发现金红利1元",
+      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-26/doc-iniprytq2432617.shtml",
+      "date": "2026-08-26 20:26",
+      "summary": "8月26日，豪恩汽电（301488）发布公告，公司拟向全体股东每10股派发现金红利1元（含税），预计总派发金额为1014万元。2026年中期，豪恩汽电实现收入11.86亿元...",
+      "source": "新浪财经2",
       "category": "a-stock"
     }
   ]
