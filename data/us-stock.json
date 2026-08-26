@@ -1,44 +1,52 @@
 {
-  "updated": "2026-08-26T09:47:26.761049+08:00",
+  "updated": "2026-08-26T10:24:19.691364+08:00",
   "source": "美股聚合",
-  "count": 54,
+  "count": 55,
   "items": [
     {
       "title": "Sen. Darline Graham, Trump's pick for South Carolina Senate, wins GOP primary",
       "link": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "Sen. Darline Graham on Tuesday defeated Rep. Ralph Norman, winning the GOP nomination for a South Carolina Senate seat.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
+      "link": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
+      "date": "2026-08-26 10:24",
+      "summary": "It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Oil falls on easing concerns of renewed tensions as the U.S. pivots to economic pressure on Iran",
       "link": "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "Oil fell Wednesday, as investors continue to assess the U.S. pivot toward economic sanctions rather than military strikes to add pressure on Iran.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties",
-      "link": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
-      "date": "2026-08-26 09:47",
-      "summary": "Trump last Sunday instructed the Pentagon to cut military drills because they were \"costly\" and send \"inappropriate and hostile\" signals to North Korea.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates",
       "link": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "Traders awaited inflation data along with Nvidia's latest quarterly results. Both are due Wednesday.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties",
+      "link": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
+      "date": "2026-08-26 10:24",
+      "summary": "Trump last Sunday instructed the Pentagon to cut military drills because they were \"costly\" and send \"inappropriate and hostile\" signals to North Korea.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Nvidia's 'expectations premium' dogs the stock after earnings. Here's what analysts are watching",
       "link": "https://www.cnbc.com/2026/08/25/nvidias-expectations-premium-dogs-the-stock-after-earnings.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "Over the past year, Nvidia has topped estimates on all the topline metrics and has still been punished by investors the next trading day.",
       "source": "CNBC",
       "category": "us-stock"
@@ -46,7 +54,7 @@
     {
       "title": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits",
       "link": "https://www.cnbc.com/2026/08/25/openais-head-of-data-centers-chris-malone-is-out-in-latest-exec-exit.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "An OpenAI spokesperson said the company \"recently reorganized our infrastructure organization to support the scale and pace of our work.\"",
       "source": "CNBC",
       "category": "us-stock"
@@ -54,7 +62,7 @@
     {
       "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
       "link": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.",
       "source": "CNBC",
       "category": "us-stock"
@@ -62,23 +70,15 @@
     {
       "title": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
       "link": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
-      "link": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html",
-      "date": "2026-08-26 09:47",
-      "summary": "Iran and Oman on Tuesday discussed a proposal to establish a jointly managed shipping route through the Strait of Hormuz.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Trump targets Irans trade lifelines  here are the countries most exposed",
       "link": "https://www.cnbc.com/2026/08/25/us-iran-secondary-sanctions-china-india-uae-hormuz-trade-.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "Washington's threat of \"economic D-Day\" collides with a small group of governments that account for most of what remains of Iran's foreign trade.",
       "source": "CNBC",
       "category": "us-stock"
@@ -86,7 +86,7 @@
     {
       "title": "Dicks Sporting Goods just had its worst day ever. Here's Jim Cramer's advice on the stock now",
       "link": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-worst-day-ever-jim-cramer-advice.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "CNBCs Jim Cramer said investors shouldnt give up on Dicks after its record 30% plunge.",
       "source": "CNBC",
       "category": "us-stock"
@@ -94,15 +94,23 @@
     {
       "title": "'Big Short' investor Danny Moses calls 10-year yield, Nvidia the two most important assets for markets right now",
       "link": "https://www.cnbc.com/2026/08/25/big-short-investor-calls-10-year-yield-nvidia-the-two-most-important-assets-for-markets.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "The two assets are the center of gravity in financial markets at the moment, according to the Moses Ventures founder.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
+      "link": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html",
+      "date": "2026-08-26 10:24",
+      "summary": "Iran and Oman on Tuesday discussed a proposal to establish a jointly managed shipping route through the Strait of Hormuz.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
       "link": "https://www.cnbc.com/2026/08/25/stanley-druckenmiller-leads-doubters-who-think-bessents-bond-ploys-will-fail.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "The bond market interventions have generated a modest decline in yields along with a growing chorus of derision.",
       "source": "CNBC",
       "category": "us-stock"
@@ -110,7 +118,7 @@
     {
       "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
       "link": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "SpaceX plans to establish its Starbase, LA in Vermilion Parish, which will \"support thousands of launches annually.\"",
       "source": "CNBC",
       "category": "us-stock"
@@ -118,7 +126,7 @@
     {
       "title": "CNBC's The China Connection newsletter: Robots need help learning human skills. These AI companies are rushing to meet the demand",
       "link": "https://www.cnbc.com/2026/08/24/cnbcs-the-china-connection-newsletter-piling-into-human-skills-ai.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "Humanoid robots still take a long time to complete human tasks. Several startups in China are trying different ways to collect and use training data better.",
       "source": "CNBC",
       "category": "us-stock"
@@ -126,7 +134,7 @@
     {
       "title": "Dolly Parton, queen of country music, dies at 80",
       "link": "https://www.cnbc.com/2026/08/25/dolly-parton-country-music-dies-80.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "With songs such as \"Coat of Many Colors,\" \"Jolene\" and \"I Will Always Love You,\" she was one of the best-selling female artists of all time.",
       "source": "CNBC",
       "category": "us-stock"
@@ -134,31 +142,31 @@
     {
       "title": "New Delhi draws in $73 billion in 11 weeks, powered by special deposits for non-resident Indians",
       "link": "https://www.cnbc.com/2026/08/25/india-billion-foreign-inflows-rupee-weakness.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "India has attracted inflows of $73 billion in 11 weeks, driven mostly by foreign currency bank deposits made by non-resident Indians.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Cash is no longer king in home sales",
-      "link": "https://www.cnbc.com/2026/08/25/cash-is-no-longer-king-in-home-sales.html",
-      "date": "2026-08-26 09:47",
-      "summary": "Cash buyers are a diminishing share of the overall housing market, as more supply and weaker prices give all buyers more purchasing power.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "2 of our software stocks face major tests of whether their rallies are for real",
       "link": "https://www.cnbc.com/2026/08/25/2-of-our-software-stocks-face-major-tests-of-whether-their-rallies-are-for-real.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "Here are the questions we are looking to answer when CrowdStrike and Salesforce report earnings Wednesday evening.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Cash is no longer king in home sales",
+      "link": "https://www.cnbc.com/2026/08/25/cash-is-no-longer-king-in-home-sales.html",
+      "date": "2026-08-26 10:24",
+      "summary": "Cash buyers are a diminishing share of the overall housing market, as more supply and weaker prices give all buyers more purchasing power.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Is the K-shaped economy ending? Finance pros weigh in",
       "link": "https://www.cnbc.com/2026/08/25/k-shaped-economy-c-shaped-economy-may-be-changing.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "The K-shaped economy may be changing. New data shows income and spending gaps are narrowing  but household finances tell a more complicated story.",
       "source": "CNBC",
       "category": "us-stock"
@@ -166,7 +174,7 @@
     {
       "title": "Here's why markets are starting to care about the 2026 election 10 weeks out",
       "link": "https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "Wall Street analysts are tuning in 10 weeks ahead of the Nov. 3 election with concerns about risks to investors depending on how the U.S. results turn out.",
       "source": "CNBC",
       "category": "us-stock"
@@ -174,7 +182,7 @@
     {
       "title": "Bond rout ending? Massive bets on bond rally dominate options market",
       "link": "https://www.cnbc.com/2026/08/25/bond-rout-ending-massive-bets-on-bond-rally-dominate-options-market-.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "There's an old Wall Street adage: Stocks float on a sea of bonds. Options traders are betting the tide is going out.",
       "source": "CNBC",
       "category": "us-stock"
@@ -182,7 +190,7 @@
     {
       "title": "Kalshi traders see low likelihood of major crypto bill becoming law this year",
       "link": "https://www.cnbc.com/2026/08/25/kalshi-traders-see-low-likelihood-of-major-crypto-bill-becoming-law-this-year.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "The White House has pushed for Congress to pass the Clarity Act, a bill on crypto regulation. Kalshi traders see little chance the bill becomes law this year.",
       "source": "CNBC",
       "category": "us-stock"
@@ -190,7 +198,7 @@
     {
       "title": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say",
       "link": "https://www.cnbc.com/2026/08/25/hhs-fda-leadership-roles-technology-drugs.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "HHS plans to name two deputy commissioners for technology and drugs, said two sources familiar with the matter.",
       "source": "CNBC",
       "category": "us-stock"
@@ -198,7 +206,7 @@
     {
       "title": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
       "link": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "\"With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac,\" Apple said.",
       "source": "CNBC",
       "category": "us-stock"
@@ -206,23 +214,15 @@
     {
       "title": "Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S.",
       "link": "https://www.cnbc.com/2026/08/25/waymo-robotaxi-germany-2027.html",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "Waymo has been the biggest robotaxi player in the U.S., and has announced plans to enter the U.K., Japan and now Germany.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
-      "link": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
-      "date": "2026-08-26 09:47",
-      "summary": "Concern over the size and the cost of U.S. government spending has given new life to the debasement trade.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Are older Americans spoiling the economy for everyone else?",
       "link": "https://www.marketwatch.com/story/are-older-americans-spoiling-the-economy-for-everyone-else-064b5820?mod=mw_rss_topstories",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "How to get seniors to spend $12 trillion in home equity.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -230,7 +230,7 @@
     {
       "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
       "link": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "“We don’t know whether they have signed leases or are renting month to month.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -238,7 +238,7 @@
     {
       "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
       "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -246,7 +246,7 @@
     {
       "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
       "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "“The property is very old and requires significant ongoing maintenance.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -254,7 +254,7 @@
     {
       "title": "Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers",
       "link": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "Shares of the sporting-goods retailer suffering a record selloff as profit and sales missed expectations and the full-year outlook was slashed.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -262,7 +262,7 @@
     {
       "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
       "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -270,7 +270,7 @@
     {
       "title": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card",
       "link": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "An ongoing shortage of compute could provide Meta with the opportunity to sell its capacity for a big premium.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -278,7 +278,7 @@
     {
       "title": "Callaway Golf’s apology for ad showing woman being shoved to the ground exposes a major industry blind spot",
       "link": "https://www.marketwatch.com/story/callaway-golfs-apology-for-ad-showing-woman-being-shoved-to-the-ground-exposes-a-major-industry-blind-spot-41101a13?mod=mw_rss_topstories",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "The viral ad shows a male golfer pushing a female golfer to the ground. Since 2019, women and girls made up nearly 60% of net golfer growth.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -286,7 +286,7 @@
     {
       "title": "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs",
       "link": "https://www.marketwatch.com/story/why-amd-can-beat-rivals-intel-and-nvidia-in-the-market-for-data-center-cpus-e49a53f1?mod=mw_rss_topstories",
-      "date": "2026-08-26 09:47",
+      "date": "2026-08-26 10:24",
       "summary": "The chip maker is strongly positioned to gain share in the market for data-center CPUs and to see profit from revenue, a Raymond James analyst says.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -294,8 +294,24 @@
     {
       "title": "Dow Jones Futures: Inflation Data, Nvidia Earnings Due; Robinhood In Buy Area",
       "link": "https://finance.yahoo.com/m/a1a5cb94-36b5-3bbd-869f-362442258823/dow-jones-futures%3A-inflation.html?.tsrc=rss",
-      "date": "2026-08-26 01:33",
+      "date": "2026-08-26 02:06",
       "summary": "The stock market rose Tuesday amid lower oil prices and yields, but cautiously heading into Fed inflation data and Nvidia earnings.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "SpaceX just gave Nvidia investors a new reason to watch",
+      "link": "https://www.thestreet.com/investing/stocks/spacex-nvidia-starmind-ai1-orbital-data-center?.tsrc=rss",
+      "date": "2026-08-26 02:03",
+      "summary": "Something Elon Musk said on SpaceXs earnings call about Nvidia is still being priced into both stocks.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "This $30 Stock Could Be Primed for a Breakout",
+      "link": "https://www.fool.com/investing/2026/08/25/this-30-stock-could-be-primed-for-a-breakout/?.tsrc=rss",
+      "date": "2026-08-26 01:50",
+      "summary": "Applied Digital is investing a lot of money in its data center facilities.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
@@ -304,6 +320,14 @@
       "link": "https://www.fool.com/investing/2026/08/25/2-monster-stocks-to-hold-for-the-next-10-years/?.tsrc=rss",
       "date": "2026-08-26 01:25",
       "summary": "These two stocks are no-brainer buy and holds for the next decade.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Schwab Strategist Flags Wall Street's Growth Is Concentrated in Two Firms",
+      "link": "https://beincrypto.com/micron-wall-street-earnings-concentration-bitcoin/?.tsrc=rss",
+      "date": "2026-08-26 01:18",
+      "summary": "Nvidia and Micron drive a third of S&P earnings growth as Bitcoin breaks $80,000 on bond market stress alerting traders to a bubble.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
@@ -408,22 +432,6 @@
       "link": "https://www.fool.com/investing/2026/08/25/prediction-nvda-shares-fall-5th-straight-quarter/?.tsrc=rss",
       "date": "2026-08-25 23:26",
       "summary": "Nvidia's stock has a dubious post-earnings track record, fueled by investors' lofty expectations.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Wall Street ends higher as tech rebounds before Nvidia results",
-      "link": "https://finance.yahoo.com/video/wall-street-ends-higher-tech-230913221.html?.tsrc=rss",
-      "date": "2026-08-25 23:09",
-      "summary": "STORY: U.S. stocks closed higher on Tuesday, with the Dow and S&P 500 each adding nearly a third of a percent, and the Nasdaq climbing two-thirds of a percent. The gains could ease investor concerns s",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "If You'd Invested $1,000 in Home Depot 15 Years Ago, Here's How Much You'd Have Today",
-      "link": "https://www.fool.com/investing/2026/08/25/if-youd-invested-1000-in-home-depot-15-years-ago-h/?.tsrc=rss",
-      "date": "2026-08-25 22:35",
-      "summary": "Since the period 15 years ago when it was trading sideways, this blue chip retailer has become a multibagger.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
