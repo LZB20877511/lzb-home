@@ -1,269 +1,301 @@
 {
-  "updated": "2026-08-31T14:42:41.754430+08:00",
+  "updated": "2026-08-31T22:48:16.996373+08:00",
   "source": "A股聚合",
-  "count": 33,
+  "count": 37,
   "items": [
     {
-      "title": "三星开发8层HBM4E产品，瞄准英伟达NVHBM供应",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqexuv8958143.shtml",
-      "date": "2026-08-31 14:41",
-      "summary": "三星电子正在开发一款符合英伟达要求的8层HBM4E产品，力求在其定制化高带宽内存NVHBM的供应中争取关键角色。该产品将堆叠高度从最初规划的12层和16层版本降低...",
+      "title": "美国财长贝森特G20双线推进议程：化解美债担忧、推动伊朗经济施压",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqfqsm7160287.shtml",
+      "date": "2026-08-31 22:46",
+      "summary": "美国财长斯科特·贝森特筹办了本周G20财长会议，意在展示唐纳德·特朗普总统的经济施政纲领，并将其作为推动全球经济提速增长的范本。本次会议令贝森特处境微妙。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "联创光电16亿资金清收未有进展，受损投资者如何维权",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-08-31/doc-iniqexur4594784.shtml",
-      "date": "2026-08-31 14:41",
-      "summary": "2026年8月，对于持有联创光电（600363）的投资者而言，注定是一段煎熬的时光。 在股价年内已大幅下跌的背景下，一则关于巨额资金占用和可能“戴帽”的公告...",
+      "title": "OpenAI广告业务爆发式增长 年化营收达到10亿美元",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqfqss1746263.shtml",
+      "date": "2026-08-31 22:44",
+      "summary": "OpenAI于周一宣布，其广告业务年化营收已经达到10亿美元，公司称这一里程碑印证了自身“多元化商业模式”的可行性。 这家人工智能企业正筹备规模预计十分庞大的首次公开募股...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "2026年存放现金的8个最佳去处，不仅安全性高，还可以赚利息",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqfqsm7154985.shtml",
+      "date": "2026-08-31 22:32",
+      "summary": "作者：艾米丽・巴特多夫 新的一年已然开启，你或许正在复盘个人财务状况以及美国整体金融大环境。尽管从食品杂货、住房到公用事业，各类商品服务价格依旧居高不下...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "深夜，全线下跌！“加息3次”！美联储重大变数，最新研判来了",
+      "link": "https://finance.sina.com.cn/roll/2026-08-31/doc-iniqfqss1748331.shtml",
+      "date": "2026-08-31 22:29",
+      "summary": "美联储加息预期升温。 在美联储主席凯文·沃什讲话后，市场正在将更多加息预期纳入定价。据彭博汇编的掉期数据，目前市场对美联储9月加息的押注概率已升至60%...",
+      "source": "券商中国",
+      "category": "a-stock"
+    },
+    {
+      "title": "股市警报拉响，巴菲特向投资者发出直白警告",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqfqsp8757043.shtml",
+      "date": "2026-08-31 22:28",
+      "summary": "作者：凯蒂・布罗克曼|愚人网（The Motley Fool） 过去数年，美股一路屡创新高，标普 500 指数、纳斯达克综合指数以及道琼斯工业平均指数均不断刷新历史纪录。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美伊时隔一月交火，油价大幅飙升",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqfqsp8752340.shtml",
+      "date": "2026-08-31 22:18",
+      "summary": "美伊军方大约一个月以来首次直接交火的消息，推动周一油价大幅上涨。投资者计入冲突再度升级的风险，布伦特原油期货站上 90 美元 / 桶关口。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美联储主席沃什给股市制造了新难题",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqfqsp8749535.shtml",
+      "date": "2026-08-31 22:12",
+      "summary": "作者：布莱恩・索齐 股市若想延续火热行情，如今必须克服一大认知难题。美联储主席凯文・沃什释放的信号，远比多数投资者就任前预想的要强硬。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美国债务危机进一步恶化：需要关注的关键数据",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqfqsq4945727.shtml",
+      "date": "2026-08-31 22:09",
+      "summary": "作者：布莱恩・索齐 美国本就严峻的债务形势正一天比一天恶化。 一个典型例证：美国约 40 万亿美元债务对应的利息支出不断攀升，部分原因来自近期美债收益率上行。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "游戏驿站股价上涨5%，对eBay的投资有望提振其二季度利润",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqfqsm7142940.shtml",
+      "date": "2026-08-31 22:05",
+      "summary": "周一早盘，游戏驿站（GME）股价上涨约 5%。 这家游戏零售企业公布第二季度初步财报，表示二季度利润预计获得提振，部分收益来源于其持有的 eBay 股份。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "习近平会见俄罗斯总统普京",
+      "link": "https://finance.sina.com.cn/china/2026-08-31/doc-iniqfqsp8747202.shtml",
+      "date": "2026-08-31 22:01",
+      "summary": "当地时间8月31日下午，国家主席习近平在比什凯克出席2026年上海合作组织峰会期间会见俄罗斯总统普京。 习近平指出，今年5月，普京总统成功对中国进行国事访问...",
+      "source": "央视新闻客户端",
+      "category": "a-stock"
+    },
+    {
+      "title": "百亿私募二季度末重仓股揭晓，新进个股134只",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-08-31/doc-iniqfqss1709278.shtml",
+      "date": "2026-08-31 22:00",
+      "summary": "中国证券报·中证金牛座记者最新获悉，根据第三方机构私募排排网监测统计，截至8月31日，已有55家百亿私募出现在264家已披露中报的上市公司前十大流通股股东名单中...",
+      "source": "中证网",
+      "category": "a-stock"
+    },
+    {
+      "title": "沃什鹰派表态，但暗线就是数据说了算",
+      "link": "https://finance.sina.com.cn/money/forex/hbfx/2026-08-31/doc-iniqfqsq4936221.shtml",
+      "date": "2026-08-31 21:58",
+      "summary": "来源：汇通网 汇通财经APP讯——2026年8月28日，美联储主席凯文·沃什在杰克逊霍尔全球央行年会上发表主旨演讲。 他一改此前模糊的政策表态，释放出清晰且强烈的鹰派立场...",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "韩国Kospi指数逆转跌势 收涨0.5% 8月份上涨3.4%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqexuv8957736.shtml",
-      "date": "2026-08-31 14:40",
-      "summary": "韩国综合股价指数（Kospi）扭转早盘跌势，在最后交易时段反弹，电池、能源股上扬。韩国Kospi指数收涨0.5%，报6820.02点，盘中一度下挫3.6%。",
+      "title": "外交部：中方同尼方就人员搜救等保持顺畅沟通",
+      "link": "https://finance.sina.com.cn/china/2026-08-31/doc-iniqfqsp8742073.shtml",
+      "date": "2026-08-31 21:47",
+      "summary": "新华社北京8月31日电（记者冯歆然、万倩仪）外交部发言人郭嘉昆31日表示，中国和尼泊尔双方在气象、水利、防灾减灾等领域一直保持良好合作。",
+      "source": "新华社",
+      "category": "a-stock"
+    },
+    {
+      "title": "40万亿险资调仓路线曝光",
+      "link": "https://finance.sina.com.cn/wm/2026-08-31/doc-iniqfqss1701645.shtml",
+      "date": "2026-08-31 21:38",
+      "summary": "记者|叶麦穗 编辑|周炎炎 曾芳 随着A股2026年半年报披露收官，作为市场核心长线资金的险资，其二季度投资布局全貌正式浮出水面。",
+      "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
+    {
+      "title": "分红险转型提速、强化风险减量和大灾理赔管理……中国人保中期业绩会划重点",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-31/doc-iniqfqsq4918898.shtml",
+      "date": "2026-08-31 21:37",
+      "summary": "来源：北京商报 “我国经济长期向好的基本态势没有改变，保险业转型升级的内在动力没有改变，中国人保高质量发展迈出坚实步伐的向好势头没有改变。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "五大上市险企银保渠道保费增速回落，“65号文”后竞争将走向何方？",
+      "link": "https://finance.sina.com.cn/roll/2026-08-31/doc-iniqfqss1689455.shtml",
+      "date": "2026-08-31 21:34",
+      "summary": "每经记者|袁园每经编辑|毕陆名 作为A股五大上市险企，同时也是寿险市场的重要参与者，中国人寿（SH601628，股价38.50元，市值1.088万亿元）、中国平安（SH601318，股价55...",
+      "source": "每日经济新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "开盘：主要股指低开 美伊时隔一个月再度交火",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqfqsq4913892.shtml",
+      "date": "2026-08-31 21:30",
+      "summary": "美伊时隔一个月再度爆发交火，周一美股主要股指应声下挫。 道指跌0.49%，标普500指数跌0.25%，纳指跌0.18%。 爱迪生国际跌21.53%，太平洋瓦电跌19.82%，HWM跌5.76%...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "鸿达兴业索赔时效临近，投资者维权仍可加入",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-08-31/doc-iniqexuv8957989.shtml",
-      "date": "2026-08-31 14:40",
-      "summary": "鸿达兴业的信披违规案件已进入投资者维权阶段。公司于2023年9月23日公告收到证监会《立案告知书》，随后因股价连续20个交易日低于1元...",
+      "title": "中报增收不增利，千亿快递大佬卷入“变相降薪”风波",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-31/doc-iniqfqsq4910754.shtml",
+      "date": "2026-08-31 21:25",
+      "summary": "来源：雷达Finance 雷达财经出品 文|周慧 编|孟帅 业务“多点开花”，快递龙头顺丰上半年的营收再度创下历史新高。 据顺丰8月28日披露的财报，今年上半年，公司斩获营收1555...",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "太极股份业绩巨亏引关注，投资者维权索赔进行中",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-08-31/doc-iniqexup7820717.shtml",
-      "date": "2026-08-31 14:39",
-      "summary": "2026年8月24日，太极股份披露2026年半年报。报告期内，公司实现营业收入16.89亿元，同比下降53.18%；归母净利润亏损3.53亿元，而上年同期盈利126.02万元，同比下降28112...",
+      "title": "上半年少赚32亿，比亚迪终于等来业绩拐点？",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-31/doc-iniqfqsp8732840.shtml",
+      "date": "2026-08-31 21:25",
+      "summary": "来源：雷达Finance 雷达财经出品 文|丁禹 编|孟帅 8月28日晚，比亚迪发布2026年半年度报告。受一季度业绩下滑明显的影响，比亚迪的这份财报难言亮眼。",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "俊知集团午后大涨超28% 上半年净利润同比大幅增长735.3%",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-31/doc-iniqexur4592897.shtml",
-      "date": "2026-08-31 14:39",
-      "summary": "俊知集团（01300）盘中涨超30%，截至发稿，股价上涨28.38%，现报2.33港元，成交额3145.09万港元。 近日，俊知集团发布2026年中期业绩，营业额17.50亿元，同比增长41...",
-      "source": "新浪港股",
+      "title": "美国财政部禁止部分记者参与G20财长会议",
+      "link": "https://finance.sina.com.cn/world/2026-08-31/doc-iniqfqss1679433.shtml",
+      "date": "2026-08-31 21:22",
+      "summary": "美国三家主流大媒体的数名记者将无缘此次位于北卡罗来纳州阿什维尔的二十国集团（G20）财长会议。 这场汇聚全球主要经济体财长与央行行长的会议...",
+      "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "万里石（002785）被立案，投资者索赔分析",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-08-31/doc-iniqexup7820393.shtml",
-      "date": "2026-08-31 14:39",
-      "summary": "2026年8月28日，万里石（002785）收到中国证券监督管理委员会下发的《立案告知书》，因公司涉嫌信息披露违法违规，根据《中华人民共和国证券法》《中华人民共和国行政处罚...",
+      "title": "玉健健康IPO：夫妻控股超六成，实控人背负对赌，客户名单“打架”",
+      "link": "https://finance.sina.com.cn/stock/newstock/2026-08-31/doc-iniqfqsm7128613.shtml",
+      "date": "2026-08-31 21:22",
+      "summary": "来源：新财渤社 文\\青屿 宁波玉健健康科技股份有限公司（以下简称“玉健健康”）于8月31日回复北交所二轮问询。 股权结构上，实控人李杲、方燕夫妇合计持有近64%的表决权...",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "田野股份双重退市风险，多项信披违规引发索赔",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-08-31/doc-iniqexup7819901.shtml",
-      "date": "2026-08-31 14:38",
-      "summary": "因涉嫌信息披露违法违规，田野股份及相关当事人于2026年4月3日收到中国证监会《立案告知书》。截至目前，公司尚未披露调查结论。",
+      "title": "中国人保副总裁：投资长鑫科技回报超20倍，目前已储备一批优质项目",
+      "link": "https://finance.sina.com.cn/money/insurance/bxyx/2026-08-31/doc-iniqfkkp7253464.shtml",
+      "date": "2026-08-31 21:11",
+      "summary": "8月31日，中国人保副总裁才智伟在该公司2026年中期业绩发布会上表示，中国人保2021年投资长鑫科技，按照长鑫科技今年7月27日在科创板IPO上市当天的收盘价计算...",
+      "source": "澎湃新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "净值暴涨、规模大增的基金，投资者却不是“全员盈利”！原因何在？",
+      "link": "https://finance.sina.com.cn/roll/2026-08-31/doc-iniqfkkr8856129.shtml",
+      "date": "2026-08-31 21:07",
+      "summary": "每经记者|黄小聪每经编辑|赵云 近期，基金半年报持续披露，《每日经济新闻》记者注意到，过去一年投资者最爱买的一批主动基金，盈利投资者占比呈现分化...",
+      "source": "每日经济新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "8月最后一天，9只基金涨超5%，9只跌超5%",
+      "link": "https://finance.sina.com.cn/roll/2026-08-31/doc-iniqfkks5026628.shtml",
+      "date": "2026-08-31 21:06",
+      "summary": "每经记者|肖芮冬每经编辑|赵云 8月31日，三大指数午后翻红。AI应用端炒作午后持续升温，服务器板块走强；煤炭、银行板块稳步攀升。",
+      "source": "每日经济新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "半数收入依靠储能，业绩失速的阳光电源“换挡”",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-31/doc-iniqfqss1681833.shtml",
+      "date": "2026-08-31 21:04",
+      "summary": "来源：资本秘闻 在光伏主产业链企业连年巨亏的背景下，逆变器龙头厂商阳光电源依靠亮眼业绩成为行业标杆。然而，进入2026年，阳光电源的业绩增势也出现拐点...",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "加密企业年内回购代币金额达6.38亿美元 创历史新高",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqexuv8956432.shtml",
-      "date": "2026-08-31 14:36",
-      "summary": "2026年以来，数字资产企业已累计斥资6.38亿美元回购自身代币，创历史新高。这一策略效仿股票市场常用的回购方式，旨在应对加密货币市场的长期低迷。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "阅文集团午后涨逾8% 《后西游记》定档点燃短剧概念",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-31/doc-iniqexuv8956395.shtml",
-      "date": "2026-08-31 14:36",
-      "summary": "阅文集团（00772）盘中涨超9%，截至发稿，股价上涨7.77%，现报21.64港元，成交额2.81亿港元。 8月31日，《后西游记》正式定档。作为国内首部上星播出的AI长剧...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "全球天然气资产并购交易额创十年新高 需求飙升推高项目估值",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqexut7352164.shtml",
-      "date": "2026-08-31 14:34",
-      "summary": "受全球能源巨头及投资者对天然气需求持续攀升推动，2026年上半年天然气上游并购交易总额突破320亿美元，创十年同期最高水平。买家在全球有限资产中竞相布局...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "绿色动力环保午后涨近5% 中期归母净利润同比增加23.16%",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-31/doc-iniqexut7352042.shtml",
-      "date": "2026-08-31 14:34",
-      "summary": "绿色动力环保（01330）午后涨近5%，截至发稿，股价上涨4.96%，现报5.82港元，成交额2376.85万港元。 8月28日，绿色动力环保发布截至2026年6月30日止六个月中期业绩...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "德国养老金制度实施二十年来最大改革 数千亿欧元资金将流向资本市场",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqetnv7482249.shtml",
-      "date": "2026-08-31 14:32",
-      "summary": "德国将于2026年1月正式启动养老金制度重大改革，以新型资本积累制养老账户取代现有的里斯特养老金担保模式。此次改革被视为德国二十多年来最深刻的养老金体系调整...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "软银数据中心企业为拉拢OpenAI抛出55亿美元的优厚条件",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqetnr7944849.shtml",
-      "date": "2026-08-31 14:31",
-      "summary": "在软银支持的SB Energy筹备IPO之前，为争取OpenAI成为自身的数据中心租户，SB Energy向其提供了一笔重大优厚权益。 据媒体查阅的IPO申报文件草案显示...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "什么炒股APP是股民必备的炒股神器？",
-      "link": "https://finance.sina.com.cn/stock/aigcy/2026-08-31/doc-iniqetnr7945558.shtml",
-      "date": "2026-08-31 14:31",
-      "summary": "在数字化投资时代，选择一款高效的炒股APP，如同为投资配备了最强大的导航系统。面对A股、港股、美股、期货、外汇等40多个金融市场的海量数据与毫秒级行情变化...",
+      "title": "中际旭创，不超80亿回购！",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-31/doc-iniqfkkp7254722.shtml",
+      "date": "2026-08-31 21:04",
+      "summary": "來源：资本秘闻 中际旭创拟40亿—80亿元回购股份！ 8月31日晚间，光模块龙头中际旭创披露公告称，公司拟以自有资金或自筹资金回购公司股份...",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "开户哪家券商APP好用？新手小白选对渠道比选对券商更重要",
-      "link": "https://finance.sina.com.cn/stock/aigcy/2026-08-31/doc-iniqetnt4717100.shtml",
-      "date": "2026-08-31 14:30",
-      "summary": "2026年A股市场持续升温，仅前四个月新开户就高达1453万户，同比增长超54%。面对海量新入场者，一个高频问题被反复提及：开户哪家券商APP好用？",
-      "source": "市场资讯",
+      "title": "浙商银行业绩会：告别规模崇拜、净息差降幅收窄、个贷不良承压",
+      "link": "https://finance.sina.com.cn/roll/2026-08-31/doc-iniqfkkm4683035.shtml",
+      "date": "2026-08-31 20:55",
+      "summary": "全年净息差承压的客观情况在下半年依然存在，但预计幅度还会有所减小。 “当前，银行业正处在‘三低一高’的经营环境，从规模驱动转向价值驱动是大势所趋。",
+      "source": "一财网",
       "category": "a-stock"
     },
     {
-      "title": "中东冲突推高航运回报 长期机构投资者加大布局",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqetnv7481523.shtml",
-      "date": "2026-08-31 14:30",
-      "summary": "受中东地缘冲突持续影响，全球航运市场运价与船价维持高位，航运板块正吸引越来越多的长期机构投资者。资产管理机构表示，养老基金及大型机构投资者对硬资产配置的需求显著...",
+      "title": "英伟达将向联发科投资35亿美元 强化AI硬件产业链核心地位",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqfkkr8851875.shtml",
+      "date": "2026-08-31 20:54",
+      "summary": "英伟达将向联发科投资35亿美元，进一步深化与其合作。英伟达正试图说服更多公司开发能够接入其主导的数据中心生态系统的芯片。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "德国赫克勒-科赫公司竞标英国陆军新步枪项目",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqetnt4715993.shtml",
-      "date": "2026-08-31 14:28",
-      "summary": "德国轻武器制造商赫克勒-科赫公司正参与英国陆军“灰熊计划”竞标，该项目旨在替换英军现役SA80制式步枪，预计合同价值约5亿欧元。",
+      "title": "布伦特重新站上90美元，WTI升至85美元上方",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqfkkm4674077.shtml",
+      "date": "2026-08-31 20:47",
+      "summary": "原油期货周一（8月31日）上涨，布伦特近月合约重新站上每桶90美元，盘中一度见到90.32美元附近；西得克萨斯中质原油（WTI）升至85美元上方。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "贝森特的G20财长会议：增长议程，制裁伊朗与债务问题",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqetnv7481105.shtml",
-      "date": "2026-08-31 14:28",
-      "summary": "8月30日，美国财政部长斯科特·贝森特在北卡罗来纳州阿什维尔出席二十国集团财长和央行行长会议前夕，明确提出三项核心议程——推动全球经济增长、强化对伊朗的金融制裁...",
+      "title": "深市公司回购计划高质量落地 真金白银践信守诺",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-31/doc-iniqfkkm4683810.shtml",
+      "date": "2026-08-31 20:46",
+      "summary": "本报记者 田鹏 2026年以来，深圳证券交易所市场（以下简称“深市”）上市公司积极开展回购，整体呈现出回购意愿较强、计划执行度较高等特点...",
+      "source": "证券日报",
+      "category": "a-stock"
+    },
+    {
+      "title": "特朗普称美国将对伊朗袭击美军事件作出回应",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqfkkm4666465.shtml",
+      "date": "2026-08-31 20:38",
+      "summary": "美国总统唐纳德·特朗普接受媒体采访时表示，美国将就伊朗对美军发动的最新袭击做出回应。 此前，美国和伊朗约一个月来首度相互攻击 布伦特油价升破90美元",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "特朗普称赞NASA成功发射空间望远镜",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqetnr7942797.shtml",
-      "date": "2026-08-31 14:27",
-      "summary": "美国总统特朗普当地时间周日称赞NASA成功发射了其探测暗宇宙的空间望远镜。 特朗普在Truth Social上写道：“祝贺NASA局长贾里德·艾萨克曼，以及NASA伟大的爱国者们...",
+      "title": "主力加仓，超50亿资金涌入这一方向",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-08-31/doc-iniqfkks5025310.shtml",
+      "date": "2026-08-31 20:37",
+      "summary": "8月31日，A股市场低开后探底回升，三大指数集体收涨。AI应用、短剧互动游戏、液冷服务器等方向表现活跃。Wind数据显示，当日全市场超3100只股票上涨...",
+      "source": "中国证券报",
+      "category": "a-stock"
+    },
+    {
+      "title": "盘前：纳指期货跌0.13% 沃什讲话偏鹰",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqfqsm7140673.shtml",
+      "date": "2026-08-31 20:30",
+      "summary": "周一全球股市预计将以谨慎姿态结束8月。美股期货涨跌不一，美国国债收益率小幅走低，交易员正在消化美联储主席凯文·沃什在杰克逊霍尔发表鹰派通胀言论后...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "英国工党搁置限制外国人购房承诺 政策降级为“选项”",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqetnr7942219.shtml",
-      "date": "2026-08-31 14:27",
-      "summary": "英国工党政府已确认搁置一项竞选承诺，不再推进限制外国买家购买新建住宅的政策。该计划原旨在解决新建公寓被大规模出售给非居民投资者的问题，尤以面向亚洲市场为主。",
+      "title": "德国8月CPI同比上涨2.9%，能源价格连续两个月加速推高通胀",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqfkkr8842751.shtml",
+      "date": "2026-08-31 20:29",
+      "summary": "德国联邦统计局周一公布8月消费者物价指数初步结果：同比上涨2.9%，高于7月的2.8%，与4月持平，为近四个月高点。环比上涨0.2%，低于7月的0.8%。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "长安期货：沃什演讲过后 贵金属或走势偏弱",
-      "link": "https://finance.sina.com.cn/money/nmetal/roll/2026-08-31/doc-iniqetnv7479752.shtml",
-      "date": "2026-08-31 14:24",
-      "summary": "上周贵金属总体走出冲高回落的行情，上涨的主要动能主要聚焦于美国政府的财政信用问题；此后，COMEX黄金主力合约在4750一线动能衰减后受宏观驱动掉头...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "美国打击伊朗岛屿推升油价 比特币展现韧性跑赢黄金及美股",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqetnt4712603.shtml",
-      "date": "2026-08-31 14:23",
-      "summary": "美国军方对霍尔木兹海峡一处伊朗岛屿实施打击行动，引发地缘紧张局势升级，国际油价应声上涨，美股及亚洲股市承压下挫。比特币则表现坚挺...",
+      "title": "ONEOK斥资44.3亿美元收购Brazos Midstream二叠‑米德兰盆地油气资产",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqfkkr8841186.shtml",
+      "date": "2026-08-31 20:26",
+      "summary": "阿波罗全球管理旗下基金及关联方将提供 90 亿美元无投票权少数股权投资，为本笔交易提供资金支持ONEOK 即将收购 Brazos Midstream...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "本轮QDII扩容“零新增”：嘉实基金QDII累计额度42.4亿美元，占总额比4.2%位居第五",
-      "link": "https://finance.sina.com.cn/money/fund/original/2026-08-31/doc-iniqetnt4714983.shtml",
-      "date": "2026-08-31 14:23",
-      "summary": "8月28日，国家外汇管理局下发新一轮合格境内机构投资者（QDII）额度，各类机构合计新增68.4亿美元，创下自2021年6月以来单次审批规模之最，获批机构总数增至196家...",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "金鹰基金杨刚：指数再度“兵临”四千关口 A股修复在波动中前行",
-      "link": "https://finance.sina.com.cn/money/fund/jjpl/2026-08-31/doc-iniqetnx9082448.shtml",
-      "date": "2026-08-31 14:22",
-      "summary": "上周A股市场整体呈现指数偏强、结构收敛、成长高位回落的特征：上证指数周涨1.20%至3952点，再度“兵临”4000点关前；万得微盘股指数、红利指数涨幅领先，分别为3.14%与2...",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "加密数字银行Avici遭合约漏洞攻击 代币暴跌49%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqetnv7478548.shtml",
-      "date": "2026-08-31 14:21",
-      "summary": "一家名为Avici的加密数字银行近日因智能合约漏洞遭黑客攻击，造成约110万美元损失，其原生代币AVICI在24小时内从0.43美元高位暴跌至0.217美元的历史低点...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "视频|李大霄：8月经济数据较上月改善",
-      "link": "https://finance.sina.com.cn/stock/roll/2026-08-31/doc-iniqetnv7478507.shtml",
-      "date": "2026-08-31 14:21",
-      "summary": "",
+      "title": "未来健康港股IPO：收入加速冲高盈利却“溜坡” 出海尚未跑出第二曲线 转型赛道依旧深陷巨头竞争包围圈",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-08-31/doc-iniqfkkm4655273.shtml",
+      "date": "2026-08-31 20:24",
+      "summary": "出品：新浪财经上市公司研究院/港市多维镜 作者：喜乐 近日，未来穿戴健康科技股份有限公司（“未来健康”，SKG 品牌母公司）向港交所递交招股书，再度冲击港股主板 IPO。",
       "source": "新浪证券",
       "category": "a-stock"
     },
     {
-      "title": "苹果管理层更迭",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqetnv7477033.shtml",
-      "date": "2026-08-31 14:18",
-      "summary": "蒂姆・库克将于明日结束其15年的苹果CEO任期，约翰・特纳斯接任，这或许是本周科技行业最重大的事件。这件事算不上突发新闻，因为相关消息早已对外公布...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "国产算力迎质变？正向循环逐步形成，寒武纪等龙头迈入盈利期！科创人工智能ETF华宝标的指数涨超3%",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-31/doc-iniqetnr7936086.shtml",
-      "date": "2026-08-31 14:17",
-      "summary": "今日（8月31日）国产AI产业链午后异动拉升，星环科技领涨超10%，奥普特涨与8%，乐鑫科技涨超7%，晶晨股份、复旦微电等个股跟涨。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "韩国综合指数收窄跌幅 本土券商称养老金进场买入",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqetnv7476323.shtml",
-      "date": "2026-08-31 14:16",
-      "summary": "韩国股指基准韩国综合指数短暂抹平最大3.6%的跌幅后，现下跌0.1%。 三星证券股票销售交易员林罗伊表示，尾盘养老金显著买入韩国综合指数成分股，重点布局科技板块。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "伊朗革命卫队向约旦两处美军基地发射导弹，约旦称拦截8枚",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqetnx9077995.shtml",
-      "date": "2026-08-31 14:11",
-      "summary": "8月31日凌晨，伊朗伊斯兰革命卫队宣布对约旦境内两处由美军使用的空军基地实施弹道导弹与无人机联合打击，点名目标为侯赛因国王基地和阿兹拉克基地。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "随着法国政府借贷成本逼近 2008 年高位，该国正成为主权债务问题的 “典型代表”",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqetnr7927647.shtml",
-      "date": "2026-08-31 14:06",
-      "summary": "法国公共财政状况持续恶化，叠加政治僵局，正日益引发债券投资者的担忧。新一轮艰难的预算博弈即将到来，该国借贷成本已逼近金融危机时期高位。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美军打击拉拉克岛两处伊朗发射装置，称其准备向霍尔木兹海峡投放水雷",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqetnv7470753.shtml",
-      "date": "2026-08-31 14:00",
-      "summary": "8月30日，美军对伊朗拉拉克岛上的两处火箭发射装置实施精确打击。美国中央司令部发言人蒂姆·霍金斯上校确认，打击目标属于伊斯兰革命卫队...",
+      "title": "怡安集团约170亿美元收购保险经纪商USI",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqfkkp7236312.shtml",
+      "date": "2026-08-31 20:23",
+      "summary": "私募巨头 KKR 自 2017 年起便是 USI 的控股股东KKR 上一季度创下公司史上最高的资产出售规模。 怡安集团（Aon）同意从私募股权公司 KKR 手中收购保险经纪机构 USI...",
       "source": "环球市场播报",
       "category": "a-stock"
     }
