@@ -1,20 +1,28 @@
 {
-  "updated": "2026-08-31T13:11:16.492071+08:00",
+  "updated": "2026-08-31T14:37:05.595256+08:00",
   "source": "美股聚合",
-  "count": 57,
+  "count": 56,
   "items": [
     {
       "title": "Trump threatens to blow up Iran's Kharg Island oil hub as hostilities escalate once again",
       "link": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "The last major U.S. strikes on Iran were carried out in late July.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Stock futures fall after U.S. strikes Iran; Wall Street heads for winning month: Live updates",
+      "link": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
+      "date": "2026-08-31 14:36",
+      "summary": "The Dow is up 2.1% in August, on pace for its fifth consecutive monthly advance.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury",
       "link": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "Fed Chair Kevin Warsh's hawkish stance reinforced expectations of a relatively tighter stance at the Federal Open Market Committee meeting in September.",
       "source": "CNBC",
       "category": "us-stock"
@@ -22,47 +30,39 @@
     {
       "title": "France is becoming the poster child of sovereign debt problems as government borrowing costs hit near 2008 highs",
       "link": "https://www.cnbc.com/2026/08/31/france-debt-bond-yields-budget.html",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "France's debt burden and political gridlock are pushing borrowing costs toward levels not seen since 2008.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Stock futures fall after U.S. strikes Iran; Wall Street heads for winning month: Live updates",
-      "link": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
-      "date": "2026-08-31 13:11",
-      "summary": "The Dow is up 2.1% in August, on pace for its fifth consecutive monthly advance.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "He beat Big Tobacco. Will the same playbook work against Meta and social media?",
       "link": "https://www.cnbc.com/2026/08/30/mike-moore-ag-social-media-settlement-big-tobacco.html",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "Mike Moore beat Big Tobacco. Will the same playbook work against Meta and social media?",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "BYD shares slide as fierce China competition dents first-half earnings",
-      "link": "https://www.cnbc.com/2026/08/31/byd-shares-slide-as-fierce-china-competition-dents-first-half-earnings.html",
-      "date": "2026-08-31 13:11",
-      "summary": "BYD shares slid after the automaker released its latest results on Friday, despite higher second-quarter profit and overseas growth.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Goldman expects one yen trade to continue thriving even as another fades",
       "link": "https://www.cnbc.com/2026/08/31/-goldman-yen-trades-currency.html",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "While effects of intervention on the Japanese yen appears to be fading, the relative value carry strategies should continue to thrive, Goldman says.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "BYD shares slide as fierce China competition dents first-half earnings",
+      "link": "https://www.cnbc.com/2026/08/31/byd-shares-slide-as-fierce-china-competition-dents-first-half-earnings.html",
+      "date": "2026-08-31 14:36",
+      "summary": "BYD shares slid after the automaker released its latest results on Friday, despite higher second-quarter profit and overseas growth.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports",
       "link": "https://www.cnbc.com/2026/08/30/aon-usi-17-billion-deal-talks.html",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "Aon is nearing a roughly $17 billion deal, including debt, to acquire insurance brokerage USI from KKR, the Journal reported.",
       "source": "CNBC",
       "category": "us-stock"
@@ -70,23 +70,47 @@
     {
       "title": "China's factory activity shrinks for second straight month, contracting less than expected",
       "link": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "China's manufacturing activity shrank for a second straight month, keeping pressure on Beijing to support the economy as growth loses momentum.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Singapore tackles finances and culture to avert a demographic crisis",
+      "link": "https://www.cnbc.com/2026/08/31/singapore-ndr-childcare-incentives-demographic-crisis-.html",
+      "date": "2026-08-31 14:36",
+      "summary": "One challenge for policy makers is that success on many measures won't show up immediately.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Icelanders reject reopening talks to join the EU despite Trump's Greenland threats",
+      "link": "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html",
+      "date": "2026-08-31 14:36",
+      "summary": "Icelanders voted 52.8% to 47.2% against reopening talks to join the European Union.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "National Park Service backs Trumps 250-foot arch despite adverse effects on historic sites",
       "link": "https://www.cnbc.com/2026/08/29/trump-arch-national-park-service-report.html",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "The park service is backing the arch, despite finding that it would adversely affect historic sightlines and other visual relationships among nearby landmarks.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Analysts like this humanoid supplier, even if the robots remain concepts  for now",
+      "link": "https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html",
+      "date": "2026-08-31 14:36",
+      "summary": "As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Trump administration weighs Yosemite land swap for private developers access road",
       "link": "https://www.cnbc.com/2026/08/29/trump-yosemite-land-swap-kingsbarn.html",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "The Trump administration is considering a Yosemite land exchange that could give a developer more direct park access.",
       "source": "CNBC",
       "category": "us-stock"
@@ -94,87 +118,71 @@
     {
       "title": "Trump criticizes NBC over election comment as Treasury denies some NYT, WSJ and Bloomberg reporters G20 credentials",
       "link": "https://www.cnbc.com/2026/08/30/trump-nbc-election-comment-treasury-g20-reporter-access.html",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "Trump's attack on NBC comes after the Treasury barred journalists from The New York Times, The Wall Street Journal and Bloomberg from attending the G20.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Analysts like this humanoid supplier, even if the robots remain concepts  for now",
-      "link": "https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html",
-      "date": "2026-08-31 13:11",
-      "summary": "As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "U.S. plans to sanction another bank in effort to clamp down on Iran transactions: Bessent",
       "link": "https://www.cnbc.com/2026/08/30/bessent-bank-sanction-iran-transactions.html",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "Bessent's campaign means to push countries that still do business with Iran to sever their financial ties or face retaliation from the U.S.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Meta- and Google-backed Indian telecom operator Jio Platforms gets regulatory nod for IPO",
-      "link": "https://www.cnbc.com/2026/08/31/jio-ipo-nse-india-shares-meta-google.html",
-      "date": "2026-08-31 13:11",
-      "summary": "India's largest digital and telecom operator, Jio Platforms, got a regulatory nod for an IPO, but the National Stock Exchange, another mega issue, is still awaiting regulatory clearance.",
+      "title": "Indias largest private lender HDFC Bank sees shares rise after CEO announces surprise exit",
+      "link": "https://www.cnbc.com/2026/08/31/hdfc-largest-bank-india-ceo-exit.html",
+      "date": "2026-08-31 14:36",
+      "summary": "Shares of HDFC Bank were up even as the company's chief executive officer made a surprise announcement to not seek reappointment.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Bank of America says these stocks have upside heading into September",
       "link": "https://www.cnbc.com/2026/08/29/bank-of-america-says-these-stocks-have-upside-heading-into-september.html",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "Several stocks offer plenty more room to appreciate in September, Bank of America said this week.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Trump-promoted Freedom Fuel stations sold gas a distributor says went unpaid for",
-      "link": "https://www.cnbc.com/2026/08/30/trump-freedom-fuel-mansfield-lawsuit.html",
-      "date": "2026-08-31 13:11",
-      "summary": "A federal lawsuit claims that fuel distributor KRSM failed to pay for $4 million worth of fuel, some of which the company sold to the Freedom Fuel network.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Icelanders reject reopening talks to join the EU despite Trump's Greenland threats",
-      "link": "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html",
-      "date": "2026-08-31 13:11",
-      "summary": "Icelanders voted 52.8% to 47.2% against reopening talks to join the European Union.",
+      "title": "Meta- and Google-backed Indian telecom operator Jio Platforms gets regulatory nod for IPO",
+      "link": "https://www.cnbc.com/2026/08/31/jio-ipo-nse-india-shares-meta-google.html",
+      "date": "2026-08-31 14:36",
+      "summary": "India's largest digital and telecom operator, Jio Platforms, got a regulatory nod for an IPO, but the National Stock Exchange, another mega issue, is still awaiting regulatory clearance.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Here are the 3 big things we're watching in the stock market in the week ahead",
       "link": "https://www.cnbc.com/2026/08/30/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "Broadcom and Palo Alto Networks report. Plus, it's jobs week.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Trump-promoted Freedom Fuel stations sold gas a distributor says went unpaid for",
+      "link": "https://www.cnbc.com/2026/08/30/trump-freedom-fuel-mansfield-lawsuit.html",
+      "date": "2026-08-31 14:36",
+      "summary": "A federal lawsuit claims that fuel distributor KRSM failed to pay for $4 million worth of fuel, some of which the company sold to the Freedom Fuel network.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "What caused Nvidia's nasty reversal Friday? Look to the Fed for clues",
       "link": "https://www.cnbc.com/2026/08/30/what-caused-nvidias-nasty-reversal-friday-look-to-the-fed-for-clues.html",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "In his Sunday column for Investing Club subscribers, Jim Cramer explores the linkage between Nvidia's stock, the oil market, and the Federal Reserve.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Singapore tackles finances and culture to avert a demographic crisis",
-      "link": "https://www.cnbc.com/2026/08/31/singapore-ndr-childcare-incentives-demographic-crisis-.html",
-      "date": "2026-08-31 13:11",
-      "summary": "One challenge for policy makers is that success on many measures won't show up immediately.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
       "link": "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "Retailers have diverged on how they've reported tariff refunds in their earnings this quarter, with some choosing to lower prices and others boosting margins.",
       "source": "CNBC",
       "category": "us-stock"
@@ -182,7 +190,7 @@
     {
       "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
       "link": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "OpenAI plans to end model access through Cursor on Nov. 12, citing concerns after SpaceXs $60 billion acquisition of the coding startup.",
       "source": "CNBC",
       "category": "us-stock"
@@ -190,7 +198,7 @@
     {
       "title": "Rescuers battle floods and debris as Himalayan disaster death toll nears 800",
       "link": "https://www.cnbc.com/2026/08/30/rescuers-race-to-find-thousands-after-nepal-china-glacier-collapse.html",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "Beijing said 261 foreign nationals from 23 countries were unaccounted for in Tibet, near a key border crossing with Nepal.",
       "source": "CNBC",
       "category": "us-stock"
@@ -198,7 +206,7 @@
     {
       "title": "What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals",
       "link": "https://www.cnbc.com/2026/08/30/us-canada-trade-war-tariffs-steel-aluminum-metals-economy.html",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "When the U.S.-Canada trade war erupted, the market repriced metals and materials stocks and ETFs, but longer-term investors should be wary.",
       "source": "CNBC",
       "category": "us-stock"
@@ -206,23 +214,15 @@
     {
       "title": "U.S. Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil",
       "link": "https://www.cnbc.com/2026/08/30/bessent-faces-g20-diplomacy-test-amid-tariffs-iran-war-bond-turmoil.html",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "NASA's newest space telescope launches on a quest to explore the hidden universe",
-      "link": "https://www.cnbc.com/2026/08/30/nasas-newest-telescope-launches-on-a-quest-to-explore-the-universe.html",
-      "date": "2026-08-31 13:11",
-      "summary": "The bus-sized telescope  named after the late Nancy Grace Roman, NASA's first chief astronomer  will take more than three months to reach its destination.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "U.S. stock futures slip as chances of rate hike rise after Warsh’s Jackson Hole comments",
       "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "U.S. stock-index futures declined on Sunday, as investors ponder the likelihood of a fresh interest-rate hike and as new fighting between the U.S. and Iran threatens to reignite the conflict.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -230,7 +230,7 @@
     {
       "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
       "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "“The property is very old and requires significant ongoing maintenance.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -238,7 +238,7 @@
     {
       "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
       "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -246,7 +246,7 @@
     {
       "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
       "link": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "“His argument is essentially that, since my parents provided the money for the Roth, they have a say in how I invest it.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -254,7 +254,7 @@
     {
       "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
       "link": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "“These shares are the only assets in her estate without designated beneficiaries.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -262,7 +262,7 @@
     {
       "title": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
       "link": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "“I specifically rejected Contractor A because of his reputation.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -270,7 +270,7 @@
     {
       "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
       "link": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "“I’m curious what would happen if the account owner were to die suddenly at the same time as the 98% beneficiary.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -278,7 +278,7 @@
     {
       "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
       "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -286,7 +286,7 @@
     {
       "title": "These charts show how leverage-happy investors are transforming the stock market",
       "link": "https://www.marketwatch.com/story/these-charts-show-how-leverage-happy-investors-are-transforming-the-stock-market-d4e350c3?mod=mw_rss_topstories",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "A rush of retail investors and quant funds has caused a shift toward more borrowed money and more short-term trading.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -294,9 +294,65 @@
     {
       "title": "Party balloons could become a ‘luxury’ as the Iran war spurs a helium shortage",
       "link": "https://www.marketwatch.com/story/party-balloons-could-become-a-luxury-as-the-iran-war-spurs-a-helium-shortage-89e3f86e?mod=mw_rss_topstories",
-      "date": "2026-08-31 13:11",
+      "date": "2026-08-31 14:36",
       "summary": "Dollar Tree says a helium squeeze has hit sales of balloons and party supplies. Researchers note this could foreshadow higher costs for other industries that depend on the gas.",
       "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "SWI becomes an NVIDIA Cloud Partner (NCP)",
+      "link": "https://finance.yahoo.com/technology/ai/articles/swi-becomes-nvidia-cloud-partner-060000578.html?.tsrc=rss",
+      "date": "2026-08-31 06:00",
+      "summary": "SWI Group (AMS: SWICH), an investment firm with 3.6 gigawatts of power capacity across Europe and the US, has announced that it has become a member of the NVIDIA Cloud Partner (NCP) program as a Prefe",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "6 Numbers That Back Up the AI Trade",
+      "link": "https://finance.yahoo.com/m/eaae403d-a1db-370b-8497-4e2b1736cc34/6-numbers-that-back-up-the-ai.html?.tsrc=rss",
+      "date": "2026-08-31 06:00",
+      "summary": "The development of AI technology is the stock market issue of 2026, 2027, 2028, and likely beyond.  AI has created trillions in stock market value, and set off an epic arms race among technology giant",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Costco Stock at $945: Here's Why Investors Should Pause",
+      "link": "https://www.fool.com/investing/2026/08/31/costco-stock-at-945-heres-why-investors-should-pau/?.tsrc=rss",
+      "date": "2026-08-31 05:50",
+      "summary": "It could be a case of buyer beware following an exceptional decade of returns.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "1 No-Brainer Artificial Intelligence (AI) ETF to Buy With $50 and Hold for the Long Term",
+      "link": "https://www.fool.com/investing/2026/08/31/1-no-brainer-artificial-intelligence-ai-etf-to-buy/?.tsrc=rss",
+      "date": "2026-08-31 05:20",
+      "summary": "This exchange-traded fund invests exclusively in companies developing artificial intelligence hardware and software.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "NVDA Stock Eyes Best Month Since May: Jensen Huang Says AI Data Center Boom Is Reindustrializing America",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-eyes-best-month-since-may-jensen-huang-says-ai-data-center-boom-is-reindustrializing-america/cZYySiURJrq?.tsrc=rss",
+      "date": "2026-08-31 05:06",
+      "summary": "AI infrastructure is driving investment in the power grid, energy and semiconductor fabs, Huang said.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Cathie Wood's Ark Bought $27 Million of SpaceX Stock. Here's Whether You Should Follow Her Lead.",
+      "link": "https://www.fool.com/investing/2026/08/31/cathie-woods-ark-bought-26-million-of-spacex-stock/?.tsrc=rss",
+      "date": "2026-08-31 05:05",
+      "summary": "SpaceX reported positive earnings thanks to Starlink momentum.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Is Marvell Stock a Buy on the Dip as AI Revenue Soars?",
+      "link": "https://www.fool.com/investing/2026/08/31/is-marvell-stock-a-buy-on-the-dip-as-ai-revenue-so/?.tsrc=rss",
+      "date": "2026-08-31 04:50",
+      "summary": "Marvell shares fell despite strong fiscal Q2 results.",
+      "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
@@ -392,70 +448,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-weighs-japan-memory-012459907.html?.tsrc=rss",
       "date": "2026-08-31 01:24",
       "summary": "SK Hynix Inc. is studying the feasibility of a joint venture to make memory chips in Japan, one of several options under consideration to meet surging AI demand while controlling production costs.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "John Ternus to lead Apple into the age of AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/john-ternus-lead-apple-age-010145522.html?.tsrc=rss",
-      "date": "2026-08-31 01:01",
-      "summary": "John Ternus takes over as Apple's chief executive on Tuesday, inheriting a company that towers over the smartphone market but trails its rivals in artificial intelligence.Ives expects the new chief ex",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "1 Top Warren Buffett Stock for Dividend Investors",
-      "link": "https://www.fool.com/investing/2026/08/30/1-top-warren-buffett-stock-for-dividend-investors/?.tsrc=rss",
-      "date": "2026-08-31 00:25",
-      "summary": "This tech giant could become a dividend beast over the next decade and beyond.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "According to BlackRock, Bitcoin Is Still a Great Portfolio Diversifier. So How Much Bitcoin Should You Be Holding in Your Portfolio?",
-      "link": "https://www.fool.com/investing/2026/08/30/according-to-blackrock-bitcoin-is-still-a-great-po/?.tsrc=rss",
-      "date": "2026-08-30 23:50",
-      "summary": "Even if you're bullish on Bitcoin, it still shouldn't take up much of your portfolio.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "IREN Stock Plunged Last Week. Now Could Be a Good Time to Buy.",
-      "link": "https://www.fool.com/investing/2026/08/30/iren-stock-plunged-now-good-buy/?.tsrc=rss",
-      "date": "2026-08-30 23:35",
-      "summary": "Investors have a chance to buy the AI computing supplier at a sizable discount.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "If You Invested $1,000 In Nvidia Stock at IPO, Here's How Much You'd Have Now",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/invested-1-000-nvidia-stock-233108798.html?.tsrc=rss",
-      "date": "2026-08-30 23:31",
-      "summary": "NVIDIA Corp CEO Jensen Huang may not check the price of the stock for the company he runs and co-founded, but millions of other investors do daily. With shares soaring after second-quarter financial r",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "2 Dow Jones Stocks Down Over 20% I'd Buy on the Dip",
-      "link": "https://www.fool.com/investing/2026/08/30/2-dow-jones-stocks-down-20-id-buy-on-the-dip/?.tsrc=rss",
-      "date": "2026-08-30 23:25",
-      "summary": "These blue chips are down but continue to pay generous dividends to shareholders.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Jim Cramer reveals his 20% rule for winning stocks",
-      "link": "https://www.thestreet.com/investing/stocks/jim-cramer-reveals-20-percent-rule-for-winning-stocks?.tsrc=rss",
-      "date": "2026-08-30 23:17",
-      "summary": "Investors may be waiting too long to lock in profits",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Ripple Is Now Brokering Wall Street Equities. Where Does XRP Fit?",
-      "link": "https://247wallst.com/investing/cryptocurrency/2026/08/30/ripple-is-now-brokering-wall-street-equities-where-does-xrp-fit/?.tsrc=rss",
-      "date": "2026-08-30 23:07",
-      "summary": "Ripple just opened a desk that lets hedge funds trade Apple and the S&P 500 without owning a single share, and XRP holders are now asking whether their token plays any role in it at all.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     }
