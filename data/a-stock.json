@@ -1,262 +1,366 @@
 {
-  "updated": "2026-09-03T13:30:00.188934+08:00",
+  "updated": "2026-09-03T15:43:37.349151+08:00",
   "source": "A股聚合",
-  "count": 32,
+  "count": 45,
   "items": [
     {
-      "title": "黄仁勋G20发言：不要对人工智能过度恐惧和监管",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpqxu4272784.shtml",
-      "date": "2026-09-03 13:29",
-      "summary": "当地时间周三，英伟达首席执行官黄仁勋敦促二十国集团领导人拥抱人工智能基础设施和应用，并警告称，对人工智能过度的恐惧或监管可能会使各国错失下一次重大技术革命的机遇...",
+      "title": "大摩：中国重汽维持“与大市同步”评级 目标价45港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-03/doc-iniqpvfu1038626.shtml",
+      "date": "2026-09-03 15:41",
+      "summary": "摩根士丹利发布研报称，为反映中国重汽（03808）中期业绩胜预期，更新对公司的预测，但由于继续预计行业放缓，对其2026年下半年及以后的增长假设大致维持不变。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "杭州银行副行长章建夫：贷款利率下行给净息差带来的压力正逐步释放",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-09-03/doc-iniqpvfu1037833.shtml",
+      "date": "2026-09-03 15:40",
+      "summary": "9月3日金融一线消息，杭州银行今日举行2026年半年度业绩说明会。副行长章建夫表示，上半年全行净息差实现企稳回升。同时我们也注意到...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "招银国际：智谱目标价上调至1985港元 维持“买入”评级",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-03/doc-iniqpvfw2058238.shtml",
+      "date": "2026-09-03 15:40",
+      "summary": "招银国际发布研报称，智谱（02513）年化经常性收入增长轨迹稳健、前景强劲，公司新增用户规模及参与度披露进一步强化该行的正面看法。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "特朗普政府据悉施压美国企业缺席马克龙的航天峰会",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpvfs4263611.shtml",
+      "date": "2026-09-03 15:39",
+      "summary": "据报道，白宫正向美国航天企业施压，要求其不要参加下周由法国总统埃马纽埃尔・马克龙在巴黎举办的航天峰会。这一出人意料的举动，令企业高管们对该如何行事感到困惑。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "视频|李大霄：26年8月13日转折日或正在被强化",
-      "link": "https://finance.sina.com.cn/stock/roll/2026-09-03/doc-iniqpqxy6955891.shtml",
-      "date": "2026-09-03 13:28",
-      "summary": "",
+      "title": "马来西亚央行维持利率不变 经济增长保持稳健",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpvfs4262726.shtml",
+      "date": "2026-09-03 15:38",
+      "summary": "马来西亚国家银行9月3日宣布，将隔夜政策利率维持在2.75%不变。该利率自2025年7月下调25个基点以来一直保持在这一水平，此次决策符合市场普遍预期。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "高盛：银河娱乐维持“买入”评级 12个月目标价51港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-03/doc-iniqpvfw2057704.shtml",
+      "date": "2026-09-03 15:38",
+      "summary": "高盛发布研报称，银河娱乐（00027）管理层于高盛亚洲领袖会议上对业务前景审慎乐观。受扩至48队的世界杯影响，澳门赌收于6至7月短暂受挫后...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "交银国际：中海物业目标价下调至5.25港元 维持“买入”评级",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-03/doc-iniqpvfw6883983.shtml",
+      "date": "2026-09-03 15:36",
+      "summary": "交银国际发布研报称，下调中海物业（02669）目标价16.7%，从6.3港元降至5.25港元，维持“买入”评级。该行表示，相信公司规模仍保持温和成长，但短期仍面临产业调整压力...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "A股三大股指收涨，航运、保险板块涨幅居前",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-09-03/doc-iniqpvfw6878550.shtml",
+      "date": "2026-09-03 15:36",
+      "summary": "A股三大股指9月3日集体高开。早盘股指回落创指一度转跌，午前两市重返升势。午后快速下跌后迎来反抽，尾盘再度回落。 从盘面上看，航运、保险、培育钻石...",
+      "source": "澎湃新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "外交部：坚决遏制日本“新型军国主义”祸乱地区危害世界",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-03/doc-iniqpvfu1035632.shtml",
+      "date": "2026-09-03 15:34",
+      "summary": "9月3日，外交部发言人郭嘉昆主持例行记者会。有记者问：前不久日本防卫省公布《2026年版防卫白皮书》，声称要进一步谋求“对敌方基地攻击能力”。",
+      "source": "央视",
+      "category": "a-stock"
+    },
+    {
+      "title": "万虑归诚，增益有度：一家公募给固收增强做的“减法题”",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-03/doc-iniqpvfw2055884.shtml",
+      "date": "2026-09-03 15:34",
+      "summary": "随着2026年二季度末全市场“固收增强”基金存量规模再创历史新高，该领域行业竞争格局加剧重塑，如何“精耕细作”成为有志于此项业务的各家公募的必答题。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "杭州银行董事长宋剑斌：新五年发展战略可概括为“3366”",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-09-03/doc-iniqpvfu1028614.shtml",
+      "date": "2026-09-03 15:33",
+      "summary": "9月3日金融一线消息，杭州银行今日举行2026年半年度业绩说明会。董事长宋剑斌表示，中长期发展的核心思路，是走轻资本、可持续的发展路径。",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "“固收增强”的加法怎么算？这里有一个“刚刚好”的答案",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-03/doc-iniqpvfu1028203.shtml",
+      "date": "2026-09-03 15:33",
+      "summary": "买了固收增强，却不知道里面加了什么？这不是段子，而是很多投资者打开账户时的真实困惑。 过去两年，居民存款的大规模迁徙为“固收增强”品类打开了一个重要的成长窗口。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "‘加一点，刚刚好’：固收增强的一道减法题",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-03/doc-iniqpvfw6881934.shtml",
+      "date": "2026-09-03 15:31",
+      "summary": "3月中旬，地缘冲突骤然升级，权益市场遭遇较大冲击，中信保诚基金旗下多只固收增强产品出现净值回撤。按照团队既定的“周度回撤监测机制”...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "商务部：中欧各层级磋商不能单方面提要价 谈条件",
+      "link": "https://finance.sina.com.cn/china/2026-09-03/doc-iniqpvfs4253277.shtml",
+      "date": "2026-09-03 15:31",
+      "summary": "商务部3日举行例行新闻发布会，新闻发言人黄玲在回应欧盟委员会贸易与经济安全委员谢夫乔维奇涉中欧贸易言论时强调，中欧各层级磋商应坚持稳定...",
+      "source": "央视",
+      "category": "a-stock"
+    },
+    {
+      "title": "中华保险40载：践行国企担当，交出高质量发展实践答卷",
+      "link": "https://finance.sina.com.cn/hy/hyjz/2026-09-03/doc-iniqpvfs4252228.shtml",
+      "date": "2026-09-03 15:30",
+      "summary": "来源：央广网  央广网北京9月2日消息（记者 宓迪）8月27日，中华保险举行成立四十周年媒体座谈会，会上发布了中华保险40周年服务经济社会发展情况。",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "三一国际午后涨超7% 瑞银维持“买入”评级",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-03/doc-iniqpqxy6955100.shtml",
-      "date": "2026-09-03 13:26",
-      "summary": "三一国际（00631）盘中涨近9%。截至发稿，股价上涨7.14%，现报9.68港元，成交额1.013亿港元。 三一国际上半年业绩后举办的投资者会议要点显示...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "轩竹生物-B午后涨逾6% 中期收入同比大增288.1%至6940万元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-03/doc-iniqpqxw1041375.shtml",
-      "date": "2026-09-03 13:23",
-      "summary": "轩竹生物-B（02575）盘中涨超8%，截至发稿，股价上涨5.95%，现报9.97港元，成交额293.42万港元。 轩竹生物-B发布截至2026年6月30日止6个月业绩...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "阿布扎比 AI 企业 G42 据悉考虑融资数十亿美元",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpqxu4268378.shtml",
-      "date": "2026-09-03 13:22",
-      "summary": "知情人士透露，总部位于阿布扎比的人工智能企业 G42 已与潜在投资者开展试探性谈判，计划融资数十亿美元。该公司或将效仿阿联酋其他国有关联企业，开拓外部融资渠道。",
+      "title": "美国司法部在版权诉讼中声援OpenAI，主张训练大模型属合理使用",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpvfs4252108.shtml",
+      "date": "2026-09-03 15:30",
+      "summary": "美国司法部周二向纽约南区联邦法院提交一份《美国利益声明》，正式在OpenAI与《纽约时报》等出版商、作家的版权诉讼中支持OpenAI的合理使用抗辩。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "韩国又发生大规模数据泄露事件，Tving近4000万用户信息被盗",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpqxu4267588.shtml",
-      "date": "2026-09-03 13:21",
-      "summary": "周四公布的联合调查结果显示，韩国流媒体平台Tving在6月报告的一起黑客事件引发的大规模数据泄露中，有近4000万个用户账号信息被窃取。",
+      "title": "多资产升温 银华聚远多元稳健六个月持有期混合（FOF）今起发行",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-03/doc-iniqpvfs4251994.shtml",
+      "date": "2026-09-03 15:30",
+      "summary": "下半年以来市场进入震荡节奏，FOF产品则逆势扩容。数据显示，8月以来新发FOF规模达525亿元，同比增长159%；年内首募规模突破1200亿元，同比增长超100%...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "2030年社零60万亿！消费扩容路线图里的产业主线",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-03/doc-iniqpvfw2054350.shtml",
+      "date": "2026-09-03 15:29",
+      "summary": "8月31日，商务部、发改委、工信部等七部门联合发布《关于推动商品消费扩容升级的实施意见》，20项措施，明确到2030年社会消费品零售总额达到60万亿元左右，培育绿色消费...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "英国金融行为监管局警告：AI发现漏洞速度超出金融企业修复能力",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpvfw2054070.shtml",
+      "date": "2026-09-03 15:29",
+      "summary": "英国金融行为监管局9月2日发布警告称，前沿人工智能模型发现网络安全漏洞的速度已超过金融服务公司的修复能力，可能导致部分企业出现“运营不稳定”。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "特朗普提议将霍尔木兹海峡改名“特朗普海峡”，美参议员回应：这场冲突已被称作“特朗普的战争”",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpqxy2120610.shtml",
-      "date": "2026-09-03 13:09",
-      "summary": "美国参议员伯尼·桑德斯和查克·舒默批评特朗普提议将霍尔木兹海峡更名为“特朗普海峡”，并指出美国人更关心的是燃料价格上涨和伊朗冲突。",
+      "title": "有效分散，从低相关开始",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-03/doc-iniqpvfs4250047.shtml",
+      "date": "2026-09-03 15:29",
+      "summary": "当前 ETF 涵盖了沪深两市各类主题、行业、宽基及跨境等品种。工具供给的繁荣让 “买一篮子产品” 变得触手可及，却也悄然制造了一种错觉：持有产品多，分散就自然成立。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "AIGC走进上星剧集，影视板块或迎来新周期？",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-03/doc-iniqpvfw6880430.shtml",
+      "date": "2026-09-03 15:28",
+      "summary": "8月31日，国内首部AIGC长剧《后西游记》正式登陆卫视黄金档，意味着AI生成内容正式迈入长剧创作与卫视黄金档播出的全新阶段。（资料参考：湖北日报《国内首部AI长剧后西游...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "主动E点 | 主动ETF背后的“主动”，如何解读？",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-03/doc-iniqpvfu1019862.shtml",
+      "date": "2026-09-03 15:26",
+      "summary": "在普通投资者的认知中，主动投资往往被简化为“选股”。 基金经理选出上涨的股票，基金净值随之提升；反之，选错则亏损。然而，真实世界的主动管理...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "福特在拉斯维加斯测试Fathom电动卡车原型车",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpvfw6879913.shtml",
+      "date": "2026-09-03 15:26",
+      "summary": "福特首席执行官吉姆·法利9月1日在社交媒体发布一组照片和视频，显示两辆覆盖伪装的Fathom原型车在内华达沙漠完成高温测试后驶过拉斯维加斯街头。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "欧洲柴油供应紧张 韩国柴油开启罕见 1.2 万英里远航",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpqxw1029527.shtml",
-      "date": "2026-09-03 13:06",
-      "summary": "本月一批韩国柴油将运往西欧，这一罕见贸易流动凸显各方正赶在北半球冬季来临前加紧补充燃料库存。 媒体看到的船舶租约信息显示，约 9 万吨工业用柴油将装载至新建油轮...",
+      "title": "英国建筑商Crest Nicholson下调盈利预期 股价跌12%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpvfw6879399.shtml",
+      "date": "2026-09-03 15:25",
+      "summary": "英国住宅建筑商Crest Nicholson于9月3日发布财务预警，预计截至10月的财年将录得约1000万英镑亏损，此前的预测为盈利500万至1000万英镑。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "交易员：印度央行抛售美元，进一步推升卢比涨幅",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpkrw4384634.shtml",
-      "date": "2026-09-03 13:02",
-      "summary": "知情交易员透露，印度央行再度在境内外汇市场抛售美元，进一步助推本币卢比走强。相关人士因未获公开发言授权，要求匿名。",
+      "title": "商务部回应美利用G20炒作所谓“经济失衡”论调",
+      "link": "https://finance.sina.com.cn/china/2026-09-03/doc-iniqpvfs4244306.shtml",
+      "date": "2026-09-03 15:24",
+      "summary": "新华社北京9月3日电（记者谢希瑶、王聿昊）在商务部3日举行的例行新闻发布会上，商务部新闻发言人黄玲在回应美国财政部长贝森特近日涉华言论的有关提问时说，中方认为...",
+      "source": "新华视点",
+      "category": "a-stock"
+    },
+    {
+      "title": "西班牙光交换公司iPronics完成1.25亿美元B轮融资，英伟达参投",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpvfw6878021.shtml",
+      "date": "2026-09-03 15:22",
+      "summary": "西班牙瓦伦西亚的硅光公司iPronics周三宣布完成1.25亿美元B轮融资，由Maverick Silicon与Light Street Capital共同领投，英伟达参与。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "菲律宾总统马期待央行果断采取外汇举措",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpkry1156086.shtml",
-      "date": "2026-09-03 13:01",
-      "summary": "一名菲律宾政府高级官员表示，菲律宾总统马科斯期待菲律宾央行视情况出手干预，遏制比索兑美元汇率的波动。菲律宾总统府通信部副部长Claire...",
-      "source": "环球市场播报",
+      "title": "杭州银行回应定增到期不再续期：更加关注效益和信贷增长的可持续性",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-09-03/doc-iniqpvfw2050811.shtml",
+      "date": "2026-09-03 15:21",
+      "summary": "9月3日金融一线消息，杭州银行今日举行2026年半年度业绩说明会。谈及定增到期不再续期，董事长宋剑斌表示，资本管理的方向，是实现资本的内生增长...",
+      "source": "金融一线",
       "category": "a-stock"
     },
     {
-      "title": "消息称字节跳动获近300亿美元贷款，为今年亚洲第二大美元贷款",
-      "link": "https://finance.sina.com.cn/tob/2026-09-03/doc-iniqpksa2243948.shtml",
-      "date": "2026-09-03 12:49",
-      "summary": "新浪科技讯 9月3日午间消息，据外媒报道，字节跳动已获得一笔296亿美元贷款，这是今年亚洲规模第二大的美元贷款。 报道援引知情人士消息称...",
-      "source": "新浪科技",
-      "category": "a-stock"
-    },
-    {
-      "title": "土耳其电力公司Europower获得3700万美元的向乌克兰供应电力变压器订单",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpksa2243398.shtml",
-      "date": "2026-09-03 12:48",
-      "summary": "土耳其电力公司Europower在提交的文件中表示，已与一家未具名的日本公司签署向乌克兰供应电力变压器的合同。 变压器将在Europower World Enerji工厂生产。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "瑞银：九龙仓置业目标价上调至31.7港元 维持“中性”评级",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-03/doc-iniqpksa2243029.shtml",
-      "date": "2026-09-03 12:47",
-      "summary": "瑞银发布研报称，上调九龙仓置业（01997）目标价37.8%，从23港元升至31.7港元，维持“中性”评级。该行上调对该公司2026-2028财年每股股息预测39-44%，因此上调目标价...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "淘宝客服回应“淘宝崩了”：系统出问题，现在已恢复",
-      "link": "https://finance.sina.com.cn/tob/2026-09-03/doc-iniqpkry1145271.shtml",
-      "date": "2026-09-03 12:47",
-      "summary": "新浪科技讯 9月3日午间消息，今日有不少用户发现淘宝无法正常打开，有消费者发文称，“一早上刷淘宝下单，一直刷新不出来，提示服务器崩了。",
-      "source": "新浪科技",
-      "category": "a-stock"
-    },
-    {
-      "title": "瑞银：香格里拉（亚洲）目标价下调至4.29港元 维持“中性”评级",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-03/doc-iniqpksa7068936.shtml",
-      "date": "2026-09-03 12:46",
-      "summary": "瑞银发布研报称，将香格里拉（亚洲）（00069）目标价由4.55港元下调至4.29港元，维持“中性”评级。香格里拉上半年收入符合预期，公司维持对下半年行业前景审慎乐观的看法...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "日本养老金投资基金非常规会议引发资产配置调整猜测",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpksa7068831.shtml",
-      "date": "2026-09-03 12:46",
-      "summary": "日本政府养老金投资基金（GPIF）近日宣布其管理团队在8月召开会议，这一不同寻常的举动引发市场猜测：这家日本规模最大的养老基金或将上调本国债券的配置目标。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "小摩：HASHKEY HLDGS目标价上调至4.20港元 维持“增持”评级",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-03/doc-iniqpkry1141975.shtml",
-      "date": "2026-09-03 12:44",
-      "summary": "摩根大通发布研报称，上调HASHKEY HLDGS（03887）目标价至4.2港元，维持“增持”评级。该行指出，HashKey当前估值显著低于行业水平，前期股价回调幅度偏大...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "最新消息！高盛预计年底前金价或升至4900美元",
-      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-09-03/doc-iniqpksa7070824.shtml",
-      "date": "2026-09-03 12:42",
-      "summary": "文章来源：中国黄金网 高盛研究部门预测，今年年底时国际黄金价格可能升至4900美元/盎司。由于各国央行积极寻求多元化外汇储备，购金需求强劲，国际金价因此受益。",
+      "title": "黄金看涨队伍日益壮大！RBC：年末冲向“5000大关”，有三大顺风",
+      "link": "https://finance.sina.com.cn/roll/2026-09-03/doc-iniqpvfs4245497.shtml",
+      "date": "2026-09-03 15:21",
+      "summary": "文章来源：财联社 加拿大皇家银行资本市场（RBC Capital Markets）全球大宗商品策略和中东及北非研究主管Christopher Louney表示， 黄金近期的价格走势表明...",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "吉利汽车因认股权获行使发行4.05万股",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-03/doc-iniqpksa2239532.shtml",
-      "date": "2026-09-03 12:41",
-      "summary": "吉利汽车（00175）发布公告，于2026年9月3日因集团雇员根据认股权计划（于2023年4月28日获采纳）行使认股权而发行4.05万股。",
-      "source": "新浪港股",
+      "title": "股王大涨，“小跟班”涨停，炸板，再涨停，再炸板，终涨停",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-09-03/doc-iniqpvfw2057314.shtml",
+      "date": "2026-09-03 15:21",
+      "summary": "9月3日午后，CPO概念震荡走强，截至收盘，四会富仕涨超11%，中富电路、德科立等涨超5%，华源控股、三安光电午前封板。 A股“股王”联讯仪器午后延续涨势，截至收盘涨5.34%...",
+      "source": "上海证券报",
       "category": "a-stock"
     },
     {
-      "title": "中通快递-W于9月2日斥资823.5万美元回购39.18万股",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-03/doc-iniqpksa2239005.shtml",
-      "date": "2026-09-03 12:40",
-      "summary": "中通快递-W（02057）发布公告，于2026年9月2日斥资823.5万美元回购39.18万股。",
-      "source": "新浪港股",
+      "title": "微软调整报告架构：自2027财年起设两大分部，Azure营收首次按美元单列",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpqxw1140652.shtml",
+      "date": "2026-09-03 15:19",
+      "summary": "微软周三向投资者关系网站上传了题为《FY27 Segments and Investor Metrics》的材料，并以8-K附件形式向美国证券交易委员会备案。",
+      "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "美国AI算力的下一个瓶颈：不是芯片和电力，而是“许可”",
-      "link": "https://finance.sina.com.cn/stock/t/2026-09-03/doc-iniqpksa2249911.shtml",
-      "date": "2026-09-03 12:37",
-      "summary": "来源：华尔街见闻 算力竞赛的真正障碍，正在从硅片和电网转向政治与监管。 据追风交易台，巴克莱最新研究报告指出，随着数据中心在美国各地遭遇日益强烈的社区抵制...",
+      "title": "“深V”大反转！存储芯片巨头，午后突变",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-09-03/doc-iniqpvfw2053856.shtml",
+      "date": "2026-09-03 15:17",
+      "summary": "9月3日，日韩股市收盘涨跌不一，日韩主要股指午后深度下探后快速拉升，走出深“V”走势。 韩国综合指数午后一度跳水跌近2%，收盘涨0.26%，报6579.48点。",
+      "source": "中国证券报",
+      "category": "a-stock"
+    },
+    {
+      "title": "A股成交额年内第13次不足2万亿",
+      "link": "https://finance.sina.com.cn/stock/aiassist/ktgg/2026-09-03/doc-iniqpqxu4362570.shtml",
+      "date": "2026-09-03 15:14",
+      "summary": "9月3日，A股沪深京三市成交额1.78万亿元，较上日缩量401亿元，为A股年内第13次不足2万亿成交。 2026年以来A股不足2万亿成交额累计有13个交易日，分别为2月13日、3月26日...",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "商务部：敦促法方立即停止反超快时尚法实施",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-03/doc-iniqpqxy7006543.shtml",
+      "date": "2026-09-03 15:13",
+      "summary": "商务部新闻发言人黄玲在3日举行的例行新闻发布会上回应关于法国反超快时尚法生效实施的提问时说，此前中方已阐明立场，该法假借制定所谓“环保”和“可持续”标准之名...",
+      "source": "央视",
+      "category": "a-stock"
+    },
+    {
+      "title": "科技巨头G20聚焦AI发展：AI带动就业 数据中心是核心",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpqxy7001608.shtml",
+      "date": "2026-09-03 15:06",
+      "summary": "当地时间周三，全球政策制定者、科技企业高管及商界领袖齐聚教堂山，参加G20创新部长级会议第二天议程，会议围绕人工智能、经济增长...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "Snowflake上调全年产品收入指引，AI产品驱动增长进一步提速",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpqxy2170649.shtml",
+      "date": "2026-09-03 14:58",
+      "summary": "Snowflake周三美股收盘后公布截至7月31日的2027财年第二季度业绩，并同步上调全年产品收入指引。当季产品收入14.9亿美元，同比增长37%；整体营收15.5亿美元...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "赛隆药业退市不免责，业绩“变脸”引发索赔",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-03/doc-iniqpqxw1120932.shtml",
+      "date": "2026-09-03 14:56",
+      "summary": "2026年6月17日，赛隆药业收到深交所终止上市决定。公司2025年度财务会计报告和财务报告内部控制均被出具“无法表示意见”的审计报告。最后于7月16日正式退市。",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "特朗普限制出生公民权的新政策被联邦法官叫停",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpkrw4361578.shtml",
-      "date": "2026-09-03 12:35",
-      "summary": "美国一名联邦法官暂时阻止特朗普政府目前实施对自动出生公民权施加新的限制。在此之前，美国最高法院驳回了特朗普拟对“出生公民权”施加限制的计划。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "日本30年期国债发行需求强于12个月平均水平",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpkry1133434.shtml",
-      "date": "2026-09-03 12:34",
-      "summary": "周四日本30年期国债的拍卖需求强于12个月平均水平，高收益率支撑了买入活动。 此次拍卖的投标倍数为3.79，低于上次拍卖的3.86，但高于12个月平均水平3.52。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "多家机构上调Snowflake目标价 此前公司上调年度营收预期",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpksa7061312.shtml",
-      "date": "2026-09-03 12:30",
-      "summary": "加拿大丰业银行将Snowflake目标股价从320美元上调至440美元；派珀·桑德勒将其目标股价从320美元上调至450美元；杰富瑞将其目标价从385美元上调至430美元；摩根大通将其目标...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "马斯克重磅预判引爆机器人赛道，鸣志电器涨停，关注T链优质标的",
-      "link": "https://finance.sina.com.cn/stock/2026-09-03/doc-iniqpkrw4355385.shtml",
-      "date": "2026-09-03 12:26",
-      "summary": "来源：异动情报 9月3日，人形机器人概念延续反弹，截至午间收盘，冠盛股份（605088.SH）、鸣志电器（603728.SH）、爱仕达（002403.SZ）涨停，兆威机电（003021.SZ）...",
+      "title": "汇洲智能信披违规被处罚，投资者索赔条件初步明确",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-03/doc-iniqpqxu4347950.shtml",
+      "date": "2026-09-03 14:56",
+      "summary": "2025年4月29日，汇洲智能发布公告称，公司因涉嫌信息披露违法违规，收到中国证监会《立案告知书》，证监会决定对公司立案调查。",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "美联储加息概率62%+地缘风险撑美元，欧洲央行鹰派能“救场”吗？",
-      "link": "https://finance.sina.com.cn/money/forex/hbfx/2026-09-03/doc-iniqpksa7059484.shtml",
-      "date": "2026-09-03 12:23",
-      "summary": "汇通财经APP讯——周四（9月3日）亚洲时段，欧元兑美元震荡微涨，当前交投于1.1595附近。汇价仍处于8月20日以来的低位区域。",
-      "source": "滚动播报",
+      "title": "立方数科退市后仍可维权，投资者索赔持续征集",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-03/doc-iniqpqxw1120108.shtml",
+      "date": "2026-09-03 14:56",
+      "summary": "立方数科相关投资者索赔工作仍在进行。近日，上海沪紫律师事务所刘鹏律师团队已向合肥中院提交一批相关案件，目前投资者仍可根据自身情况了解是否符合索赔条件。",
+      "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "全球第二大稀土国通过关键矿产法案 收紧交易审查",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpksa2229214.shtml",
-      "date": "2026-09-03 12:17",
-      "summary": "尽管业界警告称新规可能打击外国投资意愿，但巴西国会仍通过了一项关键矿产法案，赋予政府更大的矿业交易审查权。 该拉美最大经济体拥有全球第二大稀土储量...",
+      "title": "云创数据财务造假遭重罚，投资者索赔启动",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-03/doc-iniqpqxy6999274.shtml",
+      "date": "2026-09-03 14:56",
+      "summary": "近日，上海沪紫律师事务所刘鹏律师团队已向法院提交部分云创数据投资者索赔案件，目前相关维权登记仍在进行。符合条件的投资者，可根据自身情况申请参与索赔。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "ST派瑞上半年净利润增长近五成，曾因财务造假被罚",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-03/doc-iniqpqxu4345635.shtml",
+      "date": "2026-09-03 14:56",
+      "summary": "8月28日，ST派瑞（300831）公布2026年半年报，公司营业收入为8195万元，同比上升32.6%；归母净利润为2315万元，同比上升48.7%；扣非归母净利润为2500万元，同比上升257...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "海南华铁上半年营收31亿，投资者索赔持续征集",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-03/doc-iniqpqxy2171854.shtml",
+      "date": "2026-09-03 14:56",
+      "summary": "日前，海南华铁披露2026年半年度报告。2026年上半年，公司实现营业总收入31.79亿元，同比增长13.32%；归母净利润2.38亿元，同比下降30.27%；扣非净利润2.36亿元...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "ST瑞贝卡中报承压，涉资金占用已被罚",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-03/doc-iniqpqxy2171674.shtml",
+      "date": "2026-09-03 14:56",
+      "summary": "8月27日ST瑞贝卡发布2026年中报显示，公司上半年实现营业收入6.44亿元，同比增长7.73%；归母净利润449.72万元，同比下滑52.03%。进一步揭示了公司的经营困境。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "大烨智能上半年扭亏为盈，仍处监管立案调查中",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-03/doc-iniqpqxw1116256.shtml",
+      "date": "2026-09-03 14:56",
+      "summary": "大烨智能发布2026年半年度报告，报告期内，公司实现营业收入1.26亿元，同比下降11.14%。实现归属于上市公司股东的净利润705.51万元。实现扭亏为盈。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "博通公布2026财年三季度业绩：AI芯片收入同比增逾两倍，四季度指引略低于部分预期",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpqxy6995627.shtml",
+      "date": "2026-09-03 14:54",
+      "summary": "博通周三美股收盘后公布截至8月2日的2026财年第三季度业绩。当季营收295.9亿美元，较上年同期的159.5亿美元增长86%；调整后每股收益3.32美元，上年同期为1.69美元。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "日本商社股上涨 受伯克希尔哈撒韦CEO的投资决心提振",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpkrw4342859.shtml",
-      "date": "2026-09-03 12:14",
-      "summary": "商社股周四在东证指数成份股中涨幅居前，之前伯克希尔哈撒韦CEOGreg Abel表明了长期持有的决心。 三菱商事一度涨5.4%，至5月以来高位；住友商事、三井物产...",
+      "title": "沃达丰三公司推出电视服务 拓展英国宽带市场",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpqxu4337070.shtml",
+      "date": "2026-09-03 14:52",
+      "summary": "英国最大移动运营商沃达丰三公司（VodafoneThree）将于下月首次推出电视服务，旨在通过更广泛的产品组合与天空电视台、英国电信及维珍媒体O2等竞争对手展开竞争。",
       "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "A股液冷概念掀涨停潮，300亿龙头创新高，半导体巨头炸板后再回封，大金融板块集体走强",
-      "link": "https://finance.sina.com.cn/stock/2026-09-03/doc-iniqpksa2227097.shtml",
-      "date": "2026-09-03 12:10",
-      "summary": "9月3日，A股市场早盘震荡，截至午间收盘，沪指涨0.43%，深成指涨0.39%，创业板指涨0.43%，科创综指涨0.16%。沪深两市半日成交额1.1万亿元，较上个交易日缩量1104亿元。",
-      "source": "21世纪经济报道",
-      "category": "a-stock"
-    },
-    {
-      "title": "泰铢上涨近1%，创6月以来最大涨幅",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpksa2225121.shtml",
-      "date": "2026-09-03 12:09",
-      "summary": "泰铢汇率上涨近1%，报1美元兑32.985泰铢，创下6月12日以来最大涨幅。泰铢成为周四亚洲表现最佳的货币。三菱日联银行外汇分析师Lloyd...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美债干预引爆共振：比特币脱钩美股，数字黄金叙事实证落地",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-03/doc-iniqpksa2226141.shtml",
-      "date": "2026-09-03 12:06",
-      "summary": "据 Woofun AI 消息，比特币与黄金的联动性在宏观政策干预下达到历史峰值，Bitwise 分析认为这一现象为比特币作为数字黄金的叙事提供了坚实的实证支持...",
-      "source": "智通财经APP",
-      "category": "a-stock"
-    },
-    {
-      "title": "北交所半年报揭晓：14家公司营收与净利润双增超50%",
-      "link": "https://finance.sina.com.cn/roll/2026-09-03/doc-iniqpkrw4336982.shtml",
-      "date": "2026-09-03 12:04",
-      "summary": "21世纪经济报道 见习记者 张长荣 随着2026年半年报披露收官，北交所339家上市公司的“期中成绩单”正式揭晓。 整体来看，北交所上半年超七成公司营收实现增长...",
-      "source": "21世纪经济报道",
       "category": "a-stock"
     }
   ]
