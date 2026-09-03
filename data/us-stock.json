@@ -1,445 +1,405 @@
 {
-  "updated": "2026-09-03T15:43:37.350283+08:00",
+  "updated": "2026-09-03T20:32:55.469638+08:00",
   "source": "美股聚合",
-  "count": 55,
+  "count": 50,
   "items": [
     {
-      "title": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
-      "link": "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
-      "date": "2026-09-03 15:43",
-      "summary": "On Thursday, Kuwait's army said it was confronting hostile missile and drone attacks from Iran.",
+      "title": "Hugging Face approached Nvidia's Huang about an acquisition a few weeks ago, CEO tells CNBC",
+      "link": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "date": "2026-09-03 20:32",
+      "summary": "Nvidia CEO Jensen Huang said that with Hugging Face, the chipmaker will \"expand access to AI for developers and institutions worldwide.\"",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
+      "link": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html",
+      "date": "2026-09-03 20:32",
+      "summary": "In remarks that seem to contrast with statements last week from Chairman Kevin Warsh, Waller expressed confidence in the current inflation trends.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "The world appears to be entering a higher-rate era. Heres who will pay the price",
       "link": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
-      "date": "2026-09-03 15:43",
+      "date": "2026-09-03 20:32",
       "summary": "The bond sell-off is owed to a mix of high government debt issuance, an oil-price shock that has reignited inflation concerns, and expectations of higher rates.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Snowflake is ripping after its earnings report. Two analysts say there's more upside to come",
+      "link": "https://www.cnbc.com/2026/09/03/snowflake-is-ripping-two-analysts-say-theres-more-upside-to-come.html",
+      "date": "2026-09-03 20:32",
+      "summary": "Snowflake is rallying after posting strong quarterly results this week. But, it has a lot more room to run, according to two shops on the Street.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "How Meta will pull off massive changes to its social media apps",
+      "link": "https://www.cnbc.com/2026/09/03/meta-teen-app-changes.html",
+      "date": "2026-09-03 20:32",
+      "summary": "Meta settled its child safety case. Now comes the hard part of actually implementing changes to its social media platforms. Here's what to expect.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "'No steering wheel, no pedals.' Tesla teases fans ahead of long-awaited Cybercab update",
+      "link": "https://www.cnbc.com/2026/09/03/tesla-teases-no-steering-wheel-no-pedals-ahead-of-cybercab-update.html",
+      "date": "2026-09-03 20:32",
+      "summary": "Tesla first unveiled the Cybercab almost two years ago, and fans of the company have been waiting to hear more.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Snowflake, Moderna, Broadcom & more",
+      "link": "https://www.cnbc.com/2026/09/03/stocks-making-the-biggest-moves-premarket-snow-mrna-avgo.html",
+      "date": "2026-09-03 20:32",
+      "summary": "These are the stocks posting the largest moves premarket.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
+      "link": "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
+      "date": "2026-09-03 20:32",
+      "summary": "On Thursday, Kuwait's army said it was confronting hostile missile and drone attacks from Iran.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Dutch central bank moves gold bars out of U.S. and Canada, citing crisis preparedness",
       "link": "https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html",
-      "date": "2026-09-03 15:43",
+      "date": "2026-09-03 20:32",
       "summary": "DNB said gold stored with the Bank of England is more readily tradable, allowing it to be deployed more quickly in a severe crisis.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
-      "link": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
-      "date": "2026-09-03 15:43",
-      "summary": "After a slow but extended selloff on Wall Steet, Google began September with renewed momentum, helped by new AI models.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Trump and Xi are set to meet in DC. Why some China watchers have low expectations",
-      "link": "https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html",
-      "date": "2026-09-03 15:43",
-      "summary": "Trump's summit with Xi is expected to take place less than six weeks before the U.S. election, with polls showing Democrats favored to make gains in Congress.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Shipping stocks at a crossroads amid their best rally in decades",
-      "link": "https://www.cnbc.com/2026/09/03/shipping-hormuz-tankers-earnings-freight-rates-iran-trump-crude-china-stocks.html",
-      "date": "2026-09-03 15:43",
-      "summary": "A months-long crisis in the Strait of Hormuz has turned an overlooked corner of the market into one of 2026's hottest trades.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Stocks stumbled out of the gate in September. Use these hedges to guard against volatility, Evercore ISI says",
-      "link": "https://www.cnbc.com/2026/09/02/stocks-stumble-out-of-the-gate-in-september-use-these-hedges-evercore-isi-says.html",
-      "date": "2026-09-03 15:43",
-      "summary": "Evercore ISI names dozens of S&P 500 stocks with negative beta to help investors ride out renewed volatility in September.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing?",
-      "link": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html",
-      "date": "2026-09-03 15:43",
-      "summary": "If growth were to slow in the semiconductor sector, would the slowdown take the Korean economy with it?",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
-      "link": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
-      "date": "2026-09-03 15:43",
-      "summary": "Broadcom gave a disappointing revenue forecast for the current quarter but provided robust earnings guidance for fiscal 2028.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "China's slowdown pushes New Zealand exporters to diversify away from their top buyer, RBNZ official tells CNBC",
-      "link": "https://www.cnbc.com/2026/09/03/china-new-zealand-dairy-agriculture-exports-slowdown-rbnz.html",
-      "date": "2026-09-03 15:43",
-      "summary": "New Zealand exporters are diverting shipments bound for China to new markets, as demand from the country's top buyer cools, a central bank official tells CNBC.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Apple shares are doing something they haven't done in 20 years. Heres whats happening",
-      "link": "https://www.cnbc.com/2026/09/02/apple-shares-are-doing-something-they-havent-done-in-20-years-heres-whats-happening.html",
-      "date": "2026-09-03 15:43",
-      "summary": "Apple stock hasn't been this inversely correlated to its tech peers since 2005.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "How Equinix has found a niche in the multitrillion-dollar AI data center boom",
-      "link": "https://www.cnbc.com/2026/09/02/equinix-partners-with-nvidia-carves-niche-in-ai-data-center-boom.html",
-      "date": "2026-09-03 15:43",
-      "summary": "Nvidia announced a new data center deal with Equinix and Together AI on Wednesday to help enterprise customers with open-model inference.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Thursday's big stock stories: Whats likely to move the market in the next trading session",
-      "link": "https://www.cnbc.com/2026/09/02/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
-      "date": "2026-09-03 15:43",
-      "summary": "The three major averages snapped three-day losing streaks on Wednesday. Tune in to CNBC on Thursday for Antonio Neri, CEO of Hewlett Packard Enterprise.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Jim Cramer says investors aren't ditching tech  they just want cheaper stocks",
-      "link": "https://www.cnbc.com/2026/09/02/cramer-says-investors-arent-ditching-tech-they-want-cheaper-stocks.html",
-      "date": "2026-09-03 15:43",
-      "summary": "CNBC's Jim Cramer said investors arent abandoning AI or technology stocks  theyre rotating out of high-multiple names and into cheaper stocks.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
       "link": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
-      "date": "2026-09-03 15:43",
+      "date": "2026-09-03 20:32",
       "summary": "The NBA also fined the Los Angeles Clippers $30 million and said the team will forfeit five first-round picks, one in each year in drafts starting in 2029.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Yields surged to kick off September. BlackRock spots solid income in this corner of the market",
-      "link": "https://www.cnbc.com/2026/09/02/yields-surged-to-kick-off-september-blackrock-spots-solid-income-here.html",
-      "date": "2026-09-03 15:43",
-      "summary": "Today's higher yields offer a solid starting point for returns in fixed income, but investors will need to be picky about where they take credit risk.",
+      "title": "Gloria Steinem, a potent voice of U.S. feminism and co-founder of Ms. Magazine, has died",
+      "link": "https://www.cnbc.com/2026/09/03/gloria-steinem-co-founder-of-ms-magazine-dies-at-92.html",
+      "date": "2026-09-03 20:32",
+      "summary": "Gloria Steinem, the co-founder of Ms. Magazine and a fierce advocate for feminist causes throughout her life, has died. She was 92.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
-      "link": "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
-      "date": "2026-09-03 15:43",
-      "summary": "Microsoft will begin reporting quarterly Azure revenue in dollars for the first time, providing more clarity about its business that competes with AWS.",
+      "title": "'Danger zone of extreme weather': UN warns of supersized El Niño set to hit global economy and markets",
+      "link": "https://www.cnbc.com/2026/09/03/supersized-el-nino-un-economy.html",
+      "date": "2026-09-03 20:32",
+      "summary": "Latest modeling shows high risks of floods, drought and extreme heat persisting until February 2027.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "G20 tech takeaways: Lutnick pitches adoption of U.S. AI, pushes data center buildout",
-      "link": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
-      "date": "2026-09-03 15:43",
-      "summary": "Follow Day 2 of the G20 Innovation Ministerial in Chapel Hill, North Carolina, with Jensen Huang, Sam Altman, and ministers discussing AI, policy and trade.",
+      "title": "Billionaire family offices back health care and biotech startups in August",
+      "link": "https://www.cnbc.com/2026/09/03/family-offices-health-care-biotech-startups-august.html",
+      "date": "2026-09-03 20:32",
+      "summary": "The personal investment firms of titans like Stanley Druckenmiller are backing innovations in gene editing, drug discovery and more.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "USTR's Greer huddles with House Republicans amid Trump trade spats",
-      "link": "https://www.cnbc.com/2026/09/02/greer-trade-house-republicans-trump.html",
-      "date": "2026-09-03 15:43",
-      "summary": "Trump's plan to lower tariffs on 300,000 metric tons of imported beef caused an uproar among cattle ranchers.",
+      "title": "Putin floats 'chance' at peace with Ukraine as NATO chief warns Russia is becoming 'increasingly reckless'",
+      "link": "https://www.cnbc.com/2026/09/03/putin-peace-russia-ukraine-nato-defense.html",
+      "date": "2026-09-03 20:32",
+      "summary": "Putin said peace with Ukraine remains possible while calling Kyivs warning on Russian airspace state terrorism, as NATO flags fresh risks.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Trump and Xi are set to meet in DC. Why some China watchers have low expectations",
+      "link": "https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html",
+      "date": "2026-09-03 20:32",
+      "summary": "Trump's summit with Xi is expected to take place less than six weeks before the U.S. election, with polls showing Democrats favored to make gains in Congress.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Hidden China risks are emerging in Americas multibillion-dollar AI data center boom",
+      "link": "https://www.cnbc.com/2026/09/03/us-ai-data-centers-china-supply-chain.html",
+      "date": "2026-09-03 20:32",
+      "summary": "U.S. AI data centers rely on China-linked supplies of transformers, batteries and optical gear as Washington moves to tighten restrictions on foreign equipment.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Moderna is now overvalued after cancer vaccine-led stock surge, Rothschild & Co. says",
+      "link": "https://www.cnbc.com/2026/09/03/moderna-is-now-overvalued-after-cancer-vaccine-led-stock-surge-rothschild-co-says.html",
+      "date": "2026-09-03 20:32",
+      "summary": "The research firm downgraded the biotechnology stock to sell from neutral.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Ford's production of highly profitable Super Duty trucks hits 20-year high as it recovers from supplier fires",
+      "link": "https://www.cnbc.com/2026/09/02/ford-sales-f-150-production.html",
+      "date": "2026-09-03 20:32",
+      "summary": "Ford reported its eighth consecutive month of year-over-year U.S. new vehicle sales declines in August.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Broadcom guides to big numbers but investors wanted more. Why we're OK to hold for now",
+      "link": "https://www.cnbc.com/2026/09/02/broadcom-guides-to-big-numbers-but-investors-wanted-more-why-were-ok-to-hold-for-now.html",
+      "date": "2026-09-03 20:32",
+      "summary": "We recently reduced our position size, which allows us to be more patient with this one.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protectionism'",
+      "link": "https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html",
+      "date": "2026-09-03 20:32",
+      "summary": "China rejected G20 pressure over export-driven growth while also challenging U.S. Iran sanctions and European trade measures.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "EnQuest is interested in buying BPs North Sea assets, CEO tells CNBC",
+      "link": "https://www.cnbc.com/2026/09/03/bp-north-sea-oil-gas-enquest.html",
+      "date": "2026-09-03 20:32",
+      "summary": "EnQuest CEO Amjad Bseisu told CNBC the company is interested in BPs U.K. North Sea assets as the oil major explores a sale of the business.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+      "link": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
+      "date": "2026-09-03 20:32",
+      "summary": "After a slow but extended selloff on Wall Steet, Google began September with renewed momentum, helped by new AI models.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "PG&E CEO calls on California to pass wildfire reform after the shelved effort crushed the stock",
+      "link": "https://www.cnbc.com/2026/09/02/pge-ceo-calls-on-california-to-pass-wildfire-reform-after-the-shelved-effort-crushed-the-stock.html",
+      "date": "2026-09-03 20:32",
+      "summary": "PG&E CEO Patti Poppe said she's hopeful California lawmakers can revive wildfire liability reform after a failed proposal sent the utilitys shares tumbling.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "States now must report undocumented immigrants to DHS or risk federal funding, DOJ says",
       "link": "https://www.cnbc.com/2026/09/02/doj-states-undocumented-immigrants-dhs-funds.html",
-      "date": "2026-09-03 15:43",
+      "date": "2026-09-03 20:32",
       "summary": "The new DOJ opinion relates to funding states get for Temporary Assistance for Needy Families and the Supplemental Security Income programs.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "J&J's run to record highs hasn't reached the finish line yet. Here are the key drivers",
-      "link": "https://www.cnbc.com/2026/09/02/jjs-run-to-record-highs-hasnt-reached-the-finish-line-yet-here-are-the-key-drivers.html",
-      "date": "2026-09-03 15:43",
-      "summary": "Jim Cramer agrees with UBS: The rally in Johnson & Johnson shares still has room to run.",
+      "title": "How Equinix has found a niche in the multitrillion-dollar AI data center boom",
+      "link": "https://www.cnbc.com/2026/09/02/equinix-partners-with-nvidia-carves-niche-in-ai-data-center-boom.html",
+      "date": "2026-09-03 20:32",
+      "summary": "Nvidia announced a new data center deal with Equinix and Together AI on Wednesday to help enterprise customers with open-model inference.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Best checking account bonuses of September 2026: Up to $3,000",
-      "link": "https://www.cnbc.com/select/best-checking-account-bonuses/",
-      "date": "2026-09-03 15:43",
-      "summary": "Want to earn hundreds (or even thousands) of dollars just by opening a new account? Here's how.",
+      "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
+      "link": "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
+      "date": "2026-09-03 20:32",
+      "summary": "Microsoft will begin reporting quarterly Azure revenue in dollars for the first time, providing more clarity about its business that competes with AWS.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Snowflake spikes 22% on healthy results and AI coding momentum",
-      "link": "https://www.cnbc.com/2026/09/02/snowflake-snow-q2-earnings-report-2027.html",
-      "date": "2026-09-03 15:43",
-      "summary": "Snowflake business is growing quickly, in part thanks to adoption of an artificial intelligence agent for writing code.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "10-year U.S. Treasury yield hits highest level since November 2023",
-      "link": "https://www.cnbc.com/2026/09/02/bond-yields-treasurys-inflation.html",
-      "date": "2026-09-03 15:43",
-      "summary": "The 10-year Treasury note yield reached a fresh multiyear high on Wednesday as inflation and debt concerns pressured global government borrowing costs.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "The Los Angeles Angels are being sold for a record $4 billion. Here's what every MLB team is now worth",
-      "link": "https://www.cnbc.com/2026/09/02/the-los-angeles-angels-are-being-sold-for-a-record-4-billion-heres-what-every-mlb-team-is-now-worth.html",
-      "date": "2026-09-03 15:43",
-      "summary": "",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Inside India newsletter: Indias economic growth is smashing forecasts, but its biggest stocks aren't feeling the love",
-      "link": "https://www.cnbc.com/2026/09/03/india-nifty-sensex-manufacturing-economy-gdp.html",
-      "date": "2026-09-03 15:43",
-      "summary": "India's strong economic growth has surprised every quarter for the last year, but the performance of its key stock benchmarks has been deeply disappointing.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Traders are piling into this international stock market that just pulled ahead of the Nasdaq",
-      "link": "https://www.cnbc.com/2026/09/02/traders-pile-into-this-international-stock-market-thats-beating-the-nasdaq.html",
-      "date": "2026-09-03 15:43",
-      "summary": "The rally might be tied to commodities, which are also surging, or an expression of optimism around the country's upcoming general election in October.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "New York Fed's Williams says yield surge due to strong economic prospects",
-      "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
-      "date": "2026-09-03 15:43",
-      "summary": "New York Fed President John Williams said higher Treasury yields reflect a strong economy as he weighs whether another interest rate hike is needed.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "AI trade faces test with next week's Oracle earnings",
-      "link": "https://www.cnbc.com/2026/09/02/ai-trade-faces-test-with-next-weeks-oracle-earnings.html",
-      "date": "2026-09-03 15:43",
-      "summary": "How Michael Khouw is playing ORCL ahead of earnings.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Broadcom’s stock falls despite upbeat earnings, extending a frustrating stretch for investors",
-      "link": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories",
-      "date": "2026-09-03 15:43",
-      "summary": "Broadcom topped expectations with its latest quarterly financial results, but that wasn’t enough to send its stock higher.",
+      "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
+      "link": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
+      "date": "2026-09-03 20:32",
+      "summary": "Access to healthcare, recreation, and low taxes lure retirees, new research says",
       "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "Snowflake’s stock soars as the company blows away estimates with its AI-fueled forecast",
-      "link": "https://www.marketwatch.com/story/snowflakes-stock-soars-as-the-company-blows-away-estimates-with-its-ai-fueled-forecast-5b5cf36c?mod=mw_rss_topstories",
-      "date": "2026-09-03 15:43",
-      "summary": "Companies looking to build AI tools on top of their data are turning to Snowflake, driving robust revenue growth.",
+      "title": "Clean sweep or divided Congress, these are the midterm-elections trades to make, says JPMorgan",
+      "link": "https://www.marketwatch.com/story/clean-sweep-or-split-congress-these-are-the-trades-to-make-on-the-midterms-outcome-says-jpmorgan-91a1e3ee?mod=mw_rss_topstories",
+      "date": "2026-09-03 20:32",
+      "summary": "Some stocks will face very different environments depending on how Americans vote in November.",
       "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "HPE follows in Dell’s footsteps as it rides the AI server boom to a big earnings beat",
-      "link": "https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea?mod=mw_rss_topstories",
-      "date": "2026-09-03 15:43",
-      "summary": "Unlike Dell, HPE focuses on enterprise and sovereign customers, which one analyst noted have a better profit profile.",
+      "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+      "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+      "date": "2026-09-03 20:32",
+      "summary": "“I am frustrated and financially exhausted from continuing to invest my own money into  these properties.”",
       "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "Nvidia’s stock is climbing as investors get more confidence in an expanding base of AI customers",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-is-climbing-as-investors-get-more-confidence-in-an-expanding-base-of-ai-customers-a6e297f1?mod=mw_rss_topstories",
-      "date": "2026-09-03 15:43",
-      "summary": "Dell’s earnings showed that demand for AI hardware extends beyond major cloud providers.",
+      "title": "The AI cloud math is broken, and it’s creating a power shift within Big Tech",
+      "link": "https://www.marketwatch.com/story/the-ai-cloud-math-is-broken-and-its-creating-a-power-shift-within-big-tech-5652da0f?mod=mw_rss_topstories",
+      "date": "2026-09-03 20:32",
+      "summary": "Buying AI hardware outright is becoming more economical than renting AI power through the cloud.",
+      "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "Snowflake’s stock is surging.  Here’s what Wall Street analysts are saying.",
+      "link": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
+      "date": "2026-09-03 20:32",
+      "summary": "Analysts see the software company continuing to benefit from the artificial-intelligence revolution.",
       "source": "MarketWatch",
       "category": "us-stock"
     },
     {
       "title": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
       "link": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
-      "date": "2026-09-03 15:43",
+      "date": "2026-09-03 20:32",
       "summary": "“I’m desperately trying to plan ahead while I’m still able.”",
       "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "Palantir’s stock is slumping. Why bond yields and Google may be to blame.",
-      "link": "https://www.marketwatch.com/story/why-palantirs-stock-is-suffering-its-worst-slump-since-february-7fb3b289?mod=mw_rss_topstories",
-      "date": "2026-09-03 15:43",
-      "summary": "After a strong postearnings rally in August, Palantir’s rich valuation multiple is under pressure once again.",
+      "title": "Whether the Fed raises interest rates this month isn’t as big a deal for stocks as you might think",
+      "link": "https://www.marketwatch.com/story/whether-the-fed-raises-interest-rates-this-month-isnt-as-big-a-deal-for-stocks-as-you-might-think-6464b88d?mod=mw_rss_topstories",
+      "date": "2026-09-03 20:32",
+      "summary": "There are more important things for investors to be worried about.",
       "source": "MarketWatch",
       "category": "us-stock"
     },
     {
-      "title": "How Oracle’s ‘extremely controversial’ stock could more than double from here",
-      "link": "https://www.marketwatch.com/story/how-oracles-extremely-controversial-stock-could-more-than-double-from-here-7bb20331?mod=mw_rss_topstories",
-      "date": "2026-09-03 15:43",
-      "summary": "Oracle could be “nearing the end” of its need to raise cash, a Bernstein analyst says.",
-      "source": "MarketWatch",
-      "category": "us-stock"
-    },
-    {
-      "title": "Why Beyond Meat Stock Slumped Last Month",
-      "link": "https://www.fool.com/investing/2026/09/03/why-beyond-meat-stock-slumped-last-month/?.tsrc=rss",
-      "date": "2026-09-03 07:20",
-      "summary": "You'd sink too if you effected a major reverse stock split.",
+      "title": "3 Growth Stocks to Stash",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-stash-122318606.html?.tsrc=rss",
+      "date": "2026-09-03 12:23",
+      "summary": "Growth is a hallmark of all great companies, but the laws of gravity eventually take hold. Those who rode the COVID boom and ensuing tech selloff in 2022 will surely remember that the markets punishme",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "TSLA Stock Revs Up Slowly As Elon Musk Tells A Storm Of Cybercabs Are Coming  Analyst Says Never Short A Great Company",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-elon-musk-cybercabs-analyst-never-short-great-company/cZsMYQPRJHw?.tsrc=rss",
-      "date": "2026-09-03 07:14",
-      "summary": "Cybercabs were spotted across Austin and Miami as Teslas Texas robotaxi fleet reached 420 vehicles.",
+      "title": "Dow Jones Futures Rise, Oil Prices Keep Climbing; Snowflake, Victoria's Secret Are Big Movers With Tesla Cybercab Event Due",
+      "link": "https://finance.yahoo.com/m/1d7123ac-a008-32ff-9bbd-f00beb6c5dbf/dow-jones-futures-rise%2C-oil.html?.tsrc=rss",
+      "date": "2026-09-03 12:11",
+      "summary": "The stock market rose modestly Wednesday. Snowflake surged late on earnings while Broadcom and HPE fell. A Tesla Cybercab event looms.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Vertiv Just Made an Up to $2.6 Billion Bet to Solve AI Data Centers' Biggest Bottleneck",
-      "link": "https://www.fool.com/investing/2026/09/03/vertiv-just-made-an-up-to-usd2-6-billion-bet-to-solve-ai-data-centers-biggest-bottleneck/?.tsrc=rss",
-      "date": "2026-09-03 06:50",
-      "summary": "Vertiv is expanding beyond the building shell to help connect data centers to power more quickly.",
+      "title": "I Think iShares Bitcoin Trust (IBIT) Is the Best Bitcoin ETF to Buy Right Now",
+      "link": "https://www.fool.com/investing/2026/09/03/ishares-bitcoin-trust-ibit-best-etf-buy-right-now/?.tsrc=rss",
+      "date": "2026-09-03 12:05",
+      "summary": "This investment vehicle, offered by the world's biggest asset manager, has been the clear winner in terms of attracting assets.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Why Redwire Stock Rocketed 24% Higher in August",
-      "link": "https://www.fool.com/investing/2026/09/03/why-redwire-stock-rocketed-24-higher-in-august/?.tsrc=rss",
-      "date": "2026-09-03 06:42",
-      "summary": "It was a month full of good news for the company.",
+      "title": "Apple faces £2bn UK lawsuit over app tracking rules",
+      "link": "https://finance.yahoo.com/technology/articles/apple-faces-2bn-uk-lawsuit-120358136.html?.tsrc=rss",
+      "date": "2026-09-03 12:03",
+      "summary": "Investing.com -- Apple Inc is facing a £2 billion ($2.7 billion) lawsuit in London brought on behalf of app developers over its app tracking rules. The iPhone maker is accused of abusing its power to ",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Where Will SoundHound AI Stock Be in 1 Year?",
-      "link": "https://www.fool.com/investing/2026/09/03/where-will-soundhound-ai-stock-be-in-1-year/?.tsrc=rss",
-      "date": "2026-09-03 06:30",
-      "summary": "The stock is trading near the bottom of its 52-week range, but it has intriguing upside potential.",
+      "title": "How Apple's John Ternus inherited a 'reckoning' with China",
+      "link": "https://finance.yahoo.com/video/apples-john-ternus-inherited-reckoning-120000967.html?.tsrc=rss",
+      "date": "2026-09-03 12:00",
+      "summary": "Strategy Risks founder and CEO, Isaac Stone Fish, sits down with Market Domination host Josh Lipton to discuss various aspects of Apple's (AAPL) overall strategy in China, India, and more.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "How Investors Are Reacting To BorgWarner (BWA) Sustainability Push Amid Insider Sale And Analyst Support",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-borgwarner-bwa-sustainability-061546010.html?.tsrc=rss",
-      "date": "2026-09-03 06:15",
-      "summary": "BorgWarner recently released its 2026 Powering Tomorrow Sustainability Report and received supportive analyst commentary on its earnings base and product portfolio, while Vice President Isabelle McKen",
+      "title": "SoFi Just Posted Another Quarter of Fast Growth. What Has to Happen Next for the Stock to Follow?",
+      "link": "https://www.fool.com/investing/2026/09/03/sofi-another-quarter-fast-growth-next-stock-follow/?.tsrc=rss",
+      "date": "2026-09-03 11:50",
+      "summary": "This fintech stock trades 45% below its record high reached in November 2025.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Intel Stock Tripled in a Year, So Where Will It Be in 5 Years?",
-      "link": "https://www.fool.com/investing/2026/09/03/intel-stock-tripled-in-a-year-so-where-will-it-be-in-5-years/?.tsrc=rss",
-      "date": "2026-09-03 06:11",
-      "summary": "A $24 stock became an $89 stock. The next five years depend on three things.",
+      "title": "Coherent Fell Hard Over 3 Months: It Will Nearly Double According to These Analysts",
+      "link": "https://247wallst.com/investing/2026/09/03/coherent-fell-hard-over-3-months-it-will-nearly-double-according-to-these-analysts/?.tsrc=rss",
+      "date": "2026-09-03 11:45",
+      "summary": "Coherent just handed back a third of its value in three months without a single crack in its operating story, and Wall Street is responding by piling on price target upgrades instead of downgrades. So",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Prediction: Here's Where Palantir Stock Will Be in 3 Years",
-      "link": "https://www.fool.com/investing/2026/09/03/prediction-where-will-palantir-stock-be-in-3-years/?.tsrc=rss",
-      "date": "2026-09-03 05:54",
-      "summary": "The data analytics powerhouse has grown rapidly, but too much expected growth is already priced into its stock.",
+      "title": "QumulusAI Completes Deployment of All 616 NVIDIA RTX PRO 6000 Blackwell GPUs for Runpod, Weeks Ahead of Schedule",
+      "link": "https://finance.yahoo.com/technology/ai/articles/qumulusai-completes-deployment-616-nvidia-114100844.html?.tsrc=rss",
+      "date": "2026-09-03 11:41",
+      "summary": "ATLANTA, September 03, 2026--QumulusAI (Nasdaq: QMLS), a neocloud infrastructure provider purpose-built for the AI computing era, today announced that it has completed deployment of 616 NVIDIA RTX PRO",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Why Yeti Stock Swooned in August",
-      "link": "https://www.fool.com/investing/2026/09/03/why-yeti-stock-swooned-in-august/?.tsrc=rss",
-      "date": "2026-09-03 05:48",
-      "summary": "The cooler and drinkware specialist's second-quarter results looked strong at first glance.",
+      "title": "Energy Transition Update - Malaysia's Largest Solar Initiative Boosts Renewable Energy Prospects",
+      "link": "https://finance.yahoo.com/energy/articles/energy-transition-malaysias-largest-solar-113714863.html?.tsrc=rss",
+      "date": "2026-09-03 11:37",
+      "summary": "Founder Group Limited has announced that its subsidiary, Founder Energy Sdn. Bhd., is actively participating in Malaysias largest-ever utility-scale solar initiative, the Large-Scale Solar 6 (LSS6) pr",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Nvidia's 8% Grip on the S&P 500 Is Unlike Anything Wall Street Has Seen: Jensen Huang-Led Chipmaker is 'Making History,' Says This Commentator",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidias-8-grip-p-500-053416658.html?.tsrc=rss",
-      "date": "2026-09-03 05:34",
-      "summary": "Nvidia Corp. (NASDAQ:NVDA) accounts for roughly 8% of the S&P 500s total market cap, a scale of dominance built almost entirely on the AI boom, leaving the chipmaker alone outweighing five of the inde",
+      "title": "Meet the Dividend King Stock That Yields Quadruple the S&P 500. Here's Why It's a Buy Now.",
+      "link": "https://www.fool.com/investing/2026/09/03/meet-the-dividend-king-stock-that-yields-more-than/?.tsrc=rss",
+      "date": "2026-09-03 11:35",
+      "summary": "For investors seeking stability and portfolio income, this venerable REIT is in a class of its own.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Did Ford's New Energy Chief and NATO Ranger Push Just Shift Ford Motor's (F) Investment Narrative?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/did-fords-energy-chief-nato-050554123.html?.tsrc=rss",
-      "date": "2026-09-03 05:05",
-      "summary": "Ford Motor recently named Dave Carroll as president of Ford Energy, succeeding retiring executive Lisa Drake, while also pushing to expand Ranger pickup truck sales for military use across NATO countr",
+      "title": "Broadcom and Snowflake Perfectly Sum Up the AI Trade",
+      "link": "https://finance.yahoo.com/m/e9f8d914-8453-3d44-a11c-c9ef9cb8ab7e/broadcom-and-snowflake.html?.tsrc=rss",
+      "date": "2026-09-03 11:35",
+      "summary": "Stock futures fall, Broadcom beat forecasts for AI Chip sales growth, Micron and China chip makers fight for market share.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Nvidia CEO Jensen Huang Says the Single Worst Outcome for Any Country Is Being Left Behind in AI: Don't Regulate 'Theoretical Harm'",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-says-050258970.html?.tsrc=rss",
-      "date": "2026-09-03 05:02",
-      "summary": "On Wednesday, Nvidia Corp (NASDAQ:NVDA) CEO Jensen Huang urged G20 leaders to embrace artificial intelligence infrastructure and adoption, warning that excessive fear or regulation could leave countri",
+      "title": "75% of Nvidia's $63 Billion Investment Portfolio Has Been Put to Work in Just 2 Game-Changing AI Stocks",
+      "link": "https://www.fool.com/investing/2026/09/03/75-nvda-63-billion-portfolio-invest-in-2-ai-stocks/?.tsrc=rss",
+      "date": "2026-09-03 11:26",
+      "summary": "Two timely investments over the last year have significantly appreciated in value.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "3 AI Stocks Up 500% or More in the Past Year That Could Have More Room to Run",
-      "link": "https://www.fool.com/investing/2026/09/03/3-ai-stocks-up-500-or-more-in-the-past-year-that-c/?.tsrc=rss",
-      "date": "2026-09-03 04:50",
-      "summary": "Sandisk, Micron, and Lumentum have been huge winners over the past year.",
+      "title": "Teslas Cybercab Event Is Here. Will It Deliver for the Stock?",
+      "link": "https://finance.yahoo.com/m/c4486c7b-410e-35ed-8ae2-7da5c69bbf2f/tesla%E2%80%99s-cybercab-event-is.html?.tsrc=rss",
+      "date": "2026-09-03 11:16",
+      "summary": "Its taken  Tesla  a while, but it finally looks ready to dispense with the steering wheel.  The electric-vehicle maker is set to host a Cybercab event in Austin, Texas, this evening.  Cybercab,  Tesla",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Sundar Pichai's Alphabet Has Grown Google Cloud Revenue 82% Year Over Year. Here's Why That Growth Rate Justifies the Company's Capex Bet.",
-      "link": "https://www.fool.com/investing/2026/09/03/sundar-pichais-alphabet-has-grown-google-cloud-rev/?.tsrc=rss",
-      "date": "2026-09-03 04:20",
-      "summary": "Alphabet stock fell on the news, but it might be better than you think.",
+      "title": "Tesla Just Hit $355 and Investors Are Split on What Comes Next",
+      "link": "https://247wallst.com/investing/2026/09/03/tesla-just-hit-355-and-investors-are-split-on-what-comes-next/?.tsrc=rss",
+      "date": "2026-09-03 11:14",
+      "summary": "Tesla's bull case and bear case are both stronger than usual right now, and that tension is exactly what makes the stock so difficult to read at current levels.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "A Video Game Trailer Was Netflix's Most-Watched English Film Late Last Month. Here's Why This Matters for Investors.",
-      "link": "https://www.fool.com/investing/2026/09/02/a-video-game-trailer-was-netflix-s-most-watched-english-film-late-last-month-here-s-why-this-matters-for-investors/?.tsrc=rss",
-      "date": "2026-09-03 03:27",
-      "summary": "The streaming giant didn't produce it and only had it exclusively for six hours. So, what did it get?",
+      "title": "Top Funds Sink Their Teeth Into Apple Stock. Sweet Breakout Ahead?",
+      "link": "https://finance.yahoo.com/m/77efd63f-8b71-3de8-99c6-d2999eccae38/top-funds-sink-their-teeth.html?.tsrc=rss",
+      "date": "2026-09-03 11:13",
+      "summary": "Initially dropping after a mixed earnings report, Apple stock charges toward a breakout as it gets ready to \"Surprise and shine.\"",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Does Caterpillars AI Robotics Push with FieldAI and NVIDIA Reshape the Bull Case for CAT?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/does-caterpillar-ai-robotics-push-032647238.html?.tsrc=rss",
-      "date": "2026-09-03 03:26",
-      "summary": "Caterpillar Inc. recently announced a collaboration with FieldAI to deploy physical AI, autonomy, robotics and NVIDIA-powered digital twins across complex jobsites and factories to improve safety, vis",
+      "title": "This Aerospace Stock Is Cheap, but Does That Make It a Buy Today?",
+      "link": "https://www.fool.com/investing/2026/09/03/aerospace-stock-cheap-make-buy-textron-txt/?.tsrc=rss",
+      "date": "2026-09-03 11:05",
+      "summary": "For this aerospace-focused conglomerate, spinoff plans are not necessarily a silver bullet.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
-      "title": "Billionaire Dan Loeb Exited Nvidia and Broadcom. Is He Calling the Top in AI Chips?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-exited-nvidia-032353901.html?.tsrc=rss",
-      "date": "2026-09-03 03:23",
-      "summary": "Dan Loebs Third Point exited its remaining Nvidia and Broadcom common-share positions during Q2, according to the firms August 14 Form 13F. The prior positions, approximately 190,000 Nvidia shares and",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Bridgewater Cut Nvidia 18% and More Than Doubled Vistra. Is It Rotating From Chips to Power?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bridgewater-cut-nvidia-18-more-031929630.html?.tsrc=rss",
-      "date": "2026-09-03 03:19",
-      "summary": "Bridgewater Associates made opposite moves in two of AIs most important bottlenecks during Q2, disclosed in its August 14 filing. The firm reduced its Nvidia position 18% to 3,866,195 shares while inc",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Tesla uses data transparency to get what it wants",
-      "link": "https://www.thestreet.com/automotive/tesla-open-source-safety-dashboard-eu-approval-fsd?.tsrc=rss",
-      "date": "2026-09-03 03:17",
-      "summary": "Tesla is putting pressure on European Union regulators by making its safety information public.",
+      "title": "Apple Faces £2 Billion UK Lawsuit Over App Tracking Transparency Rules",
+      "link": "https://investorshub.advfn.com/market-news/article/35576/apple-faces-2-billion-uk-lawsuit-over-app-tracking-transparency-rules?.tsrc=rss",
+      "date": "2026-09-03 11:02",
+      "summary": "Apple (NASDAQ:AAPL) is facing a £2 billion ($2. 7 billion) lawsuit in London brought on behalf of app developers over its App Tracking Transparency rules, with the claim alleging that the company impo",
       "source": "Yahoo Finance",
       "category": "us-stock"
     }
