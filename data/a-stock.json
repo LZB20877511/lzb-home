@@ -1,261 +1,333 @@
 {
-  "updated": "2026-09-04T13:34:04.302475+08:00",
+  "updated": "2026-09-04T15:40:29.733070+08:00",
   "source": "A股聚合",
-  "count": 32,
+  "count": 41,
   "items": [
     {
-      "title": "日本超长期国债收益率全面走低 至少下跌10个基点",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqrtwy6245918.shtml",
-      "date": "2026-09-04 13:32",
-      "summary": "市场猜测日本政府养老基金可能会购买更多国内债券，日本超长期国债收益率全面下跌。 20年期日本国债收益率下跌11.5个基点至3.7%，30年期国债收益率下跌10个基点至3...",
+      "title": "日经225指数收盘上涨1.3% 周线下跌2%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqryew1345281.shtml",
+      "date": "2026-09-04 15:37",
+      "summary": "日本日经225指数周五结束了连续四个交易日的下跌，受指数权重股软银集团 12%的涨幅推动，同时受到隔夜华尔街强劲收盘的提振。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "法兴银行：黄金重新看涨的时候到了，回调数月后吸引力重现",
-      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-09-04/doc-iniqrtwu4120089.shtml",
-      "date": "2026-09-04 13:28",
-      "summary": "文章来源：金十数据 黄金重新逼近每盎司4500美元之际，法国兴业银行认为，经历数月调整后，黄金已经到了重新受到关注的时候。 法兴银行分析师在最新市场报告中表示...",
+      "title": "高通推出AI GPU技术改善手游体验",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqryeu0890361.shtml",
+      "date": "2026-09-04 15:37",
+      "summary": "高通推出一项基于人工智能的GPU技术，旨在改善移动端游戏体验。 高通于9月2日发布Adreno Neural Fusion。这项移动GPU技术在实现更高画面画质的同时，降低渲染开销与功耗。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "安联首席经济顾问：全球政府债券抛售或将持续，英日法最危险",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqryeu0890046.shtml",
+      "date": "2026-09-04 15:36",
+      "summary": "知名经济学家、安联集团首席经济顾问穆罕默德·埃尔-埃里安周五表示，投资者应预期全球政府债券的抛售将持续。 他在意大利的一次活动上接受采访时表示：“我认为美国目前没有...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美贸易代表称英国未能利用脱欧机遇 与欧盟对齐阻碍美英贸易协议",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqryew1344978.shtml",
+      "date": "2026-09-04 15:36",
+      "summary": "美国贸易代表杰米森·格里尔近日在接受采访时表示，英国未能充分利用脱欧带来的自主权，在规则制定上选择“布鲁塞尔而非美国”，这对美英扩大贸易协议的谈判构成“问题”。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "Ciena上调2026财年营收指引至63.7亿—64.7亿美元 云厂商收入同比大增82%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqryeu0889153.shtml",
+      "date": "2026-09-04 15:35",
+      "summary": "光网络设备商Ciena周四（9月3日）公布截至8月1日的2026财年第三季度业绩。受云计算和人工智能基础设施投资持续拉动，公司营收同比增长37%，云厂商收入增幅达到82%。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "兰州银行行长刘敏：截至6月末全行科技型企业贷款余额达185.51亿元，增幅达11.28%",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-09-04/doc-iniqryeu0890741.shtml",
+      "date": "2026-09-04 15:34",
+      "summary": "9月4日金融一线消息，兰州银行举行2026年半年度业绩说明会。党委副书记、董事、行长、首席合规官刘敏表示，兰州银行紧扣国家科技强国战略部署...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "韩国KOSPI指数收盘上涨1.6% 连续第二个交易日上涨",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqryew6170702.shtml",
+      "date": "2026-09-04 15:33",
+      "summary": "韩国综合股价指数连续第二个交易日上涨，芯片股走高。韩国KOSPI指数收盘上涨1.6%，报6687.21点。 韩国综合指数本周下跌1.5%。 据韩联社4日报道...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "兰州银行计划财务部总经理高雪梅：将继续聚焦服务自身基础客群，促进手续费及佣金净收入逐步企稳回升",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-09-04/doc-iniqryew6170429.shtml",
+      "date": "2026-09-04 15:32",
+      "summary": "9月4日金融一线消息，兰州银行举行2026年半年度业绩说明会。计划财务部总经理高雪梅指出，兰州银行手续费及佣金收入同比增长6.24%，但受手续费及佣金支出增加影响...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "兰州银行董事会秘书张少伟：部分董事、高级管理人员等增持计划正在积极推进实施中",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-09-04/doc-iniqryes4111989.shtml",
+      "date": "2026-09-04 15:31",
+      "summary": "9月4日金融一线消息，兰州银行举行2026年半年度业绩说明会。谈及增持进展，董事、董事会秘书张少伟表示，该行于2026年8月6日披露了《兰州银行股份有限公司关于部分董事...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "青岛银行董事长景在伦：青银理财上半年服务客户总数达346.20万户，较上年末增长5.05%",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-09-04/doc-iniqryew1342052.shtml",
+      "date": "2026-09-04 15:30",
+      "summary": "9月4日金融一线消息，青岛银行今日举办2026年半年度业绩说明会。青银理财、青银金租作为集团重要子公司，二者上半年经营表现如何？",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "技术突破叠加出海加速，工银瑞信四只医药ETF捕捉长周期演进趋势",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-04/doc-iniqryew6168730.shtml",
+      "date": "2026-09-04 15:30",
+      "summary": "近期，一款个性化mRNA癌症疫苗在高危黑色素瘤的全球III期临床试验中取得阳性结果，成为个性化mRNA肿瘤疫苗首次在III期临床中实现阳性验证。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "英伟达向摩根大通表示：如果没有产能限制，那我们的业务规模会翻一倍",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqryes4109328.shtml",
+      "date": "2026-09-04 15:29",
+      "summary": "摩根大通认为，英伟达当前面临的核心问题并非需求不足，而是供给能力限制了其增长空间。英伟达管理层近期向摩根大通表示，如果供应限制能够解除...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "低利率与高波动“双压”下，红利低波100ETF景顺（515100）配置价值凸显",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-04/doc-iniqryeu0880608.shtml",
+      "date": "2026-09-04 15:28",
+      "summary": "低利率叠加权益市场高波动，红利低波资产持续吸引资金布局。截至2026年8月28日，全市场红利类ETF累计净流入298.06亿元，与股票类ETF整体净流出形成鲜明反差；其中红利低波...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "最新巴西中南部 2026/27 榨季生产数据深度解读",
+      "link": "https://finance.sina.com.cn/money/future/2026-09-04/doc-iniqryeu0883052.shtml",
+      "date": "2026-09-04 15:28",
+      "summary": "泛糖科技 核心结论：据巴西农业部数据，2026/27榨季截至8月15日，中南部甘蔗‘入榨量稳增 +2%、但糖醇分配大幅倒向乙醇’，导致糖产量同比收缩约 11.6%。",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "挪威主权基金提议降低政府债券持仓 有分析称或致减持800亿美元美债",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqrtwu4113549.shtml",
-      "date": "2026-09-04 13:21",
-      "summary": "挪威主权财富基金提议削减其2.3万亿美元投资组合中的政府债券数量，称降低仓位可以为流动性需求提供充足边际保障。 挪威央行投资管理公司在周二发送给财政部的信中表示...",
-      "source": "环球市场播报",
+      "title": "胡罡详谈中信银行发展思路：推出“三三战略” 新增卓越投资交易银行战略方向",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-09-04/doc-iniqryeu0886401.shtml",
+      "date": "2026-09-04 15:28",
+      "summary": "9月4日金融一线消息，中信股份今日召开2026年中期业绩联合发布会。谈及该行未来发展思路，执行董事、副行长胡罡表示，中信银行已编制“十五五”规划，推出三三战略...",
+      "source": "金融一线",
       "category": "a-stock"
     },
     {
-      "title": "沙特人工智能企业Humain寻求设立25亿美元数据中心基金",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqrtwu4111890.shtml",
-      "date": "2026-09-04 13:20",
-      "summary": "据知情人士透露，沙特人工智能公司Humain计划面向海内外投资者募集首期25亿美元基金，用于投资沙特境内的数据中心项目。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "诺泰生物（688076）被立案，投资者索赔分析",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-04/doc-iniqrtwy1414323.shtml",
-      "date": "2026-09-04 13:19",
-      "summary": "之前的2025年12月18日，诺泰生物（688076）发布公告称，公司近日收到中国证监会下发的《行政处罚决定书》。处罚结果显示，中国证监会对诺泰生物责令改正，给予警告...",
+      "title": "黄金徘徊4500美元下方，沃勒“鸽声”托底，美伊“炮火”压顶，今晚非农成“胜负手” ？",
+      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-09-04/doc-iniqryew1341327.shtml",
+      "date": "2026-09-04 15:28",
+      "summary": "文章来源：汇通财经 周五（9月4日）欧洲时段，现货黄金在4500美元/盎司下方承压整理，暂时结束了连续两日的反弹。 美元在非农就业报告公布前小幅反弹，对黄金构成压制。",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "ST海王（000078）收监管措施决定书，股民索赔分析",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-04/doc-iniqrtwy1413741.shtml",
-      "date": "2026-09-04 13:18",
-      "summary": "近日，ST海王（000078）收到深圳证监局出具的《深圳证监局关于对深圳市海王生物工程股份有限公司、深圳海王集团股份有限公司采取责令改正措施的决定》。",
-      "source": "市场资讯",
+      "title": "爱尔眼科中报遇挫：补税冲击与增长困局交织",
+      "link": "https://finance.sina.com.cn/stock/aigcy/2026-09-04/doc-iniqryes4106128.shtml",
+      "date": "2026-09-04 15:27",
+      "summary": "8 月 27 日晚间，爱尔眼科发布 2026 年半年报，这份成绩单创下公司 2009 年上市以来利润最大跌幅。上半年公司实现总营收 119.46 亿元，同比增长 3.81%；归母净利润 13...",
+      "source": "新浪证券",
       "category": "a-stock"
     },
     {
-      "title": "韩国称将于明年10月成立新的综合性发电公司，合并五家国企",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqrtwy1412823.shtml",
-      "date": "2026-09-04 13:16",
-      "summary": "韩国政府周五表示，计划于明年10月成立一家新的综合性发电公司，作为其简化国有企业并提高运营效率举措的一部分。 此前一天，韩国政府公布重组方案...",
-      "source": "环球市场播报",
+      "title": "药易购高管辞职背后：低价收购与信披遗留双重考验",
+      "link": "https://finance.sina.com.cn/stock/aigcy/2026-09-04/doc-iniqryes4105748.shtml",
+      "date": "2026-09-04 15:26",
+      "summary": "8 月 27 日，创业板医药流通上市公司药易购公告，陈顺军辞去董事长、总经理等全部高管职务，辞职原因为其向公司及审计机构提供关联方信息存在遗漏。",
+      "source": "新浪证券",
       "category": "a-stock"
     },
     {
-      "title": "日本20年期国债收益率下跌10个基点至3.715%。",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqrtww0880237.shtml",
-      "date": "2026-09-04 13:15",
-      "summary": "日本20年期国债收益率下跌10个基点至3.715%。30年期国债收益率下跌10个基点至3.975%。",
-      "source": "环球市场播报",
+      "title": "博腾股份中报由盈转亏：海外项目爆雷，业务结构短板凸显",
+      "link": "https://finance.sina.com.cn/stock/aigcy/2026-09-04/doc-iniqryeu0877206.shtml",
+      "date": "2026-09-04 15:25",
+      "summary": "2026 年半年报披露，博腾股份实现营业收入 17.90 亿元，同比增长 10.42%，但归母净利润亏损 2.24 亿元，同比由盈转亏。剔除斯洛文尼亚项目一次性减值之后...",
+      "source": "新浪证券",
       "category": "a-stock"
     },
     {
-      "title": "行业ETF风向标丨两只跨境ETF成交金额达40亿元，多只金融科技ETF半日涨幅超4%",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqrtwu4109384.shtml",
-      "date": "2026-09-04 13:14",
-      "summary": "每经记者|刘明涛每经编辑|彭水萍 今日上午，科创半导体ETF华夏（588170）略微放量调整，半日成交金额为24.3亿元，证券ETF国泰（512880）则放量上涨，半日成交金额为16...",
-      "source": "每日经济新闻",
+      "title": "甘李药业：高管减持潮背后，财务与转型双重考验显现",
+      "link": "https://finance.sina.com.cn/stock/aigcy/2026-09-04/doc-iniqryew1339260.shtml",
+      "date": "2026-09-04 15:25",
+      "summary": "胰岛素集采重塑行业格局之后，甘李药业完成管理层迭代，押注 GLP\u001e1 管线，接连签下大额海外授权订单，市场对其转型预期升温。但与此同时，高管集体减持...",
+      "source": "新浪证券",
       "category": "a-stock"
     },
     {
-      "title": "澳新银行上调布伦特原油预期至95美元/桶 缓冲空间不断收窄",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqrtwy1411481.shtml",
-      "date": "2026-09-04 13:13",
-      "summary": "周五的研究报告显示，受伊朗冲突带来的供应冲击缓冲空间快速消退影响，澳新银行上调短期布伦特原油价格预期至每桶95美元。包括丹尼尔・海因斯（Daniel Hynes...",
-      "source": "环球市场播报",
+      "title": "青岛银行回应上半年净利润同比增长超18%：主要有三大原因",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-09-04/doc-iniqryew6166078.shtml",
+      "date": "2026-09-04 15:25",
+      "summary": "9月4日金融一线消息，青岛银行今日举办2026年半年度业绩说明会。董事长景在伦表示，2026年上半年，本公司实现营业收入83.64亿元，同比增加7.01亿元，增长9...",
+      "source": "金融一线",
       "category": "a-stock"
     },
     {
-      "title": "朱忠明任上海市代市长，龚正辞去上海市市长职务",
-      "link": "https://finance.sina.com.cn/wm/2026-09-04/doc-iniqrtwy1412085.shtml",
-      "date": "2026-09-04 13:10",
-      "summary": "来源：政知见 9月4日，上海市第十六届人大常委会第三十三次会议决定，接受龚正辞去上海市市长职务的请求，朱忠明任上海市副市长、代理市长。 记者：孟亚旭",
-      "source": "滚动播报",
+      "title": "派林生物半年报遇冷：业绩加速下滑，多重风险交织",
+      "link": "https://finance.sina.com.cn/stock/aigcy/2026-09-04/doc-iniqryeu0875819.shtml",
+      "date": "2026-09-04 15:25",
+      "summary": "曾深陷股东内斗的血液制品企业派林生物，2026 年上半年交出一份承压的半年报。数据显示，公司实现营收 8.30 亿元，同比下滑 15.88%；归母净利润 8430.10 万元...",
+      "source": "新浪证券",
       "category": "a-stock"
     },
     {
-      "title": "新政落地近一月 北京8月新房二手房成交量同比双双增长",
-      "link": "https://finance.sina.com.cn/stock/estate/2026-09-04/doc-iniqrtwy6236625.shtml",
-      "date": "2026-09-04 13:10",
-      "summary": "来源：央视财经 9月4日，北京楼市一揽子优化新政8月8日正式实施，从放宽购房限购、大幅上调公积金贷款额度、优化房产赠与规则多维度发力。",
-      "source": "滚动播报",
+      "title": "四成收入用于营销——汤臣倍健“烧钱”换增长，净利跌至七年新低",
+      "link": "https://finance.sina.com.cn/stock/aigcy/2026-09-04/doc-iniqryew1338755.shtml",
+      "date": "2026-09-04 15:24",
+      "summary": "2026年上半年，汤臣倍健交出了一份“增收不增利”的尴尬答卷。公司实现营收36.71亿元，同比增长3.94%，但归母净利润仅6.03亿元，同比下滑18.11%...",
+      "source": "新浪证券",
       "category": "a-stock"
     },
     {
-      "title": "朱忠明任上海市副市长、代理市长",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqrtwu4101953.shtml",
-      "date": "2026-09-04 13:07",
-      "summary": "今天（9月4日），市第十六届人大常委会第三十三次会议决定，接受龚正辞去上海市市长职务的请求，朱忠明任上海市副市长、代理市长。",
+      "title": "GLP-1/GIP赛道竞争加剧，恒瑞医药HRS-9531值多少钱？",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-09-04/doc-iniqryes4102586.shtml",
+      "date": "2026-09-04 15:24",
+      "summary": "创新药企业的估值核心始终锚定管线价值，作为恒瑞医药代谢赛道核心品种，GLP-1/GIP双受体激动剂HRS-9531（瑞普泊肽）的临床进展与商业化潜力一直是资本市场关注焦点。",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "瞄准银屑病市场，诺诚健华ICP-488值多少钱？",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-09-04/doc-iniqryes4101624.shtml",
+      "date": "2026-09-04 15:23",
+      "summary": "创新药企业的估值核心始终锚定管线价值，作为诺诚健华自身免疫赛道的核心品种，高选择性TYK2变构抑制剂ICP-488（Fadeucravacitinib）的临床进展与商业化潜力一直是资本市场...",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "来伊份持续“输血”加盟商，亏损翻倍、应收账款暴增",
+      "link": "https://finance.sina.com.cn/stock/aigcy/2026-09-04/doc-iniqryeu0873658.shtml",
+      "date": "2026-09-04 15:23",
+      "summary": "A股“零食第一股”来伊份正深陷加盟模式的反噬困境。 2026年上半年，来伊份营收18.12亿元，同比下降6.6%；归母净利润从去年同期亏损5068万元扩大至亏损9213万元...",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "多策略+好体感，从中年报中看见华夏基金“固收+3.0”的稳进有度",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-04/doc-iniqryes4099787.shtml",
+      "date": "2026-09-04 15:22",
+      "summary": "2026年以来，国内经济温和复苏，债券市场在流动性充裕与配置需求推动下整体偏强震荡。进入下半年，低利率环境延续，7月30日中共中央政治局会议与8月1日央行下半年工作会议...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "外交部回应52名新加坡公民涉嫌在华传销被捕：依法查处",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqryes4100164.shtml",
+      "date": "2026-09-04 15:21",
+      "summary": "9月4日，外交部发言人郭嘉昆主持例行记者会。新加坡亚洲新闻台记者提问，新加坡外交部发表声明称，在广西一次打击传销的执法活动中，52名新加坡公民被捕。",
       "source": "澎湃新闻",
       "category": "a-stock"
     },
     {
-      "title": "十年罕见信号出现！4.6万亿美元敞口暗藏危机，美元恐迎新一轮抛售风暴",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqrtww0877011.shtml",
-      "date": "2026-09-04 13:07",
-      "summary": "来源：FX168全球投资 美国彭博社周四报道称，随着全球投资者持有的美国资产规模不断扩大，一个危险信号正在浮现：部分全球最大规模的美国资产持有者...",
-      "source": "滚动播报",
+      "title": "从“鸭脖一哥”到“关店之王”——ST绝味连续三年收入下滑，加盟商加速逃离",
+      "link": "https://finance.sina.com.cn/stock/aigcy/2026-09-04/doc-iniqryew6164011.shtml",
+      "date": "2026-09-04 15:21",
+      "summary": "曾经的“鸭脖一哥”绝味食品，正经历上市以来最寒冷的冬天。 2026年上半年，ST绝味实现营业收入25.15亿元，同比下降10.82%。这已是公司连续第三年半年报收入下跌。",
+      "source": "新浪证券",
       "category": "a-stock"
     },
     {
-      "title": "纪录片称马斯克是“最痛快的人”，马斯克回应：“我只有10%的时间会难过”",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqrtwy6234213.shtml",
-      "date": "2026-09-04 13:05",
-      "summary": "美国科技富豪埃隆・马斯克周四反驳了一部即将上映的纪录片对他的评价，该片称他为 “最痛苦的人”。 马斯克在X平台发帖称：“我大概有一半时间是开心的...",
-      "source": "环球市场播报",
+      "title": "“52名新加坡人涉嫌在华传销被逮捕并扣留”，外交部回应",
+      "link": "https://finance.sina.com.cn/roll/2026-09-04/doc-iniqryeu0872952.shtml",
+      "date": "2026-09-04 15:20",
+      "summary": "【环球时报-环球网报道 记者 索炎琦】据新加坡《联合早报》等媒体报道，中方在广西针对传销活动及相关违法行为展开执法行动，逮捕并扣留52名新加坡公民。",
+      "source": "环球网",
       "category": "a-stock"
     },
     {
-      "title": "安徽大学回应武大案男方系副校长：正在调查",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqrtwy1404885.shtml",
-      "date": "2026-09-04 12:57",
-      "summary": "#安徽大学确认付某系现任副校长#【#安徽大学回应武大案男方系副校长#：正在调查】9月3日，“网传武大教师遭长文爆料”引发关注。一名自称武汉某985高校教授女儿的网友...",
-      "source": "新京报",
+      "title": "人工智能，最新利好",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-09-04/doc-iniqryeu0880495.shtml",
+      "date": "2026-09-04 15:13",
+      "summary": "9月4日，工业和信息化部办公厅印发《人工智能中小企业创业支持计划（2026—2028年）》（简称《计划》）。 《计划》提出，通过三年，在行业应用、数据服务...",
+      "source": "上海证券报",
       "category": "a-stock"
     },
     {
-      "title": "小摩：上调海丰国际及德翔海运目标价及2027年盈利预测 维持“增持”评级",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-04/doc-iniqrtwu4088451.shtml",
-      "date": "2026-09-04 12:50",
-      "summary": "摩根大通发布研报称，维持海丰国际（01308）及德翔海运（02510）“增持”评级，将海丰国际目标价由47港元上调至52港元，德翔海运目标价由13.5港元上调至18港元...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "花旗：美团-W维持“买入”评级 目标价120港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-04/doc-iniqrtwy6227283.shtml",
-      "date": "2026-09-04 12:48",
-      "summary": "花旗发布研报称，维持美团-W（03690）“买入”评级及目标价120港元。该行仍对管理层稳健执行、聚焦高质量及AI驱动增长保持信心，认为公司可应对持续的宏观及竞争挑战。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "大和：内地新能源汽车第35周订单环比下滑6% 极氪及小鹏汽车-W表现相对具韧性",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-04/doc-iniqrtww0858155.shtml",
-      "date": "2026-09-04 12:46",
-      "summary": "大和发布研报称，按周度新能源汽车订单数据，中国新能源汽车市场第35周转弱，总订单环比下跌6%至12.4万辆。8月月内至今订单达51.4万辆，环比下跌33%...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "“魔岩三杰”之一、摇滚歌手何勇去世，享年57岁",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqrtwy1400057.shtml",
-      "date": "2026-09-04 12:46",
-      "summary": "澎湃新闻从相关知情人士获悉，知名摇滚歌手、“魔岩三杰”之一的何勇去世，终年57岁。2011年8月5日山东日照，何勇在“2011年海洋迷笛音乐节”上表演。",
+      "title": "A股高开低走，三大股指收跌：银行股表现活跃",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqryes4091444.shtml",
+      "date": "2026-09-04 15:13",
+      "summary": "A股三大股指9月4日集体高开。早盘两市震荡下行，三大股指涨幅收窄。午后半导体板块的大幅下挫，导致三大股指快速下跌，走出单边下行走势。",
       "source": "澎湃新闻",
       "category": "a-stock"
     },
     {
-      "title": "瑞银：华晨中国重申“中性”评级 目标价下调至2港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-04/doc-iniqrtwu4084142.shtml",
-      "date": "2026-09-04 12:44",
-      "summary": "瑞银发布研报称，华晨中国（01114）旗下宝马合资企业BBA盈利能力自2026年第二季度起恶化，加上公司即将派发每股50港仙中期股息，将华晨中国目标价由4港元下调至2港元...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "里昂：药明康德维持“跑赢大市”评级 目标价上调至262港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-04/doc-iniqrtww0855581.shtml",
-      "date": "2026-09-04 12:43",
-      "summary": "里昂发布全球医疗健康行业展望研报称，个股方面，里昂首次覆盖Thermo Fisher并给予“跑赢大市”评级，目标价748美元，看好其作为领先生命科学工具平台...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "李斌：今天整个AI概念给汽车行业带来了三重暴击",
-      "link": "https://finance.sina.com.cn/stock/bxjj/2026-09-04/doc-iniqrtwy1399754.shtml",
-      "date": "2026-09-04 12:42",
-      "summary": "来源：格隆汇 9月4日|在蔚来二季度业绩沟通会上，蔚来创始人、董事长、CEO李斌表示，“首先是技术层面，我们的全栈技术自研能力与AI实力远未被充分认知；其次是品牌资产的稀...",
+      "title": "美债或遭800亿美元减持？挪威主权财富基金考虑调低政府债券权重",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqryes4086421.shtml",
+      "date": "2026-09-04 15:09",
+      "summary": "财联社9月4日讯（编辑 周子意）挪威主权财富基金的负责人最新提议，对政府债券投资组合进行重大调整，可能削减约800亿美元的美债持有量...",
       "source": "滚动播报",
       "category": "a-stock"
     },
     {
-      "title": "东亚银行因认股权获行使而发行106.74万股",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-04/doc-iniqrtwy6223581.shtml",
-      "date": "2026-09-04 12:38",
-      "summary": "东亚银行（00023）发布公告，于2026年9月3日，该公司根据雇员认股权计划2021下获行使的认股权发行106.74万股新股。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "弘毅文化集团附属与雅生活智慧物业服务签署合作协议",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-04/doc-iniqrtwy6223152.shtml",
-      "date": "2026-09-04 12:37",
-      "summary": "弘毅文化集团（00419）发布公告，集团间接附属公司艾诺博（成都）科技有限公司与雅生活智慧物业服务有限公司（“雅生活智慧物业服务”）签署《物业机器人运营平台共同建设及...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "中通快递-W于9月3日斥资980.19万美元回购47.17万股",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-04/doc-iniqrtwy1395831.shtml",
-      "date": "2026-09-04 12:36",
-      "summary": "中通快递-W（02057）发布公告，于2026年9月3日，该公司斥资980.19万美元回购47.17万股。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "挪威石油基金或减持800亿美元美国国债",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqrtww0849957.shtml",
-      "date": "2026-09-04 12:36",
-      "summary": "据英国《金融时报》报道，挪威央行投资管理部提出对政府债券投资组合进行重大调整，估算此举可能使其美国国债持仓缩减约800亿美元。",
+      "title": "特朗普关联公司正瓜分委内瑞拉石油资源“蛋糕”",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqryew6156237.shtml",
+      "date": "2026-09-04 15:06",
+      "summary": "与特朗普政府关系密切的多家公司，正在着手洽谈交易，希望获取委内瑞拉的石油资源。它们试图利用美国对这个拉美国家困境重重的能源部门的掌控力。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "经济学家预计欧洲央行下周将完成最后一次加息 与市场观点出现分歧",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqrtwy6214810.shtml",
-      "date": "2026-09-04 12:18",
-      "summary": "经济学家认为欧洲央行将于下周加息，但之后不会再进一步加息，这一结果远比当前市场押注的预期更为鸽派。 彭博调查的绝大多数受访者预计...",
+      "title": "三星电子工会负责人因窃取员工信息建立“黑名单”接受调查",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqryew6154916.shtml",
+      "date": "2026-09-04 15:04",
+      "summary": "据韩联社周五报道，三星电子最大工会负责人及一名工会高级官员因涉嫌窃取约10万名员工的个人信息，建立“工会黑名单”正接受调查。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "黄酒“双雄”，联手涨停",
-      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-04/doc-iniqrtww0841472.shtml",
-      "date": "2026-09-04 12:17",
-      "summary": "9月4日上午，上证指数上涨0.35%，深证成指上涨0.27%，创业板指上涨0.43%，科创综指下跌0.56%。全市场半日成交额为12472亿元，逾4100只个股上涨。",
-      "source": "中国证券报-中证网",
+      "title": "人气牛股，从下跌冲涨停！仅差1分钱",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-09-04/doc-iniqryew1341934.shtml",
+      "date": "2026-09-04 15:00",
+      "summary": "9月4日，大消费方向表现活跃，白酒、乳业、影视院线、饮料制造等板块涨幅居前。午后，零售板块短线拉升，百大集团涨停，宁波中百此前涨停，国芳集团、东百集团...",
+      "source": "中国证券报",
       "category": "a-stock"
     },
     {
-      "title": "比亚迪、吉利等新订单旺季前持续失速 “新势力”增长动能全面衰减 多间车企被外资大行看淡",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-04/doc-iniqrtwy1386713.shtml",
-      "date": "2026-09-04 12:16",
-      "summary": "文/新浪财经香港站 赵岚 财报季数据叠加8月销量成绩单，多家新能源车企普遍被外资投行看淡。 头部车企比亚迪（1211.HK）、吉利（0175.HK），一线新势力车企理想（2015...",
-      "source": "港股一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "城堡亚洲交易主管据悉任职四个月后离职",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqrtww0831876.shtml",
-      "date": "2026-09-04 12:15",
-      "summary": "据知情人士透露，城堡的亚洲交易主管AJ Bolduc离职，距离她加入这家管理规模达770亿美元的对冲基金公司约四个月时间。 据知情人士透露...",
+      "title": "伊朗称对科威特和阿联酋境内美军基地发动导弹与无人机袭击",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqryeu0841996.shtml",
+      "date": "2026-09-04 14:58",
+      "summary": "伊朗军方周四（9月3日）宣布，对科威特艾哈迈德·贾比尔空军基地和阿联酋明哈德空军基地内的美军设施发动导弹和无人机袭击，作为其“雷霆”（Saeqeh）行动第31阶段的一部分。...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "理想汽车-W午前涨逾4% 大摩维持其“增持”评级",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-04/doc-iniqrtwu4040742.shtml",
-      "date": "2026-09-04 11:59",
-      "summary": "理想汽车-W（02015）盘中涨超5%，截至发稿，股价上涨3.80%，现报48.14港元，成交额3.27亿港元。 近日，理想汽车-W正式推出新一代MEGA Home，新车起售价50.98万元。",
+      "title": "美团-W午后涨逾5% 二季度经调整溢利净额同比增长69%",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-04/doc-iniqryes4068035.shtml",
+      "date": "2026-09-04 14:56",
+      "summary": "美团-W（03690）午后涨逾5%。截至发稿，股价上涨4.83%，现报81.40港元，成交额29.50亿港元。 美团此前发布业绩，二季度收入约1046.43亿元，同比增长14.4%；期内溢利21...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "“劝退门”后的星宇股份：一周蒸发超32亿，招工打包票“不会被辞退”",
+      "link": "https://finance.sina.com.cn/stock/companyt/2026-09-04/doc-iniqryeu0842591.shtml",
+      "date": "2026-09-04 14:56",
+      "summary": "来源：贝壳财经 两次道歉之后，国内车灯龙头企业常州星宇车灯股份有限公司（以下简称“星宇股份”）的用工信任危机仍在发酵。 9月3日...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "特斯拉无方向盘Cybercab在奥斯汀启动限区载客",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqryew6151065.shtml",
+      "date": "2026-09-04 14:54",
+      "summary": "特斯拉周四（9月3日）在得克萨斯州奥斯汀正式启动Cybercab载客服务。这款专为Robotaxi设计的两座自动驾驶汽车取消了方向盘和踏板，目前仅在奥斯汀部分区域提供乘坐...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "中船防务午后涨超5% 公司当前造船手持订单734亿元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-04/doc-iniqryew6150465.shtml",
+      "date": "2026-09-04 14:52",
+      "summary": "中船防务（00317）盘中涨超6%，截至发稿，股价上涨5.16%，现报13.25港元，成交额9899.44万港元。 中国船舶工业行业协会数据显示，2026年上半年我国造船完工量3650万载重吨...",
       "source": "新浪港股",
       "category": "a-stock"
     }
