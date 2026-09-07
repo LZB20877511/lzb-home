@@ -1,310 +1,270 @@
 {
-  "updated": "2026-09-07T15:52:33.818663+08:00",
+  "updated": "2026-09-07T21:56:19.321258+08:00",
   "source": "A股聚合",
-  "count": 38,
+  "count": 33,
   "items": [
     {
-      "title": "A股又一次“站在光里”，科技是真反弹吗？明天，紧盯这只龙头股",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-09-07/doc-iniqyvrz0357243.shtml",
-      "date": "2026-09-07 15:50",
-      "summary": "每经记者|肖芮冬 9月7日，市场震荡拉升，创业板指高开高走，黄白线分化明显。截至收盘，沪指涨0.07%，深成指涨1.91%，创业板指涨3.41%。",
-      "source": "每日经济新闻",
-      "category": "a-stock"
-    },
-    {
-      "title": "尿素：短期成本推升价格中枢，但供应宽松格局未改",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-07/doc-iniqyvru9572625.shtml",
-      "date": "2026-09-07 15:49",
-      "summary": "一、行情走势回顾 8月尿素期现价格延续了7月的低位震荡，但运行重心略有上移。上旬虽有氮协会议释放稳价信号提振，盘面拉升，但随后因基本面宽松格局未改...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "亚马逊货机在迈阿密国际机场冲出跑道，至少5人死亡",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqyvru9572605.shtml",
-      "date": "2026-09-07 15:49",
-      "summary": "一架涂有亚马逊货运标识的波音767-300货机当地时间周日（9月6日）下午在迈阿密国际机场着陆时冲出跑道，撞上多辆地面车辆并起火，造成至少5人死亡、5人受伤。",
+      "title": "欧元区二季度GDP三估上修至环比0.6%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpq6260597.shtml",
+      "date": "2026-09-07 21:55",
+      "summary": "欧盟统计局9月7日公布2026年第二季度国内生产总值和就业三次估值。经季节调整后，欧元区GDP环比增长0.6%，高于8月14日二次估值的0.4%，也高于市场此前约0...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "ST新华锦领监管正式处罚，索赔条件明确还可加入",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-07/doc-iniqyvrz0357471.shtml",
-      "date": "2026-09-07 15:49",
-      "summary": "9月4日，ST新华锦公告称，公司及相关人员收到中国证监会青岛监管局下发的《行政处罚决定书》及《行政监管措施决定书》。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "*ST萃华无力回天，退市警报持续拉响",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-07/doc-iniqyvrz0357315.shtml",
-      "date": "2026-09-07 15:49",
-      "summary": "9月6日晚间，*ST萃华发布公告，因未在被实施退市风险警示之日起两个月内（2026年9月6日前）披露过半数董事保证真实、准确、完整的2025年年度报告...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "康欣新材突遭监管立案，定期报告涉信披违规",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-07/doc-iniqyvru9574618.shtml",
-      "date": "2026-09-07 15:49",
-      "summary": "2026年9月4日，康欣新材发布公告称，因公司定期报告涉嫌信息披露违法违规，中国证券监督管理委员会决定对公司立案调查。此前，康欣新材明确其存在历史财务信息披露不准确...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "兴业科技股价“一字跌停”，证监会出手立案调查",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-07/doc-iniqyvrz0357021.shtml",
-      "date": "2026-09-07 15:49",
-      "summary": "2026年9月4日，兴业科技这家曾因跨界半导体概念而风光无限的皮革制造商，在这一天收到了中国证券监督管理委员会的《立案告知书》。因涉嫌信息披露违法违规，被立案调查。",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "兴业科技（002674）被立案，投资者索赔分析",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-07/doc-iniqyvrz0356829.shtml",
-      "date": "2026-09-07 15:49",
-      "summary": "2026年9月4日，兴业科技（002674）公司均发布《关于收到中国证券监督管理委员会立案告知书的公告》。因公司因涉嫌信息披露违法违规...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "康欣新材（600076）被立案，投资者索赔分析",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-07/doc-iniqyvrz0356725.shtml",
-      "date": "2026-09-07 15:48",
-      "summary": "2026年9月4日，康欣新材（600076）公司均发布《关于收到中国证券监督管理委员会立案告知书的公告》。因公司因涉嫌信息披露违法违规...",
-      "source": "市场资讯",
-      "category": "a-stock"
-    },
-    {
-      "title": "韩媒称得州燃气电厂投资规模敲定约223亿美元，韩国产业部暂未证实",
-      "link": "https://finance.sina.com.cn/world/2026-09-07/doc-iniqyvrw6340132.shtml",
-      "date": "2026-09-07 15:45",
-      "summary": "韩国媒体周一（9月7日）援引未具名政府官员和政界人士报道称，韩美双方已将韩国对美投资计划中的得克萨斯州燃气电厂项目规模初步确定在约223亿美元。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "太平洋上半年营收、净利润皆最低 权益类投资业务收入竟是负值|券商半年报",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-09-07/doc-iniqyvrw6335828.shtml",
-      "date": "2026-09-07 15:41",
-      "summary": "出品：新浪财经上市公司研究院 作者：图灵 2026年上半年，A股市场成交额创历史新高，债市走出震荡偏强的慢牛格局。从行业母公司数据看...",
-      "source": "新浪证券",
-      "category": "a-stock"
-    },
-    {
-      "title": "Liquid Network联盟钱包被提取约4000枚比特币，侧链暂停交易",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqyvrz0353244.shtml",
-      "date": "2026-09-07 15:41",
-      "summary": "Liquid Network联盟钱包被提取约4000枚比特币，侧链暂停交易 比特币侧链Liquid Network周日（9月6日）披露，一名自称“白帽”的操作方从联盟钱包中提取约4000枚比特币...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "中国建设银行安顺市分行原党委委员、副行长梁泽祥接受纪律审查和监察调查",
-      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-09-07/doc-iniqyvrw6330388.shtml",
-      "date": "2026-09-07 15:36",
-      "summary": "据中国建设银行贵州省分行纪委、乌当区纪委监委消息：中国建设银行安顺市分行原党委委员、副行长梁泽祥涉嫌严重违纪违法，目前正接受中国建设银行贵州省分行纪委纪律审查和...",
-      "source": "贵州省纪委监委网站",
-      "category": "a-stock"
-    },
-    {
-      "title": "眼镜巨头依视路陆逊梯卡CEO调整高管层",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqyvry5518513.shtml",
-      "date": "2026-09-07 15:35",
-      "summary": "依视路陆逊梯卡集团首席执行官弗朗西斯科・米勒里对这家眼镜巨头的高层管理团队开展大调整。此前，他与创始人之子爆发激烈的公开冲突，与此同时...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "高市早苗顾问将日银加息预期提前至9月，预计明年1月前再加一次",
-      "link": "https://finance.sina.com.cn/world/2026-09-07/doc-iniqyvrz0350520.shtml",
-      "date": "2026-09-07 15:35",
-      "summary": "日本首相高市早苗的经济顾问、东方汇理日本首席经济学家相田卓司周一（9月7日）在最新研报中，将日本银行下一次加息时间从此前预计的2027年1月大幅提前至本月...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "商务部：原产于日本的进口二氯二氢硅存在倾销",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqyvrz0352134.shtml",
-      "date": "2026-09-07 15:33",
-      "summary": "来源：央视网 央视网消息：9月7日，商务部公布对原产于日本的进口二氯二氢硅反倾销调查的初步裁定。 根据《中华人民共和国反倾销条例》（以下简称《反倾销条例》）的规定...",
-      "source": "央视",
-      "category": "a-stock"
-    },
-    {
-      "title": "工信部：适时启动6G商用，积极开展万兆光网试点建设",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqyvrw6325221.shtml",
-      "date": "2026-09-07 15:29",
-      "summary": "工信部印发《信息通信行业发展“十五五”规划》。规划提出，适度超前建设信息基础设施。部署全球领先的网络设施，推进城市及热点区域网络向“双万兆”演进。",
-      "source": "界面",
-      "category": "a-stock"
-    },
-    {
-      "title": "1300亿美元外汇“弹药”撑腰，油价地缘风险“拆台”，印度卢比的多空拉锯谁能胜出？",
-      "link": "https://finance.sina.com.cn/money/forex/hbfx/2026-09-07/doc-iniqyvrz0348690.shtml",
-      "date": "2026-09-07 15:29",
-      "summary": "汇通财经APP讯——周一（9月7日）欧洲时段，印度卢比开盘走强，美元兑卢比跌至94.45附近。印度央行通过FCNR（B）外汇存款窗口吸引了远超预期的美元流入（截至8月31日总计超13...",
-      "source": "滚动播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "国金证券上半年固收类/权益类证券比值最高 自营收入大降36%|券商半年报",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-09-07/doc-iniqyvru9548019.shtml",
-      "date": "2026-09-07 15:28",
-      "summary": "出品：新浪财经上市公司研究院 作者：图灵 2026年上半年，A股市场成交额创历史新高，债市走出震荡偏强的慢牛格局。从行业母公司数据看...",
-      "source": "新浪证券",
-      "category": "a-stock"
-    },
-    {
-      "title": "外交部：赖清德当局惯于拿着台湾百姓的血汗钱滥施“金元外交”",
-      "link": "https://finance.sina.com.cn/roll/2026-09-07/doc-iniqyvry5515542.shtml",
-      "date": "2026-09-07 15:28",
-      "summary": "中新网北京9月7日电 （记者 郭超凯）中国外交部发言人毛宁9月7日主持例行记者会。 有记者提问：日前，《所罗门星报》报道披露，台湾当局对帕劳援助从去年的1800万美元增加...",
-      "source": "中国新闻网",
-      "category": "a-stock"
-    },
-    {
-      "title": "伊朗最高国家安全委员会秘书雷扎伊：将划设霍尔木兹海峡外限制区",
-      "link": "https://finance.sina.com.cn/world/2026-09-07/doc-iniqyvrz0346105.shtml",
-      "date": "2026-09-07 15:25",
-      "summary": "伊朗最高国家安全委员会秘书穆赫辛·雷扎伊周日（9月6日）晚表示，伊朗将在未来数日划设霍尔木兹海峡外侧限制区，未经伊方协调进入相关水域并试图通过海峡的船只...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "外媒披露台当局“金元外交” 外交部回应",
-      "link": "https://finance.sina.com.cn/roll/2026-09-07/doc-iniqyvru9545252.shtml",
-      "date": "2026-09-07 15:25",
-      "summary": "9月7日，外交部发言人毛宁主持例行记者会。有记者问：日前，所罗门媒体报道披露，台湾当局今年增加了对帕劳的援助，还向帕劳政要提供赠款。",
-      "source": "央视新闻客户端",
-      "category": "a-stock"
-    },
-    {
-      "title": "德国选择党赢得萨安州选举，外交部：德国内政，不作评论",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqyvru9542812.shtml",
-      "date": "2026-09-07 15:22",
-      "summary": "9月7日，外交部发言人毛宁主持例行记者会。德新社记者提问，德国东部萨安州举行州议会选举，极右翼的德国选择党赢得了该选举。在接受采访时，该党州长候选人西格蒙德表示...",
-      "source": "澎湃新闻",
-      "category": "a-stock"
-    },
-    {
-      "title": "短端对就业、长端对溢价，加拿大国债曲线正在给两套信号同时定价",
-      "link": "https://finance.sina.com.cn/money/forex/hbfx/2026-09-07/doc-iniqyvru9543713.shtml",
-      "date": "2026-09-07 15:22",
-      "summary": "汇通财经APP讯——9月7日周一，加拿大经济出现一个值得交易端高度关注的组合：二季度实际国内生产总值环比增长0.8%，折年口径约3.3%，但8月就业转而减少4.2万人...",
-      "source": "滚动播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "外交部：中美双方就AI问题保持着沟通",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqyvrz0344745.shtml",
-      "date": "2026-09-07 15:18",
-      "summary": "9月7日，外交部发言人毛宁主持例行记者会。有记者就中美人工智能领域合作提问。 毛宁表示，中美双方就AI问题保持着沟通。 （总台央视记者 赵超逸 张雪松）",
-      "source": "央视",
-      "category": "a-stock"
-    },
-    {
-      "title": "金融监管总局 中国人民银行 中国证监会联合启动2026年金融教育宣传周活动",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqyvru9550478.shtml",
-      "date": "2026-09-07 15:16",
-      "summary": "为深入践行金融工作的政治性、人民性，助力提升社会公众金融素养和风险防范能力，维护金融消费者和投资者合法权益，9月7日，金融监管总局、中国人民银行...",
+      "title": "开学季多方“点名”学平险乱象，违规投保引关注",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqznpq6258633.shtml",
+      "date": "2026-09-07 21:51",
+      "summary": "北京商报讯（记者胡永新）九月，开学季。当家长们忙着为孩子准备书包、文具的同时，另一项“任务”也悄然摆在了许多人的面前——购买学平险。",
       "source": "新浪财经",
       "category": "a-stock"
     },
     {
-      "title": "北京金融监管局金融教育宣传周活动：多点联动科技赋能 北京“金融集市”开市",
-      "link": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-09-07/doc-iniqyvry5509389.shtml",
-      "date": "2026-09-07 15:15",
-      "summary": "2026年北京地区金融教育宣传活动周活动于9月7日正式拉开帷幕。北京金融监管局联合市委金融办、人民银行北京市分行、北京证监局指导相关行业...",
+      "title": "六连板龙版传媒紧急澄清：AI视频收入不足营收0.01%",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqznpq6259958.shtml",
+      "date": "2026-09-07 21:51",
+      "summary": "9月7日，AI视频概念持续活跃带动A股传媒板块再度拉升，其中，龙版传媒（605577．SH）已走出6连板。截至当天收盘，公司股价报17.11元/股。",
+      "source": "界面",
+      "category": "a-stock"
+    },
+    {
+      "title": "违法成本大升级！最高罚违法所得十倍，保险法修订让“罚不及得”成历史",
+      "link": "https://finance.sina.com.cn/money/insurance/bxdt/2026-09-07/doc-iniqznpt0102231.shtml",
+      "date": "2026-09-07 21:45",
+      "summary": "华夏时报记者 吴敏 北京报道 近日，金融监管总局就《中华人民共和国保险法（修订草案征求意见稿）》向社会公开征求意见。现行保险法自1995年施行至今已走过三十年历程...",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "星宇股份“解约门”追责，总经理扣薪12个月，人力资源总监免职",
-      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-09-07/doc-iniqyvrz0339499.shtml",
-      "date": "2026-09-07 15:11",
-      "summary": "来源：ZAKER财经 107个应届生的饭碗，最终换来了总经理一年的薪水。 9月7日，有媒体报道星宇股份内部文件流出。编号“星宇字（2026）第（007）号”，落款为公司公章...",
+      "title": "继续停牌！600825，筹划重大资产重组",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-07/doc-iniqzhfq9600191.shtml",
+      "date": "2026-09-07 21:23",
+      "summary": "9月7日晚间，新华传媒（600825）公告称，公司拟以发行股份方式购买上海界面财联社科技股份有限公司（以下简称“标的公司”）控股权，预计构成重大资产重组...",
+      "source": "上海证券报",
+      "category": "a-stock"
+    },
+    {
+      "title": "因涉嫌内幕交易！002361，副总被立案",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqzhfv0223508.shtml",
+      "date": "2026-09-07 21:17",
+      "summary": "来源：中国基金报 【导读】因涉嫌内幕交易，神剑股份副总经理被证监会立案 中国基金报记者 李智 9月7日晚间，神剑股份发布公告称...",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "红塔证券营收、净利润降幅皆最大 自营收入占比最高却严重跑输行业 投行净收入及占比皆最低|券商半年报",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-09-07/doc-iniqyvry5506683.shtml",
-      "date": "2026-09-07 15:10",
-      "summary": "出品：新浪财经上市公司研究院 作者：图灵 2026年上半年，A股市场成交额创历史新高，债市走出震荡偏强的慢牛格局。从行业母公司数据看...",
-      "source": "新浪证券",
+      "title": "黑龙江农信机构改革进入“操作阶段”，年内第三家省级农商行呼之欲出？",
+      "link": "https://finance.sina.com.cn/roll/2026-09-07/doc-iniqzhfu5389124.shtml",
+      "date": "2026-09-07 21:14",
+      "summary": "每经记者|刘嘉魁每经编辑|杨翼 日前，哈尔滨农信村镇银行在《黑龙江日报》发布的一则公告显示，该行定于9月19日召开2026年第三次临时股东会...",
+      "source": "每日经济新闻",
       "category": "a-stock"
     },
     {
-      "title": "美国能源部长赖特：与伊朗“可能达不成核协议”",
-      "link": "https://finance.sina.com.cn/world/2026-09-07/doc-iniqyvrz0338289.shtml",
-      "date": "2026-09-07 15:09",
-      "summary": "美国能源部长克里斯·赖特周日（9月6日）表示，美国与伊朗最终“可能不会有核协议”，如果外交途径无法实现阻止伊朗获得核武器的目标...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "Anthropic最快下周提交IPO文件 摩根士丹利与高盛有望领衔承销",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqyvrz0337932.shtml",
-      "date": "2026-09-07 15:08",
-      "summary": "人工智能公司Anthropic即将为其首次公开募股提交文件，最快于下周向美国证券交易委员会递交招股说明书。据知情人士透露，摩根士丹利有望获得最关键的“主左”承销商角色...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "日本8月末外汇储备单月减少796亿美元，降幅创纪录",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqyvrz0335900.shtml",
-      "date": "2026-09-07 15:03",
-      "summary": "日本财务省周一（9月7日）公布，截至8月末，日本官方外汇储备资产降至1.2075万亿美元，较7月末的1.2871万亿美元减少795.75亿美元，降幅约6.18%。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "3000亿特别国债注资计划落地，债市或交易大行配债能力改善预期",
-      "link": "https://finance.sina.com.cn/roll/2026-09-07/doc-iniqyvru9522753.shtml",
-      "date": "2026-09-07 15:02",
-      "summary": "财联社9月7日讯（财联社 杨斌）几经延后，今年的3000亿注资特别国债发行计划终于出炉。9月6日，工行、农行等8家中央金融企业发布合计3600亿的增资计划...",
+      "title": "华为、小米、苹果，对决“万元机”",
+      "link": "https://finance.sina.com.cn/stock/t/2026-09-07/doc-iniqzhfv0217053.shtml",
+      "date": "2026-09-07 21:01",
+      "summary": "来源：中国新闻周刊 9月7日下午至9月10日凌晨，全球智能手机行业即将迎来一场史无前例的“折叠屏对决”。 72小时内，华为、小米、苹果三家公司将先后召开发布会...",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "2026年精益数字化创新大会 “AI装备技术与产品创新专场”成功举办",
-      "link": "https://finance.sina.com.cn/roll/2026-09-07/doc-iniqyvru9517844.shtml",
-      "date": "2026-09-07 14:58",
-      "summary": "9月7日上午，2026年精益数字化创新大会“AI装备技术与产品创新专场”顺利举行。本场专场于8：30正式启幕、11：30落下帷幕，由爱波瑞人才发展院资深主持袁美怡主持...",
+      "title": "3600亿注资8家金融央企！险企获财政部首次集中注资，烟草系出资600亿入局工行、农行",
+      "link": "https://finance.sina.com.cn/money/insurance/bxyx/2026-09-07/doc-iniqzhfu5383609.shtml",
+      "date": "2026-09-07 20:57",
+      "summary": "来源： 时代周报 9月6日，一场覆盖银行、保险、政策性金融机构的资本补充行动同步落地。工商银行、农业银行、中国人寿集团、中国人保、中国太平、中国信保、中国再保...",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "美债收益率迎来4.8%关口考验，财政风险或将向其他资产外溢",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqyvru9514255.shtml",
-      "date": "2026-09-07 14:56",
-      "summary": "米勒‑塔巴克公司首席市场策略师马特・马利表示，美国国债收益率将在 4.8% 关口迎来关键考验；若收益率持续站上该水平，或将给其他资产类别带来 “实质性问题”。",
+      "title": "科技股大反攻，拐点要来了？",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-09-07/doc-iniqzhfs6348653.shtml",
+      "date": "2026-09-07 20:55",
+      "summary": "01 9月7日，A股科技成长方向大幅反弹，通信相关ETF领涨，通信ETF银华上涨6.36%居首。 02 港股通金融ETF和黄金股ETF跌幅居前，多只相关ETF跌超2%。",
+      "source": "中国证券报",
+      "category": "a-stock"
+    },
+    {
+      "title": "龙版传媒：2026年第一次临时股东会决议公告",
+      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-07/doc-iniqzhfq9574680.shtml",
+      "date": "2026-09-07 20:52",
+      "summary": "证券日报网讯9月7日，龙版传媒发布公告称，公司于2026年9月7日召开2026年第一次临时股东会，审议通过《关于修订公司章程的议案》《关于董事会换届暨提名第四届董事会非...",
+      "source": "证券日报网",
+      "category": "a-stock"
+    },
+    {
+      "title": "SpaceX竞争对手完成历史性火箭首入轨，称航天行业迫切需要更多发射能力",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqzhfv0211553.shtml",
+      "date": "2026-09-07 20:52",
+      "summary": "德国火箭企业伊萨尔航空（Isar Aerospace）上周末实现火箭首次成功入轨，为欧洲商业航天行业树立一座里程碑。该公司计划提升发射频次，以满足其所说的爆发式市场需求。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "日经225指数收涨2.1% 半导体股领涨",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqyrkc0460800.shtml",
-      "date": "2026-09-07 14:47",
-      "summary": "日经平均指数收涨2.1%，报66399.84点，半导体股领涨。 当地时间9月7日，日本财务省公布的数据显示，截至8月底，日本外汇储备约为12075亿美元，较上月底减少795.75亿美元...",
+      "title": "中芯国际根据股份激励计划发行新股 港股及科创板股份各增1,000股及1,031,360股",
+      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-07/doc-iniqzhfs6347209.shtml",
+      "date": "2026-09-07 20:52",
+      "summary": "9月7日，中芯国际（00981.HK）集成电路制造有限公司提交翌日披露报表，披露因股份激励计划归属及行使导致的已发行股份变动，变动日期为2026年9月4日。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "从“多给点Token”看保险业AI新图景",
+      "link": "https://finance.sina.com.cn/stock/relnews/hk/2026-09-07/doc-iniqzhfv0211658.shtml",
+      "date": "2026-09-07 20:48",
+      "summary": "“最近我在跟青年员工座谈时问，你们最需要什么资源支持？他们说，最需要的就是多给他们点Token（词元）。”近日，新华保险副总裁秦泓波在2026年中期业绩发布会上分享道...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "福莱特多名董高及特定股东拟减持不超0.8916%股份",
+      "link": "https://finance.sina.com.cn/stock/relnews/hk/2026-09-07/doc-iniqzhfv0214949.shtml",
+      "date": "2026-09-07 20:48",
+      "summary": "9月7日，福莱特玻璃(06865.HK)董事、副总裁魏叶忠，董事沈其甫，副总裁韦志明，以及特定股东陶虹强、陶宏珠、潘荣观拟减持公司股份，合计不超过20,890,200股...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "全球首次！长鑫LPDDR6实现旗舰手机端落地商用",
+      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-07/doc-iniqzhfs6347341.shtml",
+      "date": "2026-09-07 20:46",
+      "summary": "该芯片最高传输速率可达12800Mbps，与速率10667Mbps的LPDDR5X相比，带宽提升60%。刚刚，小米发布首款“中折叠”手机小米18 Fold，起售价10999元...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "康宁杰瑞制药9月7日回购11.5万股 涉资98.9万港元",
+      "link": "https://finance.sina.com.cn/stock/relnews/hk/2026-09-07/doc-iniqzhfq9579045.shtml",
+      "date": "2026-09-07 20:44",
+      "summary": "9月7日，康宁杰瑞制药-B(09966.HK)于2026年9月7日在香港联交所回购11.5万股普通股，每股回购价格最高HKD8.7、最低HKD8.56，付出的价格总额为HKD98.92万。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "北森控股9月7日回购25万股并发行1万股新股",
+      "link": "https://finance.sina.com.cn/stock/relnews/hk/2026-09-07/doc-iniqzhfu5382885.shtml",
+      "date": "2026-09-07 20:44",
+      "summary": "9月7日，北森控股(09669.HK)于2026年9月7日在香港联交所回购250,000股普通股，每股最高价HKD3.25，最低价HKD3.09，总额HKD779,864，回购股份持作库存股份。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "中国海外发展拟分拆佛山千灯湖环宇城项目赴深交所发行REIT 已提交注册及上市申请",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqzhfq9564883.shtml",
+      "date": "2026-09-07 20:43",
+      "summary": "（来源：财闻）9月7日，中国海外发展（00688.HK）董事局宣布，于2026年9月7日，华夏基金及中信证券已向中国证监会及深圳证券交易所提交了公募基金注册及上市的申请材料。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "72小时三场发布会：华为、苹果、小米的折叠屏有何不同？",
+      "link": "https://finance.sina.com.cn/stock/t/2026-09-07/doc-iniqzhfv0212075.shtml",
+      "date": "2026-09-07 20:43",
+      "summary": "（来源：每日经济新闻）折叠屏手机诞生七年后，行业迎来被媒体称作“72小时三场发布会”的最密集头部厂商正面“交锋”。9月7日下午，华为率先举行HarmonyOS...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "国富人寿再获股东注资：应对过往，还是备战未来？",
+      "link": "https://finance.sina.com.cn/money/insurance/bxyx/2026-09-07/doc-iniqzhfv0209096.shtml",
+      "date": "2026-09-07 20:42",
+      "summary": "来源：中保新知 时隔一年多，这家广西唯一的全国性寿险公司又在谋求新一轮的增资。 9月4日，国富人寿发布变更注册资本的公告称，公司拟以每股单价1.20元，增发4.5亿股...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "银行加码布局综合金融",
+      "link": "https://finance.sina.com.cn/stock/relnews/hk/2026-09-07/doc-iniqzhfq9568160.shtml",
+      "date": "2026-09-07 20:42",
+      "summary": "家住北京的陈阿姨最近没少往家附近的银行网点跑，不过办的不再是存取现金、偿还房贷这些老业务。上周，她刚在客户经理指导下配置了一笔实物黄金...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "5家上市财险半年齐盈利，人保322亿领跑",
+      "link": "https://finance.sina.com.cn/roll/2026-09-07/doc-iniqzhfu5375918.shtml",
+      "date": "2026-09-07 20:42",
+      "summary": "21世纪经济报道记者 孙诗卉 2026年上半年，上市财险公司全面交出“承保盈利”成绩单。人保财险、平安产险、太保产险、众安保险、太平财险综合成本率均低于100%的承保盈亏平衡...",
+      "source": "21世纪经济报道",
+      "category": "a-stock"
+    },
+    {
+      "title": "华为麒麟六年磨芯归来，韬定律重构迭代路径",
+      "link": "https://finance.sina.com.cn/stock/stockzmt/2026-09-07/doc-iniqzhfv0214208.shtml",
+      "date": "2026-09-07 20:42",
+      "summary": "作者 | 任天勤编辑 | 陈肖冉    开启芯技术新周期时隔六年，华为全新旗舰麒麟芯片正式重返消费终端舞台。9月7日，华为Mate XT 2三折叠手机首发搭载麒麟9050 Pro芯片...",
+      "source": "全球财说",
+      "category": "a-stock"
+    },
+    {
+      "title": "瑞士银行刊发可赎回牛熊证补充上市文件 涉8只挂钩股份拟9月9日上市",
+      "link": "https://finance.sina.com.cn/stock/relnews/hk/2026-09-07/doc-iniqzhfv0208314.shtml",
+      "date": "2026-09-07 20:39",
+      "summary": "瑞士银行(UBS AG)于2026年9月7日刊发补充上市文件，就其拟发行的一系列单一股份可赎回牛熊证作出披露。该批牛熊证为欧式现金结算R类无抵押结构性产品...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "日元飙升至六个月高位，交易员密切留意干预信号",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqzhfv0206546.shtml",
+      "date": "2026-09-07 20:39",
+      "summary": "受市场猜测日本当局或将利用美国劳工节假期入场托本币，周一日元兑美元大幅走强，汇率突破8月初政府实施汇率干预之后所达到的水平。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "美国能源部长：汽油价格即将回落",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqyriy6409521.shtml",
-      "date": "2026-09-07 14:45",
-      "summary": "美国能源部长克里斯・赖特周日谨慎预判，汽油价格即将迎来回落，但并未作出明确、具体的承诺。 美国加油站零售油价达到劳动节周末的历史最高水平...",
-      "source": "环球市场播报",
+      "title": "像充话费一样买Token 天猫上线AI空间站，智谱、Kimi等入驻",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqzhfq9563173.shtml",
+      "date": "2026-09-07 20:38",
+      "summary": "每经记者｜陈婷    每经编辑｜董兴生     买Token（词元）越来越容易了。近日，天猫正式上线AI（人工智能）空间站（Token充值中心）...",
+      "source": "每日经济新闻",
       "category": "a-stock"
     },
     {
-      "title": "日本8月外汇储备，创史上最大降幅",
-      "link": "https://finance.sina.com.cn/wm/2026-09-07/doc-iniqyvru9531514.shtml",
-      "date": "2026-09-07 14:45",
-      "summary": "财联社 本周一早间，日本政府公布的数据显示，日本8月外汇储备创下历史最大降幅。此前，日本当局曾在7月底联合美国实施创纪录的卖出美元、买入日元的汇市干预操作...",
-      "source": "滚动播报",
+      "title": "六部门发文支持扩大涉农保险产品供给 业内：后续面临基层定损实操等挑战",
+      "link": "https://finance.sina.com.cn/roll/2026-09-07/doc-iniqzhfs6337868.shtml",
+      "date": "2026-09-07 20:38",
+      "summary": "财联社9月7日讯 （记者 曹韵仪）今日，农业农村部等六部门联合发布《坚持农业农村优先发展 完善乡村振兴投入机制实施方案》（下称《实施方案》）提出...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "云南省工商联第四调研组赴临沧市开展“千企百会调研助发展”工作",
+      "link": "https://finance.sina.com.cn/roll/2026-09-07/doc-iniqzhfu5376518.shtml",
+      "date": "2026-09-07 20:38",
+      "summary": "（来源：云南省工商联）9月3日至4日，省工商联副主席牟洪操率第四调研组赴临沧市开展“千企百会调研助发展”工作。调研组先后深入临沧市进出口企业协会...",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "汇丰银行就牛熊证54920等四只产品刊发补充上市文件 拟9月8日发行",
+      "link": "https://finance.sina.com.cn/stock/relnews/hk/2026-09-07/doc-iniqzhfv0212673.shtml",
+      "date": "2026-09-07 20:37",
+      "summary": "9月7日，香港上海汇丰银行有限公司就证券代号54920、54922、54939及54941四只单一股票可赎回牛熊证刊发补充上市文件，推出日为2026年9月4日，拟于2026年9月8日发行...",
+      "source": "新浪财经2",
+      "category": "a-stock"
+    },
+    {
+      "title": "【商品涨跌排行榜】乙腈现货单日大涨20.62%！价格升至11700元/吨",
+      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-07/doc-iniqzhfv0206815.shtml",
+      "date": "2026-09-07 20:36",
+      "summary": "09月07日现货商品涨跌排行榜：状元：乙腈9月7日 乙腈涨幅榜显示，乙腈现货价格单日涨20.62%，价格已从昨日9700元/吨涨至最新价11700元/吨。",
+      "source": "新浪财经2",
+      "category": "a-stock"
+    },
+    {
+      "title": "徐翔、徐长江操纵文峰股份股价案，新进展",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-07/doc-iniqzhfs6336603.shtml",
+      "date": "2026-09-07 20:36",
+      "summary": "9月7日晚间，ST文峰发布《关于投资者诉讼事项的进展公告》。公司于9月4日收到江苏省高级人民法院就部分新增投资者诉讼事项作出的二审判决，涉及徐翔...",
+      "source": "上海证券报",
+      "category": "a-stock"
+    },
+    {
+      "title": "造谣上市公司“算力卡被卡在海关”，相关人员被处罚",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-07/doc-iniqzhfs6335719.shtml",
+      "date": "2026-09-07 20:36",
+      "summary": "9月7日晚间，算力行业上市公司——行云科技（300209）发布“关于市场传闻澄清事项的进展公告”称，就“行云科技的算力卡被卡在海关”等不实言论，近日...",
+      "source": "上海证券报",
       "category": "a-stock"
     }
   ]
