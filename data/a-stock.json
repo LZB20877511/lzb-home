@@ -1,246 +1,270 @@
 {
-  "updated": "2026-09-11T00:52:32.055135+08:00",
+  "updated": "2026-09-11T07:40:17.167047+08:00",
   "source": "A股聚合",
-  "count": 30,
+  "count": 33,
   "items": [
     {
-      "title": "美国周四抵押贷款利率突破 7% 最新房贷与再融资利率",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkiyn7476604.shtml",
-      "date": "2026-09-11 00:49",
-      "summary": "受油价上涨、批发端通胀居高不下，叠加特朗普总统表态：如果共和党 11 月保住国会控制权，将向每位成年人发放 5000 美元现金，多重因素助推债券市场持续抛售...",
+      "title": "汇彩控股获董事会主席陈捷三日增持196.8万股 涉资约181.11万港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-11/doc-inirkywe7180707.shtml",
+      "date": "2026-09-11 07:33",
+      "summary": "香港联交所最新数据显示，汇彩控股（01180）董事会主席陈捷于9月7日、8日及9日连续三个交易日增持公司股份，合计增持196.8万股。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "操盘必读：影响股市利好或利空消息_2026年9月11日_财经新闻",
+      "link": "https://finance.sina.com.cn/stock/cpbd/2026-09-11/doc-inirkywi5440798.shtml",
+      "date": "2026-09-11 07:32",
+      "summary": "宏观新闻 1、在商务部10日举行的例行新闻发布会上，商务部新闻发言人黄玲在回答有关提问时表示，中美双方经贸团队认真落实两国元首北京会晤达成的共识...",
+      "source": "股市直击",
+      "category": "a-stock"
+    },
+    {
+      "title": "天安获主席李成辉增持9.8万股 每股作价约3.35港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-11/doc-inirkywm2211311.shtml",
+      "date": "2026-09-11 07:32",
+      "summary": "香港联交所最新数据显示，9月9日，主席李成辉增持天安（00028）9.8万股，每股作价3.3499港元，总金额约为32.83万港元。增持后最新持股数目约为8.7亿股，最新持股比例为59...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "股海导航_2026年9月11日_沪深股市公告与交易提示",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-11/doc-inirkywm2213447.shtml",
+      "date": "2026-09-11 07:31",
+      "summary": "【停牌】 688496 *ST清越  【复牌】 002998 优彩资源  【品大事】 *ST清越：触及交易类强制退市情形 股票11日起停牌 *ST清越（688496）9月10日公告...",
+      "source": "股市直击",
+      "category": "a-stock"
+    },
+    {
+      "title": "美国加州州长签署一系列法规，保护儿童免受社交媒体和人工智能侵害",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywe2348297.shtml",
+      "date": "2026-09-11 07:31",
+      "summary": "美国加利福尼亚州州长加文·纽森周四批准了针对社交媒体和人工智能聊天机器人的全面儿童安全新规，其中包括一项获得OpenAI首席执行官萨姆·奥特曼支持的法案。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "SpaceX股价走高：数据中心建设模式大调整，英国潜在国防订单引市场关注",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkiyn2643427.shtml",
-      "date": "2026-09-11 00:45",
-      "summary": "周四 SpaceX 股价出现波动，投资者正在梳理这家火箭卫星企业的多条重要新闻。 其中影响最大的消息来自《The Information》的报道：SpaceX...",
+      "title": "中国建筑国际遭执行董事孔祥兆减持11万股 每股作价8.4港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-11/doc-inirkywe7180255.shtml",
+      "date": "2026-09-11 07:30",
+      "summary": "香港联交所最新数据显示，9月7日，执行董事孔祥兆减持中国建筑国际（03311）11万股，每股作价8.4港元，总金额为92.4万港元。减持后最新持股数目约为34.76万股。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "申万宏源遭易方达基金减持619.04万股 每股作价约2.55港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-11/doc-inirkywe7180021.shtml",
+      "date": "2026-09-11 07:30",
+      "summary": "香港联交所最新数据显示，9月7日，易方达基金减持申万宏源（06806）619.04万股，每股作价2.5524港元，总金额约为1580.04万港元。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "油价在100美元上方进一步攀升 中东冲突升级加剧供应担忧",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywe7179918.shtml",
+      "date": "2026-09-11 07:29",
+      "summary": "油价在每桶100美元上方延续强劲涨势，中东地区敌对行动升级，引发了投资者对供应进一步中断的担忧。 WTI原油期货交投于每桶104美元附近，前一交易日飙升近7%...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "iPhone Duo双机型发布会，苹果把AI战略推到舞台中央",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkiyt2416250.shtml",
-      "date": "2026-09-11 00:42",
-      "summary": "苹果在总部举办的周三主题演讲上，发布了旗下最受期待、野心最大的新品：iPhone Duo 折叠屏手机。但这场发布会同时也是苹果 AI 能力的集中展示场。",
+      "title": "海底捞遭SP NP LTD减持2.59亿股 每股作价10.62港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-11/doc-inirkywi5437065.shtml",
+      "date": "2026-09-11 07:29",
+      "summary": "香港联交所最新数据显示，9月8日，SP NP LTD减持海底捞（06862）2.59亿股，每股作价10.62港元，总金额约为27.51亿港元。减持后最新持股数目约为4.42亿股，持股比例为7...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "郑州银行遭弘康人寿保险减持260万股 每股作价约0.92港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-11/doc-inirkywi5436567.shtml",
+      "date": "2026-09-11 07:28",
+      "summary": "香港联交所最新数据显示，9月10日，弘康人寿保险减持郑州银行（06196）260万股，每股作价0.9208港元，总金额约为239.41万港元。减持后最新持股数目约为2.62亿股...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "凯莱英遭南方基金减持1.67万股 每股作价约134.09港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-11/doc-inirkywm2208629.shtml",
+      "date": "2026-09-11 07:26",
+      "summary": "香港联交所最新数据显示，9月7日，南方基金减持凯莱英（06821）1.67万股，每股作价134.0874港元，总金额约为223.93万港元。减持后最新持股数目约为137.98万股...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "太平洋航运遭Pzena Investment Management, LLC减持771.2万股 每股作价4.28港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-11/doc-inirkywe2346952.shtml",
+      "date": "2026-09-11 07:25",
+      "summary": "香港联交所最新数据显示，9月4日，Pzena Investment Management， LLC减持太平洋航运（02343）771.2万股，每股作价4.28港元，总金额约为3300.74万港元。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "贝森特打消回购相关担忧，称美债市场稳健",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywi5435509.shtml",
+      "date": "2026-09-11 07:25",
+      "summary": "美国财政部长斯科特・贝森特淡化市场对周四债务回购操作规模不及预期的担忧，也弱化收益率上行带来的市场顾虑。 贝森特在接受采访时表示，美债市场现状“十分良好”。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "拥有49年历史的人气披萨餐饮连锁悄然关闭多家门店",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkiyn2641137.shtml",
-      "date": "2026-09-11 00:37",
-      "summary": "过去两年，披萨餐饮行业有数百家门店陆续关停，各大连锁品牌都在通过关闭低效门店推进业务重组。 必胜客母公司百胜集团表示，作为 “Hut Forward” 改革计划的一部分...",
+      "title": "四大证券报头版头条内容精华摘要_2026年9月11日_财经新闻",
+      "link": "https://finance.sina.com.cn/stock/y/2026-09-11/doc-inirkywm2210593.shtml",
+      "date": "2026-09-11 07:25",
+      "summary": "9月11日（星期五），今日报刊头条主要内容精华如下：  中国证券报 证监会：努力将A股市场打造为境内优质企业上市首选地 9月10日，中国证监会副主席李超在国新办举行的新闻...",
+      "source": "股市直击",
+      "category": "a-stock"
+    },
+    {
+      "title": "东鹏饮料遭BlackRock, Inc.减持约32.27万股 每股作价约107.03港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-11/doc-inirkywm2207623.shtml",
+      "date": "2026-09-11 07:24",
+      "summary": "香港联交所最新数据显示，9月4日，BlackRock， Inc．减持东鹏饮料（09980）32.269万股，每股作价107.0284港元，总金额约为3453.7万港元。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "宁德时代遭BlackRock, Inc.减持约49.35万股 每股作价约570.14港元",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-11/doc-inirkywi5434485.shtml",
+      "date": "2026-09-11 07:23",
+      "summary": "香港联交所最新数据显示，9月4日，BlackRock， Inc．减持宁德时代（03750）49.3451万股，每股作价570.1397港元，总金额约为2.81亿港元。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "财经早报丨美财政部对伊朗相关个人和实体实施制裁，美联储9月加息概率升至70%丨2026年9月11日",
+      "link": "https://finance.sina.com.cn/stock/y/2026-09-11/doc-inirkywe2349056.shtml",
+      "date": "2026-09-11 07:22",
+      "summary": "【重磅】A股迎来打新热，新股一签平均浮盈8万！立即开户，准备申购&gt;&gt; 【市场动态】  美财政部宣布对伊朗相关个人和实体实施制裁 当地时间9月10日...",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "花旗：现预计澳大利亚储备银行2026年将再加息两次，利率上调至4.85%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywe7177959.shtml",
+      "date": "2026-09-11 07:21",
+      "summary": "花旗集团表示，本次观点调整源于澳大利亚经济呈现两极分化格局：住房市场持续深度调整，但人工智能相关投资热潮加剧产能紧张与通胀压力，抵消了住房领域的下行影响。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "富国银行：SpaceX无线业务将冲击传统运营商，而铁塔房地产投资信托基金将“悄然”获利",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkiyn7472560.shtml",
-      "date": "2026-09-11 00:34",
-      "summary": "速览要点 卡哈尔将 SpaceX 视作行业颠覆者，而皇冠城堡（CCI）是隐形赢家，该公司铁塔租金收益率达 5.5%；其中 T‑Mobile 面临的竞争威胁最大。",
+      "title": "特朗普政府住房事务负责人强调削减监管以助力购房者",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywi5432265.shtml",
+      "date": "2026-09-11 07:19",
+      "summary": "美国住房和城市发展部部长斯科特・特纳周四表示，特朗普政府正试图通过削减监管，帮助美国人提升购房承受能力。但他并未谈及债券收益率攀升推高借贷成本带来的影响。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "欧洲债市：德国国债收益率升至17年高点 欧洲央行加息押注加码",
-      "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirkiyr5635994.shtml",
-      "date": "2026-09-11 00:22",
-      "summary": "欧洲短期政府债券下跌，而德国10年期国债收益率升至17年高点，此前欧洲央行上调通胀预测后，交易员加大了对欧洲央行进一步加息的押注。",
+      "title": "澳大利亚国债收益率升至2011年以来最高水平 追随美债走势",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywi5429992.shtml",
+      "date": "2026-09-11 07:16",
+      "summary": "受中东紧张局势升级导致油价上涨的影响，澳大利亚债券价格下跌，追随隔夜美国国债跌势。 澳大利亚3年期国债收益率一度飙升18个基点至5.03%...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "法国极左翼提议注销央行所持债务 欧洲央行行长称金融层面很危险",
-      "link": "https://finance.sina.com.cn/world/2026-09-10/doc-inirkiyr5622885.shtml",
-      "date": "2026-09-10 23:54",
-      "summary": "欧洲央行行长克里斯蒂娜·拉加德表示，极左翼有关通过注销央行所持债务来削减法国巨额政府债务的方案并不合理，而且在金融层面很危险。",
+      "title": "加拿大总理卡尼称美国贸易禁令相对温和 暗示不会采取报复措施",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywm2201974.shtml",
+      "date": "2026-09-11 07:15",
+      "summary": "加拿大总理马克·卡尼表示，美国本周针对加拿大采取的新一轮贸易措施将损害部分企业，但总体影响“温和”；他同时暗示，加拿大政府并不打算采取报复措施。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "如果回到二十多岁，我会买入这只巴菲特推荐的先锋ETF并永久持有",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirkiyn2630842.shtml",
-      "date": "2026-09-10 23:49",
-      "summary": "作者：安东尼・迪・皮齐奥|愚人网 沃伦・巴菲特是全球最具标志性的投资大师。1965‑2025 年，他担任伯克希尔‑哈撒韦集团首席执行官，将其打造为市值万亿级别综合企业集团...",
+      "title": "美国司法部就快船队与球星的相关交易展开调查",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywi5428375.shtml",
+      "date": "2026-09-11 07:13",
+      "summary": "据知情人士透露，联邦检察官已启动一项刑事调查，指控洛杉矶快船队为球星科怀・伦纳德安排秘密赞助合同，以此规避工资帽限制。两名知情人士称，调查尚处于初期阶段...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "德国央行行长对右翼崛起感到不安 忧心会导致外国投资者望而却步",
-      "link": "https://finance.sina.com.cn/world/2026-09-10/doc-inirkiyn7462795.shtml",
-      "date": "2026-09-10 23:49",
-      "summary": "德国央行行长Joachim Nagel表示，他担心极右翼德国选择党最近在一场州选举中获胜，可能会令外国投资者对欧洲最大经济体望而却步。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "拉加德称欧洲央行此次加息“顺理成章” 市场预计还有更多紧缩行动",
-      "link": "https://finance.sina.com.cn/world/2026-09-10/doc-inirkiyn7460906.shtml",
-      "date": "2026-09-10 23:42",
-      "summary": "欧洲央行周四宣布加息，这是2月伊朗战争爆发以来第二次上调利率，油价的回升促使投资者提高对进一步加息的押注。 欧洲央行将存款利率上调25个基点至2.5%...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "抵押贷款利率升至一年多以来高点，美国上月房屋销量下滑",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirkiyn7460271.shtml",
-      "date": "2026-09-10 23:40",
-      "summary": "8 月抵押贷款利率攀升至一年多以来最高水平，打击潜在购房者意愿，房屋销量随之走低。 美国全国房地产经纪人协会（NAR）周四公布数据：8 月成屋销售环比 7 月下降 2%...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美债市场出现大额期权交易 押注10年期收益率升破5%",
-      "link": "https://finance.sina.com.cn/world/2026-09-10/doc-inirkiyt2388103.shtml",
-      "date": "2026-09-10 23:40",
-      "summary": "周四美债市场出现了一宗大额期权交易，押注国债抛售势头将推动10年期收益率升破5%。 油价上涨可能进一步刺激本就高企的通胀，上述期权交易是投资者加紧对冲债市风险的最新...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "欧洲央行官员据悉倾向进一步收紧政策 最快10月份再次加息",
-      "link": "https://finance.sina.com.cn/world/2026-09-10/doc-inirkiyn7457025.shtml",
-      "date": "2026-09-10 23:28",
-      "summary": "知情人士称，欧洲央行官员预计将进一步加息，下一次行动最快可能就在10月。 消息人士透露，虽然政策制定者的看法仍将取决于未来公布的经济数据...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美参议院多数党领袖回避是否支持特朗普派钱计划的问题 称到时候再说",
-      "link": "https://finance.sina.com.cn/world/2026-09-10/doc-inirkiyt2383131.shtml",
-      "date": "2026-09-10 23:27",
-      "summary": "美国参议院多数党领袖约翰·图恩拒绝回答由共和党控制的参议院是否会通过总统唐纳德·特朗普提出的向每名美国成年人发放5000美元的计划。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "OpenAI向美国政府机构提供模型五折优惠，终止每年1美元试点协议",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirkiyn2623697.shtml",
-      "date": "2026-09-10 23:21",
-      "summary": "美国总务管理局（GSA）发布声明：OpenAI 将结束政府机构每年仅需 1 美元即可调用其大模型的试点项目，改为按实际用量计费；联邦公职人员使用 OpenAI 模型...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "高盛首席经济学家扬・哈祖斯警示：AI投资热潮不会永久持续",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirkiyn7452923.shtml",
-      "date": "2026-09-10 23:07",
-      "summary": "图表上没有什么赛道可以永远单边上行，人工智能领域的投入同样如此。 在高盛传播与科技大会上，高盛首席经济学家扬・哈祖斯谈及如火如荼的 AI...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "AT&T首席执行官为何认为其与马斯克的星链存在“互补关系”",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirkiyt2373017.shtml",
-      "date": "2026-09-10 23:03",
-      "summary": "如果你认为 SpaceX 旗下星链会碾压 AT&amp;T、T‑Mobile 以及威瑞森这些根基稳固的无线运营商，那还为时过早。 在高盛传播与科技大会上...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "白宫精铜关税悬而未决，铜矿股集体重挫，FCX跌8%、COPX跌7%",
-      "link": "https://finance.sina.com.cn/world/2026-09-10/doc-inirkiyr5599988.shtml",
-      "date": "2026-09-10 23:02",
-      "summary": "Freeport-McMoRan（NYSE：FCX）股价周四早盘下滑，铜价的创纪录涨势在单个交易日内逆转。此前有报道对推动铜价本周早些时候创下新高的精铜关税产生疑虑...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美国二手房销量降至一年多以来最低 高利率使购房者保持观望",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirkiyt2369488.shtml",
-      "date": "2026-09-10 22:55",
-      "summary": "由于潜在买家等待房贷利率下降，美国8月份二手房销售放缓至一年多来的最低水平。 美国全国房地产经纪人协会（NAR）周四公布的数据显示，8月份二手房销量折合年率下降2%...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "加息预期突变，美股齐跌、金银铜跳水、油价大涨",
-      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-09-10/doc-inirkiyr5598556.shtml",
-      "date": "2026-09-10 22:55",
-      "summary": "今晚，海外市场消息密集，大类资产走势分化。 美国8月PPI数据出炉，欧洲央行加息落地。国际原油价格大幅拉升，黄金、白银双双走低...",
-      "source": "中国证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美伊一步步滑向持久战 美高层据报道告诫特朗普战争或拖至2029年",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirkiyt2367566.shtml",
-      "date": "2026-09-10 22:51",
-      "summary": "伊朗和美国恐将迈入一场旷日持久的战争，尽管当前敌对行动的强度较低，但短期内也几乎看不到停火或中东能源流动恢复正常的迹象。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美债收益率全线上扬并创多年新高 聚焦30年期标售和财政部回购",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirkiyr5585962.shtml",
-      "date": "2026-09-10 22:37",
-      "summary": "随着油价扩大涨幅，促使交易员进一步押注美联储最快将在下周加息，美国国债收益率升至新的多年高位。 各期限美债收益率上涨5至10个基点...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "OpenAI已与多家电力企业会面 探讨电网安全方案",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirkcsq2739294.shtml",
-      "date": "2026-09-10 22:24",
-      "summary": "OpenAI透露，该公司已与多家头部电力企业代表会面，探讨保障电网安全的方案。而这些会谈举行之际，外界正接连曝光，OpenAI自身产品卷入了一场大规模网络攻击事件。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "能源价格飙升 美国生产者价格创三个月最大涨幅",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirkcsv2481352.shtml",
-      "date": "2026-09-10 22:22",
-      "summary": "美国一项生产者价格通胀指标显示，上月能源价格上涨再次带来通胀压力，可能进一步强化美联储下周会议加息的理由。 美国劳工统计局周四公布的数据显示...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "iPhone Duo面临两大难题：小手掌用户受限，市场期待下一代机型",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirkcsq2738203.shtml",
-      "date": "2026-09-10 22:19",
-      "summary": "核心问题 手掌偏小，或将拖累苹果这款新机型的销量。 杰富瑞分析师李裕泰（Edison Lee）在周四研报中警示：“这款机型外观设计新潮，但尺寸未必符合消费者需求。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "获特朗普政府支持公司计划两年内将委内瑞拉原油产量增至两倍以上",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirkcst5705281.shtml",
-      "date": "2026-09-10 22:15",
-      "summary": "北美蓝色能源伙伴公司（NABEP）是一家获得特朗普政府支持、在委内瑞拉开采石油的企业，计划在两年多时间内将原油产量提升一倍以上。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "梅西百货扭亏进展显现曙光，财报超预期、业绩指引上调",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirkcst5705256.shtml",
-      "date": "2026-09-10 22:15",
-      "summary": "梅西百货第二季度的转型改革持续取得成效，这家连锁百货企业得以再度上调此前偏保守的业绩指引。 标普全球市场情报的数据显示，二季度梅西百货同店销售额增长 2.7%...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美国8月二手房销售环比下降2%至398万套 符合预期",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirkcsq7569269.shtml",
-      "date": "2026-09-10 22:15",
-      "summary": "美国全国房地产经纪人协会公布的数据显示，8月二手房销售经季节调整折年率为398万套，与预估中值一致。 49位经济学家的预测区间为390万至409万套...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美国7月批发库存环比增长1.3% 与预期水平一致",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirkcsq2737062.shtml",
-      "date": "2026-09-10 22:14",
-      "summary": "美国普查局数据显示，7月份批发库存增至9588.54亿美元，之前一个月为9466.9亿美元。 11位经济学家的预测中值为增长1.3%，预测范围为增长0.2%至1.3%。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "尊界销量“暴跌90%”上热搜，江淮汽车主业连续九年“失血”",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-10/doc-inirkcsq2739234.shtml",
-      "date": "2026-09-10 22:13",
-      "summary": "来源：金观社 近日，“尊界销量暴跌90%”的消息冲上热搜，但实为将尊界S800 ，2025年12月交付4223辆的高点，与2026年7月367辆的低点对比的出来的一个比值。",
+      "title": "CPI前夜，美债先“动手”了：加息概率突破七成，10年期收益率逼近5%",
+      "link": "https://finance.sina.com.cn/roll/2026-09-11/doc-inirkywe7173513.shtml",
+      "date": "2026-09-11 07:05",
+      "summary": "来源：金十 美国国债收益率周四再次明显上行。由于债券价格与收益率走势相反，收益率上涨意味着债券价格继续承压，而油价跳涨、批发通胀报告表现坚挺...",
       "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "SpaceX CFO：将由星舰送入轨道的首批升级版Starlink卫星料带来收入",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywm2185091.shtml",
+      "date": "2026-09-11 06:49",
+      "summary": "SpaceX首席财务官表示，公司预计，本月晚些时候将由星舰送入轨道的首批升级版Starlink卫星将带来收入。 SpaceX计划明年发射首批轨道计算卫星。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "Adobe本财季营收展望略逊预期 AI冲击担忧挥之不去",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywe2335195.shtml",
+      "date": "2026-09-11 06:48",
+      "summary": "创意软件巨头Adobe本财季营收展望略低于华尔街预期，未能缓解投资者对于人工智能（AI）新创公司竞争冲击的担忧。该公司股价盘后下跌。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "贝森特称美国周一将制裁一家“大银行”",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywe7166874.shtml",
+      "date": "2026-09-11 06:46",
+      "summary": "美国财政部长斯科特·贝森特称，该国周一将制裁一家“大银行”。 贝森特在Real America’s Voice节目上透露了上述信息。 贝森特说：“周一关注这方面吧”。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "【沥燃日报】高硫-SC裂解大幅回落至年内低点，沥青裂解相对坚挺",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-11/doc-inirkywe2344754.shtml",
+      "date": "2026-09-11 06:36",
+      "summary": "来源：能源研发中心 燃料油：9月10日国内白天收盘，FU11录得4044元/吨，环比上涨2.80%；LU10录得5227元/吨，环比上涨1.16%。地缘情绪有所收敛，叠加资金高位获利离场...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "油价狂飙！单日大涨9美元刷新下半年单日最大涨幅",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-11/doc-inirkywm2201560.shtml",
+      "date": "2026-09-11 06:36",
+      "summary": "来源：能源研发中心 后市观点 估计不少投资者被周四油价涨的眼冒金星，彻夜难眠。 让人再次感慨人们的判断仍是基于事实和数据这两个基本维度。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "9月11日隔夜要闻：美股四连跌 油价持续上涨 美债收益率创新高",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywm2164529.shtml",
+      "date": "2026-09-11 06:09",
+      "summary": "市场 9月11日收盘：美股三大指数收跌 美债收益率创新高 油价持续上涨 9月11日美股成交额前20：苹果收涨3.56%，在周四发布会上发布了新品iPhone Duo...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "美国财政部扩大美债回购效果不及预期 10年期美债收益率升至4.95% 房贷利率突破7%",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-11/doc-inirkywi5399491.shtml",
+      "date": "2026-09-11 06:00",
+      "summary": "美国财政部周四实施财政部长贝森特宣布扩大规模后的首次长期美债回购，但实际买入规模低于市场预期，令原本期待财政部通过加大回购缓解长期利率上行压力的投资者感到失望。...",
+      "source": "智通财经APP",
+      "category": "a-stock"
+    },
+    {
+      "title": "微软推进数据中心扩张 计划将算力扩大两倍",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywe2319110.shtml",
+      "date": "2026-09-11 05:47",
+      "summary": "微软计划将数据中心容量扩大逾两倍，此举有望帮助该公司缓解算力短缺问题。此前，由于算力不足，微软不得不拒接部分人工智能（AI）和云服务业务。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "AI需求推动甲骨文云业务营收超预期增长 股价盘后大涨",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywe2318675.shtml",
+      "date": "2026-09-11 05:45",
+      "summary": "甲骨文云计算业务增长超过华尔街预期，显示该公司对大型人工智能（AI）数据中心项目的巨额投入正在取得成效。其股价盘后大涨逾6%。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "特朗普称派发5000美元无需国会批准",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywe7150503.shtml",
+      "date": "2026-09-11 05:45",
+      "summary": "美国总统特朗普在接受采访时表示，他承诺向美国人派发的5000美元不需要国会批准，但他也补充说，即使需要的话，他认为国会也会批准这项措施。",
+      "source": "环球市场播报",
       "category": "a-stock"
     }
   ]
