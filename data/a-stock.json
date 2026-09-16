@@ -1,310 +1,350 @@
 {
-  "updated": "2026-09-16T13:39:57.097408+08:00",
+  "updated": "2026-09-16T17:01:43.971594+08:00",
   "source": "A股聚合",
-  "count": 38,
+  "count": 43,
   "items": [
     {
-      "title": "交银国际：德琪医药维持“买入”评级 目标价10港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-16/doc-iniryzkw6627477.shtml",
-      "date": "2026-09-16 13:38",
-      "summary": "交银国际发布研报称，维持德琪医药（06996）目标价10港元以及“买入”评级。该行上调对该公司2026年收入预测以反映合作收入贡献、下调2027-2028年预测以反映更谨慎的产品销售...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "中金：顺丰同城维持“跑赢行业”评级 目标价11.50港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-16/doc-iniryzmc4918505.shtml",
-      "date": "2026-09-16 13:37",
-      "summary": "中金发布研报称，近期邀请顺丰同城（09699）管理层进行非交易型路演。该行认为，公司同城配送业务收入增长仍具备韧性，下半年最后一公里业务有望修复...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "中信证券：网龙目标价12港元 维持“买入”评级",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-16/doc-iniryzky3398242.shtml",
-      "date": "2026-09-16 13:36",
-      "summary": "考虑到网龙（00777）降本增效进度好于预期，上调公司2026-2028年EPS，综合给予公司目标价12港元，维持“买入”评级。中信证券认为，公司积极利用AI员工实现降本增效...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "香港施政报告：推进广深西部铁路及北环线 强化大湾区互联互通",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-09-16/doc-iniryzkw6622037.shtml",
-      "date": "2026-09-16 13:32",
-      "summary": "香港行政长官李家超在今日的施政报告中宣布，将全速推进北环线项目及广深西部铁路（洪水桥至前海段），目标分别于2034年及2037年开通。",
-      "source": "港股一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "香港特区首个五年规划提出：以黄金为切入点 构建大宗商品交易生态圈",
-      "link": "https://finance.sina.com.cn/roll/2026-09-16/doc-iniryzky3391946.shtml",
-      "date": "2026-09-16 13:27",
-      "summary": "来源：上海证券报·中国证券网 上证报中国证券网讯（记者 周亮）9月16日，香港首份经济和社会发展五年纲领《香港特别行政区经济和社会发展第一个五年规划（2026—2030年）》...",
-      "source": "上海证券报",
-      "category": "a-stock"
-    },
-    {
-      "title": "金融教育宣传周 | 为什么别人投资总赚钱？小心幸存者偏差",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-16/doc-iniryzma2967776.shtml",
-      "date": "2026-09-16 13:25",
-      "summary": "",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "一只河狸的生存智慧",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-16/doc-iniryzma2967244.shtml",
-      "date": "2026-09-16 13:24",
-      "summary": "今天，来认识一位动物界的“隐藏大佬”——河狸。 很多人初见河狸，很容易被它的外表所迷惑。它一副憨态可掬的模样，整日泡在暖洋洋的河水里，慢悠悠揉搓着脸颊；吃饱之后...",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "香港施政报告：二胎奖励金升至3万港元 购房最高可减免2万港元印花税",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-09-16/doc-iniryzky3389048.shtml",
-      "date": "2026-09-16 13:23",
-      "summary": "香港行政长官李家超在今日的施政报告中公布，推出11招加强鼓励生育措施。包括2万港元新生婴儿奖励金延长3年，即日起第二胎或以后，加码至3万港元，同样为期三年。",
-      "source": "港股一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "AI巨头呼吁放缓节奏？景顺长城科技军团刘力思最新观点来了",
-      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-16/doc-iniryzmc4912097.shtml",
-      "date": "2026-09-16 13:21",
-      "summary": "近日，AI巨头Anthropic公司CEO达里奥·阿莫迪发布3800字长文，基于安全考量等因素，呼吁控制前沿AI发展节奏。该观点很快得到马斯克以及OpenAI创始人奥特曼的赞同。",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "“芯”主线回归！费率较低的科创芯片ETF华宝（589190）标的指数猛攻5.5%，涨价+扩产+国产替代三重共振",
-      "link": "https://finance.sina.com.cn/money/fund/etf/2026-09-16/doc-iniryzky3386043.shtml",
-      "date": "2026-09-16 13:20",
-      "summary": "9月16日，半导体芯片行情强势回归，同类费率较低*的科创芯片ETF华宝（589190）标的指数盘中大涨5.5%。半导体材料与设备方向涨幅居前，天岳先进两位数领涨，中科飞测...",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "香港施政报告：跨境转数快年内接通银联 实现内地银行直接取现",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-09-16/doc-iniryzky3385246.shtml",
-      "date": "2026-09-16 13:19",
-      "summary": "香港行政长官李家超在今日的施政报告中表示，“跨境转数快”服务今年将接通银联系统，令市民可以直接在内地银行收取现金，大幅提升跨境支付的便利性。（新浪财经香港站）",
-      "source": "港股一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "Instinct据悉洽谈新一轮10亿美元融资，估值或达100亿美元",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-iniryzkw6611481.shtml",
-      "date": "2026-09-16 13:18",
-      "summary": "据知情人士透露，个人AI助手Instinct背后的初创公司正在洽谈一轮融资，计划募资 10 亿美元，公司估值有望达到约 100 亿美元。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "多家国有大行旗下村镇银行清零",
-      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-09-16/doc-iniryzmc4911803.shtml",
-      "date": "2026-09-16 13:16",
-      "summary": "文|《财经》记者 陈洪杰 编辑|张颖馨 近年来，不少曾经为填补县域金融服务空白而设立的村镇银行，借助“村改支”等方式整体并入母行，实现独立法人资格有序退出。",
-      "source": "《财经》杂志",
-      "category": "a-stock"
-    },
-    {
-      "title": "香港施政报告：争尽快落实REITs纳入互联互通 推进黄金及数字资产代币化交易",
-      "link": "https://finance.sina.com.cn/stock/2026-09-16/doc-iniryzky3375740.shtml",
-      "date": "2026-09-16 13:07",
-      "summary": "香港行政长官李家超今日发表施政报告，报告中提及将于年内提交条例修订草案，简化房地产投资信托基金（REITs）的私有化及重组程序...",
-      "source": "港市一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "香港施政报告：拟立法规管AI金融诈骗 严控生成式AI风险",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-09-16/doc-iniryzma2961399.shtml",
-      "date": "2026-09-16 13:07",
-      "summary": "香港行政长官李家超今日发表施政报告，在人工智能与创科方面，李家超提出为实现“技术向善、安全可控”，政务司司长统筹AI风险治理工作。",
-      "source": "港股一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "香港施政报告：邀请广深企业参与大学城建设 河套大湾区国际临床试验所投入运作",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-09-16/doc-iniryzmc4906916.shtml",
-      "date": "2026-09-16 13:07",
-      "summary": "香港行政长官李家超在今日的施政报告中表示，北部都会区建设从蓝图转向实体落地，新田、洪水桥及打鼓岭三个大学城的校园区总面积约三百公顷，连同科技区...",
-      "source": "港股一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "香港施政报告：香港优化上市制度 探索REITs现货市场与科技融合",
-      "link": "https://finance.sina.com.cn/stock/2026-09-16/doc-iniryzma2961261.shtml",
-      "date": "2026-09-16 13:07",
-      "summary": "为进一步完善股票市场制度并巩固国际金融中心地位，香港行政长官李家超今日在施政报告中提出以下改革方向： • 精简上市流程：将就精简招股章程披露要求展开咨询...",
-      "source": "港市一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "香港施政报告：深化全球离岸人民币业务 推出多项新机制并筹备纳入港股通",
-      "link": "https://finance.sina.com.cn/stock/2026-09-16/doc-iniryzkw6602563.shtml",
-      "date": "2026-09-16 13:07",
-      "summary": "香港行政长官李家超今日发表施政报告，为巩固和提升香港国际金融中心地位，他宣布将坚持国际定位，重点深化全球离岸人民币业务市场发展，具体举措包括：",
-      "source": "港市一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "香港五年规划：房屋供应新格局 “四三三”比例及简约公屋目标",
-      "link": "https://finance.sina.com.cn/stock/2026-09-16/doc-iniryzky3374784.shtml",
-      "date": "2026-09-16 13:06",
-      "summary": "香港行政长官李家超在今日的香港首份五年规划中提出，确立未来十年房屋供应的“四三三”格局：公营出租房屋占四成、资助出售单位占三成、私人住宅占三成。",
-      "source": "港市一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "重阳投资王庆：如果超节点爆发，有望使国内AI训练进入新周期",
-      "link": "https://finance.sina.com.cn/hy/hyjz/2026-09-16/doc-iniryzky3370779.shtml",
-      "date": "2026-09-16 12:29",
-      "summary": "9月16日，由新浪财经主办的AI投资峰会将在北京举行，主题为“AI基建时代的确定性机会”，重阳投资董事长王庆出席并参与圆桌讨论。",
-      "source": "睿见Economy",
-      "category": "a-stock"
-    },
-    {
-      "title": "逆势涨近8%站稳4000亿港元 联想集团CFO郑孝明：AI基建持续放量正成为新增长支撑",
-      "link": "https://finance.sina.com.cn/hy/hyjz/2026-09-16/doc-iniryvce3076242.shtml",
-      "date": "2026-09-16 12:28",
-      "summary": "9月16日，港股科技板块整体表现偏弱，恒生指数走低。相比之下，截至11时48分，联想集团逆势上涨近8%，市值继续稳居4000亿港元上方。",
-      "source": "睿见Economy",
-      "category": "a-stock"
-    },
-    {
-      "title": "宁德时代半日跌3.8%，易方达持有3958万股浮亏4.7亿元，华夏基金持2115万股浮亏2.5亿元（名单）",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-09-16/doc-iniryvay6698911.shtml",
-      "date": "2026-09-16 12:28",
-      "summary": "9月16日，宁德时代股价继续下跌，截至午盘跌3.8%，报304.31元/股，成交162亿元，换手率1.25%，总市值14354亿元。 Wind数据显示，公募基金2026二季度3102只产品合计持3...",
-      "source": "新浪基金",
-      "category": "a-stock"
-    },
-    {
-      "title": "大摩：港交所目标价上调至538港元 维持“增持”评级",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-16/doc-iniryvay6695701.shtml",
-      "date": "2026-09-16 12:24",
-      "summary": "摩根士丹利发布研报称，将港交所（00388）目标价上调4.5%，由515港元升至538港元，维持“增持”评级。该行预计香港资本市场上行周期更加持久...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "瑞银：长城汽车目标价下调至12港元 维持“买入”评级",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-16/doc-iniryvay6694928.shtml",
-      "date": "2026-09-16 12:23",
-      "summary": "瑞银发布研报称，将长城汽车（02333）目标价由18港元下调至12港元，主要反映俄罗斯汽车报废退税政策的不确定性，但维持“买入”评级。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "瑞银：华润置地维持目标价45港元 维持“买入”评级",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-16/doc-iniryvca3466458.shtml",
-      "date": "2026-09-16 12:22",
-      "summary": "瑞银发布研报称，维持华润置地（01109）目标价45港元以及“买入”评级。该行表示，自8月28日预售模式调整以来，受投资者对其房地产开发业务担忧影响...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "中通快递-W于9月15日斥资1022.19万美元回购49.73万股",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-16/doc-iniryvca3465377.shtml",
-      "date": "2026-09-16 12:21",
-      "summary": "中通快递-W（02057）发布公告，于2026年9月15日斥资1022.19万美元回购49.73万股。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "百事谢长安：消费品行业存在创新焦虑，需更加关注提供情绪价值",
-      "link": "https://finance.sina.com.cn/hy/hyjz/2026-09-16/doc-iniryvcf5020889.shtml",
-      "date": "2026-09-16 12:21",
-      "summary": "2026《财富》世界500强论坛于9月16日在广州举行。百事集团亚太区首席执行官谢长安表示，作为一家消费品公司，百事存在“创新焦虑”。",
-      "source": "睿见Economy",
-      "category": "a-stock"
-    },
-    {
-      "title": "直通电讯于9月16日起短暂停牌 以待刊发内幕消息",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-16/doc-iniryvca3464533.shtml",
-      "date": "2026-09-16 12:20",
-      "summary": "直通电讯（08337）发布公告，应直通电讯控股有限公司（本公司）之要求，本公司股份已自2026年9月16日（星期三）上午九时正起在香港联合交易所有限公司（联交所）暂停买卖...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "名创优品于9月15日斥资23.86万美元回购10.78万股",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-16/doc-iniryvce3071784.shtml",
-      "date": "2026-09-16 12:20",
-      "summary": "名创优品（09896）发布公告，于2026年9月15日斥资23.86万美元回购10.78万股。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "香港五年规划：打造“港医联动”新格局 扩大跨境医疗与养老保障",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-09-16/doc-iniryvay6677769.shtml",
-      "date": "2026-09-16 12:07",
-      "summary": "今日的香港首份五年规划中，在民生与健康领域方面，香港行政长官李家超提出，加强内地与香港医疗人才联动，以心胸医学专科培训中心为切入点，构建“港医联动...",
-      "source": "港股一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "香港五年规划：拓展内地市场准入 推动规则衔接与标准互认",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-09-16/doc-iniryvca3450119.shtml",
-      "date": "2026-09-16 12:07",
-      "summary": "香港首份五年规划中提出，争取进一步扩大内地市场准入及开放领域，推动贸易、投资、金融、知识产权及数字治理等领域的规则标准衔接与互认。",
-      "source": "港股一线",
-      "category": "a-stock"
-    },
-    {
-      "title": "联想集团午前涨超7% CFO指净利率长期看到5%至8%公司市值被严重低估",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-16/doc-iniryvaw7895198.shtml",
-      "date": "2026-09-16 11:56",
-      "summary": "联想集团（00992）午前涨超7%，截至发稿，股价上涨7.56%，现报33.56港元，成交额14.87亿港元。 据报道，9月16日，在“AI 投资峰会”上...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "美国原油输往亚洲成本创新记录！200万桶原油运费高达4480万美元",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-16/doc-iniryvaw7894836.shtml",
-      "date": "2026-09-16 11:55",
-      "summary": "来源：财联社 财联社9月16日讯（编辑 马兰）美国与伊朗的冲突迟迟未见解决，进一步加剧了全球能源市场的供应短缺，买家急于获取任何可能的能源供应，从而推高了价格。",
+      "title": "优必选陈建泉：具身智能市场规模比新能源汽车大10倍以上",
+      "link": "https://finance.sina.com.cn/roll/2026-09-16/doc-inirzfsy2932018.shtml",
+      "date": "2026-09-16 16:57",
+      "summary": "服贸会专题活动“物理AI与具身智能机器人创新生态交流会”于2026年9月11日在京举办。优必选科技投关负责人陈建泉出席并参与对话讨论。",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "鲟龙科技午前涨超6% 上半年经调整净利润同比增长15.70%",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-16/doc-iniryvaw7893500.shtml",
-      "date": "2026-09-16 11:53",
-      "summary": "鲟龙科技（06715）今早反弹逾12%，该股自9月7日进入港股通后持续阴跌，期间累计跌幅达17%。截至发稿，股价上涨6.40%，现报66.55港元，成交额3808.48万港元。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "Anthropic签署首份澳大利亚数据中心协议",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-iniryvca3429719.shtml",
-      "date": "2026-09-16 11:51",
-      "summary": "据知情人士透露，美国人工智能初创公司Anthropic已签署其在澳大利亚的首份数据中心租赁协议，借势有利的政治环境和丰富的新能源资源...",
+      "title": "沙特称胡塞武装使用无人机袭击麦加，胡塞武装否认该说法",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirzfsz4875411.shtml",
+      "date": "2026-09-16 16:54",
+      "summary": "核心要点沙特阿拉伯表示，其防空系统拦截并摧毁了一架胡塞武装无人机，这是本轮冲突中战火首次波及这座圣城。这支受伊朗支持的民兵组织驳斥上述说法...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "江波龙午前持续上涨逾7% 华泰证券维持“买入”评级",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-16/doc-iniryvaw7891742.shtml",
-      "date": "2026-09-16 11:50",
-      "summary": "江波龙（09976）早盘涨幅持续扩大。截至发稿，股价上涨6.85%，现报191.80港元，成交额4303.67万港元。 近日，工业和信息化部、国家发展改革委印发《电子信息制造业发展“十...",
-      "source": "新浪港股",
+      "title": "程龙：AI的价值不只是节省成本和提高效益，更多是拓展人的能力边界",
+      "link": "https://finance.sina.com.cn/roll/2026-09-16/doc-inirzfsw3468125.shtml",
+      "date": "2026-09-16 16:54",
+      "summary": "中国国际服务贸易交易会第八届中国金融科技论坛于9月9日在北京举行。中国国际金融股份有限公司首席信息官程龙出席并演讲。",
+      "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "香港五年规划：优化跨境人流物流 提升通关效率与口岸智能化",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-09-16/doc-iniryvca3427105.shtml",
-      "date": "2026-09-16 11:49",
-      "summary": "在今日公布的香港首个五年规划中，香港行政长官李家超指出，为完善跨境流动便利房，规划提出优化口岸布局，加大对跨境货运口岸的扩容升级及智能化投入，提升通关效率。",
+      "title": "中国太保：持续推进长期利率债配置 强化未上市股权等另类投资配置",
+      "link": "https://finance.sina.com.cn/jryx/insurance/2026-09-16/doc-inirzfsw3465957.shtml",
+      "date": "2026-09-16 16:53",
+      "summary": "9月16日金融一线消息，2026年上海辖区上市公司集体接待日暨半年报业绩说明会于今日召开。中国太保投资者关系管理团队陈蓉回应投资者提问称...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "调查：日本央行预计加息25个基点，利率创三十年来新高",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirzfsz4874404.shtml",
+      "date": "2026-09-16 16:52",
+      "summary": "核心要点多数受访者预计日本央行本周将加息 25 个基点，理由是通胀走高、工资上涨，同时还面临来自美国政府的压力。若此次加息落地，将意味着紧缩周期节奏加快...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "王丰辉：人是目的，AI只是手段",
+      "link": "https://finance.sina.com.cn/roll/2026-09-16/doc-inirzfsw3465874.shtml",
+      "date": "2026-09-16 16:50",
+      "summary": "中国国际服务贸易交易会第八届中国金融科技论坛于9月9日在北京举行。厦门国际银行首席信息官王丰辉出席并演讲。 以下为演讲实录： 王丰辉：各位领导、各位同仁...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "上海重返全球金融中心前五",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-16/doc-inirzfsw3462849.shtml",
+      "date": "2026-09-16 16:49",
+      "summary": "一份由中、英两国研究机构联合发布的全球金融中心指数报告显示，纽约、伦敦、香港、新加坡、上海、东京、首尔、深圳、迪拜、苏黎世位居前10名...",
+      "source": "一财网",
+      "category": "a-stock"
+    },
+    {
+      "title": "中国太保：将主要参考营运利润确定中期和年末分红",
+      "link": "https://finance.sina.com.cn/jryx/insurance/2026-09-16/doc-inirzfsw3461519.shtml",
+      "date": "2026-09-16 16:48",
+      "summary": "9月16日金融一线消息，2026年上海辖区上市公司集体接待日暨半年报业绩说明会于今日召开。中国太保投资者关系管理团队陈蓉回应投资者提问称，新会计准则实施后...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "MiniMax被智谱吊打背后：C端难赚钱B端叙事有水分？模型能力疑被指拉胯",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-09-16/doc-inirzfsy2926800.shtml",
+      "date": "2026-09-16 16:48",
+      "summary": "出品：新浪财经上市公司研究院 文/夏虫工作室 核心观点：MiniMax市值一度反超智谱，如今为何反被智谱吊打？MiniMax遭市场用脚投票背后的底层逻辑又是什么？",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "中国太保：下半年将进一步加强巨灾风险集中度管理 实现全年承保盈利",
+      "link": "https://finance.sina.com.cn/jryx/insurance/2026-09-16/doc-inirzfsz4872017.shtml",
+      "date": "2026-09-16 16:47",
+      "summary": "9月16日金融一线消息，2026年上海辖区上市公司集体接待日暨半年报业绩说明会于今日召开。中国太保投资者关系管理团队陈蓉回应投资者提问称...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "李家超：人才贡献难单以GDP衡量 引才助阵未来十年经济增长",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-09-16/doc-inirzfsw3460349.shtml",
+      "date": "2026-09-16 16:47",
+      "summary": "香港行政长官李家超今日在回应关于引进人才对经济具体回报的提问时表示，难以单纯通过国内生产总值（GDP）来单独量化人才的经济贡献...",
       "source": "港股一线",
       "category": "a-stock"
     },
     {
-      "title": "黄金股午前集体走高 灵宝黄金及赤峰黄金均上涨7%",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-16/doc-iniryvca3423679.shtml",
-      "date": "2026-09-16 11:46",
-      "summary": "黄金股午前集体走高 ，截至发稿，灵宝黄金（03330）上涨7.14%，报24.32港元；赤峰黄金（06693）上涨7%，报39.14港元；山东黄金（01787）上涨4.28%，报24...",
-      "source": "新浪港股",
+      "title": "欧盟提议加拿大成为欧盟首个“准成员国”",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirzfsz4871019.shtml",
+      "date": "2026-09-16 16:45",
+      "summary": "欧盟委员会主席冯德莱恩提议加拿大成为欧盟第一个“准成员国”。 她周三在法国斯特拉斯堡发表“盟情咨文”时发出了邀请，加拿大总理马克·卡尼也在场出席。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "天通股份11亿募资款还没用又拟赴港上市 核心项目两度延期 实控人亲属精准高位减持6.5亿",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-09-16/doc-inirzfsy2925277.shtml",
+      "date": "2026-09-16 16:45",
+      "summary": "出品：新浪财经上市公司研究院 作者：渚 2026年9月11日，天通股份发布公告，宣布正在筹划发行境外上市外资股（H股）股票并申请在香港联交所主板挂牌上市...",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "华泰证券黄乐平：过去一年半导体指数上涨约60个点，是行业表现最好的一年",
+      "link": "https://finance.sina.com.cn/hy/hyjz/2026-09-16/doc-inirzfsu6686139.shtml",
+      "date": "2026-09-16 16:44",
+      "summary": "9月16日，由新浪财经主办的AI投资峰会将在北京举行，主题为“AI基建时代的确定性机会”，华泰证券研究所 海外科技首席分析师黄乐平出席并主持圆桌论坛。",
+      "source": "睿见Economy",
+      "category": "a-stock"
+    },
+    {
+      "title": "外卖快餐越做越“薄”，点单前怎么避免踩坑？",
+      "link": "https://finance.sina.com.cn/consume/xiaofei/2026-09-16/doc-inirzfsw3353755.shtml",
+      "date": "2026-09-16 16:43",
+      "summary": "“塔斯汀饼皮被吐槽薄得像纸”的话题近日引发网友热议。有消费者反映，点的塔斯汀汉堡到手后，面皮薄得能透光，被调侃“后厨进大象踩了一脚”。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "谁吃到了基金市场最大的“蛋糕”？",
+      "link": "https://finance.sina.com.cn/money/fund/jjyj/2026-09-16/doc-inirzfsz4871067.shtml",
+      "date": "2026-09-16 16:43",
+      "summary": "来源：资事堂 作者 | 暮文 编辑 | 袁畅 随着基金业协会公布2026上半年公募代销百强榜单，基金市场的最新格局曝光在大众面前。 如果把支付宝上线作为全民理财时代的起点...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "吴旖：最近AI市场在反复纠结两个核心问题",
+      "link": "https://finance.sina.com.cn/hy/hyjz/2026-09-16/doc-inirzfsw3456595.shtml",
+      "date": "2026-09-16 16:42",
+      "summary": "9月16日，由新浪财经主办的AI投资峰会将在北京举行，主题为“AI基建时代的确定性机会”，美银全球研究部中国研究部联席主管、首席中国策略师...",
+      "source": "睿见Economy",
+      "category": "a-stock"
+    },
+    {
+      "title": "中国农业银行资产负债管理部原总经理王青山被开除党籍",
+      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-09-16/doc-inirzfsz4869266.shtml",
+      "date": "2026-09-16 16:41",
+      "summary": "中央纪委国家监委网站讯 据中央纪委国家监委驻中国农业银行纪检监察组、山东省纪委监委消息：日前，经中央纪委国家监委批准，中央纪委国家监委驻中国农业银行纪检监察组...",
+      "source": "中央纪委国家监委",
+      "category": "a-stock"
+    },
+    {
+      "title": "重庆银行中报拆解：息差回升、不良下降，存贷结构持续优化",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-16/doc-inirzfsy2922801.shtml",
+      "date": "2026-09-16 16:39",
+      "summary": "近日，重庆银行披露半年度报告。该行实现营业收入84.86亿元，同比增长10.79%；实现净利润37.67亿元，同比增长10.97%；实现归母净利润35.18亿元，同比增长10.29%。",
+      "source": "新浪财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "李家超述香港科技发展四大优势 强调河套“一区两园”促产学研联动",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-09-16/doc-inirzfsu6680363.shtml",
+      "date": "2026-09-16 16:39",
+      "summary": "香港行政长官李家超今日在记者会上回应关于香港科技发展优势及路径的提问，指出香港具备人才、基建、研发实力及内地合作四大核心优势，并强调将重点推动科研成果产业化。",
+      "source": "港股一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "张尧浠:原油再涨美债收益率拉高 金价吸引力减弱仍具压力",
+      "link": "https://finance.sina.com.cn/money/nmetal/hjfx/2026-09-16/doc-inirzfsu6678571.shtml",
+      "date": "2026-09-16 16:38",
+      "summary": "9月16日：上交易日周二（9月15日）：国际黄金震荡触底收线，虽沙特红海最大港口延布暂停装船，部分欧洲客户9月订单被取消，中东双海峡告急引爆原油供应担忧...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "释疑《五年规划》指标与生育政策 李家超：重执行抓落实 构建鼓励生育环境",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-09-16/doc-inirzfsw3450908.shtml",
+      "date": "2026-09-16 16:36",
+      "summary": "在今日的《香港第一个五年规划》和《施政报告》记者会上，针对记者关于“为何22项主要指标中仅5项为约束性且多与环境相关，而经济指标多为引导性”的一问...",
+      "source": "港股一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "沪农商行回应核心一级资本充足率回落：系信贷投放、资产扩张带来资本正常消耗",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-09-16/doc-inirzfsy2920981.shtml",
+      "date": "2026-09-16 16:36",
+      "summary": "9月16日金融一线消息，2026年上海辖区上市公司集体接待日暨半年报业绩说明会于今日召开。谈及息差，沪农商行董事长徐力表示，本行一贯重视对投资者的回报...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "沪农商行董事长徐力：持续丰富产品货架，推动财富管理业务稳步提升",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-09-16/doc-inirzfsz4865219.shtml",
+      "date": "2026-09-16 16:33",
+      "summary": "9月16日金融一线消息，2026年上海辖区上市公司集体接待日暨半年报业绩说明会于今日召开。谈及财富管理业务，沪农商行董事长徐力表示，2026年上半年...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "英特尔意图打破台积电代工垄断 AI推理推动CPU需求激增",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirzfsy2919522.shtml",
+      "date": "2026-09-16 16:33",
+      "summary": "英特尔首席执行官陈立武表示，行业必须打破台积电在全球晶圆代工市场的垄断。他提出，订单应当分散至多家供应商，以满足人工智能芯片日益增长的需求。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "沪农商行董事长徐力：息差企稳主要受益于负债成本压降",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-09-16/doc-inirzfsw3445107.shtml",
+      "date": "2026-09-16 16:31",
+      "summary": "9月16日金融一线消息，2026年上海辖区上市公司集体接待日暨半年报业绩说明会于今日召开。谈及息差，沪农商行董事长徐力表示，上半年本集团净息差1.36%，较上年末收窄1bps...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "银行催收“找人”难，催热找地址生意",
+      "link": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-09-16/doc-inirzfsy2918416.shtml",
+      "date": "2026-09-16 16:30",
+      "summary": "作为一家城商行的零售业务贷后管理部门业务主管，吴洋在今年7月底接到一项新工作任务——务必在年底前，将个贷不良率压降至去年底水平，即压降0.2个百分点至1.85%。",
+      "source": "经济观察网",
+      "category": "a-stock"
+    },
+    {
+      "title": "美联储决议前夕，A股资金“抢跑”科技",
+      "link": "https://finance.sina.com.cn/roll/2026-09-16/doc-inirzfsu6673930.shtml",
+      "date": "2026-09-16 16:29",
+      "summary": "近期持续缩量的A股出现久违的科技 “抢跑” 行情 北京时间9月17日凌晨，美联储9月利率决议即将揭晓。在这只“靴子”落地前一天，A股市场的科技股出现了近期罕见的抢跑行情。",
+      "source": "一财网",
+      "category": "a-stock"
+    },
+    {
+      "title": "“平台月付将退出支付选项”引发热议，新规重在将信贷产品与支付工具区隔展示",
+      "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-09-16/doc-inirzfsw3439765.shtml",
+      "date": "2026-09-16 16:28",
+      "summary": "随着“平台月付将退出支付选项”的话题登上热搜，各大互联网平台的相关金融产品能否继续付款引发关注。 上述话题源于将于9月30日实施的《金融产品网络营销管理办法》（下称“...",
+      "source": "澎湃新闻",
+      "category": "a-stock"
+    },
+    {
+      "title": "水利部联合中国农业银行出台支持节水产业高质量发展金融服务措施",
+      "link": "https://finance.sina.com.cn/jryx/bank/2026-09-16/doc-inirzfsw3441510.shtml",
+      "date": "2026-09-16 16:26",
+      "summary": "9月16日金融一线消息，据中国水利，为进一步加强节水领域政银合作，以绿色金融助力节水产业高质量发展，近日，水利部办公厅、中国农业银行办公室联合印发《关于做好节水产...",
+      "source": "金融一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "顺丰的资本换挡：公司越买 股东越卖？",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-09-16/doc-inirzfsy2915663.shtml",
+      "date": "2026-09-16 16:25",
+      "summary": "出品：新浪财经上市公司研究院 作者：杳 核心观点：顺丰与部分二级市场资金真正的分歧，在资本回报而非短期偿债能力。控股股东持股数量稳定、极兔成为产业股东...",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "山高环能6.5亿元定增“补血”！国资股东全额认购",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-16/doc-inirzfsy2916704.shtml",
+      "date": "2026-09-16 16:24",
+      "summary": "来源：金融投资报 山高环能9月15日晚间披露的向特定对象发行A股股票募集说明书（注册稿），让市场再次将目光投向这家以餐厨废弃物资源化利用和清洁供热为主业的公司。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "阿里云卢晓伟：AI已从过去的问答工具演变为生产系统",
+      "link": "https://finance.sina.com.cn/hy/hyjz/2026-09-16/doc-inirzfsw3439477.shtml",
+      "date": "2026-09-16 16:22",
+      "summary": "9月16日，由新浪财经主办的AI投资峰会将在北京举行，主题为“AI基建时代的确定性机会”，阿里云基础设施异构计算资深总监卢晓伟出席并参与圆桌讨论。",
+      "source": "睿见Economy",
+      "category": "a-stock"
+    },
+    {
+      "title": "也门战事升级至油价维持高位 霍尔木兹海峡石油运输量回暖",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirzfsz4857920.shtml",
+      "date": "2026-09-16 16:18",
+      "summary": "沙特阿拉伯周三表示，其防空部队在胡塞武装无人机进入麦加空域之前将其拦截并摧毁。但伊朗支持的胡塞武装否认这一说法，称其为“陈词滥调的谎言”...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "指南针上半年销售费用及费用率最高 市盈率最高 控股股东减持套现10亿元 高管薪酬增加|金融AI半年报",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-09-16/doc-inirzfsu6659273.shtml",
+      "date": "2026-09-16 16:16",
+      "summary": "出品：新浪财经上市公司研究院 作者：图灵 近日，5家AI+金融上市公司披露上半年报。 今年以来，AI+金融进入智能体阶段，竞争重点由模型能力转向专业数据、工具调用...",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "平台月付将退出支付选项？热搜背后实测：部分已做区隔",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-16/doc-inirzfsw3430842.shtml",
+      "date": "2026-09-16 16:14",
+      "summary": "界面新闻记者 | 林倩冰 9月15日，“平台月付将退出支付选项”登上微博热搜。 据中新经纬9月15日晚报道，针对该消息，支付宝、美团、抖音、京东等多家平台客服均回应称...",
+      "source": "界面",
+      "category": "a-stock"
+    },
+    {
+      "title": "李家超：确立五大目标 依托“内联外通”深化大湾区融合",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-09-16/doc-inirzfsw3427548.shtml",
+      "date": "2026-09-16 16:11",
+      "summary": "香港行政长官李家超今日在《香港第一个五年规划》和《施政报告》记者会中表示，香港首个五年规划明确以“融入和服务国家发展大局”为主轴，坚持“内联外通”策略。",
+      "source": "港股一线",
+      "category": "a-stock"
+    },
+    {
+      "title": "平台月付将退出支付选项？行业人士：新规重在信贷与支付展示区隔",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-16/doc-inirzfsu6648504.shtml",
+      "date": "2026-09-16 16:06",
+      "summary": "来源：北京商报 9月15日，“平台月付将退出支付选项”话题登上微博热搜，日常使用的月付产品能否继续付款、收银台入口是否会调整，引发广泛关注。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "河南证监局原党委书记、局长牛雪峰接受纪律审查和监察调查",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-16/doc-inirzfsz4859468.shtml",
+      "date": "2026-09-16 16:04",
+      "summary": "来源：梧桐树下V 文/梧桐小编 9月16日15：30，中央纪委国家监委网站发布新闻《河南证监局原党委书记、局长牛雪峰接受纪律审查和监察调查》：河南证监局原党委书记...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "迈凯伦拟推首款混合动力SUV并在英新建组装厂",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirzfsu6645698.shtml",
+      "date": "2026-09-16 16:04",
+      "summary": "英国跑车制造商迈凯伦9月16日宣布，将推出首款混合动力运动型多用途车（SUV），并计划在英国新建一座组装工厂，以提振销量、结束多年亏损。",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "财富趋势上半年营收最低实控人却要巨额减持 研发费用最低降幅最大|金融AI半年报",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-09-16/doc-inirzfsz4849747.shtml",
+      "date": "2026-09-16 16:00",
+      "summary": "出品：新浪财经上市公司研究院 作者：图灵 近日，5家AI+金融上市公司披露上半年报。 今年以来，AI+金融进入智能体阶段，竞争重点由模型能力转向专业数据、工具调用...",
+      "source": "新浪证券",
+      "category": "a-stock"
+    },
+    {
+      "title": "涨起来了！今天A股，大量资金涌入",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-09-16/doc-inirzfsu6642738.shtml",
+      "date": "2026-09-16 16:00",
+      "summary": "来源：中国商报 朋友们，今天A股表现还不错吧~同花顺数据显示，今天主力资金净流入超350亿元。一起来看具体情况↓ 9月16日，A股三大指数集体上涨。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "恺英网络高溢价参股娱美德背后：主业盈利增速持续放缓，协同效应待考",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-16/doc-inirzfsy2916437.shtml",
+      "date": "2026-09-16 15:56",
+      "summary": "来源：证券之星 近日，恺英网络（002517.SZ）一则投资公告引发市场高度关注。公司拟斥资超20亿元间接参股韩国上市游戏企业娱美德（WemadeCo．，Ltd．）。",
+      "source": "市场资讯",
       "category": "a-stock"
     }
   ]
