@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-18T12:22:18.122139+08:00",
+  "updated": "2026-09-18T13:35:01.658521+08:00",
   "source": "美股聚合",
   "count": 56,
   "items": [
     {
       "title": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
       "link": "https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "The UN mission pointed out the missile strike on a primary school that killed over 150 people, as well as another airstrike which killed 22 civilians.",
       "source": "CNBC",
       "category": "us-stock"
@@ -14,7 +14,7 @@
     {
       "title": "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes",
       "link": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "Oil prices fell on Friday as additional Saudi crude supplies help ease disruption fears.",
       "source": "CNBC",
       "category": "us-stock"
@@ -22,7 +22,7 @@
     {
       "title": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
       "link": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "The decision was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the hike.",
       "source": "CNBC",
       "category": "us-stock"
@@ -30,7 +30,7 @@
     {
       "title": "Stock futures are little changed after Thursday's post-Fed bounce: Live updates",
       "link": "https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "The major averages rose in Thursday's regular trading session following Wednesday's first Federal Reserve interest rate hike in three years.",
       "source": "CNBC",
       "category": "us-stock"
@@ -38,7 +38,7 @@
     {
       "title": "As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most",
       "link": "https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "As the midterm elections approach, Republicans are touting President Donald Trump's \"big beautiful bill\" to voters. Here's who benefited from the tax cuts.",
       "source": "CNBC",
       "category": "us-stock"
@@ -46,7 +46,7 @@
     {
       "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
       "link": "https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "Anthropic said it measured AI-led research and development, oversight of AI agents and compute allocation within the company.",
       "source": "CNBC",
       "category": "us-stock"
@@ -54,31 +54,31 @@
     {
       "title": "Trump photo appears to reference Kennedy Center demolition, judge orders advance notice of any move to knock it down",
       "link": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "President Donald Trump wants his name on the Kennedy Center. But a judge has ruled it cannot be placed there without authorization by Congress.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Pokémon card curbs send shares of Japanese online marketplace Mercari on a bumpy ride",
+      "link": "https://www.cnbc.com/2026/09/18/pokmon-cards-mercari-stock.html",
+      "date": "2026-09-18 13:34",
+      "summary": "Mercari shares are clawing back losses after Pokémon card listing restrictions triggered a selloff earlier this week.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
       "link": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "Rhodium Group's latest analysis of Chinese and U.S. AI companies also found that low revenue did not necessarily correspond with lower valuation.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
-      "link": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
-      "date": "2026-09-18 12:22",
-      "summary": "Huang's comment is the latest forecast from Nvidia and points to continuing massive growth for the next six quarters.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
       "link": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "OpenAI has disclosed six new cases of model misbehavior and offered a framework for disclosing future instances, as the debate over AI model safety intensifies.",
       "source": "CNBC",
       "category": "us-stock"
@@ -86,39 +86,47 @@
     {
       "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
       "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
+      "link": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
+      "date": "2026-09-18 13:34",
+      "summary": "Huang's comment is the latest forecast from Nvidia and points to continuing massive growth for the next six quarters.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "As Fed raises rates, income investors can buy these bonds for solid yields and a portfolio cushion",
       "link": "https://www.cnbc.com/2026/09/17/as-fed-raises-rates-income-investors-can-buy-these-bonds-for-solid-yields-and-a-portfolio-cushion-.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "Where the experts are finding income opportunities now that the Fed has increased rates.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
-      "link": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
-      "date": "2026-09-18 12:22",
-      "summary": "Securitize surged Thursday after federal regulators greenlit the issuing of tokenized stocks on some trading platforms in the U.S.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "A breakout in the 10-year Treasury yield could hold back stocks if it reaches this level",
       "link": "https://www.cnbc.com/2026/09/17/a-breakout-in-the-10-year-treasury-yield-could-hold-back-stocks-if-it-reaches-this-level.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "\"For any yield above 5.25%, equity prices go down,\" one chief investment officer says.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
+      "link": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
+      "date": "2026-09-18 13:34",
+      "summary": "Securitize surged Thursday after federal regulators greenlit the issuing of tokenized stocks on some trading platforms in the U.S.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Leading AI labs may need to be nationalized because risks are so high, Palantir's Karp tells CNBC",
       "link": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "Palantir CEO Alex Karp called for \"reasonable guidelines\" on artificial intelligence regulation as tech and policy leaders deliberate over the technology.",
       "source": "CNBC",
       "category": "us-stock"
@@ -126,7 +134,7 @@
     {
       "title": "House heads home to campaign amid calls for urgent AI action",
       "link": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "The urgency with which Anthropic, OpenAI and xAI have sought to be regulated has not translated into action on Capitol Hill.",
       "source": "CNBC",
       "category": "us-stock"
@@ -134,7 +142,7 @@
     {
       "title": "Friday's big stock stories: Whats likely to move the market in the next trading session",
       "link": "https://www.cnbc.com/2026/09/17/fridays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "Stocks posted a comeback on Thursday, one day after the Federal Reserve increased rates by a quarter percentage point and suggested an additional hike is ahead.",
       "source": "CNBC",
       "category": "us-stock"
@@ -142,47 +150,47 @@
     {
       "title": "GM touts new V-8 engines in revived truck wars with Ford, Ram amid lackluster EV sales",
       "link": "https://www.cnbc.com/2026/09/17/chevy-silverado-gmc-sierra-v-8-engines.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "The large, gas-guzzling models continue to sell well in pickup trucks thanks to their ability to tow and haul heavy things.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "Trump gains a tariff weapon against China and India. Will he use it?",
-      "link": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
-      "date": "2026-09-18 12:22",
-      "summary": "U.S. House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "What an Oscar-winning movie can teach us about investing through the AI slowdown debate",
       "link": "https://www.cnbc.com/2026/09/17/what-an-oscar-winning-movie-can-teach-us-about-investing-through-the-ai-slowdown-debate.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "The problem for investors: much of what's flowing through the airwaves is noise and won't help you make money.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
-      "title": "Stephen Curry says his Li-Ning signature shoe will debut early next year",
-      "link": "https://www.cnbc.com/2026/09/17/stephen-curry-li-ning-signature-shoe.html",
-      "date": "2026-09-18 12:22",
-      "summary": "Golden State Warrior superstar Stephen Curry announced in June he was signing a long-term partnership with Chinese brand Li-Ning.",
+      "title": "Trump gains a tariff weapon against China and India. Will he use it?",
+      "link": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
+      "date": "2026-09-18 13:34",
+      "summary": "U.S. House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "Inside India newsletter: The worlds largest real-time payments system will no longer be free for all",
       "link": "https://www.cnbc.com/2026/09/17/upi-payments-visa-amazon-phonepe.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "India's digital payment system, which processes more than 1 million transactions every two minutes for free now, will start charging fees to merchants.",
+      "source": "CNBC",
+      "category": "us-stock"
+    },
+    {
+      "title": "Stephen Curry says his Li-Ning signature shoe will debut early next year",
+      "link": "https://www.cnbc.com/2026/09/17/stephen-curry-li-ning-signature-shoe.html",
+      "date": "2026-09-18 13:34",
+      "summary": "Golden State Warrior superstar Stephen Curry announced in June he was signing a long-term partnership with Chinese brand Li-Ning.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
       "link": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "Record diesel prices are already walloping the transportation sector, and if energy prices stay high, the economic impact will spread.",
       "source": "CNBC",
       "category": "us-stock"
@@ -190,7 +198,7 @@
     {
       "title": "Carney says Canada will decide its own partnerships after Trump calls EU proposal laughable",
       "link": "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "U.S. President Donald Trump had described the prospect of Canada becoming the first associate member of the EU as \"laughable.\"",
       "source": "CNBC",
       "category": "us-stock"
@@ -198,7 +206,7 @@
     {
       "title": "SEC clears path for tokenized stocks, bringing the market closer to 24/7 trading",
       "link": "https://www.cnbc.com/2026/09/17/sec-clears-path-for-tokenized-stocks-bringing-24/7-trading-closer.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "The long awaited Innovation Exemption comes two days after the Senate voted to block the Clarity Act crypto market structure bill from advancing.",
       "source": "CNBC",
       "category": "us-stock"
@@ -206,7 +214,7 @@
     {
       "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate membership proposal",
       "link": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
       "source": "CNBC",
       "category": "us-stock"
@@ -214,23 +222,15 @@
     {
       "title": "Pennsylvania asks for CDC help on measles outbreak, demands agency recognize measles deaths: Reuters",
       "link": "https://www.cnbc.com/2026/09/17/pennsylvania-cdc-help-measles-outbreak.html",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "Pennsylvania said it was requesting emergency support from the US CDC as it grapples with one of the country's largest and most deadly measles outbreaks.",
-      "source": "CNBC",
-      "category": "us-stock"
-    },
-    {
-      "title": "CoreWeave launches $3 billion convertible debt sale",
-      "link": "https://www.cnbc.com/2026/09/17/coreweave-launches-3-billion-convertible-debt-sale-.html",
-      "date": "2026-09-18 12:22",
-      "summary": "CoreWeave said on Thursday it plans to raise $3 billion through a convertible debt offering, highlighting the funding needed to support its AI infrastructure.",
       "source": "CNBC",
       "category": "us-stock"
     },
     {
       "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
       "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "“The higher that yields go — for at least new money — it becomes more enticing to think about putting money into bonds,” one strategist notes.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -238,7 +238,7 @@
     {
       "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
       "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "Investor fears about an AI spending slowdown and the impact of interest-rate hikes are subsiding.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -246,7 +246,7 @@
     {
       "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
       "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "For six months, investors had a playbook: when Trump threatens Iran, buy the dip, because he always backs down. But in September, the playbook stopped working.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -254,7 +254,7 @@
     {
       "title": "Tesla’s upcoming product frenzy could leave investors disappointed",
       "link": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "Slower-than-expected robotaxi progress is still a chief concern, according to experts.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -262,7 +262,7 @@
     {
       "title": "Pokémon has turned 30, and Target is set to cash in on the anniversary craze",
       "link": "https://www.marketwatch.com/story/pokemon-has-turned-30-and-target-is-set-to-cash-in-on-the-anniversary-craze-f5eb2af1?mod=mw_rss_topstories",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "As people clamored for Pokemon’s 30th-anniversary card set, Mizuho analysts noted long lines and sold-out items at Target stores.",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -270,7 +270,7 @@
     {
       "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
       "link": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "With its East-West pipeline shut down, the Straight of Hormuz is the best avenue available and its spigot has recently opened up. Will it last?",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -278,7 +278,7 @@
     {
       "title": "This is the only cybersecurity stock that can post big gains, according to one analyst",
       "link": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "Zscaler’s stock has missed out on the cybersecurity sector’s big rally this year — but it could soon get its moment in the spotlight",
       "source": "MarketWatch",
       "category": "us-stock"
@@ -286,9 +286,25 @@
     {
       "title": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
       "link": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
-      "date": "2026-09-18 12:22",
+      "date": "2026-09-18 13:34",
       "summary": "BofA analysts say Amazon’s reported plans to expand same-day fulfillment centers represent an effort to make basic goods “immediately accessible.”",
       "source": "MarketWatch",
+      "category": "us-stock"
+    },
+    {
+      "title": "Robinhood Ventures Fund I Invests $25M In Crusoe: CEO Says 'Infrastructure Behind AI Matters'",
+      "link": "https://stocktwits.com/news-articles/markets/equity/robinhood-ventures-fund-i-invests-25-m-in-crusoe-ceo-says-infrastructure-behind-ai-matters/cZtujQtRB3d?.tsrc=rss",
+      "date": "2026-09-18 04:38",
+      "summary": "Robinhood Ventures Fund I (RVI) has purchased about $25 million of preferred stock in Crusoe as part of the companys $3.9 billion Series F financing round.",
+      "source": "Yahoo Finance",
+      "category": "us-stock"
+    },
+    {
+      "title": "Sandisk Unveiled an $14 Billion Buyback and Warren Buffett Has Something to Say About It",
+      "link": "https://www.fool.com/investing/2026/09/18/sandisk-unveiled-an-14-billion-buyback-and-warren/?.tsrc=rss",
+      "date": "2026-09-18 04:20",
+      "summary": "Sandisk announced a $14 billion share buyback during its fiscal fourth-quarter earnings.",
+      "source": "Yahoo Finance",
       "category": "us-stock"
     },
     {
@@ -432,22 +448,6 @@
       "link": "https://www.fool.com/investing/2026/09/17/why-ge-vernova-stock-bumped-higher-today/?.tsrc=rss",
       "date": "2026-09-18 00:24",
       "summary": "It reached a legal settlement with a business partner.",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Palantir Technologies (PLTR) AI Deal Rush Meets A Fair Value Debate",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-pltr-ai-deal-001448200.html?.tsrc=rss",
-      "date": "2026-09-18 00:14",
-      "summary": "Palantir Technologies (PLTR) is back in focus after a cluster of AI focused partnerships with Method Security, NVIDIA and Nebius, raising fresh questions about how these deals might influence the stoc",
-      "source": "Yahoo Finance",
-      "category": "us-stock"
-    },
-    {
-      "title": "Why Lucid Group Stock Raced Ahead on Thursday",
-      "link": "https://www.fool.com/investing/2026/09/17/why-lucid-group-stock-raced-ahead-on-thursday/?.tsrc=rss",
-      "date": "2026-09-18 00:02",
-      "summary": "It signed a deal for the future deployment of as many as 25,000 vehicles.",
       "source": "Yahoo Finance",
       "category": "us-stock"
     }
