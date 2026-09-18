@@ -1,270 +1,398 @@
 {
-  "updated": "2026-09-18T07:52:51.145782+08:00",
+  "updated": "2026-09-18T11:00:07.638181+08:00",
   "source": "A股聚合",
-  "count": 33,
+  "count": 49,
   "items": [
     {
-      "title": "高盛首席策略师称AI正存生“盈利泡沫”，而非“估值泡沫”",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtm3455544.shtml",
-      "date": "2026-09-18 07:51",
-      "summary": "高盛首席全球股票策略师彼得・奥本海默在8月初向客户表示，科技股面临的或许并非估值问题，而是盈利问题。在周四发布的一份研报中，他拿出了佐证这一观点的证据。",
+      "title": "日本央行加息25个基点 至31年来最高水平",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisfiic3421497.shtml",
+      "date": "2026-09-18 10:57",
+      "summary": "日本央行加息25个基点，将目标利率由1.00%上调至1.25%，为31年来最高水平，符合市场预期。 日本央行以7-2通过利率政策决定。日本央行审议委员浅田统一郎...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "澳债期货走低，澳联储布洛克发表通胀相关言论",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtp0227414.shtml",
-      "date": "2026-09-18 07:50",
-      "summary": "澳联储主席米歇尔・布洛克在澳大利亚国会听证会上的表态被解读为偏鹰派。国债期货小幅下行，澳元兑美元汇率走强。布洛克称，通胀上行风险正在显现。",
+      "title": "均衡布局算力产业链，创业板算力ETF易方达（158050）即将上市",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-18/doc-inisfiii0198679.shtml",
+      "date": "2026-09-18 10:56",
+      "summary": "你有没有发现，AI 越来越“能干了”？让它写文案、做图、答疑，几乎张口就来。但这些“魔法”的背后，是成千上万台服务器在日夜不停地“烧”算力——算力...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "捕捉算力投资机遇，创业板算力ETF易方达（158050）今日上市",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-18/doc-inisfiic3420921.shtml",
+      "date": "2026-09-18 10:56",
+      "summary": "9月18日，创业板算力ETF易方达（158050）上市交易。 创业板算力ETF跟踪创业板算力基础设施指数，作为市场首批算力主题ETF，它投资于涉及计算、网络、存储...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "银行理财之外，算力这波值得配一点吗？",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-18/doc-inisfiic3420404.shtml",
+      "date": "2026-09-18 10:55",
+      "summary": "近日，首批跟踪创业板算力基础设施指数的 ETF 陆续成立上市，这是市场首批算力主题 ETF。其中，9 月 18 日正式上市交易的创业板算力ETF易方达（158050）认购户数超过...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "创业板算力ETF华夏（158041）上市首日交投活跃！算力开支没减速，但结构变了",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-18/doc-inisfiic3419454.shtml",
+      "date": "2026-09-18 10:53",
+      "summary": "创业板算力ETF华夏（158041）9月17日上市，上市首日交投活跃，换手率超70%，成交额同指数产品第一。 原本如火如荼的AI开支，近期突然爆出了“鬼故事”：Anthropic CEO...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "有色“醒”过来了！长城中证工业有色金属指数正在发行",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-18/doc-inisfiii0193456.shtml",
+      "date": "2026-09-18 10:53",
+      "summary": "金秋九月，铜价再度成为市场焦点。 9月上旬，国内沪铜主力站上每吨11万元大关，LME铜盘中突破14800美元/吨，刷新历史纪录，此后双双转入高位震荡格局。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "电力板块有望打开增长空间，华夏中证全指电力公用事业ETF联接基金正式发行",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-18/doc-inisfiic3418611.shtml",
+      "date": "2026-09-18 10:52",
+      "summary": "AI算力的尽头是电力。随着大模型产业高速扩张，算力中心用电需求快速攀升，叠加国内工业生产回暖，电力需求迎来传统产业与数字经济的双重驱动。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "这！就是微盘|量化视角：如何判断微盘股是否“拥挤”？",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-18/doc-inisfiik8581196.shtml",
+      "date": "2026-09-18 10:51",
+      "summary": "大家好，欢迎来到中信保诚基金《这！就是微盘》栏目。 在微盘股投资中，逆向投资是一种常见的策略思路，其核心往往在于捕捉波动率和关注度的左侧机会。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "都说算力“过剩”，巨头为什么还在加码？",
+      "link": "https://finance.sina.com.cn/roll/2026-09-18/doc-inisfiif3417372.shtml",
+      "date": "2026-09-18 10:50",
+      "summary": "",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "2026年证券期货业“质量月”|这些标准怎样影响你的投资？",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-18/doc-inisfiic3416710.shtml",
+      "date": "2026-09-18 10:48",
+      "summary": "全国“质量月”活动是在国家相关主管部门的倡导和部署下，每年9月在全国范围内开展的主题活动，旨在“增强质量意识，推进高质量发展”。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "2026年证券期货业“质量月”|增强质量意识 推进高质量发展",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-18/doc-inisfiic3416371.shtml",
+      "date": "2026-09-18 10:48",
+      "summary": "全国“质量月”活动是在国家相关主管部门的倡导和部署下，每年9月在全国范围内开展的主题活动，旨在“增强质量意识，推进高质量发展”。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "了解行业ETF，从这三个维度开始",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-18/doc-inisfiic3416119.shtml",
+      "date": "2026-09-18 10:47",
+      "summary": "当市场轮动持续，行业板块的切换节奏变快，投资难度也随之增加，不少投资者发现，自己看好的行业ETF买入后常常波动剧烈，体验不佳。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "美联储9月加息：25bp落地之后，市场还在担心什么？",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-18/doc-inisfiik8578978.shtml",
+      "date": "2026-09-18 10:46",
+      "summary": "北京时间今天凌晨，美联储9月FOMC会议落地。 美联储以12票赞成、0票反对，将联邦基金利率目标区间上调25bp至3.75%-4.00%。加息幅度符合会前主流预期...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "黑客利用Anthropic的Claude入侵OpenAI",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisfiic3414909.shtml",
+      "date": "2026-09-18 10:45",
+      "summary": "据报道，在一群AI代理从OpenAI系统中突破封锁并攻击Hugging Face公司两周后，这家ChatGPT开发商又发现了一起由人工智能驱动的入侵事件——而这一次，他们自己成了目标。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "日本通胀率四个月来首次回落 日本央行即将公布利率决策",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtq8746647.shtml",
-      "date": "2026-09-18 07:47",
-      "summary": "日本通胀率四个月来首次回落，主要反映政府补贴的影响。在消费者价格（CPI）数据公布数小时后，日本央行将公布利率决策。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "操盘必读：影响股市利好或利空消息_2026年9月18日_财经新闻",
-      "link": "https://finance.sina.com.cn/stock/cpbd/2026-09-18/doc-inisewti3584573.shtml",
-      "date": "2026-09-18 07:46",
-      "summary": "宏观新闻 1、中共中央政治局委员、外交部长王毅17日同美国国务卿鲁比奥通电话，双方着重就两国高层交往进行了深入讨论。王毅表示，双方要本着平等、尊重、互惠的精神...",
-      "source": "股市直击",
-      "category": "a-stock"
-    },
-    {
-      "title": "股海导航_2026年9月18日_沪深股市公告与交易提示",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-18/doc-inisewtq8747734.shtml",
-      "date": "2026-09-18 07:45",
-      "summary": "【停牌】 无 【复牌】 无  【品大事】 满坤科技：泰国工厂预计于2027年开始陆续投产 满坤科技近日接受机构调研时表示，泰国工厂预计于2027年开始陆续投产...",
-      "source": "股市直击",
-      "category": "a-stock"
-    },
-    {
-      "title": "DoubleLine的Gundlach警告称下一次美国经济衰退可能引发财政危机",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtm3450024.shtml",
-      "date": "2026-09-18 07:44",
-      "summary": "DoubleLine Capital首席执行官Jeffrey Gundlach警告称，下一次美国经济衰退可能会引发债务危机，导致长期国债收益率大幅上升 —— 这将与数十年来的传统观念相悖...",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "四大证券报头版头条内容精华摘要_2026年9月18日_财经新闻",
-      "link": "https://finance.sina.com.cn/stock/y/2026-09-18/doc-inisewtp0222572.shtml",
-      "date": "2026-09-18 07:41",
-      "summary": "9月18日（星期五），今日报刊头条主要内容精华如下： 中国证券报 450亿正极材料龙头遭宁德时代减持 9月17日，电池正极材料龙头湖南裕能发布公告称...",
-      "source": "股市直击",
-      "category": "a-stock"
-    },
-    {
-      "title": "日本8月份全国消费者价格指数增速放缓 低于预期 日本央行利率加息预期保持不变",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewti3581224.shtml",
-      "date": "2026-09-18 07:41",
-      "summary": "日本8月份全国消费者价格指数（不含生鲜食品）核心CPI同比涨幅四个月来首次回落。尽管低于市场预期，但不太可能对日本央行加息预期产生影响。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "日本8月核心CPI同比上涨1.7% 预估为上涨1.8%",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtp0219814.shtml",
-      "date": "2026-09-18 07:40",
-      "summary": "日本总务省公布的数据显示，日本8月核心消费者价格指数（CPI）同比上涨1.7%，预估中值为上涨1.8%（27位经济学家的预测介于上涨1.7%至2%）。",
-      "source": "环球市场播报",
-      "category": "a-stock"
-    },
-    {
-      "title": "债市提前押注美联储持续加息 日元套利交易加速退潮",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-18/doc-inisewti3579887.shtml",
-      "date": "2026-09-18 07:36",
-      "summary": "转自：证券时报人民财讯9月18日电，当地时间9月16日，美联储宣布加息25个基点。尽管此次加息已被市场充分预期，属于“确认式加息”...",
-      "source": "证券时报",
-      "category": "a-stock"
-    },
-    {
-      "title": "美图公司获董事长吴泽源增持100万股 每股作价3.899港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-18/doc-inisewtq8741835.shtml",
-      "date": "2026-09-18 07:34",
-      "summary": "香港联交所最新数据显示，9月15日，董事长吴泽源增持美图公司（01357）100万股，每股作价3.899港元，总金额为389.9万港元。增持后最新持股数目约为5.96亿股...",
+      "title": "英派药业-B早盘涨超20% 近期入通并获高管增持公司普通股",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfiik8576781.shtml",
+      "date": "2026-09-18 10:42",
+      "summary": "英派药业-B（07630）盘中涨超26%。截至发稿，股价上涨20.30%，现报13.57港元，成交额1.49亿港元。 9月7日起，英派药业获纳入港股通名单。",
       "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "加幂科技获杨轩铭增持1683.6万股 每股作价2港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-18/doc-inisewti3578199.shtml",
-      "date": "2026-09-18 07:33",
-      "summary": "香港联交所最新资料显示，9月11日，杨轩铭增持加幂科技（08198）1683.6万股，每股作价2港元，总金额为3367.2万港元。增持后最新持股数目约为5930.76万股，最新持股比例为7...",
+      "title": "海外映射+国产突破，费率较低的科创芯片ETF华宝（589190）标的指数再涨3%，海光信息领涨5%",
+      "link": "https://finance.sina.com.cn/money/fund/etf/2026-09-18/doc-inisfiif3402597.shtml",
+      "date": "2026-09-18 10:36",
+      "summary": "9月18日早盘，半导体芯片再度强势上涨，同类费率较低*的科创芯片ETF华宝（589190）标的指数现涨3%。权重龙头海光信息领涨5%，此外，富创精密、复旦微电、中科飞测...",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "华为昇腾960超节点引爆！海光信息+寒武纪冲锋，科创芯片设计ETF华宝（589430）标的指数领涨超3%",
+      "link": "https://finance.sina.com.cn/money/fund/etf/2026-09-18/doc-inisfiif3401310.shtml",
+      "date": "2026-09-18 10:35",
+      "summary": "9月18日盘中，芯片股爆发，科创芯片设计走强，算力芯片海光信息涨超5%，寒武纪涨超3%，国产GPU摩尔线程涨近6%，存储芯片普冉股份涨超3%。",
+      "source": "新浪基金",
+      "category": "a-stock"
+    },
+    {
+      "title": "全球债市尚未脱险？分析师集体预警下一重大威胁：食品通胀飙升！",
+      "link": "https://finance.sina.com.cn/roll/2026-09-18/doc-inisfiif3402653.shtml",
+      "date": "2026-09-18 10:33",
+      "summary": "转自：财联社 财联社9月18日讯（编辑 卞纯）今年以来，能源价格大幅上涨一直是全球债市的噩梦。如今，投资者担心下一轮通胀飙升将来自食品。",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "苹果店外黄牛蹲守：18 Pro Max加价500 18 Pro遭冷落",
+      "link": "https://finance.sina.com.cn/stock/hyyj/2026-09-18/doc-inisfiik8572154.shtml",
+      "date": "2026-09-18 10:33",
+      "summary": "9月18日上午，第一财经记者现场看到，深圳一家苹果旗舰店门口有大约20个黄牛。记者现场了解到，多数黄牛是来向已经提货的消费者收货。",
+      "source": "第一财经",
+      "category": "a-stock"
+    },
+    {
+      "title": "存储概念股早盘普遍上涨 兆易创新及澜起科技均涨逾4%",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfiic3407323.shtml",
+      "date": "2026-09-18 10:29",
+      "summary": "存储概念股早盘普遍上涨，截至发稿，南方东英SK海力士每日杠杆最多2X产品（07709）上涨6.99%，报42.26港元；兆易创新（03986）上涨3.94%...",
       "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "新秀丽获Brandes Investment Partners, L.P.增持24.57万股 每股作价约12.54港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-18/doc-inisewtp0213725.shtml",
-      "date": "2026-09-18 07:32",
-      "summary": "香港联交所最新数据显示，9月14日，Brandes Investment Partners， L.P．增持新秀丽（01910）24.57万股，每股作价12.5433港元，总金额约为308.19万港元。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "泰格医药遭Norges Bank减持17.19万股 每股作价约43.75港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-18/doc-inisewtq8740822.shtml",
-      "date": "2026-09-18 07:31",
-      "summary": "香港联交所最新资料显示，9月15日，Norges Bank减持泰格医药（03347）17.19万股，每股作价43.7462港元，总金额约为751.997万港元。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "AI热潮蔓延至金刚石散热赛道 超硬材料企业跨界抢滩",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-18/doc-inisewtm3441253.shtml",
-      "date": "2026-09-18 07:31",
-      "summary": "转自：证券时报人民财讯9月18日电，人工智能（AI）热潮正蔓延到金刚石散热赛道。近几个月来，多家传统超硬材料上市公司密集发布投资及募投变更公告...",
-      "source": "证券时报网",
-      "category": "a-stock"
-    },
-    {
-      "title": "长钱、外资加速集聚，期货公司靠什么破局突围？",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-18/doc-inisewtm3453960.shtml",
-      "date": "2026-09-18 07:30",
-      "summary": "来源：期货日报 社保基金开立期货账户、合格境外投资者获准参与国债期货交易……今年以来，期货市场机构化与国际化的步伐明显加快。",
+      "title": "华泰期货：美联储加息利空落地 贵金属价格反弹",
+      "link": "https://finance.sina.com.cn/money/nmetal/roll/2026-09-18/doc-inisfiik8569859.shtml",
+      "date": "2026-09-18 10:28",
+      "summary": "来源：华泰期货 作者： 师橙 策略摘要 地缘方面，消息称特朗普总统预计将于下周二在纽约联合国大会期间，与海湾国家领导人举行会晤，商讨对伊朗战事的后续安排。",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "深夜，大涨！特朗普：将决定是否恢复大规模作战！伊朗最新声明：限时离境！1.1亿俄公民将参与，普京表态",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-18/doc-inisewti3582507.shtml",
-      "date": "2026-09-18 07:30",
-      "summary": "来源：期货日报 大家好，来看一些热点消息。 美股集体收涨 周四美股三大指数集体收涨，纳指涨1.69%，标普500指数涨1.14%，道指涨0.61%。费城半导体指数涨3.14%。",
+      "title": "华泰期货：现货货源偏紧 铅价强势回归",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-18/doc-inisfiic3405768.shtml",
+      "date": "2026-09-18 10:26",
+      "summary": "来源：华泰期货 作者： 师橙 市场要闻与重要数据 现货方面：2026-09-17，LME铅现货升水为-42.52美元/吨。SMM1#铅锭现货价较前一交易日变化150元/吨至15900元/吨...",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "同源康医药-B获董事长兼总裁吴豫生增持12万股 每股作价3.486港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-18/doc-inisewtm3439818.shtml",
-      "date": "2026-09-18 07:30",
-      "summary": "香港联交所最新数据显示，9月16日，董事长兼总裁吴豫生增持同源康医药-B（02410）12万股，每股作价3.486港元，总金额约为41.83万港元。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "供应担忧缓解、伊朗外交取得进展，油价下跌",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtp0211838.shtml",
-      "date": "2026-09-18 07:29",
-      "summary": "原油价格连续第三日走低，市场对供应的忧虑有所缓和，交易员聚焦将影响美伊战争走向的新一轮外交磋商。 西德克萨斯中质原油（WTI）回落至每桶 101 美元附近...",
+      "title": "澳洲央行行长称必须判断利率是否足够高以抑制通胀",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisfiik8568041.shtml",
+      "date": "2026-09-18 10:25",
+      "summary": "澳大利亚央行行长布洛克周五表示，该行需要在本月晚些时候决定基准利率是否处于足以抑制物价压力并让通胀率重回目标的水平。",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "国富量子获柳志伟增持174万股 每股作价约1.63港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-18/doc-inisewtm3439290.shtml",
-      "date": "2026-09-18 07:29",
-      "summary": "香港联交所最新资料显示，9月16日，柳志伟增持国富量子（00290）174万股，每股作价1.631港元，总金额约为283.79万港元。增持后最新持股数目约为25.78亿股...",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "达利国际获Hinton Company Limited增持2000股 每股作价1.095港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-18/doc-inisewtm3438798.shtml",
-      "date": "2026-09-18 07:28",
-      "summary": "香港联交所最新数据显示，9月14日，Hinton Company Limited增持达利国际（00608）2000股，每股作价1.095港元，总金额为2190港元。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "归创通桥获AIH Capital Group Limited增持11.8万股 每股作价约20.50港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-18/doc-inisewtq8739685.shtml",
-      "date": "2026-09-18 07:27",
-      "summary": "香港联交所最新资料显示，9月14日，AIH Capital Group Limited增持归创通桥（02190）11.8万股，每股作价20.5027港元，总金额约为241.93万港元。",
-      "source": "新浪港股",
-      "category": "a-stock"
-    },
-    {
-      "title": "中信建投：联合解读美联储9月加息",
-      "link": "https://finance.sina.com.cn/roll/2026-09-18/doc-inisewti3577701.shtml",
-      "date": "2026-09-18 07:27",
-      "summary": "来源：中信建投证券研究 北京时间9月17日凌晨，美联储议息会议以12：0全票通过加息25bp，联邦基金利率目标区间上调至3.75%-4.00%，终结此前连续五次会议的按兵不动...",
+      "title": "华泰期货：下游开始启动节前备货 铜价维持偏强格局",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-18/doc-inisfiik8567892.shtml",
+      "date": "2026-09-18 10:25",
+      "summary": "来源：华泰期货 作者： 师橙 市场要闻与重要数据 期货行情： 2026-09-17，沪铜主力合约开于 108020元/吨，收于 108500元/吨，较前一交易日收盘0.71%...",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "建滔集团获Hallgain Management Limited增持20万股 每股作价约53.98港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-18/doc-inisewtp0210240.shtml",
-      "date": "2026-09-18 07:26",
-      "summary": "香港联交所最新数据显示，9月16日，Hallgain Management Limited增持建滔集团（00148）20万股，每股作价53.9750港元，总金额为1079.5万港元。",
+      "title": "俊知集团盘中涨超13% 收购青海中利光纤技术有望打开AI算力相关光纤产品增量空间",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfiif3386391.shtml",
+      "date": "2026-09-18 10:23",
+      "summary": "俊知集团（01300）盘中涨超13%，截至发稿，股价上涨10.42%，现报3.13港元，成交额2312.72万港元。 近日，俊知集团发布公告，买方（公司间接全资附属公司江苏俊知技术有限公...",
       "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "农产品产地市场建设加快 产业链迎新机遇",
-      "link": "https://finance.sina.com.cn/roll/2026-09-18/doc-inisewtq8740528.shtml",
-      "date": "2026-09-18 07:26",
-      "summary": "转自：经济参考报作为农产品产地市场建设的重要一环，一批农产品产地冷链仓储项目正在全国多地加快建设，助力打通农产品流通“最先一公里”。",
+      "title": "机构全面解读美联储政策倾向，称年内还有一次加息",
+      "link": "https://finance.sina.com.cn/money/forex/hbfx/2026-09-18/doc-inisfiif3387958.shtml",
+      "date": "2026-09-18 10:23",
+      "summary": "来源：汇通网汇通财经APP讯——法国外贸银行（Natixis）研究观点显示，美联储政策倾向或许比近期官员公开讲话传递的信号更为偏鹰，此次落地的加息举措...",
       "source": "市场资讯",
       "category": "a-stock"
     },
     {
-      "title": "晶科电子股份获董事长肖国伟增持13.9万股 每股作价约1.60港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-18/doc-inisewtm3437066.shtml",
-      "date": "2026-09-18 07:25",
-      "summary": "香港联交所最新数据显示，9月15日，董事长肖国伟增持晶科电子股份（02551）13.9万股，每股作价1.5972港元，总金额约为22.20万港元。",
+      "title": "华泰期货：锌旺季来临 社库持续下滑",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-18/doc-inisfiii0157502.shtml",
+      "date": "2026-09-18 10:22",
+      "summary": "来源：华泰期货 作者： 封帆 重要数据 现货方面：LME锌现货升水为88.37美元/吨。SMM上海锌现货价较前一交易日变化-70元/吨至26045元/吨...",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "华泰期货：库存持续去化，碳酸锂价格阶段性反弹",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-18/doc-inisfiic3402264.shtml",
+      "date": "2026-09-18 10:20",
+      "summary": "来源：华泰期货 作者： 师橙 市场分析 2026-09-17，碳酸锂主力合约2701开于126200元/吨，收于131180元/吨，当日收盘价较昨日结算价变化3.80%。",
+      "source": "市场资讯",
+      "category": "a-stock"
+    },
+    {
+      "title": "晶泰控股早盘涨超8% 子公司LCC Technologies与斯坦福大学达成药物发现合作",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfazm0283932.shtml",
+      "date": "2026-09-18 10:18",
+      "summary": "晶泰控股（02228）早盘涨超8%。截至发稿，股价上涨8.34%，现报7.47港元，成交额3.66亿港元。 晶泰科技宣布，全资子公司LCC Technologies与斯坦福大学达成药物发现合作协议...",
       "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "建滔积层板获Hallgain Management Limited增持30万股 每股作价47.70港元",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-18/doc-inisewtm3436554.shtml",
-      "date": "2026-09-18 07:24",
-      "summary": "香港联交所最新数据显示，9月16日，Hallgain Management Limited增持建滔积层板（01888）30万股，每股作价47.70港元，总金额为1431万港元。",
+      "title": "Waymo计划2028年在新加坡推出无人驾驶出租车服务",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisfazm0283879.shtml",
+      "date": "2026-09-18 10:18",
+      "summary": "Waymo计划通过2028年在新加坡推出其自动驾驶网约车服务，首次进军东南亚市场。 这家Alphabet旗下的独立子公司表示，其首批全电动自动驾驶汽车将在未来几个月内抵达新加坡...",
+      "source": "环球市场播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "云顶新耀盘中涨超5% 维适平®由境外转移至境内生产的药品上市注册申请获受理",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfazi3505943.shtml",
+      "date": "2026-09-18 10:14",
+      "summary": "云顶新耀（01952）盘中涨超5%，截至发稿，股价上涨3.65%，现报27.30港元，成交额9629.17万港元。 9月17日，据云顶新耀官微消息，公司宣布中国国家药品监督管理局（NMPA）药...",
       "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "墨西哥总统辛鲍姆与特朗普通话，双方持续磋商贸易事宜",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtm3436520.shtml",
-      "date": "2026-09-18 07:24",
-      "summary": "多名知情人士透露，墨西哥总统克劳迪娅・辛鲍姆与美国总统特朗普通电话，讨论双边贸易问题。 此次通话于周三进行。美墨两国官员正开展贸易谈判，希望解决美国关税...",
-      "source": "环球市场播报",
+      "title": "AI制药概念股早盘集体走高 剂泰科技-P涨逾13%英矽智能涨逾11%",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfazi3502899.shtml",
+      "date": "2026-09-18 10:11",
+      "summary": "AI制药概念股早盘集体走高，截至发稿，剂泰科技-P（07666）上涨13.20%，报17.58港元；英矽智能（03696）上涨10.98%，报59.65港元；晶泰控股（02228）上涨8.34%，报7...",
+      "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "OpenAI挖来SpaceX高管担任全球销售副总裁，以加快企业业务增长",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtq8738121.shtml",
-      "date": "2026-09-18 07:22",
-      "summary": "据报道，OpenAI已聘请马斯克旗下太空探索技术公司（SpaceX）的布莱恩・麦卡锡（Brian McCarthy）担任全球销售副总裁。 麦卡锡于今年 8...",
-      "source": "环球市场播报",
+      "title": "资产负债率一度超94%！超力电器IPO前分红总额逾5000万元，客户关联资本突击入股",
+      "link": "https://finance.sina.com.cn/roll/2026-09-18/doc-inisfazn8689122.shtml",
+      "date": "2026-09-18 10:07",
+      "summary": "每经记者｜赵李南每经编辑｜魏文艺作为行业领先的汽车热管理零部件及系统模块供应商，江苏超力电器股份有限公司（以下简称“超力电器”）正在冲刺创业板上市。",
+      "source": "每日经济新闻",
       "category": "a-stock"
     },
     {
-      "title": "财经早报丨特朗普称将决定是否恢复对伊朗大规模作战，伊朗将组建1000个“抵抗营”丨2026年9月18日",
-      "link": "https://finance.sina.com.cn/stock/y/2026-09-18/doc-inisewtm3441837.shtml",
-      "date": "2026-09-18 07:20",
-      "summary": "【重磅】A股迎来打新热，新股一签平均浮盈8万！立即开户，准备申购&gt;&gt; 【市场动态】  王毅同美国国务卿鲁比奥通电话，双方着重就两国高层交往进行了深入讨论...",
+      "title": "壁仞科技早盘涨超6% 机构指其将获得HBM供应商产能支援",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfazf3524923.shtml",
+      "date": "2026-09-18 10:07",
+      "summary": "壁仞科技（06082）早盘涨超6%，截至发稿，股价上涨6.20%，现报35.96港元，成交额2.14亿港元。 近日，有市场媒体报道称，壁仞科技正计划筹集约10亿美元资金。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "香山股份业绩大幅“变脸”商誉减值风险高悬 再拟溢价8倍跨界AI算力 标的估值不到1年暴涨566%",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-09-18/doc-inisfazm0266707.shtml",
+      "date": "2026-09-18 10:05",
+      "summary": "出品：新浪财经上市公司研究院 作者：渚 9月15日，香山股份复牌即遭跌停。这家主营汽车零部件的上市公司，在停牌两周后披露了一份作价8亿元的跨界收购预案——拟收购AI算力标...",
       "source": "新浪证券",
       "category": "a-stock"
     },
     {
-      "title": "交易总量趋于稳定，房地产市场释放哪些新信号？",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-18/doc-inisewtq8737535.shtml",
-      "date": "2026-09-18 07:18",
-      "summary": "近日，国家统计局发布1—8月全国房地产市场数据和8月70个大中城市商品住宅销售价格变动情况。1—8月，全国二手房交易网签面积54923万平方米，同比增长10.6%；8月...",
-      "source": "澎湃新闻",
+      "title": "MINIMAX-W早盘涨近8% 旗下多款产品通过Singtel AI Pass纳入配套订阅计划",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfazm0265491.shtml",
+      "date": "2026-09-18 10:04",
+      "summary": "MINIMAX-W（00100）早盘涨近8%，截至发稿，股价上涨7.77%，现报274.60港元，成交额10.29亿港元。 9月16日，新加坡技能与劳动力发展局（SWDA）推出200多门AI课程...",
+      "source": "新浪港股",
       "category": "a-stock"
     },
     {
-      "title": "韩国燃油税减免政策延长至11月",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtq8735573.shtml",
-      "date": "2026-09-18 07:15",
-      "summary": "韩联社援引韩国财政部消息称，受中东局势持续动荡影响，韩国将临时燃油税减免政策再延长两个月，有效期至11月底。 汽油燃油税维持15%的减免幅度...",
+      "title": "国民技术盘中涨超12% N32H493高速光模块专用MCU全链路方案亮相光博会",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfazf3521005.shtml",
+      "date": "2026-09-18 10:02",
+      "summary": "国民技术（02701）盘中涨超12%。截至发稿，股价上涨10.37%，现报8.78港元，成交额5121.35万港元。 近日，在2026中国光博会（CIOE）上，围绕平台适配、客户验证...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "力勤资源早盘涨近7% A股IPO申购今日正式启动",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfazi3483755.shtml",
+      "date": "2026-09-18 09:58",
+      "summary": "力勤资源（02245）早盘涨近7%，截至发稿，股价上涨6.55%，现报17.58港元，成交额881.307万港元。 9月18日，力勤资源正式开启申购，发行价格为21.23元/股...",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "美政府债务重组非危言耸听？冈拉克：下次经济衰退将引爆美债危机",
+      "link": "https://finance.sina.com.cn/roll/2026-09-18/doc-inisfazm0251746.shtml",
+      "date": "2026-09-18 09:53",
+      "summary": "转自：财联社 财联社9月17日讯（编辑 潇湘）在业内素有“新债王”之称的双线资本（DoubleLine Capital）首席执行官冈拉克周四警告称...",
+      "source": "滚动播报",
+      "category": "a-stock"
+    },
+    {
+      "title": "金斯瑞生物科技早盘高开逾5% 公司与礼来TuneLab达成合作",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfazn8668296.shtml",
+      "date": "2026-09-18 09:33",
+      "summary": "金斯瑞生物科技（01548）早盘高开逾5%，昨日股价大涨超14%。截至发稿，截至发稿，涨5.05%，报39.10港元，成交额2.45亿港元。",
+      "source": "新浪港股",
+      "category": "a-stock"
+    },
+    {
+      "title": "水晶剑南春小跌1元 昨日小涨后再度回落",
+      "link": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-18/doc-inisfazi3436578.shtml",
+      "date": "2026-09-18 09:29",
+      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，9月18日中国白酒业12大单品的终端零售均价五涨五跌两平，涨跌品种数量平分秋色，但下跌端累计跌幅更大。",
+      "source": "酒业内参",
+      "category": "a-stock"
+    },
+    {
+      "title": "青花郎下跌5元 连续三日走弱跌破680关口",
+      "link": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-18/doc-inisfazm0208611.shtml",
+      "date": "2026-09-18 09:29",
+      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，9月18日中国白酒业12大单品的终端零售均价五涨五跌两平，涨跌品种数量平分秋色，但下跌端累计跌幅更大。",
+      "source": "酒业内参",
+      "category": "a-stock"
+    },
+    {
+      "title": "习酒君品上涨1元 连续两日小幅抬升",
+      "link": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-18/doc-inisfazm0208143.shtml",
+      "date": "2026-09-18 09:28",
+      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，9月18日中国白酒业12大单品的终端零售均价五涨五跌两平，涨跌品种数量平分秋色，但下跌端累计跌幅更大。",
+      "source": "酒业内参",
+      "category": "a-stock"
+    },
+    {
+      "title": "古井贡古20跌6元 二连阴重返近30天低位区间",
+      "link": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-18/doc-inisfazn8665781.shtml",
+      "date": "2026-09-18 09:28",
+      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，9月18日中国白酒业12大单品的终端零售均价五涨五跌两平，涨跌品种数量平分秋色，但下跌端累计跌幅更大。",
+      "source": "酒业内参",
+      "category": "a-stock"
+    },
+    {
+      "title": "洋河梦之蓝M6+上涨2元 短线高频震荡",
+      "link": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-18/doc-inisfazi3435024.shtml",
+      "date": "2026-09-18 09:28",
+      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，9月18日中国白酒业12大单品的终端零售均价五涨五跌两平，涨跌品种数量平分秋色，但下跌端累计跌幅更大。",
+      "source": "酒业内参",
+      "category": "a-stock"
+    },
+    {
+      "title": "瑞银预计澳洲联储再有两次25个基点加息 利率最终升至4.85%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisfazm0207224.shtml",
+      "date": "2026-09-18 09:27",
+      "summary": "瑞银在一份研究报告中预计，澳洲联储将再两次上调现金利率，每次上调25个基点，最终达到4.85%的峰值。 人工智能投资热潮加剧通胀压力...",
       "source": "环球市场播报",
       "category": "a-stock"
     },
     {
-      "title": "特斯拉机器人量产加速，启动新一轮中国供应链审厂",
-      "link": "https://finance.sina.com.cn/stock/hyyj/2026-09-18/doc-inisewtm3430712.shtml",
-      "date": "2026-09-18 07:15",
-      "summary": "21世纪经济报道记者 赵云帆 记者从产业链人士获悉，特斯拉相关团队已于9月16日落地宁波，并于9月17日开启新一轮针对旗下机器人业务的量产审厂。",
-      "source": "21世纪经济报道",
+      "title": "国窖1573上涨1元 二连阳延续低位回升态势",
+      "link": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-18/doc-inisfazi3434579.shtml",
+      "date": "2026-09-18 09:27",
+      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，9月18日中国白酒业12大单品的终端零售均价五涨五跌两平，涨跌品种数量平分秋色，但下跌端累计跌幅更大。",
+      "source": "酒业内参",
+      "category": "a-stock"
+    },
+    {
+      "title": "青花汾20下跌4元 三连阴持续回探",
+      "link": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-18/doc-inisfazf3501012.shtml",
+      "date": "2026-09-18 09:25",
+      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，9月18日中国白酒业12大单品的终端零售均价五涨五跌两平，涨跌品种数量平分秋色，但下跌端累计跌幅更大。",
+      "source": "酒业内参",
+      "category": "a-stock"
+    },
+    {
+      "title": "五粮液1618维持829元 价盘振幅收窄表现平稳",
+      "link": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-18/doc-inisfazn8663936.shtml",
+      "date": "2026-09-18 09:25",
+      "summary": "新浪财经“酒价内参”过去24小时收集的数据显示，9月18日中国白酒业12大单品的终端零售均价五涨五跌两平，涨跌品种数量平分秋色，但下跌端累计跌幅更大。",
+      "source": "酒业内参",
       "category": "a-stock"
     }
   ]
